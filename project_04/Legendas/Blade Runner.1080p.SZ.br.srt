@@ -1,0 +1,3287 @@
+1
+00:02:05,820 --> 00:02:07,575
+No início do século XXI,
+
+2
+00:02:07,576 --> 00:02:10,878
+a Tyrell Corporation avançou na evolução
+de um andróide para a fase Nexus
+
+3
+00:02:10,879 --> 00:02:14,969
+- um ser idêntico aos humanos -
+conhecido como Replicante.
+
+4
+00:02:15,435 --> 00:02:19,824
+Os Replicantes Nexus 6 eram mais fortes
+e ágeis e, pelo menos, tão inteligentes
+
+5
+00:02:19,825 --> 00:02:23,079
+quanto os engenheiros
+genéticos que os criaram.
+
+6
+00:02:23,420 --> 00:02:26,555
+Os Replicantes eram utilizados
+como escravos fora da Terra,
+
+7
+00:02:26,556 --> 00:02:29,899
+na arriscada exploração e
+colonização de outros planetas.
+
+8
+00:02:29,900 --> 00:02:34,039
+Após uma revolta de uma equipe de
+combate Nexus 6, em uma dessas colônias,
+
+9
+00:02:34,040 --> 00:02:37,926
+os Replicantes foram declarados ilegais
+na Terra - sob pena de morte.
+
+10
+00:02:37,927 --> 00:02:40,310
+Brigadas especiais de Polícia -
+as Unidades Blade Runner -
+
+11
+00:02:40,311 --> 00:02:44,783
+tinham ordens para atirar para matar
+quando detectassem qualquer Replicante.
+
+12
+00:02:44,784 --> 00:02:48,833
+Isso não era chamado de execução.
+Chamava-se afastamento.
+
+13
+00:02:59,834 --> 00:03:03,423
+LOS ANGELES
+NOVEMBRO, 2019
+
+14
+00:04:33,524 --> 00:04:35,799
+Próximo: Kowalski, Leon.
+
+15
+00:04:35,800 --> 00:04:37,932
+Engenheiro, tratamento de lixos.
+
+16
+00:04:37,933 --> 00:04:41,772
+Setor 5, novo funcionário, 6 dias.
+
+17
+00:04:43,786 --> 00:04:45,326
+Entre.
+
+18
+00:04:58,042 --> 00:04:59,624
+Sente-se.
+
+19
+00:05:04,396 --> 00:05:06,068
+Você se importa que eu fale?
+
+20
+00:05:06,069 --> 00:05:08,075
+Fico um pouco nervoso
+quando faço testes.
+
+21
+00:05:08,076 --> 00:05:10,368
+Não se mova, por favor.
+
+22
+00:05:11,086 --> 00:05:12,876
+Desculpe.
+
+23
+00:05:16,395 --> 00:05:19,362
+Já fiz um teste de QI este ano.
+Não acho que era parecido com esse.
+
+24
+00:05:19,363 --> 00:05:22,080
+O tempo de reação é um fator
+importante. Por favor, preste atenção.
+
+25
+00:05:22,081 --> 00:05:24,750
+Agora, responda o mais rápido possível.
+
+26
+00:05:25,007 --> 00:05:26,464
+Certo.
+
+27
+00:05:27,306 --> 00:05:29,313
+Hunterwasser, 1187.
+
+28
+00:05:29,314 --> 00:05:30,400
+É o hotel.
+
+29
+00:05:30,401 --> 00:05:31,319
+Como?
+
+30
+00:05:31,320 --> 00:05:32,824
+Onde moro.
+
+31
+00:05:32,825 --> 00:05:33,702
+É agradável?
+
+32
+00:05:33,703 --> 00:05:36,540
+Acho que sim. Isso faz parte do teste?
+
+33
+00:05:36,672 --> 00:05:39,550
+Não. É só um aquecimento.
+
+34
+00:05:40,016 --> 00:05:42,267
+Não é que seja sofisticado.
+
+35
+00:05:43,612 --> 00:05:46,453
+Você caminha no deserto, sobre a areia,
+quando, de rep...
+
+36
+00:05:46,454 --> 00:05:47,498
+Já faz parte do teste?
+
+37
+00:05:47,499 --> 00:05:50,049
+Sim. Caminha no deserto, sobre a areia,
+
+38
+00:05:50,050 --> 00:05:51,387
+quando, de repente, olha para baixo...
+
+39
+00:05:51,388 --> 00:05:52,803
+Qual?
+
+40
+00:05:52,851 --> 00:05:54,104
+Qual deserto?
+
+41
+00:05:54,105 --> 00:05:57,198
+Tem alguma importância?
+É apenas uma hipótese.
+
+42
+00:05:57,199 --> 00:05:59,330
+- Mas como vou parar lá?
+- Talvez esteja de saco cheio..
+
+43
+00:05:59,331 --> 00:06:01,916
+...talvez queira
+ficar só. Quem sabe?
+
+44
+00:06:02,675 --> 00:06:04,640
+Você olha para baixo
+e vê um cágado, Leon.
+
+45
+00:06:04,641 --> 00:06:08,146
+- Rasteja na sua direção...
+- Um cágado? O que é isso?
+
+46
+00:06:10,911 --> 00:06:13,461
+- Sabe o que é uma tartaruga?
+- Claro.
+
+47
+00:06:13,462 --> 00:06:15,127
+É a mesma coisa.
+
+48
+00:06:15,134 --> 00:06:17,385
+Nunca vi uma tartaruga.
+
+49
+00:06:19,524 --> 00:06:21,195
+Mas sei o que quer dizer.
+
+50
+00:06:21,196 --> 00:06:24,157
+Você se abaixa e vira o
+cágado de costas, Leon.
+
+51
+00:06:24,198 --> 00:06:26,588
+É você que faz o questionário,
+Sr. Holden?
+
+52
+00:06:26,589 --> 00:06:28,840
+Ou alguém escreve pra você?
+
+53
+00:06:29,098 --> 00:06:31,855
+O cágado está deitado de costas,
+de barriga para o cima, sob o sol,
+
+54
+00:06:31,856 --> 00:06:35,284
+esperneando-se, tentando virar-se.
+Mas não consegue.
+
+55
+00:06:35,285 --> 00:06:38,168
+Só com a sua ajuda.
+Mas você não está ajudando.
+
+56
+00:06:38,169 --> 00:06:39,673
+Que quer dizer com isso?
+
+57
+00:06:39,674 --> 00:06:41,722
+Quero dizer que você
+não está ajudando.
+
+58
+00:06:41,723 --> 00:06:43,640
+Qual é o problema?
+
+59
+00:06:51,381 --> 00:06:53,715
+São apenas perguntas, Leon?
+
+60
+00:06:54,265 --> 00:06:57,149
+Respondendo à sua pergunta,
+é previamente escrito para mim.
+
+61
+00:06:57,150 --> 00:07:01,282
+É um teste concebido para
+provocar uma reação emocional.
+
+62
+00:07:04,048 --> 00:07:05,965
+Podemos continuar?
+
+63
+00:07:07,309 --> 00:07:11,692
+Em poucas palavras, descreva
+apenas o que lhe ocorre de bom...
+
+64
+00:07:12,033 --> 00:07:13,913
+sobre a sua mãe.
+
+65
+00:07:13,914 --> 00:07:15,872
+- A minha mãe?
+- Sim.
+
+66
+00:07:17,509 --> 00:07:19,845
+Deixe-me falar
+sobre minha mãe.
+
+67
+00:07:36,030 --> 00:07:40,127
+Uma vida nova espera-o
+nas colonias extraterrestres.
+
+68
+00:07:40,128 --> 00:07:42,175
+A possibilidade de recomeçar...
+
+69
+00:07:42,176 --> 00:07:45,597
+num paraíso de oportunidades
+e aventuras.
+
+70
+00:08:11,692 --> 00:08:15,998
+Uma vida nova espera-o
+nas colonias extraterrestres.
+
+71
+00:08:15,999 --> 00:08:19,049
+A possibilidade de recomeçar
+num paraíso...
+
+72
+00:08:19,050 --> 00:08:22,180
+de oportunidades e aventuras.
+
+73
+00:08:23,148 --> 00:08:26,276
+Vamos para as colonias.
+
+74
+00:08:26,492 --> 00:08:31,293
+Este anúncio foi proporcionado
+pela Shimago-Dominguez Corp.
+
+75
+00:08:31,509 --> 00:08:34,888
+Levando a América
+para um novo mundo.
+
+76
+00:08:37,948 --> 00:08:39,697
+Me dê quatro.
+
+77
+00:08:41,251 --> 00:08:43,920
+Não, quatro. Dois
+mais dois, quatro.
+
+78
+00:08:47,146 --> 00:08:49,062
+Com macarrão!
+
+79
+00:09:11,896 --> 00:09:14,857
+Ele diz que você está
+preso, Sr. Deckard!
+
+80
+00:09:15,198 --> 00:09:17,616
+Pegou o cara errado, parceiro.
+
+81
+00:09:22,305 --> 00:09:24,089
+Ele diz você "Blade Runner".
+
+82
+00:09:24,124 --> 00:09:25,873
+Diga a ele que estou comendo!
+
+83
+00:09:25,908 --> 00:09:27,734
+Capitão Bryant...
+
+84
+00:09:30,416 --> 00:09:32,374
+Bryant?
+
+85
+00:09:52,991 --> 00:09:55,452
+CERCAR CTR ELIMINAR
+24556 DR 5
+
+86
+00:10:57,291 --> 00:11:02,008
+Sobre a área de deslize. Assinale
+o curso na pista de aterrissagem.
+
+87
+00:11:21,329 --> 00:11:23,414
+- Olá, Deck.
+- Bryant.
+
+88
+00:11:23,880 --> 00:11:27,636
+Você não viria se eu apenas
+tivesse chamado. Sente-se, parceiro.
+
+89
+00:11:28,436 --> 00:11:30,401
+Vamos lá, não seja
+idiota, Deckard.
+
+90
+00:11:30,402 --> 00:11:33,196
+Tenho quatro bonecos
+à solta nas ruas.
+
+91
+00:11:49,549 --> 00:11:53,060
+Assaltaram uma nave espacial.
+Mataram a tripulação e os passageiros.
+
+92
+00:11:53,061 --> 00:11:55,861
+Há duas semanas encontramos a nave
+abandonada junto à costa.
+
+93
+00:11:55,862 --> 00:11:58,280
+Sabemos que estão por perto.
+
+94
+00:11:59,081 --> 00:12:00,293
+É embaraçoso.
+
+95
+00:12:00,294 --> 00:12:04,306
+Não, não é, porque ninguém
+vai saber que estão aqui.
+
+96
+00:12:04,307 --> 00:12:06,647
+Porque você vai
+encontrá-los e evaporá-los.
+
+97
+00:12:06,648 --> 00:12:08,732
+Eu não trabalho mais aqui.
+
+98
+00:12:09,491 --> 00:12:10,995
+Passa essa pro Holden.
+
+99
+00:12:10,996 --> 00:12:13,294
+- Ele é bom.
+- Já fiz isso.
+
+100
+00:12:13,295 --> 00:12:16,843
+Ele está respirando bem,
+desde que não desliguem a máquina.
+
+101
+00:12:16,849 --> 00:12:19,769
+Ele não é tão bom.
+Não como você.
+
+102
+00:12:19,984 --> 00:12:24,493
+Preciso de você, Deck.
+É o pior caso que já apareceu.
+
+103
+00:12:24,834 --> 00:12:28,130
+Preciso do velho Blade Runner.
+Preciso da sua mágica.
+
+104
+00:12:30,102 --> 00:12:33,231
+Eu não queria fazer antes
+mesmo de entrar aqui, Bryant.
+
+105
+00:12:33,864 --> 00:12:35,870
+E continuo sem querer.
+
+106
+00:12:35,871 --> 00:12:39,084
+Espere! Você sabe como
+as coisas funcionam!
+
+107
+00:12:39,425 --> 00:12:42,093
+Você não é policial,
+é um Zé ninguém.
+
+108
+00:12:53,806 --> 00:12:55,723
+Não tenho escolha?
+
+109
+00:12:56,649 --> 00:12:58,523
+Não.
+
+110
+00:12:58,698 --> 00:13:02,119
+Já fiz um teste de QI este ano.
+Não acho...
+
+111
+00:13:02,836 --> 00:13:04,340
+que era parecido com este.
+
+112
+00:13:04,341 --> 00:13:06,975
+O tempo de reação é um fator
+importante. Por favor, preste atenção.
+
+113
+00:13:06,976 --> 00:13:09,399
+Responda o mais rápido possível.
+
+114
+00:13:09,400 --> 00:13:12,278
+Hunterwasser, 1187.
+
+115
+00:13:13,205 --> 00:13:15,414
+- É o hotel.
+- Como?
+
+116
+00:13:15,630 --> 00:13:16,757
+Onde moro.
+
+117
+00:13:16,758 --> 00:13:17,760
+É agradável?
+
+118
+00:13:17,761 --> 00:13:19,307
+Acho que sim.
+
+119
+00:13:19,308 --> 00:13:22,025
+Há duas semanas, houve uma fuga
+de uma colonia extraterrestre.
+
+120
+00:13:22,026 --> 00:13:24,742
+Seis replicantes:
+três homens e três mulheres.
+
+121
+00:13:24,743 --> 00:13:27,627
+Assassinaram 23 pessoas
+e roubaram uma nave.
+
+122
+00:13:27,628 --> 00:13:29,801
+Uma patrulha aérea localizou-a
+junto à costa.
+
+123
+00:13:29,802 --> 00:13:32,053
+Da tripulação, nem sinal.
+
+124
+00:13:32,352 --> 00:13:35,404
+Há três noites tentaram
+invadir a Tyrell Corporation.
+
+125
+00:13:35,405 --> 00:13:37,786
+Um deles foi eletrocutado atravessando
+um campo elétrico.
+
+126
+00:13:37,787 --> 00:13:39,829
+Perdemos os outros.
+
+127
+00:13:40,380 --> 00:13:44,017
+Na possibilidade de tentarem
+infiltrar-se como empregados,
+
+128
+00:13:44,018 --> 00:13:48,364
+coloquei o Holden para aplicar testes
+Voight-Kampff nos novos funcionários.
+
+129
+00:13:48,365 --> 00:13:50,581
+Parece que ele
+encontrou com um deles.
+
+130
+00:13:50,582 --> 00:13:54,009
+Você olha para baixo e vê um cágado;
+rasteja na sua direção.
+
+131
+00:13:54,010 --> 00:13:56,344
+Um cágado? O que é isso?
+
+132
+00:13:56,601 --> 00:13:58,775
+- Sabe o que é uma tartaruga?
+- Claro.
+
+133
+00:13:58,776 --> 00:14:00,489
+É a mesma coisa.
+
+134
+00:14:00,490 --> 00:14:02,949
+Nunca vi uma tartaruga.
+
+135
+00:14:03,918 --> 00:14:07,925
+Não entendo. Por que correriam risco
+voltando pra Terra?
+
+136
+00:14:08,433 --> 00:14:11,102
+Que querem da Tyrell Corporation?
+
+137
+00:14:11,150 --> 00:14:12,237
+Você é que me dirá.
+
+138
+00:14:12,238 --> 00:14:14,489
+É para isso que você está aqui.
+
+139
+00:14:25,365 --> 00:14:27,998
+- O que é isso?
+- Nexus 6.
+
+140
+00:14:27,999 --> 00:14:29,210
+Roy Batty.
+
+141
+00:14:29,211 --> 00:14:31,509
+Data de fabricação, 2016.
+
+142
+00:14:31,510 --> 00:14:34,682
+Modelo de combate.
+Auto-suficiência perfeita.
+
+143
+00:14:35,357 --> 00:14:37,524
+Provavelmente, o chefe.
+
+144
+00:14:40,876 --> 00:14:42,547
+Esta é Zhora.
+
+145
+00:14:42,548 --> 00:14:45,807
+Treinada para uma brigada assassina
+extraterrestre.
+
+146
+00:14:45,808 --> 00:14:48,023
+Já ouviu falar
+da Bela e a Fera?
+
+147
+00:14:48,024 --> 00:14:49,857
+Ela é ambos.
+
+148
+00:14:53,919 --> 00:14:57,764
+O quarto boneco é a Pris.
+Um modelo básico de prazer.
+
+149
+00:14:57,765 --> 00:15:01,437
+Um artigo de série
+para clubes militares nas colonias.
+
+150
+00:15:02,908 --> 00:15:06,920
+Foram concebidos como cópias
+dos seres humanos, exceto nas emoções.
+
+151
+00:15:06,921 --> 00:15:09,971
+Mas os criadores descobriram,
+que após alguns anos,
+
+152
+00:15:09,972 --> 00:15:13,024
+podiam desenvolver
+reações emocionais próprias.
+
+153
+00:15:13,025 --> 00:15:15,610
+Ódio, amor, medo, fúria, inveja.
+
+154
+00:15:15,700 --> 00:15:17,665
+Então construíram um dispositivo
+de segurança.
+
+155
+00:15:17,666 --> 00:15:19,164
+Qual é?
+
+156
+00:15:19,212 --> 00:15:21,797
+Um prazo de quatro anos de vida.
+
+157
+00:15:27,323 --> 00:15:30,995
+Atualmente existe um Nexus 6
+na Tyrell Corporation.
+
+158
+00:15:31,294 --> 00:15:33,050
+Quero que vá lá fazer o teste.
+
+159
+00:15:33,051 --> 00:15:35,636
+E se a máquina não funcionar?
+
+160
+00:17:07,160 --> 00:17:09,285
+Gosta da nossa coruja?
+
+161
+00:17:11,549 --> 00:17:13,340
+É artificial?
+
+162
+00:17:14,182 --> 00:17:16,058
+Obviamente.
+
+163
+00:17:17,904 --> 00:17:19,653
+Deve ser cara.
+
+164
+00:17:21,164 --> 00:17:23,834
+Muito. Sou a Rachael.
+
+165
+00:17:24,844 --> 00:17:26,384
+Deckard.
+
+166
+00:17:28,229 --> 00:17:31,819
+Parece que você não acha que o nosso
+trabalho trás benefícios para o público?
+
+167
+00:17:33,038 --> 00:17:35,088
+Os Replicantes são como
+qualquer outra máquina.
+
+168
+00:17:35,123 --> 00:17:37,218
+Podem ser um
+benefício ou um risco.
+
+169
+00:17:37,219 --> 00:17:40,306
+Se são um benefício,
+não são um problema meu.
+
+170
+00:17:40,438 --> 00:17:43,274
+Posso fazer uma
+pergunta pessoal?
+
+171
+00:17:44,745 --> 00:17:46,201
+Claro.
+
+172
+00:17:50,471 --> 00:17:53,517
+Alguma vez afastou
+um humano por engano?
+
+173
+00:17:55,238 --> 00:17:58,373
+- Não.
+- Mas na sua posição, isso é um risco.
+
+174
+00:17:58,374 --> 00:18:00,750
+Isto é um teste de empatia?
+
+175
+00:18:01,843 --> 00:18:05,515
+A dilatação capilar da chamada
+reação de corar?
+
+176
+00:18:05,606 --> 00:18:08,819
+Hesitação da pupila.
+
+177
+00:18:09,703 --> 00:18:12,790
+Dilatação involuntária da íris.
+
+178
+00:18:14,344 --> 00:18:17,013
+Chamamos apenas de
+Voight-Kampff.
+
+179
+00:18:18,064 --> 00:18:20,614
+Sr. Deckard, o Dr. Eldon Tyrell.
+
+180
+00:18:20,615 --> 00:18:22,239
+Demonstre.
+
+181
+00:18:23,750 --> 00:18:26,257
+- Quero ver como funciona.
+- Onde está o sujeito?
+
+182
+00:18:26,258 --> 00:18:27,972
+Quero vê-la funcionar
+numa pessoa.
+
+183
+00:18:27,973 --> 00:18:30,689
+Quero ver um negativo,
+antes de fornecer um positivo.
+
+184
+00:18:30,690 --> 00:18:32,941
+O que é que isso vai provar?
+
+185
+00:18:33,658 --> 00:18:35,617
+Faça isso pra mim.
+
+186
+00:18:35,749 --> 00:18:37,247
+Em você?
+
+187
+00:18:37,588 --> 00:18:39,254
+Tente nela.
+
+188
+00:18:43,894 --> 00:18:46,445
+Está muito claro aqui.
+
+189
+00:19:23,694 --> 00:19:25,993
+Você se importa que eu fume?
+
+190
+00:19:26,419 --> 00:19:28,461
+Não afeta o teste.
+
+191
+00:19:29,972 --> 00:19:33,148
+Está bem. Vou fazer-lhe
+uma série de perguntas.
+
+192
+00:19:33,149 --> 00:19:36,488
+Relaxe e responda
+da forma mais simples.
+
+193
+00:19:44,437 --> 00:19:47,822
+É o seu aniversário.
+Alguém lhe dá uma carteira de couro.
+
+194
+00:19:47,823 --> 00:19:49,657
+Eu não aceitaria.
+
+195
+00:19:49,956 --> 00:19:53,586
+E daria queixa à polícia
+da pessoa que me deu.
+
+196
+00:19:55,016 --> 00:19:57,900
+O seu filho lhe mostra
+a coleção de borboletas,
+
+197
+00:19:57,901 --> 00:20:00,444
+e o jarro onde ele as mata.
+
+198
+00:20:03,712 --> 00:20:05,838
+O levaria ao médico.
+
+199
+00:20:11,154 --> 00:20:12,532
+Você está assistindo TV.
+
+200
+00:20:12,533 --> 00:20:15,458
+De repente, percebe uma vespa
+subindo pelo braço.
+
+201
+00:20:15,459 --> 00:20:17,041
+A mataria.
+
+202
+00:20:20,686 --> 00:20:24,531
+Está lendo uma revista. Se depara com
+uma página inteira... de uma mulher nua.
+
+203
+00:20:24,532 --> 00:20:27,834
+Este teste é para ver se sou
+Replicante ou lésbica, Sr. Deckard?
+
+204
+00:20:27,835 --> 00:20:30,587
+Limite-se a responder
+às perguntas.
+
+205
+00:20:34,733 --> 00:20:39,074
+Você mostra ao seu marido.
+Ele gosta tanto que pendura no quarto.
+
+206
+00:20:40,879 --> 00:20:42,920
+Eu não permitiria.
+
+207
+00:20:44,097 --> 00:20:45,350
+Porquê?
+
+208
+00:20:45,351 --> 00:20:48,021
+Eu deveria ser
+suficiente para ele.
+
+209
+00:20:51,455 --> 00:20:53,455
+Mais uma pergunta.
+
+210
+00:20:54,173 --> 00:20:57,307
+Você está assistindo a uma peça de
+teatro, depois ocorre um banquete.
+
+211
+00:20:57,308 --> 00:21:00,980
+Os convidados comem
+ostras cruas como aperitivo
+
+212
+00:21:01,558 --> 00:21:04,911
+A entrada será
+cozido de cachorro.
+
+213
+00:21:21,723 --> 00:21:24,602
+Pode retirar-se por
+alguns instantes, Rachael?
+
+214
+00:21:33,639 --> 00:21:35,220
+Obrigado.
+
+215
+00:21:36,732 --> 00:21:39,115
+Ela é uma Replicante, não é?
+
+216
+00:21:39,116 --> 00:21:40,912
+Estou impressionado.
+
+217
+00:21:40,913 --> 00:21:43,838
+Normalmente, quantas perguntas são
+suficientes para detectar um?
+
+218
+00:21:43,839 --> 00:21:45,092
+Não entendi, Tyrell.
+
+219
+00:21:45,093 --> 00:21:46,640
+Quantas perguntas?
+
+220
+00:21:46,641 --> 00:21:49,184
+Vinte, trinta, com referência cruzada.
+
+221
+00:21:50,236 --> 00:21:52,158
+Para a Rachael foram precisas
+mais de cem, não foram?
+
+222
+00:21:52,159 --> 00:21:53,909
+Ela não sabe?
+
+223
+00:21:54,375 --> 00:21:56,339
+Creio que está começando a suspeitar.
+
+224
+00:21:56,340 --> 00:21:59,014
+Suspeitar? Como ela
+pode ignorar o que é?
+
+225
+00:21:59,015 --> 00:22:01,857
+O objectivo da Tyrell é o negócio.
+
+226
+00:22:01,858 --> 00:22:04,407
+O lema é "Mais
+humano que um humano".
+
+227
+00:22:04,408 --> 00:22:07,286
+A Rachael é uma experiência.
+Nada mais.
+
+228
+00:22:08,589 --> 00:22:13,145
+Começamos a detectar neles
+uma estranha obsessão.
+
+229
+00:22:13,146 --> 00:22:16,573
+Afinal, são emocionalmente
+inexperientes, com apenas alguns anos...
+
+230
+00:22:16,574 --> 00:22:19,750
+para armazenar as experiências que,
+para nós, são dados adquiridos.
+
+231
+00:22:19,751 --> 00:22:23,968
+Se lhes injetarmos um passado,
+criamos um apoio...
+
+232
+00:22:24,434 --> 00:22:28,571
+para as sua emoções, podendo assim
+controlá-los melhor.
+
+233
+00:22:28,572 --> 00:22:32,412
+Recordações. Você está
+falando de recordações!
+
+234
+00:22:42,496 --> 00:22:45,296
+O tempo de reação é um fator
+importante. Preste atenção.
+
+235
+00:22:45,297 --> 00:22:47,178
+- Responda o mais rápido possível.
+- Certo.
+
+236
+00:22:47,179 --> 00:22:49,435
+Hunterwasser, 1187.
+
+237
+00:22:49,436 --> 00:22:50,689
+- É o hotel.
+- Como?
+
+238
+00:22:50,690 --> 00:22:52,320
+- Onde moro.
+- É agradável?
+
+239
+00:22:52,321 --> 00:22:54,410
+Acho que sim.
+Isto faz parte do teste?
+
+240
+00:22:54,411 --> 00:22:55,784
+Não.
+
+241
+00:25:15,802 --> 00:25:17,801
+Tempo?
+
+242
+00:25:17,976 --> 00:25:19,642
+Suficiente.
+
+243
+00:25:37,290 --> 00:25:40,086
+Você tirou suas fotos preciosas?
+
+244
+00:25:42,969 --> 00:25:45,011
+Tinha alguém lá.
+
+245
+00:25:45,728 --> 00:25:47,311
+Homens?
+
+246
+00:25:50,912 --> 00:25:53,539
+Policiais?
+
+247
+00:27:26,409 --> 00:27:29,455
+"Flamejantes caem os anjos...
+
+248
+00:27:30,130 --> 00:27:33,390
+nas profundezas
+trovejantes das costas...
+
+249
+00:27:33,391 --> 00:27:36,603
+ardendo nas chamas de Orc".
+
+250
+00:27:39,787 --> 00:27:41,500
+Não poder entrar!
+
+251
+00:27:41,501 --> 00:27:43,250
+Ilegal!
+
+252
+00:27:48,859 --> 00:27:52,448
+Frio! Esses olhos são meus!
+Congelados!
+
+253
+00:28:04,829 --> 00:28:06,663
+Perguntas.
+
+254
+00:28:28,827 --> 00:28:33,335
+Morfologia? Longevidade?
+Datas de fabricação?
+
+255
+00:28:33,467 --> 00:28:34,845
+Não saber.
+
+256
+00:28:34,846 --> 00:28:37,265
+Não saber esses assuntos.
+
+257
+00:28:38,986 --> 00:28:43,662
+Só faço olhos. Só olhos.
+Só concepção genética.
+
+258
+00:28:44,337 --> 00:28:46,253
+Só olhos.
+
+259
+00:28:47,974 --> 00:28:49,890
+Tu Nexus?
+
+260
+00:28:50,817 --> 00:28:53,277
+Concebi os teus olhos.
+
+261
+00:28:55,374 --> 00:28:59,590
+Se ao você ao menos pudesse ver
+o que vi com os seus olhos.
+
+262
+00:29:00,684 --> 00:29:02,140
+Agora,
+
+263
+00:29:02,815 --> 00:29:04,397
+perguntas.
+
+264
+00:29:04,823 --> 00:29:06,954
+Não sei responder.
+
+265
+00:29:06,955 --> 00:29:08,578
+Quem sabe?
+
+266
+00:29:12,473 --> 00:29:15,727
+Tyrell! Ele sabe tudo.
+
+267
+00:29:16,988 --> 00:29:19,239
+Tyrell Corporation?
+
+268
+00:29:19,748 --> 00:29:20,750
+Ele patrão.
+
+269
+00:29:20,751 --> 00:29:24,841
+Grande génio. Concebeu o seu cérebro.
+
+270
+00:29:27,315 --> 00:29:29,022
+Inteligente.
+
+271
+00:29:30,492 --> 00:29:32,617
+Muito frio.
+
+272
+00:29:34,924 --> 00:29:38,010
+Não é fácil falar com ele...
+
+273
+00:29:39,187 --> 00:29:41,020
+Muito frio.
+
+274
+00:29:42,992 --> 00:29:44,783
+...eu imagino?
+
+275
+00:29:50,810 --> 00:29:52,189
+Sebastian.
+
+276
+00:29:52,190 --> 00:29:55,109
+Ele levar você lá. Ele levar você lá.
+
+277
+00:29:55,911 --> 00:29:57,952
+Que Sebastian?
+
+278
+00:30:00,718 --> 00:30:03,471
+J.F. Sebast...
+
+279
+00:30:08,369 --> 00:30:10,285
+Agora,
+
+280
+00:30:12,801 --> 00:30:15,427
+onde poderemos encontrar esse...
+
+281
+00:30:18,236 --> 00:30:20,570
+J.F. Sebastian?
+
+282
+00:30:21,914 --> 00:30:24,081
+Podemos continuar?
+
+283
+00:30:24,882 --> 00:30:26,596
+Descreva, em poucas palavras,
+
+284
+00:30:26,597 --> 00:30:30,776
+apenas o que de bom lhe ocorre
+sobre a sua mãe.
+
+285
+00:30:30,777 --> 00:30:32,735
+- A minha mãe?
+- Sim.
+
+286
+00:30:32,952 --> 00:30:35,161
+Deixe-me falar
+sobre minha mãe.
+
+287
+00:30:56,423 --> 00:30:59,641
+ldentificação vocal.
+Número do apartamento, por favor.
+
+288
+00:30:59,642 --> 00:31:02,980
+- Deckard, 97.
+- 97. Obrigado.
+
+289
+00:31:24,894 --> 00:31:27,228
+Queria falar com você.
+
+290
+00:31:32,168 --> 00:31:34,252
+Então eu lhe esperei.
+
+291
+00:31:34,467 --> 00:31:36,216
+Quero ajudá-lo.
+
+292
+00:31:39,359 --> 00:31:41,233
+Preciso de ajuda?
+
+293
+00:31:43,246 --> 00:31:45,796
+Não sei por que lhe disse o que fez.
+
+294
+00:31:45,797 --> 00:31:47,343
+Fale com ele.
+
+295
+00:31:47,344 --> 00:31:49,218
+Ele não me atenderia.
+
+296
+00:32:02,102 --> 00:32:04,018
+Quer uma bebida?
+
+297
+00:32:14,560 --> 00:32:17,187
+Você pensa que sou
+uma Replicante, não é?
+
+298
+00:32:22,629 --> 00:32:24,044
+Veja.
+
+299
+00:32:25,095 --> 00:32:27,262
+Sou eu com a minha mãe.
+
+300
+00:32:28,690 --> 00:32:30,064
+Sim?
+
+301
+00:32:36,843 --> 00:32:39,512
+Lembra-se de quando tinha seis anos?
+
+302
+00:32:39,602 --> 00:32:43,029
+Você e o seu irmão entraram
+em um prédio vazio pela janela do porão.
+
+303
+00:32:43,030 --> 00:32:45,407
+Vocês iam brincar de médico?
+
+304
+00:32:46,459 --> 00:32:50,220
+Ele lhe mostrou o dele e quando chegou
+a sua vez, você teve medo e fugiu.
+
+305
+00:32:50,221 --> 00:32:51,845
+Você lembra disso?
+
+306
+00:32:54,151 --> 00:32:57,739
+Você já contou isso a alguém? À sua mãe?
+Ao Tyrell? A alguém?
+
+307
+00:33:00,882 --> 00:33:04,685
+Lembra-se da aranha que vivia
+no arbusto perto da sua janela?
+
+308
+00:33:04,686 --> 00:33:07,272
+Corpo alaranjado, pernas verdes?
+
+309
+00:33:07,530 --> 00:33:10,329
+Passou o verão a
+vendo construir a teia?
+
+310
+00:33:10,330 --> 00:33:12,921
+Até que um dia,
+surge um ovo enorme.
+
+311
+00:33:12,922 --> 00:33:14,678
+O ovo estalou...
+
+312
+00:33:14,679 --> 00:33:16,929
+- O ovo estalou...
+- E então?
+
+313
+00:33:17,772 --> 00:33:20,817
+...então nasceram
+cem aranhinhas...
+
+314
+00:33:21,953 --> 00:33:23,744
+que a comeram.
+
+315
+00:33:27,763 --> 00:33:29,430
+Implantes.
+
+316
+00:33:29,520 --> 00:33:31,191
+Essas memórias não são suas.
+
+317
+00:33:31,192 --> 00:33:34,697
+São de outra pessoa.
+Da sobrinha do Tyrell.
+
+318
+00:33:43,358 --> 00:33:45,692
+OK. Foi uma piada
+de mau gosto.
+
+319
+00:33:47,078 --> 00:33:48,750
+Não teve graça.
+
+320
+00:33:48,751 --> 00:33:50,673
+Você não é uma Replicante.
+
+321
+00:33:50,674 --> 00:33:52,883
+Vá para casa, está bem?
+
+322
+00:33:55,732 --> 00:33:58,569
+É sério. Me desculpe.
+
+323
+00:33:58,978 --> 00:34:00,727
+Vá para casa.
+
+324
+00:34:13,820 --> 00:34:15,694
+Quer uma bebida?
+
+325
+00:34:16,746 --> 00:34:18,787
+Eu trago uma bebida pra você.
+
+326
+00:34:19,631 --> 00:34:21,631
+Vou buscar um copo.
+
+327
+00:36:55,612 --> 00:36:57,988
+ESPAÇO EXTRA-TERRESTRE
+
+328
+00:38:12,171 --> 00:38:14,213
+Esqueceu sua mala.
+
+329
+00:38:25,006 --> 00:38:26,796
+Eu me Perdi.
+
+330
+00:38:28,267 --> 00:38:30,727
+Não tenha medo.
+Não vou lhe machucar.
+
+331
+00:38:34,245 --> 00:38:35,624
+Como se chama?
+
+332
+00:38:35,625 --> 00:38:36,544
+Pris.
+
+333
+00:38:36,545 --> 00:38:38,795
+Chamo-me J.F. Sebastian.
+
+334
+00:38:39,262 --> 00:38:40,885
+- Olá.
+- Olá...
+
+335
+00:38:44,697 --> 00:38:46,906
+Para onde vai?
+
+336
+00:38:48,710 --> 00:38:50,334
+Para casa?
+
+337
+00:38:51,721 --> 00:38:53,511
+Não tenho casa.
+
+338
+00:38:57,029 --> 00:38:59,161
+Demos um susto um no outro, não foi?
+
+339
+00:38:59,162 --> 00:39:00,786
+É verdade.
+
+340
+00:39:06,562 --> 00:39:08,520
+Estou com fome, J.F.
+
+341
+00:39:09,572 --> 00:39:11,781
+Tenho algo pra comer em casa.
+
+342
+00:39:12,038 --> 00:39:13,872
+Quer entrar?
+
+343
+00:39:14,004 --> 00:39:16,338
+Estava torcendo pra você me convidar.
+
+344
+00:39:50,501 --> 00:39:52,632
+Você mora sozinho neste prédio?
+
+345
+00:39:52,633 --> 00:39:55,636
+Sim, agora eu vivo completamente só.
+
+346
+00:39:56,438 --> 00:39:59,106
+Não há falta de casas, por aqui.
+
+347
+00:40:01,203 --> 00:40:03,746
+Há espaço para todo mundo.
+
+348
+00:40:13,077 --> 00:40:15,285
+Cuidado com a água.
+
+349
+00:40:17,340 --> 00:40:19,885
+Você deve se sentir sozinho aqui, J. F.
+
+350
+00:40:21,939 --> 00:40:24,357
+Nem tanto. Faço amigos.
+
+351
+00:40:24,782 --> 00:40:28,419
+Os meus amigos são brinquedos.
+Eu mesmo os faço.
+
+352
+00:40:28,420 --> 00:40:31,052
+É um passatempo.
+Sou engenheiro genético.
+
+353
+00:40:31,053 --> 00:40:32,886
+Você sabe o que é?
+
+354
+00:40:33,061 --> 00:40:34,475
+Não.
+
+355
+00:40:36,363 --> 00:40:37,903
+Senhora?
+
+356
+00:40:42,676 --> 00:40:44,676
+Olá, estou de volta!
+
+357
+00:40:50,786 --> 00:40:54,667
+Está de volta, está de volta.
+Boa noite, J.F.!
+
+358
+00:40:55,008 --> 00:40:57,009
+Boa noite, amigos.
+
+359
+00:41:08,303 --> 00:41:11,140
+São os meus amigos. Eu mesmo os fiz.
+
+360
+00:41:11,188 --> 00:41:13,152
+Onde estão os seus pais?
+
+361
+00:41:13,153 --> 00:41:15,404
+Sou uma espécie de órfã.
+
+362
+00:41:15,410 --> 00:41:17,166
+E os seus amigos?
+
+363
+00:41:17,167 --> 00:41:19,590
+Tenho alguns, mas
+preciso encontrá-los.
+
+364
+00:41:19,591 --> 00:41:22,176
+Amanhã vou dizer
+a eles onde estou.
+
+365
+00:41:26,197 --> 00:41:28,489
+Posso levar as suas coisas?
+
+366
+00:41:28,872 --> 00:41:30,788
+Estão ensopadas, não estão?
+
+367
+00:43:08,657 --> 00:43:11,995
+Ampliar 224 para 176.
+
+368
+00:43:29,017 --> 00:43:31,142
+Ampliar. Parar.
+
+369
+00:43:45,865 --> 00:43:47,573
+Mais perto.
+
+370
+00:43:47,956 --> 00:43:49,370
+Parar.
+
+371
+00:43:50,129 --> 00:43:52,177
+Afastar, focar à direita.
+
+372
+00:43:52,178 --> 00:43:53,634
+Parar.
+
+373
+00:43:55,188 --> 00:43:57,272
+Centrar e afastar.
+
+374
+00:43:59,912 --> 00:44:01,368
+Parar.
+
+375
+00:44:02,588 --> 00:44:04,672
+Focar 45º à direita.
+
+376
+00:44:06,350 --> 00:44:07,770
+Parar.
+
+377
+00:44:07,771 --> 00:44:09,647
+Centrar e parar.
+
+378
+00:44:15,464 --> 00:44:18,259
+Ampliar 34 para 36.
+
+379
+00:44:28,215 --> 00:44:30,675
+À direita e afastar.
+
+380
+00:44:31,686 --> 00:44:33,142
+Parar.
+
+381
+00:44:38,793 --> 00:44:40,918
+Ampliar 34 para 46.
+
+382
+00:44:52,588 --> 00:44:54,129
+Afastar.
+
+383
+00:44:54,554 --> 00:44:56,930
+Espera. Para a direita.
+
+384
+00:44:58,065 --> 00:44:59,522
+Parar.
+
+385
+00:45:00,197 --> 00:45:02,114
+Ampliar 57-19.
+
+386
+00:45:04,127 --> 00:45:06,127
+Focar 45º à direita.
+
+387
+00:45:08,016 --> 00:45:09,472
+Parar.
+
+388
+00:45:11,485 --> 00:45:13,987
+Ampliar 15 para 23.
+
+389
+00:45:25,365 --> 00:45:27,909
+Imprima esta tela.
+
+390
+00:46:24,522 --> 00:46:25,978
+Peixe?
+
+391
+00:46:41,495 --> 00:46:44,249
+Creio que foi manufaturada.
+
+392
+00:46:44,297 --> 00:46:45,795
+Olhe.
+
+393
+00:46:49,480 --> 00:46:52,192
+Manufatura de qualidade superior.
+
+394
+00:46:54,581 --> 00:46:57,005
+Há o número de série do fabricante.
+
+395
+00:46:57,006 --> 00:47:01,938
+990-69-47...
+
+396
+00:47:01,939 --> 00:47:04,064
+X/B71.
+
+397
+00:47:04,447 --> 00:47:06,281
+lnteressante.
+
+398
+00:47:06,998 --> 00:47:10,586
+Não peixe. Escama de cobra.
+
+399
+00:47:10,969 --> 00:47:12,264
+Cobra?
+
+400
+00:47:12,265 --> 00:47:16,356
+Tenta o Abdul Ben Hassan.
+Ele fazer esta cobra!
+
+401
+00:48:18,724 --> 00:48:20,766
+Abdul Hassan.
+
+402
+00:48:21,484 --> 00:48:25,156
+Sou agente de polícia.
+Queria fazer-lhe umas perguntas.
+
+403
+00:48:25,163 --> 00:48:28,836
+Licença de cobra artificial
+X/B71. É você?
+
+404
+00:48:29,135 --> 00:48:32,102
+Foi você que fez?
+A quem vendeu?
+
+405
+00:48:32,103 --> 00:48:35,111
+O meu trabalho? Poucos podem
+pagar por essa qualidade.
+
+406
+00:48:35,112 --> 00:48:37,119
+- Quantos?
+- Muito poucos.
+
+407
+00:48:37,120 --> 00:48:39,203
+Quantos? Ouça, amigo.
+
+408
+00:48:39,461 --> 00:48:43,008
+Taffey Lewis. No Sector 4.
+Chinatown.
+
+409
+00:49:20,528 --> 00:49:22,153
+Empregado.
+
+410
+00:49:25,963 --> 00:49:27,712
+Taffey Lewis?
+
+411
+00:49:33,196 --> 00:49:34,694
+Taffey.
+
+412
+00:49:35,538 --> 00:49:38,081
+Queria fazer-lhe
+umas perguntas.
+
+413
+00:49:38,130 --> 00:49:39,670
+Desembucha.
+
+414
+00:49:41,474 --> 00:49:43,815
+Costuma comprar cobras ao egípcio,
+Taffey?
+
+415
+00:49:43,816 --> 00:49:45,690
+Compro sempre, cara.
+
+416
+00:49:48,414 --> 00:49:50,582
+Conhece esta moça?
+
+417
+00:49:51,215 --> 00:49:53,132
+Nunca vi. Cai fora.
+
+418
+00:49:53,180 --> 00:49:55,222
+A sua licença está em dia?
+
+419
+00:49:55,521 --> 00:49:57,814
+Louie, o homem está com sede.
+
+420
+00:49:58,741 --> 00:50:01,827
+Serve uma bebida por conta da casa.
+Tchau.
+
+421
+00:50:44,184 --> 00:50:45,641
+Estou?
+
+422
+00:50:47,863 --> 00:50:51,410
+Já teve gente que me largou
+falando assim, mas não quando...
+
+423
+00:50:51,584 --> 00:50:53,882
+estava sendo tão educado.
+
+424
+00:50:53,883 --> 00:50:57,431
+Estou aqui num bar, no Sector 4.
+
+425
+00:50:59,277 --> 00:51:00,571
+O Taffey Lewis.
+
+426
+00:51:00,572 --> 00:51:03,617
+Quer vir tomar uma bebida?
+
+427
+00:51:04,001 --> 00:51:06,586
+Acho que não, Sr. Deckard.
+
+428
+00:51:07,972 --> 00:51:09,810
+Não é o meu tipo de lugar.
+
+429
+00:51:09,811 --> 00:51:11,854
+Vamos a outro lugar então?
+
+430
+00:51:12,488 --> 00:51:14,446
+CARGA TOTAL $1,25
+
+431
+00:51:26,911 --> 00:51:29,460
+Senhoras e senhores,
+
+432
+00:51:29,461 --> 00:51:34,263
+Taffey Lewis apresenta
+Miss Salome e a serpente.
+
+433
+00:51:35,105 --> 00:51:39,195
+Vejam como ela sente
+prazer com a serpente...
+
+434
+00:51:39,494 --> 00:51:43,000
+que um dia corrompeu o Homem!
+
+435
+00:52:25,859 --> 00:52:28,700
+Desculpe, Srta. Salome,
+posso falar com você um minuto?
+
+436
+00:52:28,701 --> 00:52:32,374
+Sou da Federação Americana
+dos Artistas de Variedades.
+
+437
+00:52:32,381 --> 00:52:34,094
+Sim?
+
+438
+00:52:34,095 --> 00:52:37,939
+Não é para fazê-la aderir.
+Não é esse o meu departamento.
+
+439
+00:52:37,940 --> 00:52:39,565
+Realmente,
+
+440
+00:52:42,623 --> 00:52:46,170
+sou do Comitê Confidencial
+para os Abusos Morais.
+
+441
+00:52:47,473 --> 00:52:50,016
+Comitê para os Abusos Morais?
+
+442
+00:52:50,023 --> 00:52:52,237
+Tem havido queixas de que a gerência...
+
+443
+00:52:52,238 --> 00:52:54,621
+tem tomado algumas liberdades
+com as artistas, nesta casa.
+
+444
+00:52:54,622 --> 00:52:55,875
+Não sei de nada.
+
+445
+00:52:55,876 --> 00:52:59,130
+Tem se sentido explorada?
+
+446
+00:52:59,471 --> 00:53:01,555
+"Explorada" como?
+
+447
+00:53:01,687 --> 00:53:04,356
+Para obter este emprego.
+
+448
+00:53:04,404 --> 00:53:08,579
+Pediram-lhe que fizesse alguma coisa...
+
+449
+00:53:09,714 --> 00:53:11,970
+libertina ou de mau gosto,
+
+450
+00:53:11,971 --> 00:53:15,476
+ou que lhe causou repulsa?
+
+451
+00:53:18,661 --> 00:53:20,577
+Fala sério?
+
+452
+00:53:21,587 --> 00:53:25,134
+Posso verificar o seu camarim?
+
+453
+00:53:25,266 --> 00:53:27,977
+- Para quê?
+- Por causa dos buracos.
+
+454
+00:53:27,983 --> 00:53:28,944
+Buracos?
+
+455
+00:53:28,945 --> 00:53:31,327
+Você ia se espantar com o que um homem
+é capaz de fazer...
+
+456
+00:53:31,328 --> 00:53:33,913
+para dar uma espiada em um corpo bonito.
+
+457
+00:53:38,143 --> 00:53:39,438
+Não, eu não me espantaria.
+
+458
+00:53:39,439 --> 00:53:41,313
+Bem, pequenos...
+
+459
+00:53:41,780 --> 00:53:43,493
+buracos nojentos...
+
+460
+00:53:43,494 --> 00:53:47,083
+que fazem na parede para verem
+uma dama a despir-se.
+
+461
+00:54:20,534 --> 00:54:22,499
+A cobra é verdadeira?
+
+462
+00:54:22,500 --> 00:54:23,753
+Claro que não.
+
+463
+00:54:23,754 --> 00:54:28,429
+Acha que trabalharia aqui se pudesse
+pagar uma cobra verdadeira?
+
+464
+00:54:42,776 --> 00:54:45,103
+Se alguém tentasse me explorar,
+a quem eu deveria reclamar?
+
+465
+00:54:45,138 --> 00:54:45,871
+A mim.
+
+466
+00:54:45,872 --> 00:54:48,707
+Você é um homem dedicado.
+Me enxugue.
+
+467
+00:57:38,701 --> 00:57:39,578
+Afastem-se!
+
+468
+00:57:39,579 --> 00:57:41,454
+Saiam da frente!
+
+469
+00:59:26,164 --> 00:59:27,877
+Deckard.
+
+470
+00:59:27,878 --> 00:59:29,921
+B26354.
+
+471
+00:59:35,989 --> 00:59:39,076
+Circulando. Circulando.
+
+472
+00:59:50,370 --> 00:59:52,078
+Só um minuto.
+
+473
+00:59:54,049 --> 00:59:55,762
+Sim, o que você quer?
+
+474
+00:59:55,763 --> 00:59:57,471
+Tsin-Tao.
+
+475
+01:00:05,044 --> 01:00:06,711
+Isto chega?
+
+476
+01:00:17,127 --> 01:00:18,667
+Bryant.
+
+477
+01:00:39,410 --> 01:00:41,228
+Meu Deus, Deckard, você
+está parecendo tão mal
+
+478
+01:00:41,263 --> 01:00:43,046
+quanto o boneco que deixou
+estendido na calçada.
+
+479
+01:00:43,047 --> 01:00:44,755
+Vou para casa.
+
+480
+01:00:44,845 --> 01:00:46,516
+Você podia aprender
+com ele, Gaff.
+
+481
+01:00:46,517 --> 01:00:49,939
+É um maldito matadouro humano.
+Isso é o que ele é.
+
+482
+01:00:50,155 --> 01:00:53,241
+Só faltam quatro.
+Vamos embora, Gaff.
+
+483
+01:00:53,290 --> 01:00:54,746
+Três.
+
+484
+01:00:56,258 --> 01:00:57,971
+Só faltam três.
+
+485
+01:00:57,972 --> 01:00:59,596
+São quatro.
+
+486
+01:01:00,439 --> 01:01:03,782
+Existe ainda aquele boneco que você
+interrogou na Tyrell Corporation.
+
+487
+01:01:03,783 --> 01:01:07,336
+A Rachael desapareceu.
+Ela não sabia que era uma Replicante.
+
+488
+01:01:07,337 --> 01:01:10,847
+O Tyrell diz que tem a ver
+com um implante cerebral.
+
+489
+01:01:10,848 --> 01:01:12,186
+Vamos, Gaff.
+
+490
+01:01:12,187 --> 01:01:14,270
+Bebe um copo por mim.
+
+491
+01:01:58,759 --> 01:02:00,132
+Leon!
+
+492
+01:02:00,139 --> 01:02:02,013
+Que idade tenho?
+
+493
+01:02:05,825 --> 01:02:07,365
+Não sei!
+
+494
+01:02:09,879 --> 01:02:13,182
+Nasci em 10 de Abril de 2017.
+Quanto tempo me resta?
+
+495
+01:02:13,183 --> 01:02:14,932
+Quatro anos.
+
+496
+01:02:22,129 --> 01:02:24,087
+Mais do você.
+
+497
+01:02:28,108 --> 01:02:30,818
+É doloroso viver com medo, não é?
+
+498
+01:02:36,720 --> 01:02:40,518
+Não há nada pior que uma coceira
+que não se pode coçar.
+
+499
+01:02:40,734 --> 01:02:42,357
+Eu concordo!
+
+500
+01:02:53,233 --> 01:02:55,736
+Acorda! É hora de morrer.
+
+501
+01:03:30,734 --> 01:03:32,735
+Tremendo?
+
+502
+01:03:33,954 --> 01:03:35,744
+Eu também.
+
+503
+01:03:39,890 --> 01:03:41,890
+Fico muito nervoso.
+
+504
+01:03:47,290 --> 01:03:49,290
+Faz parte do negócio.
+
+505
+01:03:56,613 --> 01:03:58,696
+Eu não estou no negócio.
+
+506
+01:04:11,496 --> 01:04:13,872
+Sou o negócio.
+
+507
+01:05:46,067 --> 01:05:48,108
+Se eu fugir para o norte?
+
+508
+01:05:51,376 --> 01:05:53,251
+Se eu desaparecer?
+
+509
+01:05:58,065 --> 01:06:00,023
+Iria atrás de mim?
+
+510
+01:06:01,242 --> 01:06:02,991
+Para me caçar?
+
+511
+01:06:12,029 --> 01:06:14,238
+Não.
+
+512
+01:06:19,847 --> 01:06:21,847
+Eu te devo uma.
+
+513
+01:06:36,235 --> 01:06:38,778
+Mas alguém iria.
+
+514
+01:06:55,634 --> 01:06:57,717
+Conhece a minha ficha?
+
+515
+01:06:59,103 --> 01:07:00,983
+A data de ativação?
+
+516
+01:07:00,984 --> 01:07:04,323
+A longevidade? Tudo isso?
+
+517
+01:07:06,001 --> 01:07:08,001
+Viu ela?
+
+518
+01:07:11,227 --> 01:07:14,523
+São confidenciais.
+
+519
+01:07:14,530 --> 01:07:16,780
+Mas você é da polícia.
+
+520
+01:07:17,247 --> 01:07:19,373
+Não olhei para elas.
+
+521
+01:07:23,602 --> 01:07:26,271
+Aquele seu teste Voight-Kampff.
+
+522
+01:07:26,863 --> 01:07:29,532
+Já alguma vez se submeteu a ele?
+
+523
+01:10:13,840 --> 01:10:16,091
+Sonhava com música.
+
+524
+01:10:21,031 --> 01:10:23,699
+Não sabia se era capaz de tocar.
+
+525
+01:10:25,211 --> 01:10:27,880
+Me lembro das lições.
+
+526
+01:10:29,016 --> 01:10:32,938
+Não sei se sou eu ou
+a sobrinha do Tyrell.
+
+527
+01:10:37,586 --> 01:10:39,711
+Você toca lindamente.
+
+528
+01:11:49,779 --> 01:11:52,113
+Agora, beije-me.
+
+529
+01:11:53,750 --> 01:11:57,381
+- Não posso confiar na memó...
+- Diga "beije-me".
+
+530
+01:12:00,816 --> 01:12:02,607
+Beije-me...
+
+531
+01:12:14,110 --> 01:12:16,319
+"Quero você".
+
+532
+01:12:19,128 --> 01:12:20,966
+Quero você...
+
+533
+01:12:20,967 --> 01:12:22,591
+De novo!
+
+534
+01:12:22,806 --> 01:12:25,015
+Quero você!
+
+535
+01:12:27,531 --> 01:12:30,199
+Me abraça.
+
+536
+01:13:52,105 --> 01:13:53,149
+Que está fazendo?
+
+537
+01:13:53,150 --> 01:13:54,446
+Desculpe.
+
+538
+01:13:54,447 --> 01:13:56,531
+Estou só espiando.
+
+539
+01:13:59,338 --> 01:14:00,885
+Que tal estou?
+
+540
+01:14:00,886 --> 01:14:02,676
+Está melhor.
+
+541
+01:14:02,683 --> 01:14:04,432
+Só melhor.
+
+542
+01:14:05,609 --> 01:14:07,693
+Está linda.
+
+543
+01:14:10,752 --> 01:14:12,334
+Obrigada.
+
+544
+01:14:18,904 --> 01:14:20,820
+Que idade você tem?
+
+545
+01:14:22,708 --> 01:14:24,458
+Vinte e cinco.
+
+546
+01:14:24,799 --> 01:14:28,136
+- Qual é o seu problema?
+- Síndrome de Matusalém.
+
+547
+01:14:28,185 --> 01:14:29,480
+Que é isso?
+
+548
+01:14:29,481 --> 01:14:32,610
+Rápido envelhecimento das glândulas.
+
+549
+01:14:33,704 --> 01:14:35,584
+É por isso que ainda está na Terra?
+
+550
+01:14:35,585 --> 01:14:38,338
+Sim. Não passei nos testes médicos.
+
+551
+01:14:40,727 --> 01:14:43,688
+Mesmo assim, gosto disto aqui.
+
+552
+01:14:46,497 --> 01:14:48,497
+Gosto de você assim.
+
+553
+01:14:48,587 --> 01:14:50,336
+Exatamento como é.
+
+554
+01:14:53,019 --> 01:14:54,601
+Olá, Roy.
+
+555
+01:14:56,697 --> 01:15:00,119
+Que lindos brinquedos você tem aqui.
+
+556
+01:15:00,920 --> 01:15:03,631
+Este é o amigo de quem eu falei.
+
+557
+01:15:03,888 --> 01:15:06,849
+Este é o meu salvador, J.F. Sebastian.
+
+558
+01:15:09,407 --> 01:15:12,326
+Gosto de quem se fixa num lugar.
+
+559
+01:15:13,420 --> 01:15:16,048
+Você vive aqui sozinho?
+
+560
+01:15:17,057 --> 01:15:18,472
+Sim.
+
+561
+01:15:29,474 --> 01:15:31,976
+Que tal um pequeno almoço?
+
+562
+01:15:32,024 --> 01:15:34,567
+Eu ia mesmo fazer. Com licença.
+
+563
+01:15:42,726 --> 01:15:44,184
+Então?
+
+564
+01:15:46,573 --> 01:15:48,113
+O Leon...
+
+565
+01:15:48,120 --> 01:15:49,910
+O que aconteceu?
+
+566
+01:15:54,056 --> 01:15:56,098
+Só existem dois de nós agora.
+
+567
+01:15:58,111 --> 01:16:00,948
+Então somos estúpidos e vamos morrer.
+
+568
+01:16:05,511 --> 01:16:07,679
+Não vamos, não.
+
+569
+01:16:41,214 --> 01:16:42,133
+Não.
+
+570
+01:16:42,134 --> 01:16:44,803
+O cavalo toma a rainha, viu?
+
+571
+01:16:45,061 --> 01:16:46,977
+Não vai funcionar.
+
+572
+01:16:55,303 --> 01:16:57,560
+Porque você olha assim
+para nós, Sebastian?
+
+573
+01:16:57,561 --> 01:17:01,150
+Vocês são tão diferentes.
+
+574
+01:17:01,554 --> 01:17:03,680
+São perfeitos.
+
+575
+01:17:06,111 --> 01:17:07,484
+Sim.
+
+576
+01:17:08,118 --> 01:17:10,117
+De que geração são?
+
+577
+01:17:18,988 --> 01:17:20,528
+Nexus 6.
+
+578
+01:17:20,576 --> 01:17:22,331
+Eu sabia!
+
+579
+01:17:22,332 --> 01:17:25,843
+Eu faço trabalhos de genética
+para a Tyrell Corporation.
+
+580
+01:17:25,844 --> 01:17:28,137
+Há algo de mim em vocês.
+
+581
+01:17:29,355 --> 01:17:31,319
+Mostrem-me qualquer coisa.
+
+582
+01:17:31,320 --> 01:17:32,903
+Como o que?
+
+583
+01:17:33,119 --> 01:17:34,909
+Qualquer coisa.
+
+584
+01:17:37,132 --> 01:17:40,721
+Não somos computadores. Sebastian
+Somos de carne e osso.
+
+585
+01:17:43,570 --> 01:17:45,952
+Penso, Sebastian,
+
+586
+01:17:45,953 --> 01:17:48,079
+logo existo.
+
+587
+01:17:48,420 --> 01:17:51,256
+Muito bem, Pris. Mostre
+agora pra ele porque.
+
+588
+01:18:18,939 --> 01:18:21,697
+- Temos muito em comum.
+- O que você quer dizer?
+
+589
+01:18:21,698 --> 01:18:23,243
+Os mesmos problemas.
+
+590
+01:18:23,244 --> 01:18:25,705
+Decrepitude acelerada.
+
+591
+01:18:27,760 --> 01:18:31,349
+Não sei muito de biomecânica, Roy.
+Quem me dera saber.
+
+592
+01:18:32,610 --> 01:18:35,487
+Se não descobrirmos depressa,
+
+593
+01:18:35,494 --> 01:18:38,204
+a Pris não vive muito mais tempo.
+
+594
+01:18:38,546 --> 01:18:40,630
+Não podemos permitir.
+
+595
+01:18:42,601 --> 01:18:44,350
+Ele é bom?
+
+596
+01:18:44,566 --> 01:18:45,862
+Quem?
+
+597
+01:18:45,863 --> 01:18:46,823
+O teu adversário.
+
+598
+01:18:46,824 --> 01:18:48,615
+O Dr. Tyrell?
+
+599
+01:18:49,207 --> 01:18:51,959
+Só ganhei dele uma vez no xadrez.
+
+600
+01:18:52,133 --> 01:18:53,799
+É um génio.
+
+601
+01:18:55,227 --> 01:18:57,352
+Foi quem concebeu vocês.
+
+602
+01:18:58,320 --> 01:19:00,362
+Talvez ele possa ajudar.
+
+603
+01:19:01,247 --> 01:19:04,209
+Gostaria de dizer isso a ele.
+
+604
+01:19:06,180 --> 01:19:09,017
+Melhor ainda seria falar
+com ele pessoalmente.
+
+605
+01:19:12,702 --> 01:19:16,751
+Imagino que ele
+é um homem difícil de se ter acesso.
+
+606
+01:19:17,970 --> 01:19:19,468
+Sim.
+
+607
+01:19:19,893 --> 01:19:21,391
+Muito.
+
+608
+01:19:24,659 --> 01:19:26,450
+Poderia nos ajudar?
+
+609
+01:19:27,794 --> 01:19:29,256
+Não posso.
+
+610
+01:19:29,257 --> 01:19:31,431
+Precisamos de você, Sebastian.
+
+611
+01:19:31,432 --> 01:19:34,059
+Você é o nosso melhor e único amigo.
+
+612
+01:19:47,402 --> 01:19:50,447
+Estamos felizes por
+você ter nos encontrado.
+
+613
+01:19:51,750 --> 01:19:56,216
+Não acredito que exista no mundo outro
+ser humano que tivesse nos ajudado.
+
+614
+01:20:45,179 --> 01:20:47,973
+66.000 Prosser & Ankopitch.
+
+615
+01:20:50,028 --> 01:20:51,527
+Troca.
+
+616
+01:20:51,743 --> 01:20:52,829
+Troca em dois...
+
+617
+01:20:52,830 --> 01:20:54,997
+Entrada azul.
+
+618
+01:20:55,380 --> 01:20:58,718
+O Sr. J.F. Sebastian.
+
+619
+01:20:58,892 --> 01:21:01,728
+1-6-4-1-7.
+
+620
+01:21:03,866 --> 01:21:05,867
+A esta hora?
+
+621
+01:21:05,957 --> 01:21:08,835
+Que posso fazer por você, Sebastian?
+
+622
+01:21:12,395 --> 01:21:14,688
+Rainha para Bispo 6. Xeque.
+
+623
+01:21:19,335 --> 01:21:21,336
+Tolice!
+
+624
+01:21:21,551 --> 01:21:23,593
+Um momento.
+
+625
+01:21:26,860 --> 01:21:30,700
+Rainha para Bispo 6? Ridículo!
+
+626
+01:21:37,229 --> 01:21:38,727
+Rainha,
+
+627
+01:21:40,614 --> 01:21:42,406
+Bispo 6.
+
+628
+01:21:47,763 --> 01:21:49,430
+Cavalo...
+
+629
+01:21:50,189 --> 01:21:52,858
+toma Rainha.
+
+630
+01:21:59,303 --> 01:22:01,804
+O que você tem em mente, Sebastian?
+
+631
+01:22:01,978 --> 01:22:04,103
+Em que você está pensando?
+
+632
+01:22:05,114 --> 01:22:08,451
+Bispo para Rei 7. Xeque-mate.
+
+633
+01:22:09,837 --> 01:22:12,591
+Bispo para Rei 7. Xeque-mate, eu acho.
+
+634
+01:22:13,851 --> 01:22:16,478
+Teve uma grande idéia, Sebastian?
+
+635
+01:22:16,945 --> 01:22:19,787
+O leite e as bolachas
+não deixam você dormir?
+
+636
+01:22:19,788 --> 01:22:22,206
+Vamos discutir o assunto.
+
+637
+01:22:22,380 --> 01:22:24,798
+É melhor você subir, Sebastian.
+
+638
+01:22:41,988 --> 01:22:43,611
+Sr. Tyrell?
+
+639
+01:22:47,464 --> 01:22:49,339
+Trouxe um amigo.
+
+640
+01:22:55,533 --> 01:22:59,163
+Estou surpreso que você
+não tenha vindo antes.
+
+641
+01:23:06,402 --> 01:23:09,740
+Não é fácil encontrar
+o nosso criador.
+
+642
+01:23:10,500 --> 01:23:12,918
+Que ele pode fazer por você?
+
+643
+01:23:14,178 --> 01:23:16,973
+O criador pode reparar a sua criação?
+
+644
+01:23:17,482 --> 01:23:20,777
+Você quer ser modificado?
+
+645
+01:23:21,327 --> 01:23:23,077
+Fique aqui.
+
+646
+01:23:28,058 --> 01:23:31,271
+Estava pensando em algo mais radical.
+
+647
+01:23:32,281 --> 01:23:33,947
+Qual...
+
+648
+01:23:34,204 --> 01:23:36,747
+Qual é o problema?
+
+649
+01:23:37,339 --> 01:23:38,634
+A morte.
+
+650
+01:23:38,635 --> 01:23:40,176
+A morte?
+
+651
+01:23:40,852 --> 01:23:43,902
+Receio que esteja um
+pouco fora do meu alcance.
+
+652
+01:23:43,903 --> 01:23:46,697
+Quero mais vida...
+
+653
+01:23:47,206 --> 01:23:49,164
+...Porra!
+
+654
+01:23:53,184 --> 01:23:55,477
+Os fatos da vida...
+
+655
+01:23:57,031 --> 01:23:59,407
+Provocar uma alteração...
+
+656
+01:23:59,748 --> 01:24:02,381
+na evolução do sistema vital orgânico
+é fatal.
+
+657
+01:24:02,382 --> 01:24:06,561
+A sequência de código não pode
+ser alterada, uma vez estabelecida.
+
+658
+01:24:06,562 --> 01:24:07,314
+Porquê?
+
+659
+01:24:07,315 --> 01:24:10,951
+Porque, ao segundo dia de incubação,
+as células...
+
+660
+01:24:10,952 --> 01:24:14,541
+sujeitas a mutações regressivas
+dão origem...
+
+661
+01:24:14,631 --> 01:24:18,268
+a colonias de regressores.
+Como ratos num navio.
+
+662
+01:24:18,269 --> 01:24:20,316
+E o navio vai ao fundo.
+
+663
+01:24:20,317 --> 01:24:23,278
+E a recombinação E.M.S.?
+
+664
+01:24:24,414 --> 01:24:26,044
+Já tentamos.
+
+665
+01:24:26,045 --> 01:24:29,095
+O E.M.S. é um agente alcalino...
+
+666
+01:24:29,096 --> 01:24:33,527
+e um mutagene potente.
+Criou um vírus tão mortal...
+
+667
+01:24:33,528 --> 01:24:37,164
+que o sujeito morreu
+antes de sair da mesa.
+
+668
+01:24:37,165 --> 01:24:40,551
+E uma proteína repressora
+que bloqueie as células?
+
+669
+01:24:40,552 --> 01:24:44,564
+Não obstruiria a replicação,
+mas provocaria um erro na réplica.
+
+670
+01:24:44,565 --> 01:24:49,199
+A cadeia de ADN formada
+sofreria uma mutação...
+
+671
+01:24:49,415 --> 01:24:52,000
+e teríamos um novo vírus.
+
+672
+01:24:52,424 --> 01:24:54,759
+Mas tudo isto é apenas...
+
+673
+01:24:56,416 --> 01:24:58,129
+acadêmico.
+
+674
+01:24:58,130 --> 01:25:00,721
+Foram concebidos
+da melhor forma possível.
+
+675
+01:25:00,722 --> 01:25:02,681
+Mas não para durar.
+
+676
+01:25:03,147 --> 01:25:06,575
+A luz que brilha com o dobro
+da intensidade, brilha metade do tempo.
+
+677
+01:25:06,576 --> 01:25:10,331
+E você brilhou tão intensamente, Roy.
+
+678
+01:25:11,550 --> 01:25:13,388
+Olhe bem para você.
+
+679
+01:25:13,389 --> 01:25:15,892
+Você é o filho pródigo.
+
+680
+01:25:16,274 --> 01:25:19,110
+Uma perfeito prêmio.
+
+681
+01:25:25,472 --> 01:25:27,101
+Eu fiz...
+
+682
+01:25:27,102 --> 01:25:28,858
+coisas repreensíveis.
+
+683
+01:25:28,859 --> 01:25:31,109
+E coisas extraordinárias.
+
+684
+01:25:31,283 --> 01:25:33,450
+Você gozou bem a vida.
+
+685
+01:25:37,680 --> 01:25:41,686
+Nada que o deus da biomecânica
+impedisse você de chegar ao Céu.
+
+686
+01:27:27,674 --> 01:27:32,271
+O corpo identificado com Tyrell
+é o de um homem de 25 anos, caucasiano.
+
+687
+01:27:32,272 --> 01:27:35,114
+Nome: Sebastian. J.F. Sebastian.
+
+688
+01:27:35,115 --> 01:27:40,083
+Endereço: Apartamentos Bradbury,
+Sector 9, N.F. 46751.
+
+689
+01:27:40,634 --> 01:27:42,968
+Agora quero que você vá até lá.
+
+690
+01:27:46,193 --> 01:27:49,621
+Este setor está fechado ao tráfego
+terrestre. O que você faz aqui?
+
+691
+01:27:49,622 --> 01:27:51,377
+Vou trabalhar. O que faz você aqui?
+
+692
+01:27:51,378 --> 01:27:52,965
+Prendê-lo, é o que vou fazer.
+
+693
+01:27:52,966 --> 01:27:57,141
+Sou Deckard. Blade Runner.
+26354. Registado e monitorado.
+
+694
+01:27:58,067 --> 01:28:00,109
+Espere. Verificando.
+
+695
+01:28:03,544 --> 01:28:06,422
+OK. Confirmado. Boa sorte.
+
+696
+01:28:18,302 --> 01:28:19,429
+Oi. O J.F. está?
+
+697
+01:28:19,430 --> 01:28:22,684
+- Quem é?
+- Sou o Eddie. Um velho amigo do J.F.
+
+698
+01:28:27,415 --> 01:28:30,126
+Isso não é forma de
+se tratar um amigo.
+
+699
+01:31:31,115 --> 01:31:33,616
+Boa noite, J.F.
+
+700
+01:35:32,845 --> 01:35:36,726
+Não é muito esportivo atirar
+em um adversário desarmado.
+
+701
+01:35:38,028 --> 01:35:41,032
+Eu pensava que você era dos bons.
+
+702
+01:35:42,794 --> 01:35:45,923
+Você não é o homem bom?
+
+703
+01:35:50,152 --> 01:35:53,365
+Vem cá! Deckard!
+
+704
+01:35:55,170 --> 01:35:56,919
+Mostra pra mim...
+
+705
+01:35:57,887 --> 01:36:00,179
+do que você feito!
+
+706
+01:36:12,101 --> 01:36:14,519
+Está orgulhoso de si, homenzinho?
+
+707
+01:36:21,884 --> 01:36:23,883
+Este é pela Zhora!
+
+708
+01:36:25,229 --> 01:36:27,145
+Este é pela Pris.
+
+709
+01:36:33,841 --> 01:36:35,673
+Vem cá, Deckard.
+
+710
+01:36:35,931 --> 01:36:39,060
+Estou bem aqui, mas você
+vai ter que acertar o tiro.
+
+711
+01:36:40,195 --> 01:36:42,995
+Sua pontaria não foi tão boa!
+
+712
+01:36:42,996 --> 01:36:44,703
+Agora é a minha vez!
+
+713
+01:36:46,174 --> 01:36:49,386
+Vou lhe dar alguns segundos
+antes de ir.
+
+714
+01:36:50,480 --> 01:36:53,358
+Um. Dois.
+
+715
+01:37:05,990 --> 01:37:08,952
+Três. Quatro.
+
+716
+01:38:34,996 --> 01:38:37,164
+Aí vou eu.
+
+717
+01:38:43,526 --> 01:38:45,275
+Quatro, cinco!
+
+718
+01:38:48,291 --> 01:38:50,542
+Como ficar vivo!
+
+719
+01:39:14,254 --> 01:39:16,045
+Estou vendo você!
+
+720
+01:39:40,759 --> 01:39:44,055
+Ainda não, Deckard!
+
+721
+01:40:27,903 --> 01:40:29,276
+Sim.
+
+722
+01:40:37,143 --> 01:40:39,311
+É melhor reagir!
+
+723
+01:40:39,401 --> 01:40:41,651
+Senão vou ter que matar você!
+
+724
+01:40:41,783 --> 01:40:43,413
+Se você não está vivo...
+
+725
+01:40:43,414 --> 01:40:46,585
+não pode brincar!
+E se não pode brincar...
+
+726
+01:40:55,789 --> 01:40:58,165
+Seis. Sete!
+
+727
+01:40:58,422 --> 01:41:00,925
+Vai para o inferno ou para o céu!
+
+728
+01:41:04,484 --> 01:41:06,568
+Vai para o inferno!
+
+729
+01:41:07,830 --> 01:41:10,164
+Boa! É esse o espírito.
+
+730
+01:41:50,807 --> 01:41:52,849
+Isso dói!
+
+731
+01:41:56,074 --> 01:41:58,660
+Isso foi irracional,
+da sua parte.
+
+732
+01:42:00,339 --> 01:42:02,213
+Para não dizer...
+
+733
+01:42:02,387 --> 01:42:04,721
+antiesportivo.
+
+734
+01:42:08,575 --> 01:42:10,449
+Onde você está indo?
+
+735
+01:45:15,492 --> 01:45:18,745
+Viver com medo é uma
+grande experiência, não é?
+
+736
+01:45:20,634 --> 01:45:23,428
+É assim que vive um escravo.
+
+737
+01:46:23,093 --> 01:46:26,061
+Vi certas coisas...
+
+738
+01:46:26,062 --> 01:46:29,567
+que a sua gente
+não acreditaria.
+
+739
+01:46:30,953 --> 01:46:35,420
+Naves de ataque ardendo
+ao largo de Orion.
+
+740
+01:46:38,269 --> 01:46:40,897
+Vi raios C...
+
+741
+01:46:40,903 --> 01:46:44,617
+cintilando na escuridão
+junto ao Portão de Tannhäuser.
+
+742
+01:46:48,596 --> 01:46:52,602
+Todos esses momentos
+vão se perder...
+
+743
+01:46:53,631 --> 01:46:55,632
+no tempo...
+
+744
+01:46:57,394 --> 01:47:00,397
+como lágrimas...
+
+745
+01:47:02,996 --> 01:47:05,247
+na chuva.
+
+746
+01:47:08,640 --> 01:47:11,518
+Hora de morrer.
+
+747
+01:48:17,454 --> 01:48:20,206
+Você fez um serviço de homem.
+
+748
+01:48:26,108 --> 01:48:28,609
+Acho que chegou ao fim, heim?
+
+749
+01:48:30,623 --> 01:48:32,331
+Acabou-se.
+
+750
+01:48:54,244 --> 01:48:57,080
+É uma pena que
+ela não vá viver.
+
+751
+01:48:58,382 --> 01:49:00,927
+Mas na verdade, quem vai?
+
+752
+01:49:34,378 --> 01:49:35,877
+Rachael?
+
+753
+01:49:44,120 --> 01:49:45,660
+Rachael?
+
+754
+01:49:59,839 --> 01:50:01,379
+Rachael?
+
+755
+01:51:08,444 --> 01:51:10,402
+Você me Ama?
+
+756
+01:51:11,287 --> 01:51:13,036
+Eu te Amo.
+
+757
+01:51:13,546 --> 01:51:15,421
+Confia em mim?
+
+758
+01:51:16,514 --> 01:51:18,389
+Confio em você.
+
+759
+01:51:27,928 --> 01:51:29,510
+Rachael?
+
+760
+01:52:09,484 --> 01:52:12,404
+É uma pena que
+ela não vá viver.
+
+761
+01:52:12,452 --> 01:52:14,912
+Mas na verdade, quem vai?
+
+
+
+0
+00:00:0,500 --> 00:00:2,00
+<font color="#ffff00" size=14>www.moviesubtitles.org</font>

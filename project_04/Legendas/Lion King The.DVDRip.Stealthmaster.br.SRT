@@ -1,0 +1,1016 @@
+{1}{1}23.976
+{1967}{2096}/ Desde o dia em que|ao mundo chegamos /
+{2112}{2215}/ Caminhamos ao rumo do sol /
+{2248}{2371}/ Há mais coisas pra ver|mais que a imaginação /
+{2373}{2497}/ Muito mais pro tempo permitir /
+{2522}{2636}/ E são tantos caminhos pra se seguir /
+{2654}{2774}/ E lugares pra se descobrir /
+{2793}{2867}/ E o sol a girar /
+{2869}{2925}/ Sobre o azul deste céu /
+{2928}{3040}/ Nos mantém nesse rio a fluir /
+{3042}{3138}/ É o ciclo sem fim /
+{3170}{3287}/ Que nos guiará /
+{3314}{3410}/ À dor e à emoção /
+{3452}{3585}/ Pela fé e o amor /
+{3592}{3695}/ Até encontrar /
+{3718}{3847}/ O nosso caminho /
+{3880}{3985}/ Neste ciclo /
+{4002}{4114}/ Neste ciclo sem fim /
+{5244}{5336}/ Neste ciclo sem fim /
+{5377}{5476}/ Que nos guiará /
+{5508}{5616}/ À dor e à emoção /
+{5653}{5771}/ Pela fé e o amor /
+{5784}{5918}/ Até encontrar /
+{5924}{6042}/ O nosso caminho /
+{6083}{6203}/ Neste ciclo /
+{6205}{6353}/ Neste ciclo sem fim /
+{6359}{6473}O REl LEÂO
+{6862}{6929}A vida é injusta, não é?
+{6942}{7026}Veja só, eu nunca serei rei.
+{7072}{7168}E você nunca mais verá a luz do dia.
+{7196}{7219}Adieu.
+{7238}{7322}Sua mãe não lhe ensinou a não|brincar com a comida?
+{7324}{7356}O que você quer?
+{7358}{7439}Vim avisar que o Rei Mufasa|está a caminho.
+{7440}{7543}É bom achar uma boa desculpa por|ter faltado à cerimônia esta manhã.
+{7545}{7611}Olha só, Zazu, você|me fez perder meu almoço.
+{7613}{7676}Perderá mais quando o rei|botar as mãos em você.
+{7678}{7728}Está bravo feito hipopótamo com hérnia.
+{7767}{7823}Estou tremendo de medo.
+{7830}{7890}Scar, não me olhe assim.
+{7892}{7914}Socorro!
+{7922}{7946}Scar.
+{7985}{8015}Solte-o.
+{8016}{8071}Pontualidade britânica, majestade.
+{8163}{8258}Ora, se não é o meu irmão,|descendo de seu trono
+{8260}{8304}para se misturar à ralé.
+{8306}{8392}Surabi e eu não o vimos|na apresentação de Simba.
+{8394}{8426}Foi hoje?
+{8452}{8514}Ah, eu me sinto péssimo.
+{8544}{8589}Que cabecinha ôca tenho eu.
+{8592}{8671}Por mais ôca que seja sua cabeça,
+{8672}{8763}como o irmão do rei,|deveria ser o primeiro da fila.
+{8765}{8871}Eu era o primeiro da fila|até a bolinha de pêIos nascer.
+{8872}{8933}A "bolinha de pêIos" é meu filho
+{8935}{8980}e seu futuro rei.
+{8983}{9043}Ah, devo treinar minha reverência.
+{9064}{9119}Não me vire as costas, Scar.
+{9121}{9213}Talvez você não deva|me virar as costas.
+{9254}{9290}Isto é uma provocação?
+{9292}{9404}Calma, calma. Eu sequer|sonharia em provocá-Io.
+{9414}{9454}Que pena. Por que não?
+{9456}{9543}Porque quanto à inteligência,|fiquei com a parte do leão.
+{9545}{9623}Mas quando se trata de força bruta,
+{9624}{9709}acho que herdei os genes|de úItima categoria.
+{9800}{9850}Toda família tem um destes, majestade.
+{9851}{9899}A minha tem dois.
+{9901}{9973}E eles sempre dão um jeito|de estragar as ocasiões especiais.
+{9975}{10020}O que vou fazer com ele?
+{10022}{10082}Ele daria um belo tapete.
+{10084}{10114}Imagine só,
+{10115}{10202}quando estivesse sujo, poderia|pô-Io para fora e bater nele.
+{11292}{11331}Simba.
+{11655}{11681}Papai.
+{11689}{11747}Vem, papai. Temos que ir.|Acorde.
+{11774}{11800}Desculpe.
+{11831}{11854}Papai.
+{11857}{11881}Papai.
+{11883}{11936}Seu filho acordou.
+{11962}{12034}Antes do alvorecer, ele é seu filho.
+{12036}{12101}Pai.|Vem, pai.
+{12180}{12222}Você prometeu.
+{12249}{12281}Tá bom, tá bom.
+{12283}{12302}Acordei.
+{12304}{12327}Sim.
+{12714}{12740}Veja, Simba,
+{12752}{12844}tudo o que a luz toca|pertence ao nosso reino.
+{12846}{12881}Uau.
+{12892}{12998}O reinado de um governante|nasce e se põe como o sol.
+{13000}{13112}Um dia, o sol se esconderá para mim
+{13114}{13185}e nascerá para você, o novo rei.
+{13194}{13232}E tudo isso será meu?
+{13234}{13263}Tudo.
+{13265}{13319}Tudo aquilo que a luz toca?
+{13339}{13391}E aquele lugar sob a sombra?
+{13392}{13471}É além de nossas fronteiras.|Não deve jamais ir lá.
+{13473}{13523}Mas um rei não faz tudo o que quer?
+{13525}{13608}Ser rei é muito mais do que|só fazer o que se quer.
+{13610}{13644}Mais?
+{13744}{13810}Tudo o que vê existe
+{13811}{13851}num equilíbrio delicado.
+{13852}{13923}Como rei, precisa entender este|equilíbrio
+{13924}{14041}e respeitar todas as criaturas,|da formiga ao antíIope.
+{14043}{14088}Mas nós não comemos os antíIopes?
+{14090}{14143}Sim, mas deixe-me explicar.
+{14151}{14222}Quando morremos, nossos corpos|transformam-se em vegetação,
+{14224}{14284}e o antíIope come a vegetação.
+{14286}{14413}Assim, estamos todos unidos|pelo grande ciclo da vida.
+{14418}{14449}Bom dia, majestade.
+{14451}{14477}Bom dia, Zazu.
+{14479}{14548}- Vamos ao relatório matinal.|- Mande ver.
+{15473}{15509}O que está fazendo, filho?
+{15511}{15532}Caçando.
+{15534}{15590}Veja como faz um profissional.
+{15632}{15683}Fique bem rente...
+{15688}{15727}ao chão.
+{15736}{15791}Isso, fique bem rente ao chão.
+{15793}{15842}Quietinho.
+{15905}{15942}Devagar.
+{15957}{16008}Mais um passo...
+{16018}{16051}E...
+{16699}{16769}Zazu? Notas dos subterrâneos.
+{16771}{16820}- Agora, na próxima...|- Majestade!
+{16821}{16888}Hienas! Nas Terras do Reino!
+{16889}{16925}Leve Simba para casa.
+{16926}{16988}- Pai, deixa eu ir junto?|- Não, filho.
+{17012}{17068}Nunca posso ir a lugar nenhum.
+{17069}{17164}Meu jovem mestre,|um dia será rei...
+{17166}{17261}e poderá correr atrás daquelas|ladras sarnentas e estúpidas...
+{17263}{17313}dia e noite.
+{17477}{17544}Ei, Tio Scar. Adivinhe...
+{17545}{17613}Odeio este tipo de brincadeira.
+{17615}{17671}Um dia vou ser o rei|da Pedra do Rei.
+{17673}{17716}Ótimo.
+{17717}{17835}Meu pai acaba de me mostrar todo|o reino. Serei o rei de tudo isso.
+{17837}{17924}Desculpe se não dou|pulos de alegria.
+{17926}{17978}Problemas de coluna, sabe.
+{18009}{18092}Tio Scar, quando eu for rei,|você será o quê?
+{18093}{18151}Tio de um mico.
+{18153}{18192}Você é tão estranho.
+{18193}{18241}Você nem imagina quanto.
+{18243}{18322}Então seu pai lhe mostrou|todo o reino?
+{18324}{18351}Tudo.
+{18353}{18429}Até o que há|além da fronteira norte?
+{18431}{18516}Bem, não. Me mandou não ir lá.
+{18517}{18570}E fez muito bem.
+{18572}{18660}É perigosíssimo. Só os leões|mais corajosos vão lá.
+{18661}{18725}Eu sou corajoso. O que tem lá?
+{18727}{18807}- Desculpe. Não posso dizer.|- E por que não?
+{18809}{18920}Só estou zelando pelo bem-estar|do meu sobrinho favorito.
+{18922}{18991}Seu único sobrinho.
+{18993}{19052}Mais um motivo para me preocupar.
+{19054}{19156}Um cemitério de elefantes|não é lugar para um príncipe.
+{19158}{19217}Um o quê de elefantes?
+{19219}{19302}Puxa, falei demais.
+{19304}{19367}Ora, iria descobrir mais cedo|ou mais tarde...
+{19369}{19441}esperto como é.
+{19443}{19485}Faça-me apenas um favor.
+{19487}{19601}Prometa jamais ir|até aquele lugar terrível.
+{19603}{19679}- Sem problema.|- Bom rapaz.
+{19681}{19741}Agora vá e divirta-se.
+{19743}{19841}E lembre-se, é nosso segredinho.
+{20015}{20061}- Ei, Nala.|- Ei, Simba.
+{20063}{20116}Vem comigo.|Soube de um lugar genial.
+{20117}{20177}Agora estou tomando meu banho.
+{20178}{20228}E é hora do seu.
+{20261}{20309}Mãe!
+{20310}{20372}Está desmanchando minha juba!
+{20405}{20465}Pronto, limpo. Podemos ir agora?
+{20467}{20539}Onde? Nenhum lugar bobo, espero.
+{20541}{20584}Não. É super legal.
+{20585}{20645}E onde fica|este lugar "super legal"?
+{20681}{20716}Perto da lagoa.
+{20718}{20792}E o que tem de especial nisso?
+{20793}{20860}Lá eu te mostro.
+{20891}{20947}Mãe, posso ir com Simba?
+{20949}{21004}Bem, o que acha, Sarabi?
+{21005}{21040}Por favor?
+{21041}{21068}Está bem.
+{21070}{21147}Contanto que Zazu vá junto.
+{21149}{21193}Não, Zazu não.
+{21194}{21265}Apressem o passo.|Quanto mais cedo chegarmos...
+{21266}{21313}mais cedo partimos.
+{21329}{21372}Aonde estamos indo?
+{21374}{21425}Um cemitério de elefantes.
+{21473}{21533}Como vamos nos livrar desse bobo?
+{21562}{21604}Olhem vocês dois.
+{21606}{21683}É o romance|desabrochando na savana.
+{21685}{21796}Seus pais ficarão satisfeitos,|já que estão noivos.
+{21797}{21864}- Nós o quê?|- Estão noivos. Prometidos.
+{21866}{21924}Comprometidos.
+{21925}{22015}- Que quer dizer...|- Que um dia se casarão.
+{22042}{22100}Não posso casar com ela.|É minha amiga.
+{22101}{22151}la ser muito estranho.
+{22153}{22272}Perdão, mas os dois pombinhos|não têm escolha.
+{22273}{22325}É uma velha tradição.
+{22327}{22389}Quando eu for rei, será abolida.
+{22391}{22462}- Não comigo por perto.|- Então, está demitido.
+{22464}{22518}Só o rei pode fazer isso.
+{22520}{22564}Ele é o futuro rei.
+{22565}{22623}Tem que fazer o que eu mando.
+{22625}{22659}Não tenho. Ainda não.
+{22661}{22768}Com esta atitude,|sairá um rei patético.
+{22769}{22823}Não do modo como eu vejo...
+{22851}{22953}Eu serei um poderoso rei|Inimigos, cuidado comigo
+{22955}{23017}Serás então o primeiro
+{23019}{23087}A ter na juba tão pouco pêlo
+{23089}{23197}Eu serei o astro principal|Como nenhum rei antes de mim
+{23199}{23312}Treinando minha pose real|E o meu rugido forte assim
+{23314}{23385}Que ainda é bastante insignificante
+{23424}{23517}O que eu quero mais é ser rei
+{23518}{23593}Tem um longo caminho pela frente.
+{23595}{23648}- Ninguém dizendo "Faça isso"|- Quando eu disse...
+{23650}{23708}- Ninguém dizendo "Vá lá"|- O que quis dizer...
+{23709}{23766}Ninguém dizendo "Pare com isto"
+{23768}{23841}- Ninguém dizendo "Olhe aqui"|- Mas olhe aqui!
+{23843}{23908}Livre pra correr todo o dia
+{23909}{23957}Está fora de questão.
+{23958}{24060}Livre pra fazer o que eu quiser
+{24133}{24241}Acho que é hora|de termos uma conversinha
+{24243}{24341}Reis não precisam de conselhos|de uma reles avezinha
+{24343}{24468}Se esse é o futuro da monarquia,|eu estou fora
+{24469}{24590}Deste emprego. Da África.!|Aqui não fico
+{24592}{24699}Este guri está fora de si, eu sei
+{24701}{24818}O que eu quero mais é ser rei
+{25100}{25136}Todos juntos pra esquerda
+{25168}{25223}Todos juntos pra direita
+{25225}{25319}Em qualquer lugar|sob as luzes estarei
+{25321}{25356}Ainda não!
+{25357}{25451}Bem alto vamos agora cantar
+{25453}{25544}Cantem comigo|todos na terra e no ar
+{25582}{25687}O Rei Simba não vê a hora de reinar
+{25689}{25782}O que eu quero mais é ser rei
+{25805}{25919}O que eu quero mais é ser rei
+{25921}{26044}O que eu quero mais...
+{26066}{26163}é ser rei
+{26264}{26380}Desculpe, senhora, mas...|saia de cima!
+{26537}{26597}- Deu certo!|- Escapamos dele.
+{26599}{26677}- Eu sou um gênio.|- Ei, gênio, a idéia foi minha.
+{26679}{26731}É, mas eu tive que me livrar dele.
+{26733}{26780}- Com a minha ajuda.|- Ah é?
+{26855}{26923}- Imobilizado.|- Me solta!
+{27047}{27093}Imobilizado de novo.
+{27389}{27447}É aqui. Conseguimos.
+{27655}{27696}É mesmo assustador.
+{27697}{27762}Não é o máximo?
+{27764}{27828}- Podemos entrar uma fria.|- Eu sei.
+{27830}{27907}Será que o cérebro ainda está lá?
+{27909}{28000}Só há um modo de saber.|Vamos dar uma olhada.
+{28001}{28108}Negativo! A única coisa|que vão dar é o fora daqui.
+{28109}{28183}Já deixamos os limites|das Terras do Reino.
+{28185}{28228}O bico-de-banana está assustado.
+{28229}{28297}É Sr. Bico-de-banana|para você, peludo.
+{28299}{28375}Estamos realmente em perigo.
+{28377}{28469}Perigo? Eu gosto de correr perigo.
+{28470}{28532}Eu rio do perigo.
+{28733}{28808}Ora, ora, Banzai.|O que temos aqui?
+{28810}{28908}Não sei, Shenzi. O que acha, Ed?
+{28957}{29063}É como eu pensava.|Um trio de invasores.
+{29065}{29167}Foi acidental, garanto.|Um erro de navegação.
+{29169}{29218}Espere aí.
+{29220}{29308}Eu o conheço.|É o capacho do Mufasa.
+{29310}{29367}Minha senhora,|sou o conselheiro do Rei.
+{29369}{29444}- E você deve ser...|- O futuro rei!
+{29445}{29528}Sabe o que fazemos com reis|que deixam seu reino?
+{29529}{29590}Não podem fazer nada comigo.
+{29592}{29649}Podem. Estamos no território deles.
+{29650}{29757}Mas disse que eram só ladras|sarnentas e estúpidas.
+{29758}{29841}- ES-pes TÚ-pu Pl-pi DO-po!|- Quem chamou de estúpido?
+{29843}{29896}O sol, vejam. É hora de irmos.
+{29897}{29976}Por que a pressa?|Fiquem para o jantar.
+{29978}{30065}Podíamos comer meda"liões".
+{30067}{30185}Espera aí. Tenho uma boa.|Salta um sanduíche de fi"lhotes".
+{30230}{30272}O que foi, Ed? O que é?
+{30274}{30327}Pedimos pra viagem?
+{30329}{30408}- Não, por que?|- Porque lá vão eles!
+{30567}{30660}- Despistamos eles?|- Acho que sim. Cadê Zazu?
+{30661}{30770}Aí o piupiuzinho|vai pro escalda-passarinho.
+{30772}{30848}Não! O escalda-passarinho não!
+{30941}{30996}Por que não procuram alguém|do seu tamanho?
+{30998}{31028}Como você?
+{31921}{32000}Aqui, gatinho, gatinho.
+{32114}{32164}É só isso?
+{32166}{32201}Mais uma vez.
+{32492}{32533}Por favor, titio. Titio.
+{32535}{32582}- Silêncio!|- Ficamos caladas.
+{32584}{32625}Sentimos muito.
+{32627}{32708}Se ousarem chegar|perto do meu filho...
+{32709}{32784}- É seu...|...filho?!
+{32785}{32869}- Você sabia disso?|- Eu não. E você?
+{32871}{32939}Não. É claro que não sabia.
+{33025}{33049}Tchauzinho.
+{33233}{33291}- Papai, eu...|- Você me desobedeceu deliberadamente.
+{33324}{33357}Sinto muito.
+{33359}{33406}Vamos para casa.
+{33472}{33526}Achei que você era mais corajoso.
+{34046}{34153}Leve Nala para casa. Preciso|ensinar uma lição ao meu filho.
+{34258}{34303}Venha, Nala.
+{34353}{34396}Boa sorte.
+{35229}{35273}Estou muito decepcionado com você.
+{35275}{35333}- Eu sei.|- Você poderia ter morrido.
+{35335}{35440}E me desobedeceu deliberadamente.|Pior, pôs Nala em perigo.
+{35479}{35537}Queria ser corajoso, como você.
+{35539}{35620}A coragem tem hora e lugar.
+{35675}{35711}Ser corajoso...
+{35713}{35768}não significa procurar confusão.
+{35770}{35816}Você nunca sente medo de nada.
+{35850}{35897}- Senti medo hoje.|- Foi?
+{35899}{35985}Pensei que ia perder você.
+{36020}{36090}Acho que reis|também sentem medo, né?
+{36118}{36168}Mas sabe de uma coisa?
+{36170}{36244}Aquelas hienas|tiveram muito mais medo.
+{36270}{36348}Porque ninguém é páreo|para o seu pai.
+{36349}{36404}Venha cá, seu...
+{36532}{36573}Te peguei!
+{36706}{36743}Pai.
+{36745}{36807}- Somos amigos, certo?|- Certo.
+{36809}{36872}E vamos sempre estar juntos, certo?
+{36950}{37036}Vou lhe contar algo|que meu pai me contou.
+{37053}{37100}Olhe as estrelas.
+{37101}{37221}Os grandes reis ancestrais estão lá|em cima nos observando.
+{37223}{37279}- Sério?|- É verdade.
+{37281}{37335}Então quando se sentir só...
+{37337}{37447}lembre-se que esses reis|estarão sempre lá para guiá-lo...
+{37485}{37531}e que eu também estarei.
+{37682}{37777}Mufasa safado! Não vou poder|sentar por 1 semana.
+{37850}{37887}Não tem a menor graça, Ed.
+{37982}{38005}Cala a boca!
+{38102}{38137}Parem com isso!
+{38172}{38244}- Foi ele que começou.|- Que vergonha.
+{38245}{38305}Por isso estamos pendurados|no fim da cadeia alimentar.
+{38306}{38343}Odeio ficar pendurado.
+{38345}{38437}Não fossem esses leões,|estaríamos no comando.
+{38439}{38475}Odeio leões.
+{38477}{38521}- Tão agressivos.|- E peludos.
+{38523}{38629}- E fedorentos.|- E, cara, como são feios!
+{38667}{38740}Certamente|não somos tão maus assim.
+{38772}{38814}Scar, ainda bem que é você.
+{38816}{38897}- E não alguém importante.|- Como Mufasa.
+{38899}{38937}Entendo.
+{38939}{39036}- Aquilo sim é força.|- Tremo só de ouvir o nome dele.
+{39090}{39134}Outra vez.
+{39201}{39248}Fiquei toda arrepiada.
+{39249}{39315}Estou cercado de idiotas.
+{39317}{39392}Você é um dos nossos.|É nosso amigo.
+{39393}{39456}- Estou comovido.|- Gostei.
+{39457}{39542}Ele não é o rei,|mas é tão educado.
+{39544}{39624}Trouxe comida, hein?|Amigão? Trouxe?
+{39625}{39680}Acho que não merecem isso.
+{39681}{39756}Servi aqueles leõezinhos|de bandeja para vocês...
+{39757}{39839}e não conseguiram se livrar deles.
+{39905}{40004}Mas eles não estavam sozinhos.
+{40005}{40100}Que queria que a gente fizesse,|matasse Mufasa?
+{40145}{40188}Exatamente.
+{40445}{40535}A sua capacidade de retenção
+{40537}{40632}É mais escorregadia|que lombo dejavali
+{40634}{40728}Mesmo assim, idiotas, atenção
+{40729}{40820}Uma questão de orgulho,|é o que temos aqui
+{40821}{40911}Fica claro por sua vaga expressão
+{40913}{41009}Que falta algo nessa cabeça
+{41011}{41091}Mas falamos de reis e sucessão
+{41093}{41192}E até vocês podem ter uma surpresa
+{41193}{41287}Se preparem para o melhor|de suas vidas
+{41289}{41387}Se preparem|para notícias sensacionais
+{41389}{41482}Uma era de glória|que entrará para a história
+{41484}{41521}E qual será nosso valor?
+{41523}{41576}Ouçam o professor.
+{41577}{41669}Sórdido, lhes parece|mas terão o que merecem
+{41671}{41758}Quando eu tiver|o que me é de direito
+{41760}{41844}E belos dias de injustiça chegarem
+{41845}{41923}Se preparem.!
+{41925}{42019}Certo. Vamos estar preparadas!|Para quê?
+{42021}{42076}- Para a morte do rei.|- Ele está doente?
+{42078}{42152}Não! Vamos liquidar|com ele e com Simba!
+{42154}{42198}Ótimo! Quem precisa de rei?
+{42200}{42263}Sem rei!|Sem Rei! La la la la la la.
+{42265}{42316}Idiotas! Haverá um rei!
+{42317}{42394}- Mas acabou de dizer...|- Eu serei o rei!
+{42396}{42435}Fiquem do meu lado...
+{42437}{42527}e jamais sentirão fome outra vez!
+{42529}{42597}É isso aí! Vida longa ao rei!
+{42598}{42672}Vida longa ao rei!
+{42712}{42801}Logo estaremos unidas então
+{42803}{42876}E teremos um rei adorado
+{42897}{42990}Mas, quid pro quo,|vocês terão
+{42992}{43080}Muito trabalho por seu lado
+{43081}{43187}O futuro muitos prêmios nos trará
+{43189}{43280}Embora todos eu vá receber
+{43281}{43369}Mas uma coisa devo avisá-las
+{43371}{43455}Sem mim não terão o que comer.!
+{43457}{43551}Se preparem para o golpe do século.!
+{43553}{43648}Se preparem para a maior traição
+{43650}{43745}Um plano meticuloso|um ataque vigoroso
+{43747}{43840}Décadas de privação|e aí então eu serei
+{43841}{43933}Um todo poderoso rei.!|Respeitado, saudado, venerado
+{43935}{44012}Alvo de adoração
+{44014}{44104}Presas e ambições à mostra
+{44106}{44181}Se preparem.!
+{44213}{44292}Presas e ambições à mostra
+{44293}{44388}Se preparem.!
+{44539}{44554}[Skipped item nr. 399]
+{44683}{44799}Espere aqui. Seu pai tem|uma bela surpresa para você.
+{44801}{44905}- O que é?|- Se eu contar, não será surpresa.
+{44907}{44986}Pode contar.|Finjo que estou surpreso.
+{44988}{45056}Que grande malandrinho.
+{45058}{45129}- Por favor, Tio Scar.|- Não, não e não.
+{45131}{45192}É apenas entre vocês dois.
+{45194}{45308}Um tipo de coisa entre pai e filho.
+{45310}{45368}Bem, é melhor eu ir buscá-lo.
+{45370}{45420}Quero ir junto.
+{45456}{45542}Não. Fique aqui nesta rocha.
+{45544}{45632}Não deve se meter em outra|encrenca como a das hienas.
+{45634}{45727}- Já soube?|- Simba, todos sabem.
+{45729}{45798}- É mesmo?|- É.
+{45799}{45890}Felizmente o papai apareceu|para salvá-lo, não é?
+{45891}{45951}Cá entre nós...
+{45953}{46037}devia praticar mais|esse rugido de nada.
+{46146}{46188}Tio Scar.
+{46190}{46238}É uma surpresa boa?
+{46240}{46324}Simba, é de morrer.
+{46855}{46882}Cale a boca!
+{46883}{46966}Estou morto de fome.|Vou caçar um antílope!
+{46967}{47009}Fique quieto aí.
+{47011}{47059}Não posso traçar só unzinho?
+{47061}{47151}Não! Temos que esperar|o sinal de Scar.
+{47196}{47226}Lá está ele.
+{47227}{47274}Vamos.
+{47295}{47349}Rugido de nada.
+{48837}{48888}Majestade, os animais vêm vindo.
+{48890}{48942}- Estranho.|- Mufasa, rápido.
+{48944}{49030}É um estouro. No desfiladeiro.|Simba está lá!
+{49584}{49625}Zazu, me ajude.
+{49627}{49699}- Seu pai vem aí. Aguente firme.|- Rápido!
+{49791}{49849}Lá! Naquela árvore!
+{49851}{49879}Segure firme, Simba.
+{50051}{50098}Scar, isto é terrível.
+{50099}{50142}Que vamos fazer?
+{50144}{50213}Já sei. Vou buscar ajuda.
+{51082}{51117}Papai!
+{51725}{51775}Irmão! Ajude-me!
+{51979}{52053}Vida longa ao Rei.
+{52555}{52597}Papai!
+{53862}{53908}Acorda, pai.
+{53938}{53984}Precisa levantar.
+{54060}{54106}Precisamos ir pra casa.
+{54368}{54415}Socorro!
+{54468}{54506}Alguém!
+{54535}{54571}Qualquer um.
+{54615}{54649}Socorro.
+{55423}{55469}O que foi fazer?
+{55502}{55584}Os antílopes vieram|e ele tentou me salvar.
+{55586}{55661}Foi um acidente.|Eu não tive intenção.
+{55663}{55705}É claro.
+{55707}{55770}Claro que não.
+{55771}{55892}Ninguém torce para que|estas coisas acontecerem.
+{55894}{55936}Mas o rei está morto.
+{55978}{56047}E se não fosse você,|ele ainda estaria vivo.
+{56182}{56222}O que sua mãe vai pensar?
+{56253}{56317}- O que devo fazer?|- Fuja.
+{56371}{56414}Fuja daqui...
+{56415}{56463}e não volte nunca mais.
+{56635}{56670}Matem-no.
+{57950}{57987}Lá vai ele!
+{57989}{58035}Então vá atrás dele.
+{58037}{58163}Nem pensar. Pra sair igual|a você, bunda-de-cactus?
+{58184}{58227}Precisamos terminar o serviço.
+{58229}{58306}Vai morrer lá de qualquer jeito.
+{58308}{58367}E se voltar, nós o matamos.
+{58369}{58410}Certo. Ouviu bem?
+{58411}{58506}Se voltar, acabamos com você.
+{58709}{58814}A morte de Mufasa|é uma tragédia terrível.
+{58815}{58910}Mas perder Simba,|que mal começara a viver...
+{58935}{58991}Para mim, é uma perda...
+{58993}{59053}pessoal irreparável.
+{59055}{59157}Por isso é com um peso no coração|que eu assumo o trono.
+{59159}{59253}Contudo,|das cinzas desta tragédia...
+{59255}{59331}surge o despertar|de uma nova era...
+{59333}{59383}onde leões e hienas...
+{59385}{59447}irão unir-se...
+{59449}{59523}em um futuro glorioso.
+{60658}{60707}Saiam! Dêem o fora daqui!
+{60709}{60794}Adoro jogar boliche com urubus!
+{60796}{60846}Eles sempre caem.
+{60894}{61001}Ei, Timon. É melhor vir dar uma|olhada. Acho que ainda está vivo.
+{61042}{61113}Muito bem. O que temos aqui?
+{61267}{61315}Nossa! É um leão!
+{61317}{61423}- Corra, Pumbaa!|- É só um filhote de leão.
+{61425}{61460}Olhe pra ele.
+{61462}{61535}Tão bonitinho e sozinho.
+{61537}{61597}- Podemos ficar com ele?|- Ficou maluco?
+{61599}{61661}É um leão.|Eles comem caras como nós.
+{61663}{61709}Mas ele é tão pequeno.
+{61711}{61768}- Vai crescer.|- Talvez fique do nosso lado.
+{61770}{61864}É a coisa mais estúpida|que já ouvi.
+{61866}{61910}Tem razão.
+{61912}{62026}E se ficar do nosso lado? Ter|um leão por perto não é má idéia.
+{62027}{62110}- Podemos ficar com ele?|- Claro. Quem é o cérebro aqui?
+{62112}{62184}Exatamente. Nossa, estou fritando.
+{62186}{62236}Vamos procurar uma sombra.
+{62437}{62491}- Você está bem, garoto?|- Acho que sim.
+{62493}{62553}- Quase morreu.|- Eu o salvei.
+{62555}{62617}Bem, Pumbaa ajudou... um pouco.
+{62619}{62669}Obrigado pela ajuda.
+{62694}{62760}- Aonde vai?|- A lugar nenhum.
+{62779}{62813}Ele me parece blue.
+{62815}{62862}Eu diria castanho-alaranjado.
+{62863}{62914}Quis dizer blue de deprimido.
+{62953}{62982}Que bicho te mordeu?
+{62983}{63030}Nenhum. Ele está no topo|da cadeia alimentar.
+{63115}{63150}A cadeia alimentar.
+{63248}{63286}De onde você é?
+{63288}{63340}Que diferença faz?|Não posso voltar.
+{63342}{63413}Um pária. Ótimo. Como nós.
+{63415}{63447}O que você fez?
+{63449}{63515}Não quero falar sobre isso.
+{63517}{63558}Ótimo. Não queremos ouvir.
+{63560}{63607}Podemos ajudar em alguma coisa?
+{63609}{63672}Só se puderem mudar o passado.
+{63674}{63754}Sabe, garoto, meu colega Timon|sempre diz:
+{63756}{63820}"Precisa deixar o traseiro|no passado".
+{63822}{63864}Quis dizer...
+{63866}{63952}Amador. Deite pra não se machucar.
+{63954}{64024}"Precisa deixar|o passado para trás".
+{64026}{64118}Desgraças acontecem.|Não há como evitá-las, certo?
+{64119}{64144}- Certo.|- Errado!
+{64146}{64211}Quando o mundo dá|as costas pra você...
+{64213}{64276}você dá as costas para o mundo.
+{64278}{64323}Não foi isso que me ensinaram.
+{64325}{64414}Talvez precise de uma nova lição.|Repita comigo.
+{64436}{64484}Hakuna Matata.
+{64486}{64583}Hakuna Matata.|Significa "sem preocupações".
+{64585}{64650}Hakuna Matata.!
+{64668}{64738}Que expressão mais maneira
+{64799}{64881}Não é uma moda passageira
+{64883}{65022}Significa sem preocupações|para o resto da vida
+{65023}{65098}Só ter alegria
+{65099}{65151}É a nossa fiilosofiia
+{65153}{65216}Hakuna Matata.!
+{65259}{65296}É o nosso lema!
+{65298}{65372}- O que é um lema?|- Nada. Por quê? Algum prob"lema"?
+{65410}{65502}Garoto, estas duas palavras são|a solução dos seus problemas.
+{65503}{65580}Isso mesmo.|Veja Pumbaa, por exemplo.
+{65582}{65649}Quando ele era um jovem javali
+{65651}{65742}Quando eu era um jovem javali
+{65743}{65788}- Muito bem.|- Obrigado.
+{65790}{65854}Ele sabia que fedia...
+{65856}{65915}Expulsava todos da savana|cada vez que comia
+{65917}{66056}Sou um cara sensível|Mesmo tendo a pele dura
+{66058}{66100}E me causa sofrimento
+{66102}{66190}Meus amigos nunca ficarem|contra o vento.!
+{66192}{66270}- Oh, que vergonha.!|- Ele sentia vergonha.!
+{66271}{66332}- Queria mudar de nome|- Que há num simples nome?
+{66334}{66393}- Fiquei deprimido.|- Como se sentiu?
+{66395}{66430}Toda vez que eu soltava um...
+{66432}{66485}- Não na frente das crianças.|- Desculpe.
+{66509}{66563}Hakuna Matata.!
+{66565}{66639}Que expressão mais maneira
+{66693}{66772}Não é uma moda passageira
+{66774}{66865}Significa sem preocupações|para o resto da vida
+{66867}{66907}Cante, garoto!
+{66909}{66988}Só ter alegria
+{66990}{67043}É a nossa fiilosofiia
+{67045}{67115}Hakuna Matata.!
+{67140}{67189}Bem-vindo ao nosso humilde lar.
+{67191}{67259}- Vocês vivem aqui?|- A gente vive onde quiser.
+{67261}{67313}Lar é onde a gente se sentar.
+{67315}{67355}É lindo.
+{67373}{67409}Estou morto de fome.
+{67411}{67464}Podia comer uma zebra inteirinha.
+{67498}{67533}Estamos com falta de zebras.
+{67535}{67576}Tem antílopes?
+{67578}{67616}Hipopótamos?
+{67618}{67693}Para morar com a gente,|precisa comer como a gente.
+{67695}{67755}Aqui é um bom lugar|pra descolar um grude.
+{67798}{67863}- Eca! O que é isso?|- Larvas.
+{67865}{67910}É nojento.
+{67939}{67974}Tem gosto de galinha.
+{68003}{68064}Gosmento, mas satisfaz.
+{68066}{68121}São iguarias raras.
+{68152}{68227}Picantes e bem crocantes.
+{68229}{68265}Vai aprender a apreciá-las!
+{68267}{68382}Garoto, isto é vida.|Sem regras nem responsabilidades.
+{68383}{68448}Recheio de creme!
+{68450}{68533}E o melhor de tudo,|sem preocupações.
+{68535}{68568}E aí, garoto?
+{68570}{68632}Bom, Hakuna Matata.
+{68749}{68809}Gosmento, mas satisfaz.
+{68811}{68854}É isso aí.
+{69259}{69314}Significa sem preocupações
+{69316}{69389}para o resto da vida
+{69391}{69476}Só ter alegria
+{69478}{69522}É a nossa fiilosofiia
+{70393}{70482}Ninguém sabe
+{70484}{70563}dos problemas que passei
+{70565}{70661}Ninguém sabe
+{70663}{70706}Da minha tristeza
+{70707}{70757}Zazu. Alegre-se.
+{70759}{70835}Cante algo mais animado.
+{70866}{70930}É um mundo bem melhor
+{70931}{71008}Não, não!|Qualquer coisa exceto isto.
+{71044}{71110}Eu tenho um monte de côcos bonitos
+{71137}{71218}E lá estão todos em fiila
+{71220}{71297}Côcos grandes e pequenos|alguns iguais a sua cabeça
+{71299}{71369}Jamais precisei fazer isso|com Mufasa.
+{71371}{71423}O que disse?
+{71425}{71475}- Nada.|- Conhece a lei.
+{71477}{71583}Jamais mencione este nome|na minha presença. Eu sou o rei!
+{71585}{71702}Sim, Majestade. Sois o Rei.|Só falei para ilustrar...
+{71704}{71787}as diferenças|entre seus estilos de governo.
+{71789}{71860}- Ei, chefe!|- O que é agora?
+{71862}{71897}Precisamos ter uma conversinha.
+{71899}{71978}Eu cuido disso.|Scar, não temos comida nem água.
+{71979}{72073}É hora do jantar|e não vejo nossos pratos!
+{72075}{72181}As leoas é que se ocupam da caça.
+{72183}{72257}- Mas elas se recusam a caçar.|- Comam Zazu.
+{72259}{72375}Não iam gostar.|Minha carne é dura e fibrosa.
+{72377}{72458}Não seja tolo.|Só precisa de algum tempero.
+{72459}{72509}Achei que a vida era dura|com o Mufasa.
+{72511}{72569}- O quê?!|- Eu disse Muf...
+{72571}{72613}Disse qué pasa?
+{72615}{72671}Bom. Agora dêem o fora.
+{72729}{72799}- Mas ainda estamos com fome!|- Fora!
+{72968}{73019}Esse foi dos bons, Simba.
+{73020}{73091}Obrigado. Cara, estou cheio.
+{73092}{73175}Eu também. Comi como um porco.
+{73176}{73231}Pumbaa, você é um porco.
+{73232}{73283}Ah, é.
+{73608}{73706}Nunca quis saber o que são aqueles|pontos brilhantes lá em cima?
+{73708}{73790}Pumbaa, eu sei o que são.
+{73817}{73852}O quê?
+{73854}{73900}Vaga-lumes.
+{73901}{74004}Vaga-lumes presos|naquela coisa azul escuro.
+{74032}{74152}Puxa, pensei|que eram bolas de gás...
+{74154}{74234}queimando a bilhões de Kms.
+{74236}{74307}Você só pensa em gases.
+{74309}{74368}Simba, o que acha?
+{74370}{74412}Não sei.
+{74413}{74513}Anda, fala.|Nós contamos a nossa versão.
+{74515}{74565}Por favor?
+{74585}{74636}Uma vez me disseram que...
+{74638}{74744}os grandes reis ancestrais|estão lá em cima nos observando.
+{74746}{74768}É sério?
+{74769}{74855}Quer dizer que um monte de reis|mortos estão lá nos olhando?
+{74990}{75051}Quem te falou uma asneira destas?
+{75053}{75090}Que maluco inventou isto.
+{75115}{75173}Bobagem, não?
+{75175}{75233}Essa é de matar.
+{75491}{75541}Eu disse alguma coisa errada?
+{76838}{76899}Vivo? Ele está vivo!
+{77271}{77306}Chegou a hora!
+{77524}{77618}Na selva, na magnífica selva
+{77620}{77720}O leão dorme à noite
+{77722}{77814}Na selva, na magnífica selva
+{77816}{77860}O leão dorme à noite
+{77861}{77923}Não ouço você, amigão!|Cante comigo!
+{79334}{79404}- O que está acontecendo?|- Ela vai me comer!
+{79481}{79560}Puxa, por que sempre tenho|que salvar a sua ca...
+{79700}{79797}Não se preocupe, amigão.|Tudo vai dar certo.
+{79799}{79849}Acaba com ela! Morde na cabeça!
+{79884}{79952}Pega na jugular!
+{79954}{79998}Não disse que ele ia ser útil?
+{80111}{80145}Nala?
+{80234}{80271}É você?
+{80273}{80309}Quem é você?
+{80311}{80371}Sou eu, Simba.
+{80535}{80561}Como você...?
+{80609}{80689}- De onde você surgiu?|- Puxa, é ótimo ver você.
+{80691}{80742}Ei, o que está acontecendo aqui?
+{80744}{80815}- O que está fazendo aqui?|- Eu? E você?
+{80816}{80896}Ei! O que está acontecendo aqui?!
+{80897}{80970}Timon, esta é Nala.|É minha melhor amiga.
+{80972}{80994}Amiga?!
+{81040}{81096}Venha até aqui!
+{81097}{81153}Este é Pumbaa. Esta é Nala.
+{81155}{81196}Muito prazer.
+{81197}{81264}O prazer é meu.
+{81266}{81320}Tempo! Deixe ver se entendi.
+{81322}{81416}Você conhece ela. Ela te conhece.|Ela quer comer ele...
+{81417}{81526}e todos estão de acordo?|Eu entendi direito?
+{81528}{81553}Relaxe.
+{81555}{81620}Espere até todos saberem|que está vivo.
+{81621}{81661}E sua mãe.
+{81663}{81710}O que ela vai pensar?
+{81712}{81788}Ela não precisa saber.|Ninguém precisa.
+{81790}{81844}Precisam sim.|Todos pensam que está morto.
+{81846}{81874}É mesmo?
+{81876}{81953}É. Scar nos contou sobre o estouro.
+{81955}{82039}Contou? O que mais ele contou?
+{82041}{82126}Que mais importa? Você está vivo.|E isso significa que...
+{82128}{82169}você é o rei.
+{82171}{82217}Rei?
+{82219}{82297}Minha jovem,|está trocando os leões!
+{82299}{82327}O rei.
+{82329}{82358}Majestade.
+{82360}{82408}Eu me mostro aos seus pés.
+{82431}{82508}- Pare com isso.|- Não é mostro. É prostro.
+{82509}{82560}E ele não é o rei.
+{82562}{82599}Ou é?
+{82627}{82744}Eu não sou o rei. Talvez fosse um|dia, mas isso foi há muito tempo.
+{82746}{82836}Espere aí. Você é o rei|e nunca nos contou?
+{82838}{82904}- Ainda sou o mesmo.|- Mas tem poder.
+{82906}{82981}Podem nos deixar a sós|por alguns minutos?
+{82983}{83074}Diga o que tem para dizer|na nossa frente. Certo?
+{83127}{83163}Acho melhor vocês irem.
+{83194}{83280}É assim que começa.|Como a gente se engana.
+{83352}{83434}Com o tempo vai gostar deles.
+{83490}{83527}O que foi?
+{83558}{83589}O que há?
+{83619}{83687}Parece que você ressuscitou|dos mortos.
+{83688}{83777}Não tem idéia|do que significará para todos.
+{83779}{83820}O que significa para mim.
+{83821}{83864}Está tudo bem.
+{83865}{83919}Senti muitas saudades suas.
+{83920}{83967}Eu também senti saudades.
+{84035}{84107}Vou te dizer. Isso fede.
+{84108}{84151}Desculpe.
+{84152}{84200}Não você. Eles!
+{84202}{84248}Ele. Ela.
+{84249}{84290}Sozinhos.
+{84292}{84328}O que tem demais?
+{84330}{84385}- Já vejo o que vai acontecer|- O quê?
+{84387}{84448}- E eles nem percebem|- Quem?
+{84450}{84535}Vão se apaixonar|E que acontece depois?
+{84537}{84608}Do nosso trio|restam dois
+{84609}{84684}O afago doce do entardecer
+{84686}{84758}Magia por todo lugar
+{84760}{84894}E o que este clima|Romântico parece dizer é que
+{84896}{85034}O desastre está no ar.!
+{85112}{85250}Nesta noite o amor chegou
+{85272}{85387}Com a paz que a tarde traz
+{85403}{85479}O mundo enfiim
+{85480}{85552}Em perfeita harmonia
+{85554}{85681}Com tudo que nele há
+{85712}{85786}Tanto para dizer a ela
+{85788}{85862}Mas como contar assim
+{85864}{85946}A verdade sobre me passado?|Impossível.!
+{85948}{86016}Ela fugiria de mim
+{86018}{86085}Ele está escondendo algo
+{86087}{86168}Mas seja lá o que for
+{86169}{86247}Por que não assume que é rei?
+{86248}{86365}O rei que vejo em seu interior
+{86367}{86497}Nesta noite o amor chegou
+{86525}{86643}Com a paz que a tarde traz
+{86662}{86733}O mundo enfiim
+{86735}{86809}Em perfeita harmonia
+{86811}{86945}Com tudo que nele há
+{86974}{87045}Nesta noite
+{87047}{87117}O amor chegou
+{87134}{87252}Está presente bem ali
+{87292}{87340}Chegando agora
+{87342}{87424}Através da noite
+{87426}{87549}O amor está com eles aqui
+{87569}{87642}E se ele se apaixonar
+{87644}{87726}Esta noite
+{87748}{87889}Podemos estar certos
+{87891}{87977}Seus dias alegres ao nosso lado
+{87979}{88033}Acabaram
+{88035}{88128}Ou seja, nosso amigo
+{88130}{88286}Está condenado.!
+{88478}{88521}Aqui não é maravilhoso?
+{88523}{88575}É lindo.
+{88577}{88640}Mas não entendo uma coisa.
+{88642}{88758}Se estava vivo, por que não|voltou para as Terras do Reino?
+{88760}{88872}Precisava ficar sozinho,|viver minha própria vida.
+{88873}{88918}Foi o que fiz. É ótimo.
+{88920}{88970}Precisamos de você em casa.
+{88972}{89013}Ninguém precisa de mim.
+{89015}{89073}Precisamos sim. Você é o rei.
+{89075}{89149}Já discutimos isto.|Scar é que é o rei.
+{89151}{89260}Ele deixou as hienas|controlarem as Terras do Reino.
+{89262}{89335}Tudo foi destruído.|Não há comida, nem água.
+{89337}{89407}Você precisa fazer algo|ou todos morrerão de fome.
+{89408}{89488}- Não posso. Você não entenderia.|- Por que não?
+{89490}{89554}Não importa. Hakuna Matata.
+{89556}{89597}- O quê?|- Hakuna Matata.
+{89599}{89704}Aprendi isso aqui.|Às vezes desgraças acontecem.
+{89705}{89793}Não podemos fazer nada,|então pra que nos preocuparmos?
+{89795}{89836}É sua responsabilidade!
+{89866}{89903}Olha quem fala! Você fugiu.
+{89905}{90015}Em busca de ajuda.|E achei você. Não entende?
+{90017}{90073}É nossa única esperança.
+{90075}{90109}Desculpe.
+{90111}{90200}Que aconteceu? Você não é|o mesmo Simba de antes.
+{90201}{90284}Tem razão, não sou. Satisfeita?
+{90286}{90335}Não. Só decepcionada.
+{90337}{90404}Está começando a falar|como meu pai.
+{90406}{90482}Pelo menos um de nós fala.
+{90484}{90602}Não me diga como viver minha vida.|Você não sabe o que passei.
+{90604}{90645}Saberia se me contasse.
+{90647}{90697}- Esqueça!|- Ótimo!
+{90724}{90738}[Skipped item nr. 789]
+{90781}{90816}Ela está enganada.
+{90817}{90935}Não posso voltar. Para provar|o quê? Não mudaria nada.
+{90957}{91007}Ninguém pode mudar o passado.
+{91078}{91137}Você disse que sempre|estaria comigo!
+{91160}{91206}Mas não está.
+{91257}{91310}A culpa é minha.
+{91329}{91375}A culpa é minha.
+{91396}{91450}A culpa é minha.
+{91583}{91661}We we nugu, mi mi apana|Asante sana, squash banana
+{91663}{91704}We we nugu, mi mi apana
+{91705}{91782}Asante sana, squash banana
+{92523}{92601}- Corta essa!|- Não dá. Vai crescer de novo.
+{92631}{92732}Mico idiota. Pare de me seguir.|Quem é você?
+{92733}{92793}A questão é, quem é você?
+{92864}{92904}Achei que sabia.
+{92906}{92944}Agora não tenho mais certeza.
+{92946}{93041}Eu sei quem você é. Chegue aqui.|É um segredo.
+{93137}{93183}Chega disso! O que está dizendo?
+{93185}{93275}Que você é um babuíno.|E eu não.
+{93312}{93364}Acho que está meio perturbado.
+{93366}{93476}Errado! Eu não.|Você é que não sabe quem é.
+{93478}{93516}E vai dizer que você sabe.
+{93517}{93600}Claro que sei.|Você é o filho de Mufasa.
+{93631}{93689}- Tchau.|- Espere!
+{93911}{94017}- Conheceu meu pai?|- Correção. Conheço o seu pai.
+{94062}{94113}Sinto dizer-lhe...
+{94115}{94186}mas ele morreu|há muito tempo atrás.
+{94188}{94236}Errado novamente!
+{94272}{94348}Ele está vivo. E você vai vê-lo.
+{94349}{94440}Siga o velho Rafiki.|Ele sabe o caminho. Venha!
+{94656}{94701}Não enrole. Corra!
+{94702}{94738}Espere, espere.
+{94740}{94791}Siga-me.
+{94841}{94876}Quer ir mais devagar?
+{95148}{95184}Pare!
+{95314}{95349}Dê uma olhada ali embaixo.
+{95953}{96046}Não é o meu pai.|É só o meu reflexo.
+{96094}{96161}Olhe mais atentamente.
+{96312}{96340}Vê?
+{96377}{96430}Ele vive em você.
+{96606}{96636}Papai?
+{96835}{96893}Simba, você me esqueceu.
+{96895}{96946}Não. Como eu poderia?
+{96948}{97066}Esqueceu quem você é.|E assim me esqueceu.
+{97068}{97128}Olhe dentro de você.
+{97129}{97227}Você é mais do que se tornou.
+{97229}{97300}Precisa assumir seu lugar|no ciclo da vida.
+{97301}{97396}Como posso voltar.|Não sou o mesmo de antes.
+{97398}{97496}Lembre de quem você é.
+{97498}{97585}É meu fiilho|e o único verdadeiro rei.
+{97632}{97658}Lembre...
+{97674}{97720}de quem você é.
+{97721}{97790}Não! Por favor...|não me deixe.
+{97792}{97837}- Lembre.|- Papai!
+{97838}{97915}- Lembre.|- Não vá embora.
+{97917}{97963}Lembre.
+{98161}{98210}O que foi isso?
+{98212}{98261}O tempo.
+{98263}{98320}Muito peculiar, não acha?
+{98321}{98396}Parece que os ventos|estão mudando.
+{98398}{98465}Mudanças são boas.
+{98466}{98511}É, mas não são fáceis.
+{98513}{98632}Sei o que fazer. Mas voltar|significa encarar o passado.
+{98657}{98713}Há tanto tempo que fujo dele.
+{98746}{98790}Por que fez isso?
+{98792}{98857}Não importa. Faz parte do passado.
+{98859}{98910}Mas ainda dói.
+{98912}{98976}O passado às vezes dói.
+{98978}{99057}Mas ou você foge dele...
+{99059}{99108}ou aprende com ele.
+{99142}{99192}Viu? Então, o que vai fazer?
+{99193}{99261}Primeiro, tomar o seu cajado.
+{99262}{99316}Não! O cajado não!
+{99317}{99367}Aonde vai?
+{99369}{99407}Vou voltar.
+{99409}{99483}Ótimo! Vá! Saia daqui!
+{100057}{100092}Acorde.
+{100173}{100208}Tudo bem!
+{100209}{100260}Sou eu!
+{100289}{100349}Nunca mais faça isso!
+{100351}{100394}Carnívoros!
+{100396}{100460}- Vocês viram Simba?|- Ele não está com você?
+{100461}{100526}Estava,|mas não consigo encontrá-lo.
+{100528}{100577}Ele não está mais aqui.
+{100603}{100656}O rei retornou.
+{100658}{100734}Não acredito.|Ele voltou para casa.
+{100736}{100781}Para casa? O que quer dizer?
+{100782}{100880}Ei, o que está havendo aqui?
+{100882}{100917}Simba foi enfrentar Scar.
+{100918}{100940}- Quem?|- Scar.
+{100941}{100985}- Quem é Scar?|- É o tio dele.
+{100987}{101032}Esse macaco é o tio dele?
+{101033}{101096}Simba precisa enfrentar o tio|para assumir seu lugar.
+{102526}{102568}Simba! Espere por mim!
+{102649}{102688}É terrível, não?
+{102710}{102765}Não acreditei quando me contou.
+{102767}{102808}Por que decidiu voltar?
+{102809}{102941}Enfiaram algum juízo na minha|cabeça. Ainda tenho o galo.
+{102943}{103061}Além disso, é meu reino. Se eu|não lutar por ele, quem lutará?
+{103085}{103150}- Eu lutarei.|- Pode ser perigoso.
+{103152}{103251}Perigo? Eu rio do perigo!
+{103253}{103304}Não vejo a menor graça nisto.
+{103306}{103378}O que vocês dois fazem aqui?
+{103380}{103432}Ao seu dispor, meu senhor.
+{103434}{103525}Vamos enfrentar seu tio por isto?
+{103563}{103602}Aqui é o meu lar.
+{103626}{103678}Isso que é decadência.
+{103680}{103776}Bem, se é importante pra você,|conte conosco até o fim.
+{104227}{104253}Hienas.
+{104255}{104322}Odeio hienas.
+{104324}{104392}Qual é o plano|para nos livrarmos delas?
+{104393}{104450}- Iscas vivas.|- Boa idéia.
+{104476}{104545}Vocês precisam distraí-las.
+{104546}{104600}Como? Como dançarina de hula-hula?
+{104625}{104652}Luau!
+{104653}{104744}Se desejam algo apetitoso|Comam Pumbaa, ele é gostoso
+{104745}{104822}Hora da bóia este suíno é jóia|Façam fiila
+{104824}{104884}Estão aflitos
+{104885}{104926}Por um bacon frito?
+{104928}{104973}Ele é um grande porco
+{104974}{105020}Mas vocês podem ser|grandes porcos também.
+{105158}{105256}Encontre minha mãe e convoque|as leoas. Vou procurar Scar.
+{105352}{105392}Sarabi!
+{105781}{105861}Seu grupo de caça não está|fazendo seu trabalho.
+{105862}{105936}Não há comida.|Os rebanhos foram embora.
+{105937}{105996}Elas é que não procuram|o suficiente.
+{105997}{106096}Acabou. Não resta nada.
+{106098}{106189}Só temos uma escolha.|Abandonar a Pedra do Rei.
+{106191}{106226}Não sairemos daqui.
+{106228}{106274}Então será nossa sentença de morte.
+{106276}{106328}- Que seja.|- Não pode fazer isto.
+{106329}{106387}Eu sou o rei.|Posso fazer o que quiser.
+{106389}{106445}Se fosse metade do Rei|que Mufasa foi...
+{106446}{106506}Sou 10 vezes melhor que Mufasa!
+{106589}{106636}Mufasa? Não! Você está morto!
+{106883}{106933}Não. Sou eu.
+{106952}{107035}Simba. Você está vivo.
+{107037}{107070}Como pode?
+{107072}{107151}Não importa. Voltei para casa.
+{107248}{107345}Que surpresa vê-lo... vivo.!
+{107395}{107472}Me dê um só motivo|para eu não fazer você em pedaços.
+{107473}{107580}Entenda. As pressões do governo...
+{107581}{107658}Não são mais suas.|Renuncie, Scar.
+{107660}{107724}É claro que eu faria isso.
+{107726}{107822}Só há um pequeno problema. Vê?
+{107882}{107939}Elas pensam que eu sou o rei.
+{107941}{108033}Mas nós não.|Simba é o rei de direito.
+{108034}{108132}A escolha é sua, Scar.|Renuncie ou lute.
+{108134}{108202}Precisa terminar em violência?
+{108204}{108284}Eu odiaria ser responsável|pela morte de um membro da família.
+{108285}{108336}Não concorda, Simba?
+{108337}{108416}Não adianta, Scar.|Já superei isso.
+{108417}{108510}Mas será que seus fiéis súditos|também já superaram?
+{108512}{108561}Do que ele está falando?
+{108595}{108698}Então não contou a elas|seu segredinho. Bem...
+{108700}{108752}Agora é a sua chance.
+{108753}{108860}Conte quem é o responsável|pela morte de Mufasa!
+{108915}{108949}Eu.
+{109062}{109109}Não é verdade.
+{109129}{109182}Diga que não é verdade!
+{109217}{109264}- É verdade.|- Viram?
+{109265}{109334}Ele confessa! Assassino!
+{109336}{109372}Não! Foi um acidente!
+{109373}{109455}Se não fosse você,|Mufasa ainda estaria vivo!
+{109457}{109502}- Nega?|- Não.
+{109504}{109561}Então é culpado!
+{109563}{109603}Não sou assassino!
+{109605}{109661}Está outra vez em apuros.
+{109662}{109734}Mas desta vez o papai|não está aqui para salvá-lo.
+{109736}{109813}E agora todos sabem por que!
+{110006}{110084}Esta cena me parece familiar.
+{110113}{110193}Onde já vi isto antes?|Deixe-me ver.
+{110211}{110285}Ah, lembrei!
+{110287}{110369}Foi exatamente assim|que seu pai morreu.
+{110420}{110518}E vou contar um segredinho.
+{110520}{110544}Eu...
+{110546}{110593}matei Mufasa.
+{110684}{110708}Assassino!
+{110758}{110785}Conte-lhes a verdade.
+{110787}{110873}Verdade? A verdade está|nos olhos de quem a...
+{110893}{110971}Está bem... está bem!
+{110987}{111028}Fui eu.
+{111029}{111077}Mais alto para que todos ouvirem.
+{111101}{111173}Eu matei Mufasa!
+{111481}{111548}Com licença. Desculpem.
+{112249}{112306}- Me deixe sair!|- Me deixe entrar!
+{112358}{112417}- Por favor não me comam.|- Larguem eles!
+{112438}{112474}Quem é o porco?
+{112476}{112521}- Estão falando comigo?|- Elas o chamaram de porco!
+{112523}{112560}- Estão falando comigo?|- Grande erro.
+{112561}{112613}- Estão falando comigo?|- É o fim delas.
+{112615}{112729}Todos me chamam de Sr. Porco!
+{112823}{112872}Tome isto, idiota!
+{112873}{112924}E mais isso! E isso!
+{113005}{113067}Continuem correndo, amarelonas!
+{113539}{113565}Assassino!
+{113567}{113645}Por favor.|Misericórdia, eu suplico.
+{113647}{113700}Você não merece viver.
+{113702}{113788}Mas, Simba, sou...
+{113790}{113841}da família.
+{113843}{113912}As hienas são|o verdadeiro inimigo.
+{113913}{113978}A culpa é delas. Foi idéia delas.
+{113980}{114109}Como acreditar em você? A vida|inteira só me disse mentiras.
+{114110}{114244}O que vai fazer?|Não mataria seu velho tio.
+{114245}{114350}Não sou como você, Scar.
+{114352}{114471}Obrigado. É realmente nobre.|Vou compensá-lo.
+{114473}{114562}Como posso agradecer?|Diga, farei qualquer coisa.
+{114576}{114602}Fuja.
+{114620}{114665}Fuja daqui.
+{114667}{114720}E não volte nunca mais.
+{114794}{114834}Claro.
+{114858}{114960}Como queira, Majestade!
+{116264}{116321}Ah, minhas amigas.
+{116322}{116418}Amigas? Pensei ter ouvido|nos chamar de o inimigo.
+{116420}{116481}É, foi o que eu ouvi.
+{116617}{116727}Esperem, eu explico.|Não compreendem!
+{116729}{116791}Não, eu não queria...|Não! Não!
+{118379}{118425}Chegou a hora.
+{119020}{119070}Lembre.
+{120094}{120214}Até encontrarmos nosso lugar
+{120216}{120333}E nosso caminho
+{120358}{120473}Neste ciclo
+{120475}{120578}Neste ciclo sem fiim
+{120604}{120697}Neste ciclo sem fiim.!
+{120700}{120795}O REI LEÃO
+{120858}{120985}SINCRONIA BY MARCOS MAVERICK

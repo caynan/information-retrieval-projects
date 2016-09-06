@@ -1,0 +1,1369 @@
+{2117}{2188}- Quem são vocês?|- Nós somos os Três Reis Magos.
+{2189}{2257}O quê?|Nós somos os Três Reis Magos.
+{2258}{2345}Bem, o que vocês fazem rastejando|numa manjedoura às 2:00 da manhã?
+{2347}{2412}Isso não me parece muito educado.
+{2414}{2493}Nós somos astrólogos.|Viemos do leste.
+{2494}{2549}Isso é alguma piada?
+{2550}{2597}Nós queremos louvar o recém nascido.
+{2598}{2645}Devemos homenageá-lo.
+{2647}{2726}Homenagem? Vocês estão bêbados!|É repugnante!
+{2728}{2825}Fora daqui! Tentando me enganar|com esse papo de cartomante.
+{2827}{2882}- Vamos, fora!|- Não, não. Nós devemos vê-lo.
+{2884}{2966}- Vá louvar o filho de outro.|- Nós fomos guiados por uma estrela.
+{2967}{3019}Guiados pela bebida, isso sim.|Vão embora.
+{3021}{3071}- Devemos vê-lo.|- Nós trouxemos presentes.
+{3073}{3127}- Fora!.|- Ouro, incenso, bálsamo.
+{3129}{3199}Bem, porque não disseram antes?|Ele está logo ali.
+{3201}{3254}Desculpe, o lugar|está um pouco bagunçado.
+{3289}{3377}- Bem, o que é bálsamo afinal?|- É uma seiva aromática adorável.
+{3377}{3476}Bálsamo? Para que você está dando|isso a ele afinal? Vai machucá-lo.
+{3479}{3555}- O quê?|- É um animal perigoso.
+{3557}{3611}- Não, não é.|- É sim.
+{3612}{3678}- É enorme de grande e...|- Não, é um óleo.
+{3679}{3782}Bem, existe um animal chamado|bálsamo... ou estou sonhando?
+{3783}{3864}Então são astrólogos, hein?|O que ele é então?
+{3866}{3933}- Hmm ?|- De que signo ele é?
+{3934}{4040}- Bem, Capricórnio.|Capricórnio, é? E isso é bom?
+{4042}{4102}Ele é o filho de Deus,|nosso Messias.
+{4104}{4150}Rei dos judeus!
+{4152}{4231}- Isso é Capricórnio, é?|- Não, é ele.
+{4232}{4311}Oh, então tudo bem, do contrário|haveria um monte de Messias.
+{4313}{4390}- Por que nome você o está chamando?|Brian.
+{4391}{4504}Nós o reverenciamos, Ó Brian,|que és rei entre nós.
+{4506}{4633}Louvado seja, Brian, e|ao Senhor, nosso Pai. Amem.
+{4635}{4685}- Vocês fazem muito isso?|O que?
+{4687}{4737}- Esta reza toda.|- Não, não, não, não.
+{4739}{4810}Bem, se vão fazer isso de novo,|falem mais ordenadamente.
+{4812}{4875}E muito obrigado pelo|ouro e pelo incenso.
+{4876}{4960}Mas não se incomode com o bálsamo|da próxima vez, tudo bem?
+{4962}{5020}Obrigado.|Tchau.
+{5064}{5120}Bem, eles não eram bons?
+{5122}{5203}Meio esquisitos,|mas ainda assim... olhe isto!
+{5204}{5263}Aqui! Aqui!
+{5265}{5363}Isso é meu!|Ei, ele é um bebê! Oh!
+{5646}{5720}Cale-se!
+{5908}{5968}" Brian "
+{5970}{6044}" O bebê que chamaram de Brian "
+{6083}{6150}" Ele cresceu "
+{6152}{6231}" Cresceu, cresceu e cresceu "
+{6233}{6313}" Cresceu para ser "
+{6314}{6392}" Cresceu para ser "
+{6394}{6472}" Um menino chamado Brian "
+{6474}{6549}" Um menino chamado Brian "
+{6582}{6675}" Ele tinha braços e pernas "
+{6677}{6755}" E mãos e pés "
+{6757}{6815}" Este menino "
+{6816}{6918}" Cujo nome era Brian "
+{6920}{6996}" E ele cresceu "
+{6997}{7078}" Cresceu, cresceu e cresceu "
+{7080}{7150}" Cresceu para ser "
+{7151}{7230}" Sim, ele cresceu para ser "
+{7232}{7314}" Um jovem chamado Brian "
+{7315}{7407}" Um jovem chamado Brian "
+{7409}{7489}" E seu rosto se tornou reluzente "
+{7490}{7575}" Sim, seu rosto se tornou reluzente "
+{7577}{7658}" E sua voz|ficou grave "
+{7660}{7742}" E coisas começaram a crescer "
+{7743}{7820}" No jovem Brian e mostrou "
+{7822}{7913}" Que ele certamente não era "
+{7915}{7995}" Uma menina chamada Brian "
+{7997}{8082}" Não uma menina chamada Brian "
+{8272}{8343}" E ele começou a se barbear "
+{8344}{8408}" E tinha um na mão "
+{8410}{8501}" E queria encontrar garotas "
+{8503}{8589}" E sair e se intoxicar "
+{8591}{8668}" Um homem chamado Brian "
+{8670}{8751}" Este homem chamado Brian "
+{8752}{8940}" O homem que chamaram de Brian "
+{8942}{9035}" Este homem chamado "
+{9036}{9257}" Bri "
+{9259}{9314} Aah !
+{10270}{10370}Abençoados aqueles que sabem|que ele é um Deus.
+{10372}{10481}Abençoados os infelizes.|Eles encontrarão consolo.
+{10539}{10628}Abençoados aqueles|de bom espírito.
+{10630}{10702}Pois eles possuirão a terra.
+{10739}{10834}Abençoados aqueles que têm|fome e sede...
+{10835}{10903}pois terão a salvação.
+{10905}{10967}Eles serão satisfeitos.
+{11012}{11098}Abençoados aqueles|cujos corações são puros.
+{11100}{11161}Eles verão a Deus.
+{11163}{11237}- Fala mais alto!| Shhh. Quieta, Mãe.
+{11238}{11354}Eu não consigo ouvir nada.|Vamos ao apedrejamento.
+{11355}{11424}- Shhh !|- Podemos ir a outros apedrejamentos.
+{11426}{11510}- Oh, vamos, Brian.|- Dá pra ficar quieta?
+{11511}{11564}Não enfie o dedo no nariz.
+{11566}{11626}Eu não estava enfiando o dedo.|Estava coçando.
+{11627}{11691}Estava enfiando o dedo|enquanto falava com aquela senhora.
+{11693}{11751}- Não estava.|- Deixa pra lá. Dá um tempo.
+{11753}{11816}Se importa?|Eu não consigo ouvir uma palavra.
+{11818}{11901}Não se intrometa|Eu estava falando com meu marido.
+{11902}{11986}Bem, então fale com ele depois.|Não consigo ouvir porcaria nenhuma.
+{11987}{12035}Não blasfeme com minha esposa.
+{12037}{12114}Só pedi pra ela calar a boca,|assim poderemos ouví-lo, narigudo.
+{12115}{12199}- Não chame meu marido de "narigudo".|- Bem, ele tem um nariz grande.
+{12201}{12255}Poderia ficar quieto, por favor?|O que ele disse?
+{12257}{12314}Eu estava falando|com o narigudo.
+{12316}{12383}Eu acho que foi,|"Abençoados sejam os fabricantes de queijo."
+{12385}{12456}O que há de especial|em fabricantes de queijo?
+{12458}{12522}Bem, obviamente, não é para|ser levado ao pé da letra.
+{12523}{12590}Refere-se a qualquer fabricante|de produtos vindos do leite.
+{12592}{12659}Tá vendo, se você ficasse quieto,|teríamos ouvido isso, narigudo.
+{12661}{12732}Ei! Diga mais alguma coisa,|e eu vou quebrar sua cara.
+{12734}{12814}É melhor escutar. Ele está dizendo algo|sobre "Abençoados sejam os narigudos"
+{12816}{12862}Acabe com ele.
+{12863}{12913}Você não é tão mau|assim, cara de concha do mar.
+{12915}{12967}De onde são vocês dois,|Cidade dos Narizes?
+{12968}{13039}Mais uma vez e vou|te arrebentar seu bastardo!
+{13040}{13121}Olha a boca!|E não enfie o dedo no nariz.
+{13123}{13187}Eu não ia enfiar o dedo no nariz.|Eu ia bater nele!
+{13188}{13258}- Ouviu isso? "Abençoados sejam os gregos."|- Os gregos?
+{13260}{13321}Bom, parece que ele|irá herdar a Terra.
+{13323}{13390}- Alguém sabe o nome dele?|- Você não vai bater em ninguém.
+{13391}{13460}Eu vou bater nele|se me chamar de "narigudo" de novo.
+{13461}{13536}- Cala a boca, narigudo.|- Tudo bem. Eu te avisei.
+{13537}{13628}- Eu vou te espancar tanto...|- Oh, os humildes!
+{13629}{13698}"Abençoados sejam os humildes" !|Oh, isso é bom, não é?
+{13700}{13770}Estou feliz por serem lembrados,|sempre são esquecidos.
+{13771}{13861}Ouça, estou só dizendo a verdade.|Você tem um nariz muito grande.
+{13863}{13977}Ei, seu nariz irá parar atrás|da sua cabeça quando eu acabar!
+{13979}{14052}- Shhh !|- Quem bateu no seu então?|O irmão mais velho de Golias?
+{14053}{14108}Tudo bem.|É o último aviso.
+{14109}{14185}Cale a boca.
+{14187}{14259}Vaca desmiolada.|Saia do meu caminho.
+{14340}{14416}Venha.|Vamos ao apedrejamento.
+{14418}{14469}Tudo bem.
+{14521}{14621}Abençoado é qualquer um bem vestido|e interessado em status.
+{14623}{14736}Bem, o que Jesus não percebe|é que os humildes é que são o problema.
+{14738}{14835}Sim, sim. Com certeza, Reg.|Sim, entendo.
+{14837}{14942}Vamos, Brian. Eles vão apedrejá-lo|antes que cheguemos lá.
+{14943}{15012}Tudo bem.
+{15013}{15087}- Isso é repugnante.
+{15088}{15204}É tudo culpa do narigudo.|Ele começou tudo.
+{15206}{15266}Eu odeio usar estas vestes.
+{15268}{15340}Porque as mulheres não podem|ir aos apedrejamentos, mãe?
+{15342}{15393}Porque está escrito, é por isso.
+{15395}{15436}Turbante, madame?
+{15438}{15501}Olhe, eu não tenho tido tempo|para ir aos apedrejamentos.
+{15503}{15549}Ele não está bem de novo.
+{15551}{15602}- Pedra, senhor?
+{15603}{15665}Não, lá em cima tem bastante|espalhada pelo chão.
+{15667}{15724}Oh, não como esta, senhor.|Olhe isto.
+{15726}{15790}Sinta a qualidade.|É uma obra de arte, senhor.
+{15792}{15882}Tá, tudo bem. Queremos duas|pontudas e uma bem grande e achatada.
+{15884}{15935}- Posso ficar com a achatada, mãe?
+{15937}{15983}- Desculpe, pai.|- Tudo bem.
+{15985}{16055}Duas pontudas, duas achatadas|e um pacote de cascalho.
+{16057}{16114}Pacote de cascalho. Acho que|esta tarde será um dos bons.
+{16115}{16155}- Quem?|- Um morador local.
+{16157}{16198}- Bom.|- Fiquem a vontade.
+{16647}{16717}Matias, filho de Deuteronômio?
+{16719}{16774}- Eu disse sim? Sim.|- Sim.
+{16776}{16863}Você foi considerado culpado|pelos anciãos da cidade...
+{16865}{16939}de ficar gritando por aí|o nome de nosso Senhor.
+{16940}{17032}- E por esta blasfêmia...
+{17034}{17099}você será apedrejando até a morte.
+{17101}{17181}- Olhe, eu gostaria de|comer algo gostoso,
+{17183}{17234}e tudo que eu disse para|minha esposa foi,
+{17235}{17302}"Aquele peixe não estava|bom o bastante para Jeová."
+{17304}{17380}- Blasfêmia! Ele disse de novo!
+{17382}{17444}- Vocês ouviram?
+{17499}{17545}Sim!
+{17615}{17668}Há alguma mulher aqui?
+{17812}{17933}Muito bem.|Pelos poderes a mim delegados...
+{17935}{18008}Parem!|Ainda não começamos!
+{18010}{18084}Vamos!|Quem atirou?
+{18086}{18148}Quem atirou a pedra?|Vamos.
+{18149}{18200}Foi ela! foi ela!
+{18202}{18252}Foi ele! foi ele!
+{18254}{18309}Desculpe. Eu pensei|que já havia começado.
+{18311}{18389}- Vá para trás.
+{18390}{18480}Sempre tem um, não é?|Agora, onde estávamos?
+{18482}{18570}Olhe, eu não acho que|seja blasfêmia dizer "Jeová".
+{18572}{18671}- Você só está piorando as coisas.
+{18673}{18745}Piorando?|Como poderia ser pior?
+{18746}{18810}- Jeová! Jeová! Jeová!
+{18812}{18905}Estou avisando, se disser|"Jeová" de novo...
+{18906}{18957}Tá bom.|Quem atirou?
+{18993}{19046}Vamos.|Quem foi?
+{19097}{19149}Ele, ele, ele.
+{19151}{19197}- Foi você?|- Sim.
+{19199}{19245}- Certo.|- Bem, você disse "Jeová".
+{19354}{19418}Pare! Mandei parar!
+{19420}{19538}Parem! Agora prestem atenção.|Ninguém mais apedreja...
+{19540}{19593}até eu assoprar o apito.
+{19595}{19703}Entenderam?|Mesmo que, e que fique bem claro...
+{19705}{19762}Mesmo que alguém diga "Jeová".
+{19923}{19993}Boa pontaria! Bravo!
+{20234}{20329}- Eu tenho nariz grande, mãe?|Ora, pare de pensar em sexo.
+{20331}{20416}- Não estava!|- Sempre pensando nisso, manhã, dia e noite.
+{20418}{20486}"As garotas gostam disso?|As garotas gostam daquilo?
+{20487}{20552}Isso é muito grande?|Muito pequeno?"
+{20554}{20607}Aqui está, amigo.
+{20609}{20661}- Abençoado seja, senhor.|- Esmolas para um pobre.
+{20663}{20744}- Esmolas para um leproso.|- Esmolas para um ex-leproso.
+{20746}{20817}Burgueses estúpidos.|São todos iguais.
+{20819}{20879}Nunca mudam.|Aqui está um bondoso.
+{20881}{20964}- Uma bolsa para um ex-leproso?|Cai fora!
+{20965}{21022}Uma bolsa para um velho ex-leproso?
+{21024}{21089}Uma bolsa?|É mais do que ele ganha em um mês!
+{21091}{21141}- Meia bolsa, então.|- Se manda!
+{21143}{21200}- Vamos, narigudo, vamos barganhar.|- O quê?
+{21202}{21287}Você começa com 1,000 moedas.|Começo com 2,000. Fechamos em 1,800.
+{21289}{21335}- Não.|- 1,750?
+{21336}{21384}- Cai fora!|- 1,740?
+{21386}{21455}- Deixe-o em paz!|- Tudo bem, 2,000 moedas.| Não é divertido, hein?
+{21457}{21539}Ele não vai te dar dinheiro|nenhum, então cai fora!
+{21640}{21752}- Tá bom. 500 moedas para um ex-leproso?|Você disse "ex-leproso"?
+{21753}{21819}Dezesseis anos atrás,|e orgulhoso disso, senhor.
+{21821}{21884}- O que houve?|- Eu fui curado, senhor.
+{21886}{21941}- Curado?|- Sim, um milagre, senhor.
+{21943}{22009}- Quem curou você?|- Foi Jesus, senhor.
+{22011}{22071}Eu estava andando por aí,|cuidando da minha vida.
+{22073}{22130}E do nada,|ele aparece, e me cura!
+{22132}{22179}Num minuto,|eu era um leproso condenado;
+{22181}{22230}e no outro,|minha penitência acabou.
+{22232}{22297}"Está curado, meu amigo."|Santo benfeitor.
+{22298}{22385}Bem, porque você não diz a ele|que quer ser leproso de novo?
+{22386}{22451}Eu poderia, senhor.|Sim, eu poderia, eu acho.
+{22453}{22542}Eu ia pedir a ele para eu ficar|manco bem no meio da semana.
+{22544}{22630}Sabe, algo suportável mas não lepra,|isso é um pé no saco.
+{22632}{22697}Brian! Venha limpar seu quarto!
+{22699}{22773}- Aqui está.|- Obrigado, senhor. Obrigado.
+{22775}{22843}Meia moeda?|Que vida sofrida eu tenho.
+{22845}{22896}Algumas pessoas não|tem compaixão.
+{22898}{22971}Foi o que Jesus disse, senhor.
+{23226}{23303}- Oh !|- Boa tarde.
+{23305}{23377}Oh, uh, olá, oficial.
+{23379}{23458}Eu lhe atendo num momento,|tudo bem, querido?
+{23460}{23549}- O que ele faz aqui?|Não começe Brian.|Vá limpar seu quarto.
+{23551}{23611}- Romanos idiotas!|- Olhe, Brian.
+{23613}{23674}Se não fosse por eles,|não teríamos tudo isso.
+{23676}{23758}- E não esqueça isso.|- Nós não devemos nada a eles, mãe.
+{23759}{23846}- Bom, não é bem assim.|- O que quer dizer?
+{23848}{23946}- Lembra-se quando perguntava sobre...|- Meu nariz?
+{23948}{24024}Sim. Bem, há uma razão|para ele ser grande assim, Brian.
+{24026}{24072}O que é?
+{24074}{24143}Bem, eu devia ter|lhe dito há muito tempo
+{24145}{24223}- O que?|- Bem, Brian...
+{24225}{24300}seu pai não é|o Sr. Cohen.
+{24302}{24372}- Eu nunca achei que era.
+{24374}{24431}Ele era um Romano, Brian.
+{24433}{24506}Um centurião|no exército Romano.
+{24507}{24606}- Está me dizendo que foi estuprada?|- Bem, de início, sim.
+{24608}{24702}- Quem foi?|- Peladus Maximus, era seu nome.
+{24704}{24766}Me prometeu|o mundo, ah sim.
+{24768}{24837}Eu seria levada a Roma,|acolhida pelo Conselho...
+{24839}{24891}escravos, leite fresco,
+{24892}{24948}tudo que eu conseguisse comer.
+{24950}{25010}Então ele, assim que|terminou comigo...
+{25012}{25087}- Foi-se, como um rato no aqueduto!|- Bastardo!
+{25089}{25167}Sim, então da próxima vez|que falar mau dos Romanos,
+{25168}{25215}não se esqueça que|você é um deles!
+{25216}{25293}Eu Não sou um Romano, mãe!|E nunca serei!
+{25295}{25365}Sou um judeu, um muçulmano,|um grego, um nariguro!
+{25367}{25483}Sou anti-carne, mãe! Um pedestre|no Mar Vermelho, e orgulhoso disso!
+{25581}{25655}Sexo, sexo, sexo.|É só nisso que pensam.
+{25657}{25735}Bem, como vai oficial?
+{26145}{26240}Senhoras e senhores,|o próximo confronto...
+{26241}{26289}é entre...
+{26290}{26403}Frank Goliath, o estrangulador|de criançinhas da Macedônia.
+{26405}{26493}e Boris Mineburg.
+{26548}{26628}Língua de sabiá.|Pássaros vivos.
+{26630}{26734}Cérebro de pardal.|Orelhas de Jaguar.
+{26736}{26804}Tetas de lobo picadas. Peguem,|enquanto estão quentes. São adoráveis.
+{26806}{26892}Tripas de dromedário, só meia moeda.|Morcegos toscanos fritos.
+{26894}{26987}Eu sinto, Reg, que qualquer|grupo anti-imperialista como nós...
+{26989}{27084}deve refletir uma divergência|de interesses em sua base de poder.
+{27086}{27175}- Grande. Francis?|- Sim, eu acho que Judith está certa, Reg...
+{27177}{27224}contanto que o|movimento nunca esqueça...
+{27226}{27283}- dos direitos de cada homem|- Ou mulher.
+{27285}{27323}ou mulher de libertá-lo
+{27325}{27368}- Ou ela mesma.|- ou ela mesma.
+{27370}{27412}- Apoiado.|- Obrigado, irmão.
+{27414}{27460}- Ou irmã.|- Ou irmã.
+{27462}{27508}- Onde eu estava?
+{27510}{27580}- Acho que você já terminou.|- Oh, certo.
+{27582}{27650}No futuro, é o direito de nascer|de cada homem
+{27651}{27724}- Ou mulher.|- Porque não pára de falar de mulheres?
+{27726}{27802}Mulheres tem o direito|de tomar parte no movimento.
+{27803}{27858}Porque está tão preocupado|com as mulheres, Stan?
+{27860}{27898}Eu quero ser uma.
+{27949}{28024}- O quê?|- Eu quero ser uma mulher.
+{28026}{28121}Daqui em diante, eu quero que todos|vocês me chamem de "Loretta."
+{28155}{28224}- O quê?|- É o meu direito como homem.
+{28226}{28315}Bem, porque você quer|ser Loretta, Stan ?
+{28316}{28379}Eu quero ter filhos.
+{28380}{28442}Você quer ter filhos?
+{28443}{28509}É o direito de todo homem|ter filhos se ele quiser.
+{28511}{28578}- Mas você não pode ter filhos.|- Não me oprima.
+{28579}{28662}Não estou oprimindo você.|Você não tem útero.
+{28664}{28713}Onde está o ovário|que fará a gestação?
+{28715}{28773}Vai gerá-lo numa caixa?
+{28847}{28893}Aqui, eu tenho uma idéia.
+{28895}{28959}Suponha que você concorde|que ele não possa gerar filhos,
+{28961}{29039}não ter um útero não é|culpa de ninguém, nem dos Romanos
+{29040}{29111}mas que ele possa ter|o direito de ter filhos?
+{29112}{29178}Boa idéia, Judith.|Devemos lutar contra os opressores...
+{29180}{29232}por seu direito de ter|filhos, irmão
+{29234}{29301}- Irmã. Desculpe.|- Qual é o ponto?
+{29303}{29380}- O quê?|- Qual é o ponto de lutar|pelo direito dele ter filhos?
+{29382}{29462}quando ele não pode gerar filhos?
+{29464}{29547}É o símbolo de nossa luta|contra a opressão.
+{29595}{29659}Símbolo da luta contra|a realidade.
+{29863}{29931}É perigoso lá fora.
+{30434}{30533}Língua de sabiá. Nariz de molusco.|Coração de lince.
+{30535}{30588}- Tem amendoins?|- Não tenho. Desculpe.
+{30589}{30670}- Eu tenho pássaros vivos,|coração de texugo.
+{30672}{30734}- Nariz de molusco?|- Eu não quero esse lixo Romano!
+{30736}{30813}- Porque não vende comida que preste?|- Comida que preste?
+{30814}{30880}Sim, e não esses petiscos|ricos imperialistas.
+{30881}{30957}Bem, não me culpe.|Eu não pedi para vender essas coisas.
+{30958}{31009}Tudo bem.|Me dê um nariz de moluco, então.
+{31011}{31076}- Um pra mim também. Obrigado, Reg.|- Dois.
+{31077}{31145}- Vocês são a Frente Popular da Judéia?|- Vá se foder!
+{31146}{31220}- O quê?|- Frente Popular da Judéia!
+{31221}{31301}Nós somos a Popular Frente da Judéia!
+{31303}{31393}- Frente Popular da Judéia!|- Punheteiros.
+{31451}{31523}- Posso me juntar ao seu grupo?|- Não, cai fora.
+{31524}{31592}Eu não queria estar vendendo|essa porcaria. É só um trabalho.
+{31594}{31681}- Eu odeio os Romanos|tal como todo mundo!
+{31683}{31788}- Você tem certeza?|- Totalmente. Eu odeio os Romanos.
+{31790}{31873}Ouça, se quiser se|juntar a P.F.J,
+{31875}{31946}você tem que realmente|odiar os Romanos.
+{31947}{32019}- Eu odeio.|- Ah é? Quanto?
+{32021}{32069}Muito.
+{32124}{32173}Certo. Você está no grupo.
+{32174}{32247}Ouça. Os únicos que odiamos|mais do que os Romanos...
+{32249}{32305}são a Frente Popular da Judéia.
+{32307}{32345}- Sim!|- Malditos!
+{32347}{32417}- e a Frente Popular da Judéia.|- Sim! Malditos!
+{32419}{32483}- E a Popular Frente da Judéia.|- Malditos!
+{32484}{32544}- O quê?|- A Popular Frente da Judéia.
+{32545}{32607}Nós somos a Popular Frente da Judéia!
+{32608}{32681}Oh. Eu pensei que éramos|a Frente Popular.
+{32683}{32739}Popular Frente!
+{32740}{32839}- O que aconteceu com o a Frente do Povo?|- Ele está ali.
+{32900}{32970}Maldito!
+{33099}{33205}Oh! Eu acho que vou|ter um ataque cardíaco.
+{33207}{33305}- Daqueles terríveis.
+{33588}{33694}Irmão! Qual o seu nome?
+{33696}{33757}Brian. Brian Cohen.
+{33759}{33838}Nós temos um serviçinho|pra você, Brian.
+{35166}{35262}O que é isto?|"Romanes eunt domus"?
+{35264}{35339}"Povo chamado Romano,|eles ir para casa"?
+{35341}{35393}Deveria ser "Romanos, vão embora."
+{35394}{35493}Não, conserte.|Qual é o latin para "Romano"?
+{35494}{35545}- Vamos!|- "Romanes"?
+{35547}{35594}- E vai com?|- "Annus"?
+{35595}{35650}- Plural vocativo de "annus" é?|- "Anni"?
+{35651}{35718}- "Romani."
+{35720}{35782}- "Eunt"? O que é "eunt" ?|- "Ir."
+{35784}{35834}Conjulgue o verbo "ir".
+{35836}{35917}"lre, eo, is, it,|imus, itis, eunt."
+{35919}{35967}Então "eunt" é?
+{35969}{36033}Terceira pessoa do plural,|presente do indicativo, "Eles vão."
+{36035}{36147}Mas "Romanos, vão embora" é|uma ordem, então você deve usar o...
+{36149}{36201}- O imperativo.|- Que é?
+{36202}{36253}Um, oh, oh, "i".
+{36254}{36316}- Quantos Romanos?|- Aah! Plural, plural.
+{36318}{36387}- "lte."| "lte."
+{36388}{36465}- "Domus"? Nominativo ?
+{36467}{36566}"Vão embora".|Isto se move adiante, não é, Brian?
+{36568}{36614}Dativo!
+{36616}{36665}Não, não dativo!
+{36667}{36725}Acusativo, acusativo!
+{36727}{36809}- "Domum," senhor. "Ad domum."|- Exceto quando "domus" leva o
+{36811}{36858}- Locativo, senhor.|- Que é?
+{36860}{36912}- "Domum."|- "Domum."
+{36914}{36966}- "Um."
+{36968}{37014}- Entendeu?|- Sim, senhor.
+{37015}{37047}Agora, escreva isso 100 vezes.
+{37048}{37084}Sim, senhor. Obrigado, senhor.|Ave César, senhor.
+{37086}{37155}Ave César. Se não acabar|até o amanhecer, corto suas bolas fora
+{37156}{37239}Oh, obrigado, senhor. Obrigado.|Ave César e tudo mais, senhor.
+{37729}{37804}Acabei!
+{37843}{37936}Certo. Agora,|não faça isso de novo.
+{38510}{38562}Ei, Romanos idiotas!
+{39380}{39451}Entraremos pelo sistema de|ventilação subterrânea aqui,
+{39452}{39521}chegando ao tribunal central|de audiências aqui,
+{39523}{39599}e o quarto da esposa de Pilatos é aqui.
+{39601}{39682}Sequestrando sua esposa, avisamos|Pilatos que ela está conosco...
+{39683}{39739}e faremos nossa exigências.
+{39741}{39812}- Alguma pergunta?|- Quais são as exigências?
+{39814}{39864}Daremos a Pilatos|dois dias para dissolver...
+{39866}{39926}todo o aparato do Estado|Imperialista Romano,
+{39928}{39983}e se ele não aceitar|imediatamente, nós a executamos.
+{39985}{40056}- Cortaremos a cabeça?|- Cortaremos em pedaços.
+{40058}{40129}E enviaremos de volta|um pedaço por hora.
+{40131}{40196}E, é claro, nos certificaremos|de que eles assumam...
+{40198}{40257}total responsabilidade|quando recortarmos ela...
+{40259}{40335}e que não vamos|aceitar suborno.
+{40337}{40391}Sem suborno!
+{40393}{40481}Já nos sangraram, os bastardos.|Já nos tomaram tudo que tínhamos.
+{40483}{40572}E não só de nós. De nossos pais|e dos pais de nossos pais.
+{40574}{40630}E dos pais dos pais de nossos pais.|Sim.
+{40631}{40719}- E dos pais dos pais dos pais|de nossos pais.|- Não extenda muito.
+{40720}{40806}E o que ele nos deram em troca?
+{40857}{40918}- O aqueduto.|- O quê?
+{40919}{40970}O aqueduto.
+{40971}{41023}Oh, sim, sim.|Eles nos deram isso.
+{41024}{41083}E saneamento.
+{41084}{41169}Oh, sim, saneamento, Reg.|Lembra-se como era a cidade antes.
+{41171}{41261}Sim, eu concordo,|o aqueduto e o saneamento são duas|coisas que os Romanos fizeram.
+{41263}{41334}- E as estradas.|- Bem, obviamente as estradas.
+{41336}{41396}Digo, as estradas entram sem|precisar dizer, não é?
+{41398}{41469}Mas fora o saneamento,|o aqueduto e as estradas
+{41471}{41515}- Irrigação.|- Medicina.
+{41516}{41576}- Educação.|- Sim, tudo bem. Já basta.
+{41577}{41651}- E o vinho.
+{41652}{41730}Sim, é algo que sentiremos falta,|Reg, se os Romanos forem embora.
+{41732}{41823}- Banheiros públicos.|- E é seguro andar nas ruas a noite.
+{41825}{41916}Sim, eles certamente mantém a ordem.|São os únicos que arrumaram esse lugar.
+{41972}{42038}Tudo bem, mas fora o saneamento,|a medicina,
+{42040}{42116}educação, vinho, ordem pública,|irrigação, estradas,
+{42117}{42179}sistemas de resfriamento de água|e saúde pública,
+{42181}{42260}o que os Romanos já fizeram por nós?
+{42261}{42357}- Nos trouxe paz.|- Oh, paz! Cale a boca!
+{42627}{42688}Eu sou um pobre homem.|Minha visão é fraca.
+{42689}{42744}Minhas pernas são velhas e cansadas.
+{42746}{42794}Está tudo bem, Matias.
+{42796}{42845}Tá tudo limpo.
+{43026}{43091}Bem, onde está Reg?
+{43093}{43170}Oh, Reg. Reg, Judith.
+{43172}{43268}- O que houve de errado?|- O primeiro ataque foi executado.
+{43270}{43347}- Ele terminou o slogan?|- Cem vezes,
+{43349}{43445}em letras enormes,|por todo o palácio.
+{43447}{43512}Oh, grande. Grande.
+{43514}{43583}Nós precisamos de gente ativa|em nosso movimento Brian,
+{43585}{43644}mas antes de se juntar a nós, saiba que:
+{43646}{43708}Não há um de nós que não morreria...
+{43710}{43768}para livrar este país dos|Romanos para sempre.
+{43770}{43848}- Oh, sim, existe um.
+{43850}{43906}Mas mesmo assim, somos sólidos.|Você está conosco?
+{43908}{43972}Sim.
+{43974}{44088}Daqui em diante você será chamado|de "Brian que foi chamado de Brian".
+{44090}{44161}Conte a ele nossos planos,|Francis.
+{44163}{44234}Certo.|Este é o plano.
+{44235}{44299}Agora, este é o palácio|na área de César.
+{44300}{44368}Nossa unidade de comando se|aproximará disfarçadamente a noite|da Rua do Peixe...
+{44370}{44455}e nos abrirá caminho|para o duto principal noroeste.
+{44457}{44553}Se perguntarem, somos costureiros|a caminho de uma conferência.
+{44555}{44640}Reg, nosso glorioso líder|e fundador da P.F.J.,
+{44642}{44726}será nosso coordenador|à frente do duto,
+{44728}{44805}contudo ele diz que não|será responsável por qualquer|ato de terrorismo...
+{44807}{44853}porque tem costas quentes.
+{44855}{44907}- Você não ia vir conosco?|- Solidariedade, irmão.
+{44909}{44975}Oh, sim, solidariedade, Reg.
+{44976}{45052}Uma vez nos esgotos,|tempo será essencial.
+{45054}{45130}Haverá uma festa Romana mais tarde,|então você tem que ser rápido.
+{45132}{45203}E não use suas melhores sandálias.
+{45204}{45295}Virando a esquerda, entramos|no esgoto em memória a César Augustus
+{45296}{45362}e de lá posseguimos|diretamente ao hipocausto.
+{45364}{45480}Ele acaba de ser reformado. Então,|terroristas, cuidado com as armadilhas.
+{45482}{45571}Nós agora saíremos abaixo do tribunal|de audiências de Pilatos.
+{45572}{45651}Este é o momento de Habbakuk|usar sua talhadeira.
+{47093}{47163}Shhh. Shhh.
+{47552}{47615}Campanha para liberação da Galiléia.
+{47617}{47691}Oh, uh, Popular Frente da Judéia.|Oficiais.
+{47693}{47758}- Oh.|- O que seu grupo faz aqui?
+{47759}{47835}Sequestraremos a esposa de Pilatos,|e faremos exigências.
+{47837}{47907}- Nós também. Este é o nosso plano.|- O quê?
+{47909}{47969}- Chegamos primeiro.|- O que quer dizer?
+{47971}{48026}- Pensamos nisso antes.|- Nós pensamos!
+{48028}{48089}Sim, alguns anos atrás.|Nós pensamos!
+{48090}{48147}Vamos. Vocês não têm nenhuma|exigência a fazer.
+{48149}{48201}- Claro que temos.|- E quais são?
+{48202}{48262}- Bem, não vou te dizer.|- Ora, vamos!
+{48264}{48331}Não é esse o ponto.|Nós pensamos nisso antes de vocês.
+{48333}{48379}- Não pensaram!|- Pensamos sim!
+{48381}{48456}Seus bastardos, planejamos|isso por meses.
+{48458}{48559}Bem, é uma pena para você,|cara de peixe.
+{48560}{48627}Irmãos, nós devemos|trabalhar juntos.
+{48629}{48715}- Não devemos lutar uns com os outros.
+{48717}{48799}Certamente, nós devemos nos unir|contra o inimigo.
+{48800}{48860}A Frente Popular da Judéia!
+{48862}{48920}Não, não, os Romanos!
+{48922}{48980}Oh, sim, sim.
+{48981}{49044}Sim, ele está certo.
+{49190}{49274}- Certo. Onde estávamos?|- Você ia me socar.
+{49825}{49884}Irmãos!
+{50586}{50632}O que
+{51356}{51407}Seu idiota sortudo.
+{51409}{51456}Quem é?
+{51458}{51507}Seu idiota, idiota sortudo.
+{51509}{51588}- O quê?|- É o bichinho de estimação do carceireiro?
+{51590}{51673}- O que quer dizer?|- Deve ter dado dinheiro a ele.
+{51675}{51747}Dinheiro a ele?|Você viu ele cuspindo na minha cara.
+{51749}{51850}Oh, o que eu não daria|para ser cuspido na cara!
+{51852}{51963}Eu às vezes fico acordado|sonhando em ser cuspido na cara.
+{51965}{52034}Bem, não é exatamente algo amigável.|Eles me mantém acorrentado.
+{52036}{52093}Acorrentado?
+{52095}{52184}Minha idéia do céu é poder|ser acorrentado...
+{52186}{52237}somente por algumas horas.
+{52238}{52339}Eles devem achar que o sol nasce|na sua bunda, filho.
+{52341}{52390}Oh, deixe-me em paz!|Eu tive um dia terrível!
+{52391}{52470}Teve um dia terrível?|Eu estou aqui a cinco anos.
+{52472}{52551}Eles só me esgueram do jeito certo|ontem, e você diz...
+{52552}{52610}Tudo bem, tudo bem.
+{52612}{52703}Eles devem achar|que você é Deus Todo Poderoso.
+{52705}{52795}- O que eles farão comigo?|- Oh, provavelmente será crucificado.
+{52797}{52870}- Crucificação?|- Sim, ofensa máxima.
+{52871}{52922}Morrer crucificado?
+{52924}{52993}- A melhor coisa que os|Romanos fizeram por nós.|- O quê?
+{52995}{53076}Sim, se não tivéssemos crucificações,|este país seria uma bagunça.
+{53077}{53147}- Guarda!|- Pendurem ele!
+{53149}{53223}- Guarda!|- Metam uns pregos nele!
+{53225}{53273}O que você quer?
+{53275}{53353}- Quero que me mude de cela.
+{53355}{53437}- Aah !|- Oh, olhe isso! Favoritismo absoluto.
+{53439}{53509}- Cale a boca!|- Desculpe.
+{53585}{53659}Agora veja meu caso.|Eles me penduraram aqui cinco anos atrás.
+{53660}{53733}Toda noite, eles me tiram por|20 minutos, então me penduram de novo,
+{53735}{53808}o que considero muito justo|considerando o que fiz.
+{53809}{53924}E como se não bastasse,|me ensinam a respeitar os Romanos,
+{53926}{54020}e me ensinam que você nunca|chegará a lugar nenhum na vida...
+{54022}{54128}a menos que esteja disposto a|trabalhar honestamente...
+{54129}{54191}Ora, cale-se!
+{54193}{54265}- Você.|- Pilatos quer vê-lo.
+{54266}{54315}- Eu?|- Venha!
+{54317}{54368}Pilatos? Para que ele|quer me ver?
+{54370}{54441}Eu acho que ele quer saber como|você gostaria de ser crucificado.
+{54443}{54525}Essa foi boa, centurião.|Gostei.
+{54526}{54630}- Cale-se!|- Certo, certo.
+{54632}{54725}Raça incrível, os Romanos.|Incrível!
+{55144}{55190}- Ave César.|- Ave.
+{55192}{55283}- Só um sobrevivente, senhor.|- Oh, "atilem-no" ao chão.
+{55285}{55361}- O quê?|- Atirem-no ao chão.
+{55362}{55410}Oh.
+{55479}{55559}Agora, qual o seu nome, judeu?
+{55561}{55631}- Brian, senhor.|- "Blian", é?
+{55632}{55678}Não, não. Brian.
+{55680}{55733}- Aah !
+{55735}{55805}O pequeno patife|tem "espílito".
+{55806}{55861}- O quê, senhor?|- "Espílito".
+{55863}{55913}Sim, ele tem, senhor.
+{55915}{56020}Não, não. "Espílito", "blavula",|um toque de "colagem".
+{56022}{56082}Oh, uns 11, senhor.
+{56146}{56230}Então, "quelia" nos fazer uma "sulplesa"?
+{56232}{56279}Fazer o quê, senhor?
+{56280}{56340}"Allebente" ele, "centulião",|com "folça".
+{56341}{56423}- Aah!|- E "atilamos" ao chão, senhor?
+{56425}{56486}- O quê?|- "Atilamos" ele ao chão de novo, senhor?
+{56488}{56560}Oh, sim, "atile-o"|ao chão.
+{56562}{56677}- Aah!|- Agora, judeu "allogante"
+{56679}{56731}Não sou judeu.|Sou Romano.
+{56732}{56803}- Um "Lomano"?|- Não, não. Romano.
+{56804}{56851}Aah !
+{56853}{56972}Então, seu pai era|"Lomano". Quem?
+{56973}{57063}Ele era um centurião|no Forte de Jerusalém, senhor.
+{57065}{57141}Sério?|Qual o nome?
+{57143}{57222}- "Peladus Maximus".
+{57290}{57380}Centurião, há alguém|com esse nome no Forte?
+{57382}{57433}Bem, não, senhor.
+{57435}{57512}Mas você parece muito certo.|Você checou?
+{57513}{57605}Bem, não, senhor.|Acho que é uma piada, senhor.
+{57607}{57706}Como, "Sillius Soddus"|ou "Enormus Pintus", senhor.
+{57758}{57828}O que há de engraçado|em "Enormus Pintus"?
+{57861}{57934}Bem, é uma piada sobre nomes,|senhor.
+{57936}{58017}Eu tenho um grande amigo|em Roma chamado Enormus Pintus.
+{58080}{58155}Silêncio!|O que é toda essa insolência?
+{58156}{58240}Você vai parar numa escola|de gladiadores muito "lápido"...
+{58241}{58289}com esse comportamento "desleipeitoso".
+{58290}{58372}Posso ir agora, senhor?|Aaah !
+{58373}{58433}Espere até Enormus Pintus|ouvir isso.
+{58434}{58514}- "Celto"! Levem-no!
+{58516}{58602}- Oh, senhor, ele...|- Eu o quero lutando como um|animal em uma semana.
+{58604}{58672}Sim, senhor.|Venha.
+{58774}{58884}Meus amigos não serão|"lidiculalizados" por um simples soldado.
+{58928}{59039}Alguém mais sente vontade|de rir...
+{59041}{59127}quando falo de meu amigo,
+{59129}{59206}- Enormus...
+{59208}{59283}- Pintus?
+{59340}{59466}E você?|Você acha "englaçado"...
+{59505}{59580}quando digo o nome...
+{59582}{59693}Enormus... Pintus?
+{60166}{60255}Ele tem esposa, sabiam?
+{60257}{60322}Sabem o nome dela?
+{60381}{60462}Se chama "Descontroladia"
+{60527}{60581}- "Descontroladia Bundavias."
+{60583}{60638}Calem-se!|O que é tudo isso?
+{60640}{60718}Já estou cheio deste comportamento|"desleipeitoso" e "lebelde"!
+{60719}{60810}- Silêncio! Quietos!|Guardas "Pletolianos"!
+{60811}{60903}Peguem-no! Peguem-no!|Assoem o nariz e peguem-no!
+{61236}{61301}Hmm ? Hmm.
+{63730}{63799}Oh, seu idiota sortudo.
+{64167}{64250}E a besta|será grande e negra...
+{64251}{64362}E os olhos vermelhos|de sangue de criaturas vivas!
+{64363}{64432}E a prostituta da Babilônia...
+{64433}{64511}cavalgará em uma|serpente de três cabeças!
+{64513}{64631}E por toda a terra|haverá uma grande carnificina.
+{64633}{64739}O demônio virá armado com|uma espada de nove lâminas.
+{64740}{64848}Nove lâminas. Nem duas,|cinco ou sete, mas nove
+{64850}{64964}e ele irá fatiar todos os|miseráveis transgressores,|tal como você, senhor.
+{64966}{65066}E a promiscuidade estará|em primeiro plano.
+{65068}{65198}Haverá rumores de coisas|ruins acontecendo,
+{65199}{65308}e confusão sobre onde|realmente estão as coisas.
+{65310}{65382}E ninguém saberá realmente|onde encontrar...
+{65384}{65445}aquelas pequenas coisas...
+{65447}{65524}feitas com uma espécie de|palha com um encaixe.
+{65525}{65640}E nesta hora, um amigo|perderá o martelo de seu amigo,
+{65642}{65733}e os jovens não saberão|onde encontrar...
+{65735}{65789}as coisas possuídas|por seus pais...
+{65791}{65879}que seus pais colocaram lá|na noite anterior lá pelas 8:00.
+{65880}{65972}Sim, está escrito|no livro de Cyril...
+{65973}{66032}quando chegar a hora
+{66249}{66322}Quanto é, rápido?|É para minha esposa.
+{66324}{66396}- Oh, uh, 20 moedas.|- Certo.
+{66397}{66447}- O quê?|- Aqui está.
+{66449}{66495}- Espere um minuto.|- O quê?
+{66497}{66554}- Deveríamos barganhar.|- Não, não, não. Eu tenho que ir
+{66556}{66602}- O que quer dizer com não?|- Eu não tenho tempo.
+{66604}{66663}- Bem, devolva então.|- Não, não. Eu já te paguei.
+{66665}{66746}- Burt, este cara não quer barganhar.|- Não quer barganhar?
+{66747}{66798}Tudo bem.|Temos mesmo?
+{66800}{66864}- Eu quero 20.|- Eu acabei de te dar 20.
+{66866}{66931}- Está querendo dizer que|não vale 20 moedas?|- Não.
+{66933}{67015}- Sinta a qualidade.|Não há o que reclamar.|- Te dou 19, então.
+{67017}{67065}- Não, não, não. Faça isso direito.|- O quê?
+{67066}{67148}- Barganhe direito. Isto não vale 19.|- Você acabou de dizer que valia 20.
+{67150}{67216}Oh, céus, oh, céus.|Vamos, barganhe.
+{67218}{67277}- Tudo bem, eu te dou 10.|- Assim está melhor.
+{67278}{67331}Dez? Está me insultando?
+{67333}{67400}Eu, com uma pobre avó|quase morrendo? Dez?
+{67402}{67470}- Tudo bem, te dou 11.|- Agora está pegando o jeito.
+{67472}{67577}Eu ouvi direito? Onze?|Isto me custou 12. Quer me arruinar?
+{67578}{67643}- Dezessete?|- Não, não, não, não. Dezessete.
+{67645}{67705}- Dezoito.|- Não, não. Você diz 14 agora.
+{67707}{67775}- Tudo bem, vou te dar 14.|- Quatorze? Está brincando?
+{67777}{67832}- Foi o que disse para eu dizer!|- Oh, céus.
+{67834}{67889}Oh, me diga o que|dizer, por favor!
+{67890}{67938}- Ofereça-me 14.|- Eu te dou 14.
+{67939}{68013}- Ele está me oferecendo 14 por isso!|- Quinze!
+{68015}{68095}Dezessete. Última palavra.|Não vou abaixar mais.
+{68097}{68141}- Dezesseis.|- Feito.
+{68142}{68192}Foi bom fazer negócio com você.
+{68194}{68265}- Vou te dar isso também.|- Eu não quero isso, obrigado.
+{68267}{68322}- Burt.|- Tudo bem, tudo bem.
+{68323}{68389}- Agora, onde estão os 16 que me deve?|- Acabei de te dar 20.
+{68391}{68457}- Certo. Te devo quatro então.|- Isso mesmo. Tudo bem.
+{68459}{68516}- Está aqui em algum lugar.|- Fique com quatro pela trepadeira.
+{68518}{68581}Quatro? Por essa trepadeira?
+{68583}{68651}Olhe para ela! Vale dez|se pensar bem.
+{68653}{68731}- Você me deu de graça.|- Sim, mas vale dez.
+{68733}{68776}Tudo bem, tudo bem.
+{68838}{68894}Não, não, não, não.|Não vale dez.
+{68896}{68983}Você deveria argumentar.|"Dez por isso? Deve estar maluco".
+{69048}{69130}Oh, bem.|Nasce um a cada minuto.
+{69131}{69179}- Daniel.|- Daniel.
+{69181}{69233}- Job.|- Job.
+{69235}{69286}- Joshua.|- Joshua.
+{69288}{69343}- Judges.|- Judges.
+{69344}{69409}- E Brian.|- E Brian.
+{69411}{69515}Eu agora proponho que todos|estes sete ex-irmãos...
+{69517}{69600}sejam incluídos como candidatos|a mártires da causa.
+{69602}{69685}- Eu concordo, Reg.|- Obrigado, Loretta. No duro.
+{69687}{69787}Bastados, não nos farão desistir.
+{69788}{69870}Uma catástrofe total como essa...
+{69872}{69915}é só o início!
+{69916}{69987}Suas gloriosas mortes|nos unirá em...
+{69988}{70035}Cuidado!
+{70293}{70344}Olá?
+{70346}{70396}Matias?
+{70397}{70453}- Reg ?|- Vá embora.
+{70494}{70541}Reg, sou eu, Brian.
+{70542}{70593}Cai fora!|Cai fora daqui!
+{70595}{70642}- Stan!|- Se manda.
+{70643}{70688}- É, se manda.|- Sim, desinfeta.
+{70744}{70812}Oh, merda!
+{70813}{70860}Estou indo.
+{70972}{71061}Sim, de fato está escrito|no livro de Obadiah,
+{71063}{71181}um homem deve espancar um estúpido|e o sobrinho do estúpido.
+{71253}{71330}Meus olhos são embaçados.|Não consigo ver.
+{71332}{71391}- Você é Matias?|- Sim.
+{71393}{71463}Temos razões para acreditar|que está escondendo Brian de Nazaré,
+{71465}{71541}membro de uma organização terrorista,|a Popular Frente da Judéia.
+{71543}{71609}Eu? não.|Sou só um velho pobre homem.
+{71611}{71659}Não tenho tenho para|descumpridores da lei.
+{71661}{71717}Minhas pernas são fracas.|Minhas orelhas são inúteis.
+{71719}{71767}Meus olhos são velhos e vesgos.
+{71769}{71818}Quieto!|Insano.
+{71820}{71870}Guardas, procurem na casa.
+{72122}{72182}Sabe a penalidade da lei Romana...
+{72184}{72232}por esconder um criminoso?
+{72234}{72280}- Não.|- Crucificação.
+{72283}{72337}Oh.
+{72339}{72426}- Horrível, não?|- Poderia ser pior.
+{72428}{72486}Como assim,|"Poderia ser pior"?
+{72488}{72541}Bem, poderia ser decepado.
+{72543}{72626}Decepado? Leva um segundo.|Crucificação leva horas.
+{72628}{72690}É uma morte lenta, horrível.
+{72692}{72768}Bem, pelo menos você|pega ar fresco.
+{72799}{72845}Você é estranho.
+{73020}{73099}Não, senhor.|Não achamos nada, senhor.
+{73100}{73202}Bem, não se preocupe.|Ficaremos de olho em você, esquisito.
+{73203}{73263}- Narigudo.|- Cuidado hein!
+{73331}{73394}Isso foi muita sorte.
+{73471}{73517}Desculpe, Reg.
+{73519}{73573}Oh, tudo bem.|Ele se desculpou.
+{73575}{73640}Por trazer a Quinta Legião|direto ao nosso Quartel General.
+{73641}{73710}Bem, está tudo bem,|então, Brian. Sente-se.
+{73712}{73797}Coma um biscoito.|Sinta-se em casa. Seu estrume!
+{73799}{73882}Estúpido, cérebro de passarinho,|cabeça chata
+{74059}{74140}- Minhas pernas são velhas e tortas.
+{74141}{74188}Minhas orelhas são estragadas. Sim?
+{74189}{74266}Há um lugar|onde não olhamos. Guardas!
+{74268}{74367}- Sou só um velho pobre homem.
+{74369}{74415}Meu nariz está exausto.
+{74417}{74475}Já viu alguém crucificado?
+{74477}{74533}Crucificação é babaquice.
+{74534}{74581}Não diga isso.
+{74696}{74751}Achamos esta colher, senhor.
+{74753}{74806}Muito bem, sargento.
+{74808}{74892}Nós voltaremos, exótico.
+{74950}{75001}Abra!
+{75003}{75064}Você não nos deu tempo|para se esconder.
+{75355}{75446}- E quando a hora chegar|- A serpente, ela te pegará
+{75448}{75555}- Buracos de todas as prostitutas|- você pegou doença venérea
+{75657}{75722}Não julgue as outras pessoas...
+{75723}{75774}ou será julgado também.
+{75776}{75863}- O quê?|- Eu disse, não julgue as outras pessoas...
+{75865}{75930}ou então será julgado também.
+{75932}{75977}- Quem, eu?|- Sim.
+{75979}{76054}- Muito obrigado.|- Não só você. Todos vocês.
+{76056}{76112}- É uma linda trepadeira.|- O quê?
+{76114}{76173}- Quanto quer pela trepadeira?|- Pode ficar.
+{76175}{76241}- Ficar?|- Sim. Considere as plantas.
+{76243}{76297}- Não quer barganhar?|- Não. Deixe pra lá.
+{76299}{76352}- O que há de errado com ela?|- Nada. Pode ficar.
+{76354}{76429}- Considerar as plantas?|- Bem, os pássaros, então.
+{76431}{76477}- Que pássaros?|- Qualquer um.
+{76479}{76540}- Por quê?|- Bem, eles trabalham?
+{76542}{76588}- Quem?|- Os pássaros.
+{76590}{76636}Os pássaros trabalham?
+{76638}{76723}- O que há com ele?|- Diz que os pássaros são vagabundos.
+{76725}{76795}O ponto é, os pássaros,|eles fazem tudo direito, não é?
+{76797}{76864}- Bem, boa sorte a eles.|- Sim, eles são bonitinhos.
+{76866}{76961}Ok. E vocês são muito mais|importantes do que eles, certo?
+{76963}{77029}Então com o que estão preocupados?|Aí está. Estão vendo?
+{77031}{77094}Estou preocupado com o|que você tem contra os pássaros.
+{77096}{77146}Não tenho nada contra os pássaros.
+{77148}{77219}- Considere as plantas.|- Ele também não gosta das plantas.
+{77220}{77292}- Dê uma chance às plantas.|- Eu te dou um por ela.
+{77293}{77346}- É seu.|- Dois, então.
+{77348}{77403}Olhe, existiu um homem,|que tinha dois servos.
+{77404}{77470}E como se chamavam?|Qual o nome deles?
+{77472}{77532}Eu não sei.|Ele me deu algum dinheiro.
+{77534}{77599}- Você não sabe?|- Bem, não importa.
+{77600}{77650}Ele não sabe|o nome deles!
+{77652}{77730}- Chamavam-se Simão e Adriano.|- Você disse que não sabia!
+{77732}{77805}Isso não importa. O ponto é,|haviam dois servos,
+{77807}{77878}- Ele está nos enrolando.|- Não, não estou!
+{77880}{77934}E ele os presenteou|Espere, eles eram três?
+{77936}{77992}- Oh, ele é terrível.
+{77994}{78077}- Haviam dois ou três.|- Ora, cai fora!
+{78217}{78284}Ouçam isso!|Abençoados sejam...
+{78286}{78341}- Três.|- os que convertem o seu próximo.
+{78342}{78433}- Para eles será concedido um lugar no céu.|- Lixo!
+{78434}{78512}- E a eles será concedido
+{78514}{78592}a eles será concedido...
+{78594}{78685}será concedido
+{78729}{78776}- O quê?|- Hmm ?
+{78777}{78840}- Será concedido o quê?|- Ora, nada.
+{78842}{78900}- O que você ia dizer?|- Nada.
+{78902}{78957}- Sim, você ia dizer alguma coisa.|- Não, eu terminei.
+{78959}{79033}- Nos diga antes de ir.|- Eu terminei.
+{79035}{79090}- Não, não terminou.|- Porque ele não quer dizer?
+{79092}{79156}- Não vai dizer!|- É um segredo, não é?
+{79157}{79225}- Deve ser, do contrário ele nos diria.|- Conte-nos.
+{79226}{79275}- Deixem-me em paz.|- Qual é o segredo?
+{79277}{79335}- É o segredo da vida eterna?|- Ele não vai dizer.
+{79337}{79402}- Se soubesse o segredo da vida eterna,|eu não contaria a ninguém.
+{79404}{79465}- Me deixem em paz!|- Diga-me, por favor.
+{79467}{79536}- Nós chegamos primeiro.
+{79538}{79600}- Vão embora!|- Diga-nos, mestre.
+{79602}{79673}- Não é a trepadeira dele?|- Sim, mas ele a ofertou.
+{79674}{79725}Esta é a trepadeira dele.
+{79727}{79804}- Dez!|- É a trepadeira dele!
+{79806}{79877}Carregaremos ela para você, mestre.
+{79878}{79962}- Mestre?|- Ele se foi!
+{79964}{80022}- Ele foi levado aos céus.
+{80023}{80073}Ele foi levado aos céus!
+{80075}{80143}- Dezenove!|- Não, lá está ele.
+{80774}{80829}Olhe!
+{80831}{80877}Ele nos deu um sinal.
+{80879}{80936}Ele nos deu seu sapato!
+{80938}{81005}O sapato é o sinal.|Vamos seguir seu exemplo.
+{81007}{81107}- O quê?|- Vamos, como ele, levar os sapatos ao céu!
+{81109}{81210}Já que este é o seu sinal, todos|que o seguirem devem fazer o mesmo!
+{81212}{81272}- Sim!|- Não, não. O sapato é um sinal...
+{81274}{81351}de que devemos ter sapatos|todos juntos em abundância.
+{81353}{81413}Esqueçam os sapatos.|Sigam a trepadeira!
+{81415}{81488}Não, vamos juntar os|sapatos! Vamos!
+{81489}{81594}Não, isso é um sinal de que,|como ele,|não devemos pensar no corpo
+{81596}{81642}e sim no rosto e na cabeça.
+{81644}{81706}- Me dê seu sapato!|- Cai fora!
+{81708}{81790}Sigam a trepadeira,|a Sagrada Trepadeira de Jerusalém!
+{81792}{81880}- A trepadeira!|- Levantem a sandália,|tal como ele nos ordenou.
+{81881}{81944}- É um sapato!|- É uma sandália!
+{81946}{82005}- Não, não é!|- Largue isso!
+{82007}{82053}- Coloque isso!|- Limpe tudo!
+{82055}{82117}- Peguem os sapatos|e sigam-no!
+{82259}{82325}Volte! Pare!
+{82327}{82410}Vamos só rezar.
+{82438}{82507}Sim, ele veio a nós...
+{82509}{82564}como as sementes do trigo.
+{83100}{83189}Mestre! Mestre!
+{83715}{83788}Ei! Há outro caminho|para descer?
+{83817}{83877}Há outro caminho|seguindo o rio?
+{83879}{83958}Por favor me ajude.|Eu tenho que...
+{84044}{84118}Oh, meu pé! Oh
+{84120}{84199}- Shhh.|- Oh, maldição, maldição, maldição!
+{84201}{84287}- Desculpe.|- Maldição, maldição! Que droga!
+{84289}{84343}- Desculpe.|- Não me mande ficar quieto.
+{84345}{84418}Dezoito anos de silêncio total,|e você me manda ficar quieto!
+{84419}{84495}- O quê?|- Eu manti minha promessa por 18 anos...
+{84497}{84594}Nenhum um simples, reconhecível,|articulado som passou por meus lábios.
+{84595}{84657}Você poderia ficar quieto|por mais cinco minutos?
+{84659}{84722}Não importa mais agora.|Eu devo me conformar.
+{84723}{84790}Nos últimos 18 anos,|eu quis gritar...
+{84792}{84857}e cantar e urrar|o meu nome!
+{84859}{84909}- Shhh. Shhh.|- Oh, estou vivo!
+{84911}{84985}" Hava nagila, hava nagila "
+{84987}{85055}" Hava nagila "
+{85056}{85144}Oh, estou vivo! Estou vivo!|Olá, pássaros. Olá, árvores.
+{85146}{85212}Estou vivo! Estou vivo!
+{85214}{85332}" Hava nagila|Hava n'ra, n'ra "
+{85334}{85418}Mestre! Mestre! Mestre!
+{85420}{85503}- Mestre!|- O mestre! Ele está aqui!
+{85505}{85610}- Seu sapato nos guiou até ele!
+{85612}{85700}Fale! Fale para nós, mestre.|Fale para nós!
+{85702}{85743}Vão embora!
+{85744}{85807}Uma benção! Uma benção!
+{85809}{85868}Como devemos ir embora, mestre?
+{85869}{85928}Oh, só vão embora|e me deixem em paz!
+{85929}{85981}Dê-nos um sinal!
+{85983}{86062}Ele nos deu um sinal!|Nos trouxe até este lugar!
+{86064}{86132}Eu não os trouxe aqui.|Vocês me seguiram.
+{86133}{86207}Oh, mesmo assim ainda é um|bom sinal, pra começar.
+{86209}{86279}Mestre, seu povo andou|muitas milhas para estar com você!
+{86280}{86329}Estão cansados|e não comeram.
+{86331}{86382}Não é minha culpa|que não comeram.
+{86384}{86443}Não há comida|nesta enorme montanha!
+{86445}{86522}Mas e aqueles pés de amora ali?
+{86525}{86613}Um milagre! Um milagre!
+{86615}{86719}Ele fez a planta crescer|frutos com suas palavras!
+{86720}{86778}Amoras apareceram imediatamente.
+{86780}{86868}É claro! São pés de amora!|O que você esperava!
+{86870}{86920}Mostre-nos outro milagre.
+{86922}{86972}Não chateiem ele, seus incrédulos!
+{86974}{87063}Já não é o bastante|o milagre dos pés de amora?
+{87065}{87115}Eu digo, aqueles|são meus pés de amora!
+{87117}{87205}- São um presente de Deus.|- São tudo que eu tenho para comer.
+{87207}{87332}Eu digo, saiam de perto deles.|Vão. Saiam.
+{87333}{87436}Senhor, eu tenho calvice.
+{87437}{87518}Estou curado!|O mestre me curou!
+{87520}{87566}Eu nem toquei nele!
+{87568}{87635}Eu era cego,|e agora posso ver!
+{87637}{87712}Um milagre! Um milagre!
+{87714}{87787}- Diga a eles para parar.
+{87789}{87873}Eu não dizia uma palavra|a 18 anos, até que ele chegou.
+{87875}{87965}Um milagre!|Ele é o Messias!
+{87967}{88009}Ele machucou meu pé!
+{88010}{88089}- Machuque meu pé!|- Machuque o meu!
+{88091}{88181}- Abençoado seja o Messias!|- Eu não sou o Messias.
+{88183}{88268}Digo que é, Senhor, e sei disso.|Eu o segui por um tempo.
+{88269}{88326}Abençoado seja o Messias!
+{88327}{88396}Eu não sou o Messias!|Querem ouvir?
+{88398}{88477}Eu não sou o Messias!|Entende! Honestamente!
+{88479}{88584}Somente o verdadeiro Messias|nega sua divindade.
+{88586}{88666}O quê? Bem, o que mais|posso fazer?
+{88668}{88721}Tudo bem,|Eu sou o Messias!
+{88723}{88812}Ele é!|Ele é o Messias!
+{88814}{88870}Agora, vão se foder!
+{89057}{89104}Como devemos|nos foder, ó Senhor?
+{89106}{89150}Me deixem em paz!
+{89152}{89227}Você mandou essa gente|comer as minhas amoras!
+{89229}{89302}Quebrou o meu pé,|quebrou meu voto de silêncio...
+{89304}{89377}e ainda tenta acabar|com minhas amoras!
+{89379}{89459}- Não faça isso!|- Este é o Messias, O Escolhido!
+{89460}{89535}- Não, não é.|- Um Negador!
+{89537}{89637}- Um Negador!|- Peguem-no. Matem o herege!
+{89699}{89781}- Peguem ele!|- Deixem-no em paz!
+{89783}{89838}Deixem ele!
+{89839}{89894}Deixem ele em paz.
+{89896}{89967}Deixem ele ir! Por favor!
+{90062}{90132}- Brian ?|- Judith ?
+{90246}{90317}Cockadoodledoo !
+{91254}{91368}Olhem! Lá está ele!|O Escolhido acordou!
+{91429}{91487}Brian!
+{91546}{91596}- Brian!|- Espere, Mãe!
+{91597}{91647}Shhh.
+{91695}{91769}- Olá, Mãe.|- Não me venha com esse papo!
+{91771}{91823}O que aquelas pessoas|estão fazendo lá fora?
+{91825}{91896}- Bem, Eu...|- Vamos. O que você fez?
+{91897}{91957}Eu acho que eles|estão só de passagem.
+{91958}{92025}De passagem?|É um enxame, isso sim.
+{92027}{92077}Há uma multidão lá fora!
+{92079}{92130}Começaram a me seguir ontem.
+{92132}{92207}Bem, eles vão parar|de te seguir agora mesmo.
+{92209}{92277}Agora, parem de seguir meu filho!
+{92279}{92350}Vocês deviam se envergonhar.
+{92352}{92455}O Messias! O Messias!|Mostre-nos o Messias!
+{92457}{92526}- Quem?|- O Messias!
+{92527}{92591}Não há nenhum Messias aqui.
+{92593}{92670}Massa, tudo bem,|mas nenhum Messias. Agora, vão embora.
+{92672}{92733}Brian! Brian!
+{92735}{92785}Certo, menino.|O que você fez?
+{92787}{92834}- Nada, Mãe.|- Vamos, desenbucha.
+{92836}{92882}Bem, eles pensam que|eu sou o Messias, Mãe.
+{92884}{92941}O que você andou|dizendo a eles?
+{92943}{92998}- Nada. Eu só...|- Você só está piorando as coisas.
+{92999}{93084}- Eu posso explicar.|- Deixe-me explicar, Sra. Cohen!
+{93086}{93149}- Seu filho é um líder nato.
+{93151}{93239}Aquelas pessoas lá fora o estão|seguindo porque acreditam nele.
+{93241}{93312}Eles acreditam que ele pode|trazer esperança de uma nova vida,
+{93314}{93373}um novo mundo,|um futuro melhor!
+{93426}{93480}- Quem é essa?
+{93482}{93555}É Judith, Mãe.|Judith, Mamãe.
+{93557}{93603}Hmm. Aaah!
+{93645}{93743}- Ohhh!|- Messias! Messias! Messias!
+{93745}{93816}Messias!|Mostre-nos o Messias!
+{93818}{93895}Agora, escutem aqui.|Ele não é o Messias!
+{93897}{93975}É só um menino pelado.|Agora, vão embora!
+{93977}{94074}- Quem é você?|- Sou sua mãe, é isso.
+{94076}{94183}Bendita seja sua mãe!|Bendita seja sua mãe!
+{94185}{94267}Abençoada seja,|mãe de Brian!
+{94268}{94378}Abençoada seja!|Hosanna !
+{94380}{94467}Que seja exaltada,|agora e sempre!
+{94468}{94546}Bem, não pensem que|vão me enrolar com esse papo.
+{94548}{94631}Ele não irá sair,|é minha última palavra.
+{94662}{94731}- Agora, se piquem!|- Não!
+{94732}{94839}- Ouviram o que eu disse?|- Sim!
+{94841}{94911}Oh, estou vendo.|Então é assim, não é?
+{94912}{94994}- Sim!|- Tudo bem, então.
+{94996}{95085}Podem vê-lo por um minuto,|mas nenhum segundo a mais!
+{95087}{95146}- Entenderam?|- Sim.
+{95148}{95248}- Prometem?|- Bem... tá bom.
+{95250}{95339}Tudo bem, aqui está ele, então.|Venha Brian. Venha e fale.
+{95341}{95422}- Mas, Mãe, Judith.|- Ora, deixe a vaca galega pra lá.
+{95424}{95471}Eu não quero fazer isso.
+{95473}{95546}Brian! Brian!|Brian! Brian!
+{95629}{95721}- Bom dia.|- Uma benção! Uma benção!
+{95723}{95832}Não, não. Por favor.|Por favor ouçam.
+{95834}{95913}Tenho uma ou duas|coisas para dizer.
+{95915}{95976}Diga-nos!|Diga-nos as duas!
+{95978}{96044}Olhem, vocês entenderam|tudo errado.
+{96046}{96108}Vocês não precisam me seguir.
+{96110}{96189}Não precisam seguir ninguém.
+{96190}{96246}Vocês pensam por si mesmos.
+{96248}{96315}São todos individuais.
+{96317}{96395}Sim, somos todos individuais!
+{96397}{96445}Vocês são todos diferentes.
+{96447}{96523}Sim, somos todos diferentes!
+{96525}{96589}Eu não sou.
+{96591}{96679}Vocês devem se virar|por si mesmos.
+{96681}{96780}Sim, devemos nos virar|por nós mesmos!
+{96782}{96829}Exatamente.
+{96831}{96885}Conte-nos mais!
+{96886}{96995}Não! Esse é o ponto!|Não deixe ninguém lhes dizer o que fazer!
+{96997}{97045}Do contrário...
+{97047}{97096}Já basta.|Já basta.
+{97098}{97182}Ooh, não deu um minuto!
+{97214}{97323}- Oh, sim, deu!|- Oh, não, não deu!
+{97325}{97395}Agora, parem com isso!|E vão embora!
+{97397}{97450}- Com licença?|- Sim?
+{97451}{97555}- Você é virgem?|- Como é que é!
+{97557}{97663}Bem, se não for uma pergunta|muito pessoal, você é virgem?
+{97665}{97730}Se não for uma|pergunta muito pessoal?
+{97732}{97791}Quão mais pessoal|poderia ser?
+{97792}{97847}Agora, se mandem!
+{97877}{97930}- Ela é.|- Sim, com certeza.
+{98047}{98105}- Bom dia, Salvador.
+{98343}{98393}Ponha suas mãos|em mim, rápido!
+{98395}{98473}Agora, não incomodem|o Escolhido, por favor.
+{98475}{98571}Não meta esse bebê|na cara do Salvador.
+{98573}{98660}Digo, poderia ver|minha esposa?
+{98662}{98711}Vai ter que esperar,|eu suponho.
+{98713}{98771}Temos um almoço|de negócios.
+{98772}{98820}Os leprosos estão aguardando.
+{98822}{98891}Meu cunhado é o|ex-prefeito de Gath!
+{98892}{98993}Brian, posso lhe apresentar|o senhor que organizará|a caminhada de domingo?
+{98995}{99118}- Não empurrem!|- E mantenham o nariz no lugar!
+{99120}{99243}Os possuídos por demônios,|tentem controlá-los.
+{99244}{99313}Incuráveis, terão que|esperar mais uns minutos.
+{99315}{99425}Hum, mulheres em pecado,|se enfilerem naquela parede, ok?
+{99427}{99542}Brian? Brian,|você é fantástico.
+{99544}{99595}Você também não é tão mal.
+{99597}{99668}Não. O que você disse a pouco.|Foi extraordinário.
+{99670}{99717}O quê?|Tudo aquilo, foi?
+{99718}{99769}Não temos líderes.|Você é tão confiante.
+{99771}{99837}- Reg tem nos dominado a tempos.|- Bem, sim.
+{99839}{99930}- É preciso dizer,|e você disse, Brian.|- Você é muito atraente.
+{99932}{100010}É nossa revolução.|Podemos fazê-la todos juntos.
+{100012}{100080}- Eu acho, eu acho...|- Estamos atrás de você, Brian.
+{100081}{100156}- A revolução está em suas mãos!|- O quê?
+{100157}{100212}Não, não foi o que|eu quis dizer!
+{100214}{100293}Você está estupidamente preso,|seu velhaco.
+{100295}{100341}Certo.
+{100480}{100536}Pare.
+{100589}{100670}Bem, "Blian", você nos "diveltiu"|muito, não foi?
+{100726}{100811}Mas desta vez, eu "galanto"|que não vai escapar.
+{100813}{100932}Guarda, temos alguma|"clucificação" hoje?
+{100934}{101020}139, senhor. Celebração Especial.|Páscoa Judaica, senhor.
+{101022}{101125}Certo. Agora temos 140.|Bem, um número redondo, não é Enormus?
+{101126}{101217}- Ave César!
+{101218}{101291}- Ave.|- A multidão lá fora está|ficando inquieta.
+{101293}{101342}Permissão para dispersá-los,|por favor.
+{101343}{101427}Dispersá-los?|Eu ainda não os perdoei.
+{101429}{101467}Eu sei, senhor, mas...
+{101469}{101527}Meu "peldão" é um dos pontos|mais altos da Páscoa Judaica.
+{101529}{101582}Meu "cumplade" Enormus Pintus|percorreu um longo caminho de "Loma".
+{101584}{101667}- Ave César.|- Ave "schésar",
+{101668}{101735}Você não está...
+{101737}{101825}Você não está pensando em perdoar|alguém este ano, não é, senhor?
+{101827}{101877}Perdoar alguém?
+{101878}{101960}Bem, é que eles estão com|um comportamento estranho hoje, senhor.
+{101962}{102035}"Lealmente", "centulião", estou "sulpleso"|em ver um homem como você...
+{102037}{102095}"pleocupado" com uma "polcalia"|de "lebelião" de "desoldeilos".
+{102096}{102171}- Só um pouquinho, senhor.|- Levem-no.
+{102172}{102240}Eu sou Romano!|Eu posso provar! É sério!
+{102242}{102323}E "clucifiquem" bem ele.|Sim.
+{102324}{102386}Enormus.
+{102388}{102453}- A disposição, senhor.|- Fora de meu caminho, "centulião".
+{102455}{102509}Deixe-me ir com você,|Pontius.
+{102511}{102611}Eu posso dar "achssistência"|se houver uma "crichse" "inechsperada".
+{102612}{102717}Certo. Agora item quatro:|Previsão sobre a supremacia no mundo|dentro de cinco anos.
+{102719}{102795}- Francis, está trabalhando nisso?|- Sim. Obrigado, Reg.
+{102797}{102880}Bem, pra ser franco, companheiros,|eu acho que cinco anos é otimista...
+{102881}{102952}ao menos que possamos esmagar o|Império Romano dentro de 12 meses.
+{102954}{103000}- Doze meses, é?|- Doze meses.
+{103002}{103085}E vamos encarar, assim que o império|se for, este é o maior deles,
+{103087}{103189}aí iremos levantar nossas bundas|e parar de falar nisso.
+{103191}{103259}- Escutem! Escutem!|- É ação que conta, não palavras.
+{103261}{103319}- E precisamos agir agora|- Ouçam! Ouçam!
+{103320}{103369}Você está certo. Nós poderíamos|ficar sentados aqui o dia todo,
+{103371}{103453}falando, fazendo resoluções,|fazendo discursos estúpidos.
+{103455}{103512}Isso não irá espantar|o soldado Romano!
+{103514}{103596}Então vamos parar de enrolar.|Isso não tem sentido.
+{103597}{103645}- E não iremos a lugar nenhum.|- Certo!
+{103646}{103705}Concordo. É uma completa|perda de tempo.
+{103740}{103798}- Eles prenderam Brian!|- O quê? O quê?
+{103800}{103864}Eles o pegaram!|Querem crucificá-lo!
+{103865}{103950}Certo! Isso merece|discussão imediata!
+{103952}{103989}- O quê?|- Imediata!
+{103991}{104025}- Certo.|- Nova moção?
+{104027}{104083}Completamente nova.
+{104085}{104149}deverá haver ação imediata
+{104151}{104214}- Assim que o voto for feito.|- Obviamente, assim que o voto for feito.
+{104216}{104316}- Não se pode fazer uma resolução|até ter sido votado.|- Reg, precisamos ir, por favor!
+{104318}{104438}- Certo! De acordo com informações da|companheira Judith.|- Fale devagar, Reg.
+{104440}{104533}Reg, por Deus!|É perfeitamente simples.
+{104534}{104608}Tudo que temos que fazer|é sair por aquela porta agora...
+{104610}{104671}e tentar impedir os Romanos|de pregá-lo na cruz!
+{104673}{104765}Está acontecendo, Reg!|Acontecendo agora, Reg!
+{104767}{104828}Consegue entender?
+{104830}{104877}Oh!
+{104917}{104991}- Ooh. Ooh. Yup.
+{104993}{105049}Uma pequena demonstração|do feminismo?
+{105051}{105111}- O quê?|- Oh, desculpe, Loretta ?
+{105113}{105161}Leia de novo, por favor.
+{105476}{105539}Próximo? Crucificação?
+{105541}{105588}- Sim.|- Bom.
+{105589}{105675}Lá fora, logo a esquerda,|uma cruz para cada um.
+{105677}{105727}Próximo? Crucificação?
+{105729}{105775}- Sim.|- Bom.
+{105777}{105837}Lá fora, logo a esquerda,|uma cruz para cada um.
+{105839}{105898}Próximo? Crucificação?
+{105900}{105962}- Não, liberdade.|- O quê?
+{105964}{106022}Sim, liberdade.|Disseram que eu não fiz nada,
+{106023}{106092}então posso ir embora|e viver em algum lugar por aí.
+{106094}{106171}Oh. Bem, isso é ótimo.|Bem, então pode ir.
+{106173}{106235}Não, estou brincando.|É crucificação mesmo.
+{106237}{106297}Oh, estou vendo.|Muito bem, muito bem.
+{106299}{106353}- Bem, lá fora...|- Sim, eu sei o caminho. Lá fora,
+{106355}{106401}uma cruz para cada um,|logo a esquerda.
+{106403}{106449}Logo a esquerda. Sim, obrigado.
+{106451}{106500}- Crucificação? Bom.|- Sim.
+{106828}{106947}Povo de "Jelusalém",
+{106949}{107023}"Loma" é sua "ilmã".
+{107146}{107240}Para "plovar" nossa amizade,|será "costumeilo" a partir de agora...
+{107242}{107320}"libeltar" um "plisioneilo"|de nossas "plisões".
+{107426}{107540}Quem querem que eu "libelte"?
+{107542}{107616}- "Libelte" "Loger"!
+{107618}{107681}"Libelte" "Loger"!|"Libelte" "Loger"!
+{107768}{107891}Muito bem,|eu "libeltalei" "Loger"!
+{107962}{108022}Senhor, não temos nenhum|Roger, senhor.
+{108024}{108082}- O quê?|- Não temos ninguém com esse nome, senhor.
+{108084}{108187}Ah. Não temos nenhum "Loger".
+{108255}{108302}Bem, e que tal|"Lodelick" então?
+{108304}{108410}Sim! Soltem "Lodelick"!|Soltem "Lodelick"!
+{108411}{108528}"Centulião,"|porque estão rindo?
+{108558}{108622}É alguma,|bem, piada judia, senhor.
+{108661}{108730}Eles estão... "lindo" de mim?
+{108770}{108852}- Oh, não, senhor.
+{108854}{108960}Muito bem.|Eu "libeltalei" "Lodelick"!
+{108962}{109009}- Senhor, não temos nenhum Roderick, também.
+{109011}{109089}- Sem "Loger", sem "Lodelick".|- Desculpe, senhor.
+{109091}{109207}Quem é esse "Log", quem é esse|"Lodelick" ao qual se "lefelem"?
+{109209}{109277}- Ele é um "ladlão"!
+{109279}{109349}- E um "lalápio"!
+{109350}{109401}E um batedor de carteiras!
+{109403}{109451}- Sim Shh! Shh!| Calem-se!
+{109489}{109573}- Ele "palece" um "climinoso" conhecido.|- Não temos esse, senhor.
+{109575}{109641}Temos alguém em nossas|"plisões" afinal?
+{109643}{109713}- Oh, sim, senhor. Temos um Samson, senhor.|- Samson ?
+{109715}{109817}Samson o Saduceu Estrangulador.|Silus o assassino Assírio.
+{109819}{109892}muitos insubordinados|vindos da Cappadocia.
+{109894}{109982}- Uh, 67|- Me deixe "echxplicar" a eles.
+{109983}{110039}- Oh, não.|- Sim, boa idéia, Enormus.
+{110041}{110152}Cidadãos, temos "ChSamson"|o Saduceu "Echstrangulador",
+{110154}{110218}"ChSilus" o "Achssassino" "Achssírio"
+{110220}{110306}- Muitos "inchsubordinados"|vindos da Cappadocia.
+{110308}{110356}Próximo.
+{110358}{110415}- Crucificação?|- Sim.
+{110416}{110507}Bom. Lá fora,|logo a esquerda, uma cruz para cada um.
+{110509}{110566}- Carceireiro|- Com licença.|Acho que houve um engano.
+{110568}{110656}Só um momento, tá?|Carceireiro, quantos já passaram?
+{110658}{110707}O quê?
+{110709}{110782}Quantos já passaram?
+{110784}{110842}- O quê?|- VVVVocê tem que...
+{110844}{110975}fafafafafafalar mais alto, senhor.
+{110976}{111047}- Ele é é é é é su..|- Ah.
+{111048}{111105}Ele é surdo, ele é surdo,|ele é surdo como uma pppporta, senhor.
+{111107}{111153}Oh, sim.
+{111155}{111248}Quantos já passaram?
+{111321}{111388}- Oh, céus.|- Eu contei noventa e
+{111389}{111494}noventa e noventa e
+{111496}{111549}noventa e seis, senhor.
+{111551}{111608}É um desperdício de vidas|humanas, não é?
+{111609}{111657}NNNNão, senhor.
+{111658}{111769}NNão com esses bbastardos, senhor.
+{111770}{111820}CC N
+{111822}{111883}CCCru
+{111885}{111965}CCrucificação|é bom demais para eles, senhor.
+{111967}{112029}Não acho que se possa dizer isso.|É muito repulsivo.
+{112031}{112140}Oh, não é tão rrreee
+{112141}{112219}não tão repulsivo quanto|eu pensei, senhor.
+{112220}{112316}- Sim. Agora, crucificação?|- Há alguém com quem eu possa falar?
+{112317}{112402}- Bem|Eu sei onde encontrar, se você quiser.
+{112404}{112465}- O quê?|NNão se preocupe com eeele, senhor.
+{112467}{112554}EEle é su Ele é|Ele é susu
+{112555}{112670}- Ele é surdo e louco, senhor.|- Bem, como conseguiu o trabalho?
+{112672}{112748}- Puxa saco de Pilatos, senhor.
+{112750}{112830}Mexa-se, Narigudo. Há pessoas|esperando a vez de serem crucificados.
+{112832}{112884}- Eu poderia ver um|advogado ou alguém?
+{112886}{112954}- Você tem um advogado?|- Não, mas eu sou Romano.
+{112956}{113025}Que tal tentar de novo?|Temos muito tempo.
+{113026}{113100}- Cale-se!|- Romanos miseráveis. Sem senso de humor.
+{113102}{113158}- Desculpe. Estamos com pressa.
+{113159}{113264}Poderia ir agora?|Logo a esquerda, uma cruz para cada um. Agora...
+{113483}{113533}Foi algo que eu disse?
+{113535}{113610}- Silêncio!
+{113680}{113758}Este homem comanda|uma legião "inteila"!
+{113889}{113954}Ele é mais "lespeitado"|do que muitos em "Loma".
+{114029}{114111}Festa da Crucificação.
+{114148}{114248}Bom dia. Bem, seremos um show|andando pela cidade,
+{114250}{114298}então não vamos|fazer feio.
+{114300}{114373}Fiquem em linha reta, três metros|entre você e o homem da frente...
+{114375}{114429}e fiquem bem firmes.
+{114431}{114484}Cruzes acima|do ombro esquerdo,
+{114486}{114548}e se manterem suas costas|firmes a cruz,
+{114550}{114596}chegaram lá num piscar de olhos.
+{114598}{114645}Tudo bem, centurião.
+{114647}{114748}Festa da Crucificação!|Espere a ordem!
+{114750}{114892}Festa da Crucificação,|esquerda, volver!
+{114998}{115051}Seus idiotas sortudos!
+{115086}{115175}Seus idiotas, malditos sortudos!
+{115375}{115438}Deixe-me aliviar|seu sofrimento, irmão.
+{115440}{115486}Oh, obrigado.
+{115534}{115601}- EEi! Ei!|- Ei, o que acha que está fazendo?
+{115602}{115673}- Bem, essa cruz não é minha.|- Cale-se e ande logo!
+{115746}{115852}Ele te sacaneou mesmo, não foi?|Isso vai te deixar mais esperto.
+{115853}{115921}- Tudo bem.
+{115923}{115977}Eu darei a vocês|mais uma chance.
+{115979}{116052}Desta vez não quero ouvir|nenhum "Leubens",
+{116054}{116131}nem "Leginalds",
+{116133}{116214}nem "Ludolph,|a Lena do Naliz Velmelho".
+{116216}{116312}- Nem Spencer Tracys!|- Ou não soltaremos ninguém!
+{116314}{116393}- Libertem Brian!|- Oh, sim. Esse é bom.
+{116395}{116510}"Libelte" "Blian"!|"Libelte" "Blian"!
+{116512}{116578}Muito bem. Então é isso.
+{116580}{116645}- Senhor, nós temos um Brian, senhor.|- O quê?
+{116646}{116695}O senhor acaba de mandar|crucificá-lo, senhor.
+{116697}{116769}Esperem, esperem.|Nós temos um "Blian".
+{116771}{116849}- Vão e "libeltem" ele, andem logo.|Sim, senhor.
+{116911}{116960}Muito bem.
+{116962}{117049}Eu irei... "libeltar" "Blian"!
+{117134}{117201}- Mexa-se!|- Ou o quê?
+{117203}{117266}- Ou terá problemas.|- Oh, céus.
+{117268}{117344}Quer dizer que eu posso|ser crucificado só ao anoitecer?
+{117346}{117406}- Cale-se!|- Seria um pé no saco, não é?
+{117407}{117490}Eu não teria nada para fazer.|Obrigado.
+{117571}{117639}Eles já foram?
+{117640}{117742}NNós amontoamos tudo|lá atrás.
+{117744}{117814}- O quê?|- Não se preocupe com ele, senhor.
+{117816}{117882}Ele é ma|Ele é ma
+{117884}{117954}Ele é mm|Ele é mm
+{117956}{118027}- Ele é maluco, senhor.|- Eles já foram?
+{118053}{118106}Oh, si N
+{118107}{118221}- Eu n Uh, Eu n NNNN
+{118222}{118295}- NNNN|- Ora, vamos logo!
+{118297}{118355}Sim, senhor.
+{118356}{118448}- Continue a estória.|- Bem, eu sabia que ela não gostava dele então...
+{118450}{118487}Certo.
+{118488}{118543}Nos concentraremos nesta moção,|passou com uma abstenção.
+{118545}{118608}Eu proponho que começemos já.|Posso pedir um segundo para...
+{118610}{118660}- Vamos agora.|- Sim.
+{118937}{118984}Oh, não!
+{119034}{119097}- Romanos idiotas!|- Cuidado!
+{119099}{119146}Ainda sobraram|algumas cruzes.
+{119185}{119246}Vai bem alto, Narigudo.
+{119248}{119320}- Vou te pegar por isso,|seu bastardo.|- Ah é?
+{119322}{119400}- Ah, é. Não se preocupe.|Nunca esqueço um rosto.
+{119402}{119505}Estou avisando,|vou te espancar tanto,|seu Romano estúpido!
+{119507}{119561}Cale-se, seu Judeu de merda!
+{119563}{119638}Quem está chamando de Judeu?|Eu não sou Judeu!
+{119640}{119691}- Sou Samaritano!|- Um Samaritano?
+{119693}{119736}Esta deveria ser uma|seção judia.
+{119738}{119831}Não importa.|Morrerão todos em um ou dois dias!
+{119832}{119917}Não importa para você, Romano,|mas para nós importa,|não é, querida?
+{119919}{120006}- Ora, fique quieto!|- De acordo com os termos|de ocupação Romana,
+{120008}{120079}temos o direito de ser|crucificados numa área só de judeus.
+{120081}{120142}Fariseus separados|de Saduceus.
+{120144}{120219}E Suécos separados|de Galegos!
+{120221}{120316}Tudo bem, tudo bem.|Vamos colocar ordem nisso.
+{120318}{120425}Mãos para cima aqueles que|não querem ser crucificados aqui.
+{120427}{120500}- Muito bem. Próximo!
+{120502}{120573}- Olhe. Essa cruz não é minha.|- O quê?
+{120574}{120641}Essa cruz não é minha.|Eu a estava segurando para alguém.
+{120643}{120690}Só deite-se.|Eu não tenho o dia todo.
+{120691}{120748}Não, é claro. Olhe.|Não gosto de incomodar mas...
+{120750}{120829}Olhe. Tivemos um dia cheio.|Há 140 de vocês para pendurarmos.
+{120831}{120892}- Ele é Judeu?|- Dá pra calar a boca?
+{120894}{120948}Não queremos mais nenhum|Samaritano por aqui.
+{120950}{121028}Pra cima!|Você vai me soltar se ele voltar?
+{121030}{121092}Sim, sim,|vamos te soltar. Próximo!
+{121094}{121161}Você não tem que fazer isso.|Você não precisa obedecer ordens.
+{121163}{121217}Eu gosto de ordens.
+{121756}{121803}Vê? Não é tão mau,|depois de pendurado.
+{121829}{121875}Você será resgatado, não é?
+{121877}{121923}É um pouco tarde agora,|não acha?
+{121925}{121982}Oh, não. Ficaremos alguns|dias pendurados aqui.
+{121983}{122031}É bastante tempo.|Muita gente é resgatada.
+{122032}{122116}- É?|- Sim. Meu irmão geralmente me resgata,
+{122118}{122179}se ele puder se livrar da cauda|por mais de 20 minutos.
+{122181}{122228}- É?|- Pequeno inseto lascivo.
+{122229}{122286}Pra cima e pra baixo|tal como o Império Assírio.
+{122388}{122444}Olá.|Sua família chegou?
+{122446}{122487}Reg!
+{122489}{122571}- Olá, companheiro Brian.|- Graças a Deus você veio, Reg.
+{122572}{122682}Bem, devo antes dizer, Brian,|que não somos um comitê de resgate.
+{122684}{122752}Todavia, fui solicitado a ler|o seguinte documento preparado...
+{122754}{122801}no interesse do movimento.
+{122803}{122890}"Nós, da Popular Frente da Judéia,|apoiadores, oficiais,
+{122891}{122979}"vimos através desta trazer nossos|sinceros e fraternos votos...
+{122980}{123062}a você, Brian, nesta hora,|na ocasião da sua martirização."
+{123064}{123132}- O quê?|- "Sua morte será um marco...
+{123134}{123204}"em nosso contínuo esforço|para libertar a pátria mãe...
+{123205}{123267}"das mãos dos agressores|imperialistas Romanos,
+{123269}{123341}"exceto os preocupados com drenagem,|medicina, estradas, construção,
+{123342}{123417}"educação, vinicultura, e qualquer|outra contribuição Romana...
+{123419}{123520}"a favor dos judeus de ambos|os sexos e hemafroditas.
+{123522}{123589}Assinado, em nome da|P.F.J., etc."
+{123591}{123675}E gostaria de acrescentar,|como nota pessoal, minha admiração...
+{123677}{123723}pelo que você está fazendo|por nós, Brian,
+{123725}{123801}e que deve ser, com certeza,|uma hora muito difícil para você.
+{123803}{123901}- Reg, o que você está querendo...|- Adeus, Brian, e obrigado.
+{123955}{124003}Bom trabalho, Brian.|Fique firme, colega.
+{124005}{124067}Trabalho incrível, Brian.
+{124195}{124247}Certo. E...
+{124248}{124300}"Ele é um bom companheiro"
+{124302}{124349}"Ele é um bom companheiro"
+{124350}{124427}"Ele é um bom companheiro"
+{124429}{124482}"Ninguém pode negar"
+{124484}{124535}"Ninguém pode negar"
+{124602}{124648}Seus desgraçados!
+{124650}{124781}- Desgraçados!|Seus fanáticos desgraçados!|- Onde está Brian de Nazaré?
+{124783}{124864}- Tenho ordens de libertá-lo.|- Seus desgraçados estúpidos!
+{124866}{124921}- Eu sou Brian de Nazaré.|- O quê?
+{124923}{124970}- Sim, eu sou Brian de Nazaré.|- Desçam ele.
+{124972}{125052}- Eu sou Brian de Nazaré!|- Eu sou Brian!
+{125054}{125137}- Eu sou Brian!|- Eu sou Brian!
+{125139}{125216}- Eu sou Brian!|- Eu sou Brian, e minha esposa também!
+{125218}{125287}- Eu sou Brian!|- Eu sou Brian!
+{125288}{125326}Levem-no|e soltem-no.
+{125328}{125446}Não, estou brincando. Não sou|Brian. Não, não sou Brian.
+{125447}{125525}Eu só estava... era uma piada.|Estou só te sacaneando.
+{125527}{125641}É uma piada! Não sou ele!|Era brincadeira! Ponha-me de volta!
+{125643}{125701}Romanos idiotas.|Não sabem brincar.
+{125922}{125983}A Frente Popular da Judéia!
+{125985}{126068}A Frente Popular da Judéia!
+{126070}{126136}Avançar!
+{126231}{126291}- Vamos!|- A Frente Popular da Judéia!
+{126293}{126359}A Frente Popular da Judéia!
+{126518}{126651}Nós somos o Esquadrão Suicida|da Frente Popular da Judéia.
+{126652}{126739}Esquadrão Suicida, atacar!
+{126952}{127004}Mostramos a eles.
+{127052}{127158}- Seus inúteis idiotas.
+{127160}{127250}Brian! Brian! Brian!
+{127252}{127355}- Judith!|- Incrível! Grandioso!
+{127356}{127444}Reg me explicou tudo.|Acho isso grandioso, o que está fazendo.
+{127446}{127493}Obrigado, Brian.
+{127495}{127559}Eu, eu nunca te esquecerei.
+{127762}{127823}Aí está você!
+{127825}{127883}Eu deveria saber|que terminaria assim.
+{127885}{127980}Quando penso em todo amor|e afeto que desperdicei com você.
+{127982}{128056}Bem, se é assim que você|trata sua pobre velha mãe...
+{128058}{128108}a estas alturas|de sua vida,
+{128109}{128193}tudo que posso dizer é,|vá em frente, seja crucificado!
+{128195}{128255}Eu não me importo.|Eu deveria saber...
+{128257}{128312}- Mãe!
+{128314}{128417}- Mãe!|- Não sei onde o mundo vai parar.
+{128546}{128638}Ânimo, Brian.|Você sabe o que dizem.
+{128640}{128712}Algumas coisas na vida são ruins.
+{128714}{128772}Podem até te deixar maluco.
+{128774}{128870}Outras só te chateiam|e desacreditam.
+{128872}{128939}"Quando sua vida|estiver ruim"
+{128941}{129025}"Não resmungue|Dê um assovio"
+{129027}{129124}"E isto vai lhe ajudar|a melhorar"
+{129126}{129173}"E"
+{129174}{129287}"Sempre olhe|para o lado brilhante da vida"
+{129376}{129490}"Sempre olhe|para o lado claro da vida"
+{129551}{129657}"Se a vida anda decadente|há algo que você esqueceu"
+{129659}{129742}"E isto é para rir e sorrir|e dançar e cantar"
+{129744}{129799}"Quando estiver na sargeta"
+{129800}{129847}"Não seja um estúpido irresponsável"
+{129849}{129953}"Só junte seus lábios|e assovie, é isso"
+{129955}{130064}"E sempre olhe|para o lado brilhante da vida"
+{130139}{130255}"Sempre olhe|para o lado brilhante da vida"
+{130327}{130381}"Se a vida é absurda"
+{130383}{130430}"E morte é a última saída"
+{130432}{130512}"Você deve sempre cumprimentar|o público"
+{130514}{130567}"Esqueça sua vergonha"
+{130569}{130616}"Dê aos espectadores um grande sorriso"
+{130617}{130699}"Divirta-se, é sua|última chance mesmo"
+{130701}{130835}"Então sempre olhe|para o lado brilhante da morte"
+{130910}{131026}"Antes de dar|seu último suspiro"
+{131100}{131192}"A vida é uma merda|quando olha pra ela"
+{131194}{131288}"A vida é engraçada e|morte é uma piada, é verdade"
+{131289}{131391}"Você verá que tudo é um show|Pessoas rindo tal como você"
+{131393}{131469}"Lembre-se que você|irá rir por último"
+{131470}{131597}"E sempre olhe|para o lado brilhante da vida"
+{131685}{131803}"Sempre olhe|para o lado bom da vida"
+{131805}{131873}Vamos, Brian. Ânimo.
+{131874}{131990}"Sempre olhe|para o lado brilhante da vida"
+{132071}{132183}"Sempre olhe|para o lado bom da vida"
+{132185}{132255}Coisas piores acontecem|no mar, sabia?
+{132257}{132348}"Sempre olhe|para o lado brilhante da vida"
+{132350}{132406}O que você tem a perder?|Você veio do nada.
+{132407}{132467}Você irá voltar ao nada.|O que você perdeu?
+{132469}{132565}- Nada!|- "Sempre olhe|para o lado bom da vida"
+{132567}{132640}Nada virá do nada.|Sabe o que dizem?
+{132642}{132688}"Sempre olhe para..."|Ânimo, seu velhaco.
+{132690}{132756}- "O lado brilhante da vida"|- Dê-nos um sorriso. Aí está você.
+{132758}{132852}Vê? É o final do filme.|A fita está sendo vendida na saída.
+{132854}{132948}"Sempre olhe|para o lado bom da vida"
+{132950}{133022}Quem você acha que pagaria|por todo esse lixo?
+{133024}{133126}"Sempre olhe|para o lado brilhante da vida"
+{133128}{133221}Eu disse a ele. Eu disse, "Bernie,|não vamos aceitar devoluções."
+{133222}{133326}"Sempre olhe|para o lado bom da vida"
