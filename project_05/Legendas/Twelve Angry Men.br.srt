@@ -1,0 +1,1309 @@
+{1719}{1784}Você fez um trabalho Maravilhoso. Maravilhoso.
+{1832}{1881}Você conseguiu. Conseguiu sim!
+{1962}{2089}Vocês escutaram a um longo e complexo caso, assassinato em primeiro grau.
+{2091}{2212}Assassinato premeditado é a acusação mais séria em nossos tribunais.
+{2214}{2327}Vocês escutaram o testemunho e tiveram a lei interpretada da maneira que se adapta a este caso.
+{2329}{2442}Agora é obrigação de vocês sentar e tentar separar os fatos das suposições.
+{2444}{2546}Um homem foi morto. E a vida de outro está a perigo.
+{2548}{2645}Se existe alguma dúvida sobre a culpa do acusado -
+{2647}{2762}uma dúvida razoável - então devem optar pelo veredicto de inocente.
+{2765}{2862}Se não existe tal dúvida, então devem, com a consciência limpa,
+{2864}{2934}declarar o acusado culpado.
+{2936}{3028}De que forma for, o veredicto deve ser unânime.
+{3031}{3113}Se por acaso declararem o acusado culpado,
+{3116}{3194}não haverá perdão.
+{3197}{3275}A sentença de morte se fará necessária.
+{3284}{3386}Vocês enfrentam uma grande responsabilidade. Obrigado, Srs.
+{3417}{3495}O jurados extras estão dispensados.
+{3604}{3663}O júri irá agora se retirar.
+{7030}{7098}-Quer chiclete?|-Não, obrigado.
+{7106}{7167}Está emperrada.
+{7234}{7322}-Vou te ajudar|-Isso.
+{7436}{7516}Sabe de uma coisa? Liguei para a previsão de tempo hoje.
+{7519}{7591}Vai ser o dia mais quente do ano.
+{7593}{7657}Era de se esperar que colocassem ar condicionado neste lugar.
+{7659}{7737}-Qual o seu nome Sr.?|-É este aqui. É.
+{7739}{7839}Muito obrigado.|OK. Todos estão aqui.
+{7841}{7964}Se quiserem algo, estarei aqui fora. Apenas batam na porta.
+{8267}{8333}Bom dia. Eu não sabia que trancavam a porta.
+{8335}{8407}Claro que sim. O que você esperava?
+{8410}{8484}Sei lá. Apenas nunca me ocorreu.
+{8505}{8599}-Para que isto?|-Achei que deveríamos votar no papel.
+{8602}{8702}Boa idéia. Talvez consigamos elegê-lo senador.
+{8842}{8934}-O que você achou?|-Não sei. Foi bastante interessante.
+{8936}{9049}- É? Eu quase dormi.|-Nunca estive num júri antes.
+{9052}{9113}Não? Eu estive em vários.
+{9141}{9270}Estes advogados falam demais, mesmo quando é um caso óbvio como este.
+{9272}{9358}-Já ouviu tanta baboseira por nada?|-Acho que é o dever deles.
+{9360}{9438}É o dever deles, é o sistema, mas...
+{9440}{9551}se quer saber, arrebentaria estes garotos marrentos antes que começassem qualquer confusão.
+{9553}{9637}Pouparia muito dinheiro.|Vamos começar.
+{9640}{9704}É. Todos nós temos outros compromissos.
+{9706}{9800}Podemos começar esperando 5 minutos. Tem um Sr. no banheiro.
+{9803}{9852}Nós... Vamos nos sentar em ordem?
+{9855}{9920}Ih, sei lá. Acho que sim.
+{10035}{10094}- Cara, você está no meu lugar.|-Desculpe-me.
+{10097}{10146}Tudo bem.
+{10177}{10242}Não é um vista ruim, hem?
+{10309}{10418}O que achou do caso? Eu achei muito interessante.
+{10421}{10513}Sem muitos pontos fracos. Sabe o que quero dizer?
+{10515}{10626}Tivemos sorte em pegar um caso de assassinato. Achei que era assalto ou roubo.
+{10628}{10693}Rapaz, eles são chatíssimos!
+{10719}{10844}-Ei, aquele não é o Edifício Woolworth?|-Isso mesmo.
+{10847}{10941}Não é engraçado? Vivi aqui a vida inteira e nunca entrei nele.
+{10944}{11041}Se você tivesse que passar por toda aquela porcaria, como nos filmes.
+{11043}{11115}É. E aquele lance com a faca?
+{11117}{11189}Tentando fazer homens adultos acreditarem naquela enrolação.
+{11192}{11258}Já se esperava isso.| Sabemos com quem estamos lhe dando.
+{11260}{11299}É, acho que sim.
+{11314}{11386}É, sua buzina funciona, agora tente os faróis.
+{11388}{11484}-Está resfriado?|-E como! Estes resfriados são de matar.
+{11486}{11545}Mal consigo tocar no meu nariz, sabe como é?
+{11547}{11612}Claro. Acabei de sair de um.
+{11632}{11741}-Ah, qual é! Sr. Foreman, vamos logo.|-O cara ainda está no banheiro.
+{11744}{11836}Quais as novidades? Não consegui ler jornal hoje.
+{11838}{11895}Estava apenas vendo qual o fechamento do mercado.
+{11898}{12005}- Você opera na bolsa?|-Sim, sou um corretor.
+{12008}{12057}Eu cuido de um serviço de mensagens.
+{12060}{12115}A Companhia "Beck na Call".
+{12118}{12171}O nome é idéia de minha mulher.
+{12174}{12258}Tenho 377 homens trabalhando. Comecei do nada.
+{12261}{12326}OK. Vamos nos sentar?
+{12413}{12538}Nós todos podemos sair daqui rapidinho. Tenho ingressos pro jogo de hoje à noite.
+{12541}{12631}Yanks X Cleveland. Temos o Modjelewski jogando hoje.
+{12634}{12689}O cara joga muito. Este garoto...
+{12720}{12771}Tem uma mão de mágica...  Sabe como é?
+{12836}{12930}Você é fanático por baseball, não?|-Onde sentamos?
+{12933}{13005}Acho que devemos sentar de acordo com a numeração dos jurados.
+{13008}{13096}Um, dois, três e por aí vai, ao longo da mesa, se vocês estiverem de acordo.
+{13099}{13173}-Qual a diferença?|-É mais razoável sentar em ordem.
+{13175}{13335}-Deixa pra lá.|-Somos doze. Iríamos fazendo um, dois...
+{13337}{13435}Qual foi sua impressão do procurador de justiça?
+{13437}{13504}- Desculpa?|- Achei que ele era muito esperto,
+{13506}{13598}da maneira que abordou cada um dos pontos, um por um, numa seqüência lógica.
+{13601}{13718}- Fiquei muito impressionado.|-Achei que fez um excelente trabalho.
+{13720}{13796}Muita encheção de lingüiça também. Muita.
+{13799}{13881}Ok, amigos. Podemos parar por um tempinho? Amigos?
+{13884}{13935}Nós gostaríamos de começar.
+{13938}{14007}O Sr. na janela.
+{14009}{14085}-Gostaríamos de começar.|-Desculpe.
+{14087}{14208}-O garoto matou seu pai, assim mesmo.|-Olha, acontece toda hora.
+{14210}{14265}Eles deixam estes garotos virarem uns selvagens.
+{14267}{14338}Bom, talvez ele tenha merecido. Sabe o quero dizer?
+{14340}{14411}-Estão todos aqui?|-O velho está lá dentro.
+{14413}{14479}-Pode bater na porta e chamá-lo?|-Sim.
+{14505}{14581}-Você torce pelos Yankees?|-Não, Baltimore.
+{14591}{14640}Baltimore?
+{14658}{14755}É como levar um porrada na cabeça todos os dias.
+{14757}{14847}Quem eles têm? O que eles tem além de bons homens de base?
+{14850}{14926}- Ei, gostaríamos de começar.|-Perdoem me, Srs.
+{14929}{15017}- Não queria deixar vocês esperando.|-Baltimore?
+{15026}{15164}Ok. Se posso ter a atenção de vocês. Vocês podem tratar isto como quiser.
+{15167}{15233}Eu... Bem, não vou exigir nenhuma regra.
+{15235}{15377}Nós podemos discutir primeiro e depois fazer a votação. É uma maneira.
+{15380}{15446}E, bem, podemos votar logo agora.
+{15448}{15514}Acho que é costumeiro fazermos uma votação preliminar.
+{15516}{15608}É, vamos votar. Quem sabe? Talvez possamos todos sair logo daqui.
+{15645}{15793}OK. Acho que sabem que temos um assassinato em primeiro grau,
+{15795}{15918}e se considerarmos ele culpado, temos que mandá-lo para a cadeira elétrica.
+{15920}{15983}É mandatório.
+{15985}{16057}Acho que sabemos disso.|-Sim, vamos ver a posição de cada um.
+{16060}{16148}-Ok. Alguém não quer votar?|-Eu não me importo.
+{16178}{16307}Ok, apenas lembrem que tem que ser doze a zero. Qualquer que seja a votação.
+{16309}{16381}Esta é a lei. Estamos prontos?
+{16384}{16468}Todos aquele que votarem culpado, levantem as mãos.
+{16547}{16643}Um, dois, três, quatro, cinco, seis, sete...
+{16665}{16722}oito, nove, dez, onze.
+{16725}{16784}OK, são onze a favor de "culpado".
+{16798}{16847}Os que votam a favor de "inocente"?
+{16859}{16912}Um. Ok.
+{16914}{17029}Onze "culpados". Um "inocente".Agora sabemos como está.
+{17031}{17107}Putzgrila, tem sempre um!
+{17139}{17204}Então o que fazemos agora?
+{17206}{17280}-Acho que discutimos.|-Putzgrila!
+{17282}{17352}Você realmente acha que ele é inocente?
+{17415}{17493}-Eu não sei.|-Você esteve lá, junto com todos nós.
+{17495}{17571}Você escutou tudo. O garoto é um assassino perigoso.
+{17573}{17655}- Ele tem 18 anos.|-É idade suficiente.
+{17658}{17727}Ele esfaqueou seu próprio pai,perfurando o peito por 10 cm.
+{17729}{17793}Foi provado de 12 maneiras diferentes, no tribunal.
+{17795}{17879}-Gostaria que listasse para você?|-Não.
+{17887}{17959}-Então o que quer?|-Apenas quero discutir o assunto.
+{17961}{18037}O que tem para discutir? Onze de nós acha que ele é culpado.
+{18039}{18094}Ninguém precisou pensar duas vezes, só você.
+{18097}{18173}Você acredita na história dele?
+{18175}{18278}-Não sei. Talvez não acredite.|-Então porque votou "inocente"?
+{18280}{18325}Tinham onze votos por culpado.
+{18327}{18448}Não é fácil para mim mandar um rapaz para sua morte sem discutir sobre isto antes.
+{18451}{18535}-Mas quem disse que é fácil?|-Ninguém.
+{18538}{18653}Que? Só porque votei rápido? Realmente acho que ele é culpado.
+{18655}{18719}Não conseguiria mudar meu voto nem que falasse por 100 anos.
+{18721}{18786}Não quero mudar seu voto, apenas...
+{18788}{18862}É a vida de alguém, não podemos decidir em cinco minutos.
+{18865}{18970}- Suponha que estejamos errados.|-É mesmo.
+{18973}{19042}-Você pode supor qualquer coisa.|-Isso mesmo.
+{19044}{19165}Qual a diferença se levou pouco tempo? E daí?
+{19167}{19284}Vamos levar uma hora. O jogo só começa às 8 Horas.
+{19399}{19481}-Quem tem algo a dizer?|-Estou disposto a ficar aqui por um hora.
+{19483}{19611}- Ótimo. Escutei uma boa história ontem...|-Não é pra que estamos aqui.
+{19613}{19713}Tá bom, para que estamos aqui?
+{19729}{19796}Não sei. Talvez por razão alguma.
+{19798}{19880}O garoto apanhou a vida inteira.
+{19883}{19973}Você sabe, nasceu numa favela, a mãe morta quando ele tinha nove anos.
+{19976}{20033}Viveu por um ano e meio num orfanato,
+{20035}{20106}enquanto seu pai cumpria pena por falsificação.
+{20108}{20163}Não é um começo muito feliz.
+{20166}{20254}É um garoto selvagem, bruto. Sempre foi assim e sabe porque?
+{20256}{20348}Porque levou uma porrada na cabeça por dia, todos os dias.
+{20351}{20478}Ele teve 18 anos horríveis, acho que dedicar um tempo a ele, só isso.
+{20480}{20593}Não me importo em dizer que não devemos nada a ele. Ele teve um julgamento justo.
+{20596}{20705}Quanto você acha que custou este julgamento? Ele tem sorte de ter um!
+{20707}{20810}Olha, somos todos adultos aqui. Escutamos os fatos, certo?
+{20812}{20915}Não vai me dizer que devemos acreditar no garoto sabendo como ele é.
+{20918}{20971}Eu vivi entre "eles" minha vida toda.
+{20974}{21101}Não acredito numa só palavra que dizem. Você sabe disso. "Eles" nascem contando mentiras.
+{21103}{21181}-Só um ignorante acredita nisto.-|Peraí...
+{21183}{21252}Você acha que você nasceu com o monopólio da verdade?
+{21254}{21321}Algumas coisas devem ser esclarecidas para este homem.
+{21323}{21444}-Não é domingo. Não queremos um sermão.|-Temos um trabalho a fazer. Vamos fazê-lo.
+{21447}{21537}"Rice Pops". É um produto que criei lá no meu trabalho.
+{21540}{21601}"O Café da manhã com um reforço especial"
+{21603}{21660}-Eu escrevi isto. |-É, pega fácil.
+{21662}{21773}-Ei, vocês se importam?|-Desculpe, tenho o hábito de desenhar.
+{21776}{21847}-Me faz pensar mais claramente.|-Temos trabalho a fazer.
+{21849}{21923}Não há porque ficar aqui para sempre. OK.
+{21936}{22084}Talvez se o senhor ali que discorda de nós possa nos dizer o porque.
+{22086}{22183}Nos diga o que pensa. Talvez possamos ajudá-lo a descobrir onde está enganado.
+{22185}{22346}Talvez seja uma boa idéia. É nosso dever convencê-lo que ele 
+{22348}{22483}está errado e nós estamos certos. Talvez se levarmos alguns minutos...
+{22485}{22577}-Foi só uma idéia básica.|-Não, foi uma boa idéia.
+{22580}{22629}Que tal se passássemos pela opinião da mesa?
+{22634}{22681}Acho que você é o primeiro.
+{22774}{22835}É difícil colocar em palavras.
+{22856}{22911}Eu apenas acho que ele é culpado.
+{22913}{23003}Eu achei que ficou evidente desde o início. Ninguém provou o contrário.
+{23006}{23102}Ninguém tem que provar o contrário. O dever de provar é da procuradoria.
+{23104}{23206}O réu nem mesmo tem que abrir a boca. Está na constituição.
+{23208}{23310}Claro, sei disso. O que eu quero dizer é que...
+{23328}{23416}Bem... Apenas acho que é culpado. Viram ele cometer o crime.
+{23419}{23544}Eu penso o seguinte, e não tenho sentimentos pessoais a respeito.
+{23547}{23619}Apenas que falar com base nos fatos.
+{23622}{23679}Numero Um.
+{23682}{23783}Um velho que vivia no andar de baixo, bem abaixo de onde foi cometido o crime.
+{23785}{23873}Às 12:10 na madrugada do crime, ele escutou um barulho alto.
+{23876}{23925}Disse que parecia com uma briga.
+{23928}{23995}E escutou o garoto dizer "Eu vou matá-lo".
+{23997}{24052}Um segundo depois, escutou um corpo cair.
+{24055}{24160}Correu para a porta, abriu ela e viu o garoto pela escada e saindo do prédio.
+{24163}{24257}Chamou a polícia. Acharam o velho com uma faca no peito.
+{24259}{24337}O perito fixou a hora da morte por volta da meia-noite.
+{24339}{24467}Isto são fatos. Não pode rebater os fatos. O garoto é culpado.
+{24469}{24547}Eu tenho sentimentos também. Sei que tem 18 anos.
+{24550}{24650}-Mas ele ainda tem que pagar por isso.|-Estou com você.
+{24652}{24744}-OK. Terminou?|-Sim.
+{24747}{24831}Está óbvio para mim que a história do garoto é uma farsa.
+{24833}{24878}Ele falou que estava no cinema,
+{24881}{24975}mesmo assim não conseguiu lembrar do nome do filme ou quem estava nele.
+{24978}{25045}-Isso mesmo.|-E ninguém o viu no cinema.
+{25047}{25152}E a vizinha do outro lado da rua - Se o testemunho dela não prova, nada conseguirá.
+{25154}{25261}-Isso mesmo. Ela viu o crime acontecendo.|-Amigos, vamos em ordem.
+{25263}{25312}Só um minuto. Aqui temos uma mulher...
+{25345}{25454}que está deitada na cama. Não consegue dormir. Está morta de calor.
+{25457}{25531}Olha pela janela, para o outro lado da rua.
+{25533}{25619}Ela vê o garoto enfiando a faca em seu pai.
+{25622}{25696}São 12:10 em ponto. Tudo se encaixa.
+{25699}{25754}Ela conhece o garoto há muito tempo.
+{25756}{25848}A janela dela fica do lado oposto, atrás dos trilhos do trem. Ela jurou que viu ele cometendo o crime.
+{25851}{25912}Através da janela de um trem que passava.
+{25915}{26017}O trem estava vazio, estava indo para a estação.
+{26019}{26099}As luzes do trem estavam apagadas e isto foi provado no tribunal.
+{26101}{26193}Você consegue olhar por entre as janelas e ver o que acontece do outro lado.
+{26195}{26271}-Eles provaram isso.|-Eu gostaria de lhe fazer uma pergunta.
+{26273}{26343}Se não acredita do garoto, porque acredita na mulher?
+{26345}{26423}Ela também é um "deles", não é?
+{26450}{26544}-Você é muito espertinho, não é?|-Ok, Srs. Vamos lá.
+{26546}{26649}-Sente-se. Sente-se.|-Porque está dando uma de espertinho? Estou avisando...
+{26651}{26729}Vamos lá. Não vamos conseguir nada brigando.
+{26732}{26834}- É a vez de quem?|-Dele. Número cinco.
+{26912}{26973}Posso... Posso passar a vez?
+{26976}{27045}Acho que é seu privilégio.
+{27047}{27100}E o próximo cavalheiro?
+{27103}{27164}Bem. Eu não sei.
+{27167}{27278}Comecei a me convencer, muito cedo no caso.
+{27281}{27357}Sabe, estava procurando um motivo.
+{27360}{27493}É muito importante, porque se não existe um, onde está o caso, certo?
+{27495}{27633}De qualquer forma, o testemunho dos vizinhos foi muito poderoso.
+{27635}{27765}Eles não mencionaram algo sobre uma briga, uma discussão,
+{27767}{27870}entre o velho e seu filho, por volta das 7 horas daquela noite?
+{27872}{27952}-Posso estar errado, mas..|-Foi às 8 Hs, não às 7.
+{27954}{28092}Eles ouviram uma discussão. Então ouviram o pai batendo no garoto.
+{28095}{28197}Então eles viram o garoto correndo, irado, para fora de casa. E daí?
+{28199}{28271}Não prova nada. É apenas parte do quadro.
+{28273}{28349}Você disse que isto lhe dá um motivo. A procuradoria também.
+{28351}{28402}Não foi um motivo muito forte.
+{28404}{28498}Este garoto já levou tanta porrada que a violência é praticamente...
+{28500}{28555}Já está no sangue dele.
+{28558}{28660}Não consigo ver como dois tapas na cara iriam levá-lo a cometer assassinato.
+{28662}{28771}Talvez tenha sido a gota d'água. Todos temos um limite.
+{28802}{28857}Mais alguma coisa?
+{28859}{28939}-Não. |-OK. E você?
+{29002}{29084}Não sei, tudo já foi dito.
+{29086}{29168}Podemos ficar aqui falando para sempre. Tudo permaneceria igual.
+{29178}{29295}Este garoto é manjado. Olhe a ficha dele.
+{29297}{29400}Quando tinha 10, foi para o juizado de menores: Jogou uma pedra num professor.
+{29402}{29500}Quando tinha 15 anos, foi para um reformatório: Roubou um carro.
+{29502}{29617}Foi preso por assalto. Foi preso duas vezes brigando com facas.
+{29620}{29733}Dizem que é muito bom com uma faca. Ah, é um garoto muito bonzinho.
+{29735}{29844}Desde que tinha cinco anos o pai batia nele, regularmente. Ele usava os punhos.
+{29846}{29905}Eu também usaria. Um garoto como ele?
+{29908}{29988}São estes garotos - a maneira que estão hoje em dia.
+{30042}{30130}Quando era criança, chamava meu pai de "Sr."
+{30133}{30209}Isso mesmo. Já ouviu um garoto chamando seu pai de Sr, hoje em dia?
+{30211}{30291}Os pais não acham que isso seja mais importante.
+{30294}{30351}- Você tem filhos?|-Três.
+{30377}{30426}Eu tenho um.
+{30449}{30498}Ele tem 22 anos.
+{30635}{30742}Quando tinha nove, fugiu de uma briga.
+{30744}{30859}Eu vi isso acontecer. Fiquei tão envergonhado que quase vomitei.
+{30861}{30992}Eu disse "Vou fazer um homem deste garoto nem que tenha que parti-lo em dois."
+{31030}{31095}Bem, transformei ele num homem.
+{31097}{31162}Quando tinha 16, nós brigamos.
+{31192}{31266}Me acertou no queixo. Ele era um garoto forte.
+{31328}{31399}Não o vejo há dois anos.
+{31457}{31506}Filhos.
+{31517}{31566}Você se mata por eles...
+{31627}{31711}-Bem, vamos prosseguir.|-Acho que estamos perdendo o foco.
+{31714}{31802}Este garoto é produto de um lar partido e uma vizinhança nojenta.
+{31804}{31888}Não podemos evitar. Estamos aqui para decidir se é inocente ou culpado,
+{31890}{31961}não para discutir sobre as razões pelas quais cresceu desta forma.
+{31963}{32072}Nasceu numa Favela. Favelas são nascedouros de criminosos.
+{32074}{32205}Não é segredo que crianças de favela são ameaças em potencial para a sociedade.
+{32207}{32308}Podes crer. As crianças que saem destes lugares são um verdadeiro lixo.
+{32310}{32440}- Não quero nem saber deles.|-Escuta, Eu... Eu vivi numa favela durante toda minha vida.
+{32442}{32485}-Espera um pouco.|-Por favor...
+{32488}{32559}Eu brinquei em praças que eram cheias de lixo.
+{32561}{32628}-Talvez ainda consiga sentir o cheiro em mim.|-Escute, filho...
+{32630}{32687}Qual é, não é nada pessoal.
+{32689}{32775}Ele não quis dizer você. Não vamos ser tão sensíveis.
+{32777}{32842}A sensitividade dele eu posso entender.
+{32844}{32959}OK, vamos parar a discussão. Só estamos perdendo tempo.
+{32962}{33021}Sua vez aí. Vamos lá.
+{33048}{33142}Eu não esperava por minha vez. Achei que todos iam tentar me convencer.
+{33144}{33197}-A Idéia é esta.|-Eu esqueci. Ele está certo.
+{33199}{33279}É ele que está nos mantendo aqui. Vamos escutar o que tem a dizer.
+{33281}{33373}Espere. Decidimos fazer isto de uma certa forma. Acho que devemos continuar.
+{33376}{33431}Ah, pare de ser um crianção, tá?
+{33433}{33544}- Como assim?|-Como assim? Você entendeu.
+{33604}{33670}Só porque estou tentando manter as coisas organizadas?
+{33672}{33773}Vem, você assume a responsabilidade. Vou só ficar de boca calada.
+{33775}{33855}- Porque está tão nervoso? Calma.|-Não me diga pra me acalmar.
+{33858}{33915}Você quer assumir a cadeira? Sente.
+{33917}{33974}Já viu coisa igual?
+{33976}{34056}- Você acha que é engraçado?|-Esquece, não é importante.
+{34058}{34103}Não é importante? Tome, tente você.
+{34106}{34180}Ninguém quer mudar. Você está fazendo um ótimo trabalho.
+{34183}{34318}É, está indo bem. Muito bem, amigo. Fique aí e comande.
+{34320}{34406}Ok, alguém se pronuncie.
+{34409}{34509}Bom, se quiser que eu fale como estou sentindo o caso, tudo bem.
+{34511}{34630}-Não me importo mais o que você faça.|-Tudo bem. Não é nada brilhante.
+{34632}{34683}Apenas sei tanto quanto vocês.
+{34686}{34774}De acordo com o testemunho, o garoto parece culpado. Talvez seja.
+{34776}{34889}Fiquei no tribunal durante seis dias, enquanto as evidência se acumulavam.
+{34891}{34940}Todos estavam tão seguros.
+{34943}{35060}Comecei a ter um sentimento peculiar quanto ao caso. Digo, nada é tão positivo assim.
+{35063}{35168}Existem questões que gostaria de fazer. Talvez não signifiquem nada, mas...
+{35171}{35286}Achei que a defesa não estava entrando a fundo em suas deliberações.
+{35288}{35358}O advogado deixou muitas coisas passarem - pequenas coisas.
+{35360}{35428}Que pequenas coisas? Quando não fazem perguntas,
+{35430}{35500}é porque já sabem as respostas.
+{35502}{35619}Também é possível que o advogado seja um bossal, certo? Digo, é possível.
+{35622}{35696}Parece até que conhece meu cunhado.
+{35744}{35896}Eu fico me colocando no lugar do garoto. Pediria outro advogado, eu acho.
+{35899}{35956}Quero dizer, se estivesse no julgamento da minha vida,
+{35959}{36078}gostaria que meu advogado acabasse com a promotoria, ou pelo menos tentasse.
+{36081}{36183}Veja, teve uma testemunha ocular neste caso.
+{36185}{36269}Outra pessoa alega ter escutado o assassinato e ter visto o garoto correndo.
+{36272}{36325}E havia evidências circunstanciais.
+{36327}{36421}Mas estas duas testemunhas foram as bases do caso da promotoria.
+{36424}{36459}Suponha que eles estavam errados?
+{36461}{36541}O que quer dizer? Qual a razão então de ter testemunhas?
+{36543}{36648}-Poderiam estar errados?|-As pessoas estavam sob juramento.
+{36650}{36746}São apenas pessoas. Pessoas cometem erros. Podem estar errados?
+{36748}{36822}- Não. Não acho.|-Você sabe ou acha?
+{36824}{36906}Ninguém pode saber uma coisa destas. Não é uma ciência exata.
+{36909}{36968}Exatamente, não é.
+{37065}{37124}Ok, vamos ao que interessa.
+{37127}{37201}E a respeito do canivete automático que acharam no peito do velho?
+{37204}{37280}Algumas pessoas não falaram. Não devíamos ir em ordem?
+{37283}{37369}Ele vão poder falar. Fique quieto um minuto, ok?
+{37371}{37482}Sobre a faca, que este bom garoto admitiu ter comprado naquela noite?
+{37485}{37571}- Vamos falar sobre ela|-Tudo bem. Vamos mandar trazê-la.
+{37574}{37695}- Gostaria de vê-la de novo, Sr. Foreman.|-Porque devemos?
+{37697}{37783}O cavalheiro tem o direito de ver as provas em evidência.
+{37801}{37881}- Poderia nos trazer a faca?|- A faca? Claro.
+{37913}{37999}A faca e a maneira como foi comprada é evidência forte o suficiente, certo?
+{38002}{38094}- Certo.|-Ótimo. Vamos passar os fatos, um de cada vez.
+{38096}{38178}Um: O garoto admitiu ter saído de casa às 8 Hs da noite,
+{38180}{38233}após ter levado um tapa do pai.
+{38235}{38352}Não, ele não disse tapa. Disse soco. Há diferença.
+{38354}{38415}Depois de ter sofrido diversas agressões.
+{38417}{38513}Dois: ele foi direto para uma loja onde comprou um destes...
+{38515}{38572}- Canivetes.|-Canivetes automáticos.
+{38575}{38688}Não era uma faca qualquer. Tinha um punho e lâmina todo decorado.
+{38690}{38799}O dono da loja disse que era o único tipo que tinha no estoque.
+{38801}{38926}Três: ele encontrou uns amigos num barzinho as 20:45. Estou certo?
+{38929}{38978}- Está.|-Pode apostar que sim.
+{38980}{39062}ele conversou com eles por uma hora, deixando-os às 21:45
+{39065}{39132}Durante este tempo, eles viram o canivete.
+{39134}{39299}Quatro: eles identificaram o canivete como sendo o mesmo.
+{39301}{39369}Cinco: ele chega em casa por volta das 22:00.
+{39371}{39474}Aqui é que a história do garoto e da promotoria divergem bastante.
+{39476}{39535}Ele diz que foi para o cinema por volta das 23:30,
+{39538}{39641}voltando para casa às 3:10, encontrando seu pai morto e então foi preso.
+{39643}{39741}Ele também diz que dois detetives atiraram ele pelas escadas.
+{39743}{39835}O que aconteceu com a faca? Ele diz que caiu por um buraco em seu bolso,
+{39838}{39928}no caminho para o cinema, em algum momento entre 23:30 e 3:10,
+{39930}{40018}e que ele nunca mais a viu. Isto é conto de fadas, Srs.
+{40020}{40098}Acho que está claro que ele nunca foi ao cinema naquela noite.
+{40101}{40191}Ninguém o viu sair de casa. Ninguém no cinema o identificou.
+{40194}{40272}Ele nem conseguia se lembrar os nomes dos filmes que viu.
+{40314}{40361}O que realmente aconteceu foi isso.
+{40364}{40442}O garoto ficou em casa teve outra briga com o pai,
+{40445}{40529}esfaqueou-o até a morte e deixou a casa 10 minutos após às 0:00.
+{40531}{40598}Até mesmo limpou a faca tirando as impressões digitais.
+{40600}{40705}Está tentando me dizer que a faca caiu do bolso do garoto,
+{40708}{40765}alguém pegou, foi para casa do garoto,
+{40767}{40838}e esfaqueou seu pai só para testar se estava afiada?
+{40840}{40893}Não, mas é possível que ele tenha perdido sua faca
+{40896}{40970}e alguém tenha usado uma faca similar.
+{40972}{41031}Olhe para esta faca.
+{41056}{41109}Não é muito comum.
+{41111}{41213}Nunca vi uma igual. Nem o dono da loja que a vendeu.
+{41215}{41293}Não está pedindo para acreditarmos numa enorme coincidência?
+{41295}{41410}-Apenas digo que é possível.|-E digo que não é possível.
+{41549}{41596}De onde veio isso?
+{41598}{41665}-É a mesma faca!|-O que pensa que está fazendo?
+{41667}{41755}-Onde conseguiu?-Fui passear ontem a noite.
+{41758}{41807}Pela vizinhança do rapaz.
+{41810}{41937}Comprei ela à uns dois quarteirões da casa do garoto. Custou U$ 6,00.
+{41939}{42005}É contra a lei comprar ou vender canivetes.
+{42007}{42083}- Isso mesmo. Eu infringi a lei.|-Você tirou um carta e tanto da manga.
+{42086}{42145}Agora me diga o que isto prova.
+{42148}{42226}- Talvez existam 10 facas como esta.|-Talvez existam!
+{42228}{42347}E daí? Você encontrou uma faca igual. É por acaso a descoberta de uma Era?
+{42350}{42451}Acha que alguém o esfaqueou com exatamente o mesmo tipo de faca?
+{42453}{42525}- As chances são de uma em um milhão.|-É possível!
+{42527}{42627}-Mas não muito provável.|-Ok, amigos, vamos nos sentar.
+{42629}{42713}Não há porque ficar todos em pé, todos espalhados.
+{42716}{42804}É interessante ele ter achado uma faca exatamente igual.
+{42807}{42916}-O que tem de interessante? Interessante!|-Achei que era.
+{42919}{42974}Onze de nós ainda acham que ele é culpado.
+{42977}{43069}Certo. Não vai conseguir mudar a opinião de ninguém.
+{43071}{43126}Se quiser pedir abstenção do júri, paciência.
+{43128}{43228}O garoto vai ter outro julgamento e será condenado com certeza.
+{43236}{43287}Provavelmente você está certo.
+{43289}{43357}Então o que vai fazer? Podemos ficar aqui a noite inteira.
+{43359}{43437}É apenas uma noite. Um rapaz pode morrer.
+{43440}{43506}Porque não arrumamos a casa por aqui.
+{43508}{43563}Alguém conseguem uma mesa de totó
+{43566}{43654}e nós jogamos até suar.
+{43656}{43748}-Não acho que ele deveria ficar brincando assim.|-O que quer que eu faça?
+{43750}{43824}Não vejo como a discussão sobre a faca tem a ver com alguma coisa.
+{43827}{43897}Alguém viu o garoto esfaquear seu pai. O que mais você precisa?
+{43899}{43967}Vocês podem falar pelos cotovelos.
+{43969}{44078}Eu tenho meu negócio indo pro brejo. Vamos acabar logo e sair daqui.
+{44080}{44166}A faca era importante para o promotor, ele passou um dia...
+{44168}{44236}Ele é um 15º assistente ou coisa assim. O que ele sabe?
+{44238}{44341}Vamos dar um tempo. Estes comentários a parte estão nos atrasando.
+{44385}{44465}- Bem, e aí?|-Você está sozinho.
+{44643}{44791}Tenho uma proposta a fazer a todos. Vou pedir outra votação.
+{44793}{44860}Quero que vocês onze...
+{44862}{44919}votem secretamente, no papel.
+{44931}{45042}Eu não participarei. Se continuar 11 votos de "culpado", não vou mais ficar sozinho.
+{45044}{45161}Levaremos um veredicto de "culpado" para o juiz, agora mesmo.
+{45164}{45289}Mas se alguém votar "inocente", ficamos aqui e chegamos a uma conclusão.
+{45334}{45449}- Isso aí, se quiser tentar, estou pronto.|-Tudo bem, vamos tentar então.
+{45452}{45544}Parece justo. Todos concordam? Alguém não concorda?
+{45546}{45595}Ok, passem isto.
+{46383}{46432}Culpado.
+{46476}{46515}Culpado.
+{46558}{46597}Culpado.
+{46637}{46676}Culpado.
+{46706}{46745}Culpado.
+{46779}{46818}Culpado.
+{46858}{46897}Culpado.
+{46910}{46949}Culpado.
+{46974}{47013}Culpado.
+{47112}{47159}Inocente.
+{47162}{47199}Culpado.
+{47201}{47301}- Cara, e essa agora?|-Outro mané virando casaca!
+{47303}{47371}Ok, quem foi? Vamos lá, quero saber.
+{47373}{47461}Com licença. Foi uma votação secreta. Todos concordamos, não é?
+{47463}{47522}Se o cavalheiro quiser permanecer oculto...
+{47524}{47658}Segredo? Não há segredos numa sala de jurados. Eu sei quem foi.
+{47660}{47762}Irmão, você é mesmo uma figura. Vota "culpado" como o resto de nós,
+{47764}{47840}e então um garganta de ouro desmancha seu coração -
+{47843}{47921}um pobre garoto que não pôde evitar de virar um assassino - 
+{47924}{48014}e você muda seu voto. Vejam se não é a coisa mais nojenta...
+{48016}{48098}Porque não dá uma grana para ele?
+{48101}{48212}Não, peraí, espera um pouco... Não pode falar assim comigo.
+{48215}{48282}Calma, calma. Não importa.
+{48284}{48370}-Ele é muito pilhado. Sente-se.|-Pilhado? Pode apostar que sou pilhado!
+{48373}{48453}Estamos tentando colocar um homem culpado na cadeira, onde deveria estar.
+{48455}{48543}Alguém começa a contar um conto de fadas e nós o escutamos.
+{48560}{48677}-O que o fez mudar seu voto?|-Ele não mudou o voto, eu mudei.
+{48680}{48727}-Ah, que beleza!|-Eu sabia.
+{48730}{48822}-Quer que eu diga o porque?|-Não, não gostaria.
+{48825}{48923}-Vou dizer assim mesmo.|-Temos que escutar isso?
+{48925}{49009}-O homem quer falar.|-Obrigado.
+{49011}{49091}Este cavalheiro está sozinho contra todos nós.
+{49094}{49147}Ele não diz que o garoto é inocente.
+{49150}{49267}Ele apenas não tem certeza. Não é fácil ficar sozinho, se expondo a ser ridicularizado.
+{49270}{49383}Então ele pediu por algum apoio e eu dei. Eu respeito seus motivos.
+{49386}{49497}O garoto é provavelmente culpado, mas quero ouvir mais.
+{49500}{49588}O resultado é Dez contra dois. Estou falando! Não tem o direito de sair da sala.
+{49590}{49668}Ele não escuta. Nem vai escutar. Vamos nos sentar.
+{49793}{49890}- Vamos continuar?|-Bem, acho que deveríamos fazer uma pausa.
+{49892}{50003}Um homem está lá dentro e deveríamos esperar por ele.
+{50069}{50137}Parece que estamos mesmo presos aqui, hem?
+{50139}{50246}Digo, aquilo com aquele senhor, foi totalmente inesperado.
+{50249}{50335}Gostaríamos que chegássemos a um acordo.
+{50380}{50489}Sabe, no mundo da propaganda... Eu disse que trabalhava numa agência?
+{50492}{50584}Algumas pessoas estranhas trabalham lá. Bom, não realmente estranhas.
+{50586}{50689}É apenas que tem maneiras peculiares de se expressar.
+{50691}{50763}Acho que deve ser o mesmo no seu trabalho, né?
+{50765}{50826}- O que você faz?-Fabrico relógios.
+{50828}{50927}Mesmo? Acho que os melhores fabricantes vêm da Europa.
+{50929}{51001}De qualquer forma, numa agência, quando chegamos a uma situação destas...
+{51003}{51095}estava dizendo, que quando chegamos a uma situação destas numa reunião...
+{51097}{51171}há sempre "um figura" pronto com uma idéia.
+{51174}{51231}Me deixa irado. É a coisa mais esquisita.
+{51234}{51306}A maneira como fazem, a idéia deles numa frase.
+{51309}{51397}Tipo, algum executivo se levanta e diz:
+{51400}{51552}"Aqui vai uma idéia... Vamos levantar a bandeira e ver se todos a saúdam."
+{51554}{51615}Digo, é idiota, mas é engraçado.
+{51617}{51703}Eu... Fiquei um pouco empolgado.
+{51706}{51777}Eu... Não queria ser rude.
+{51809}{51937}Que bom que não se deixa levar por emoções.
+{52299}{52364}Não sei qual o problema com aquele ventilador.
+{52598}{52676}- Você é vendedor?|-Sou arquiteto.
+{52741}{52809}Sabe o que é vocação pra vender?
+{52866}{52938}Bem, você a tem, acredite em mim.
+{52951}{53012}Tenho uma técnica diferente.
+{53014}{53108}Risos, bebidas, piadas, truques. Sabe como é?
+{53133}{53182}É.
+{53198}{53280}Pegue-os onde eles moram. Este é o meu lema.
+{53282}{53370}Eu ganhei 2.700 ano passado vendendo goiabada.
+{53373}{53459}Não é ruim. Sabe, considerando que é goiabada.
+{53510}{53575}Qual é seu jogo? Está se divertindo?
+{53593}{53681}Ou alguém te sacaneou uma vez e você ainda não superou?
+{53684}{53787}-Talvez. |-Sabe, você bem feitores são todos iguais.
+{53790}{53901}Estão sempre protegendo alguém que pisou na bola.
+{53930}{53995}Mas porque está nos fazendo perder tempo?
+{53997}{54129}Porque não doa U$5,00 a uma instituição. Talvez te faça sentir-se melhor.
+{54169}{54220}O cara é culpado, amigo.
+{54223}{54338}É tão certo quanto o nariz na sua cara. Então porque não vamos logo embora?
+{54340}{54409}Vamos todos ficar roucos se continuarmos.
+{54411}{54503}Qual a diferença se for aqui ou no jogo de baseball?
+{54505}{54562}Nenhuma diferença.
+{54565}{54614}Nenhuma diferença mesmo.
+{54895}{55014}-Que grupo hem?|-Acho que são iguais a todo mundo.
+{55016}{55075}Rapaz, que dia cansativo.
+{55086}{55176}-Acha que vamos demorar mais?|-Não sei.
+{55178}{55266}É culpado com certeza. Não existe dúvida.
+{55269}{55359}Nós já... Já deveríamos ter acabado.
+{55381}{55438}Ah, não me importo sabe.
+{55441}{55490}Melhor que estar no trabalho.
+{55643}{55750}-Acha que ele não é culpado, hem?|-Não sei. É possível.
+{55753}{55850}Não sei o que acha, mas aposto que nunca errou na vida, certo?
+{55852}{55909}Está perdendo seu tempo. Melhor acabar logo com isso.
+{55912}{55981}Suponha que você é que estivesse sendo julgado.
+{55983}{56061}Bom, não costumo supor nada. Sou apenas um trabalhador braçal.
+{56063}{56134}Meu chefe faz as suposições. Mas...
+{56136}{56185}Vou tentar uma.
+{56205}{56287}Suponha que você nos convença do contrário...
+{56290}{56382}e o garoto realmente seja culpado. E aí?
+{56556}{56605}Estão prontos?
+{56640}{56689}Desculpe, olhos azuis.
+{56707}{56781}-Bem, onde mais?|-Ok, amigos, vamos nos sentar.
+{56784}{56895}-Parece que vamos jantar aqui.|-Ok, vamos meter a mão na massa.
+{56898}{56941}-Quem quer começar.|-Eu.
+{56944}{57013}-Diga lá.|-Você aí.
+{57015}{57112}O homem idoso que morava embaixo disse que ouviu o garoto dizendo "Vou te matar"
+{57114}{57173}Um segundo depois, ouviu o corpo caindo no chão.
+{57176}{57299}Correu para a porta e viu o garoto correndo de casa. O que diz para você?
+{57301}{57387}Eu me pergunto com que clareza ouviu a voz pelo teto.
+{57389}{57487}Não importa. A janela estava aberta e também a do apartamento de cima. Estava quente.
+{57489}{57575}Era de outro apartamento. Não é fácil identificar uma voz gritando.
+{57577}{57620}Ele o fez no tribunal.
+{57623}{57730}A mulher da outra rua olhou direto pela janela aberta e viu o esfaqueamento.
+{57732}{57791}-Não é o bastante para você?|-Não, não é.
+{57794}{57884}Olha este cara! É como falar num telefone mudo.
+{57886}{57960}Ela disse que viu através das janelas de um trem elevado.
+{57962}{58046}Haviam seis vagões no trem. Ela viu pelos últimos dois.
+{58049}{58145}Ela se lembra dos mínimos detalhes. Como pode discutir isso?
+{58147}{58275}Alguém aqui tem idéia do tempo que leva um trem...
+{58503}{58562}Isto não é um jogo.
+{58639}{58694}Vocês viram isso?
+{58697}{58775}Que audácia! Que audácia!
+{58778}{58870}-Esquece. Não dê atenção.|-Isto não é um jogo?
+{58872}{58954}-Quem ele pensa que é?|-Vai, esquece.
+{58956}{59083}Sabe quanto tempo leva um trem para passar em velocidade média em um dado ponto?
+{59085}{59130}-O que tem isso a ver?|-Chutem.
+{59132}{59189}-Não tenho a menor idéia.|-O que você acha?
+{59191}{59304}Não sei. Dez, doze segundos?|-Um bom chute. Alguém mais?
+{59306}{59370}-Concordo com ele.|-Pra que o jogo de adivinhação?
+{59372}{59417}-O que me diz?|-Dez segundos.
+{59419}{59497}Tá bom. Onde quer chegar?|-Isto.
+{59500}{59588}Leva 10 segundos para um trem de 6 vagões passar por um dado ponto.
+{59590}{59697}Digamos que este ponto é a janela do quarto onde o crime aconteceu.
+{59699}{59771}Pode-se esticar a mão e quase tocar os trilhos, certo?
+{59773}{59865}Pergunto a vocês, alguém já viveu perto de uma ferrovia?
+{59868}{59983}Eu acabei de pintar um apartamento perto de uma. Levou três dias.
+{59985}{60090}-Como era? Barulhento?|-Meu irmão! Era difícil.
+{60092}{60157}Eu vivi num apartamento perto de uma ferrovia elevada, uma vez.
+{60159}{60233}Quando a janela está aberta, o barulho é quase insuportável.
+{60236}{60324}-Mal pode se escutar os pensamentos.|-Quer concluir logo?
+{60327}{60448}Já vou. Vamos pegar duas partes do testemunho e juntá-las.
+{60451}{60552}Primeiro: O senhor do apartamento de baixo.
+{60554}{60615}Ele diz que ouviu o garoto dizer "Vou te matar",
+{60617}{60681}e um segundo depois escutou o corpo cair.
+{60683}{60724}- Um segundo depois.|-Correto.
+{60727}{60792}Segundo: A mulher do outro prédio
+{60794}{60891}jurou que olhou pela janela e viu o assassinato
+{60893}{60975}através dos 2 vagões do trem - os dois últimos.
+{60977}{61043}- O que está dizendo?|-Só um minuto.
+{61045}{61168}Concordamos que leva 10 segundos para passar por um certo ponto.
+{61171}{61247}Já que a mulher viu o crime pelos 2 últimos vagões,
+{61250}{61380}podemos assumir que o corpo atingiu o chão enquanto o trem passava.
+{61382}{61485}Portanto, o trem estaria fazendo barulho perto da janela do velho
+{61487}{61569}durante 10 segundos antes do corpo cair
+{61571}{61696}O velho -"Vou te matar", corpo cai no chão um segundo depois -
+{61698}{61798}teria que ter escutado o garoto gritando com o trem passando em frente ao seu nariz!
+{61800}{61870}-Não é possível que tenha escutado.|-Claro que escutou.
+{61872}{61952}-Você acha?|-Ele disse que gritaram muito alto.
+{61954}{62032}Ele não conseguiria identificar a voz com o trem passando.
+{62034}{62102}Foi questão de segundos! Ninguém consegue ser tão preciso.
+{62104}{62229}Testemunho que pode levar um garoto à cadeira elétrica tem que ser preciso.
+{62266}{62371}-Eu não acho que poderia ter escutado.|-Talvez não tenha conseguido, com todo o barulho.
+{62374}{62468}-O que vocês estão dizendo?|-A razão diz que ele não conseguiria.
+{62470}{62568}-Porque mentir? O que tem ele a ganhar?|-Atenção, talvez.
+{62570}{62695}Você continua se metendo com umas frases de efeito. Vão prum jornal, pagam $3 por cada uma.
+{62697}{62764}Porque está falando com ele assim?
+{62766}{62850}Um cara que fala assim com um senhor de idade devia levar uma na cara.
+{62853}{62925}Tem que ter mais respeito.
+{62928}{63049}Se continuar falando assim com ele... Te coloco para fora.
+{63276}{63345}Vá em frente. Diga o que quiser.
+{63371}{63445}Porque acha que o homem mentiria?
+{63448}{63545}É só que eu olhei muito tempo para ele.
+{63547}{63625}A costura de seu casaco estava rasgada, embaixo dos ombros.
+{63627}{63732}Notaram isso? Digo, vir assim num tribunal.
+{63792}{63872}Era um homem muito idoso, com um casaco rasgado.
+{63885}{63969}E andou muito devagar até a tribuna.
+{63971}{64074}Estava arrastando sua perna esquerda e tentando esconder isso.
+{64076}{64137}Porque estava envergonhado.
+{64139}{64240}Acho que conheço este homem melhor do que qualquer um.
+{64242}{64310}É um homem quieto, assustado,
+{64312}{64371}insignificante que...
+{64373}{64439}nunca foi nada na vida.
+{64441}{64558}Que nunca teve reconhecimento ou seu nome nos jornais.
+{64561}{64662}Ninguém o conhece. Ninguém o cita.
+{64664}{64754}Ninguém procura seus conselhos depois de 75 anos.
+{64777}{64888}Senhores, é muito triste, não ter importância alguma.
+{64890}{65005}Um homem assim tem que ser citado, escutado.
+{65009}{65107}Apenas uma vez - muito importante para ele.
+{65109}{65181}Ia ser muito difícil para ele ficar fora do centro das atenções.
+{65184}{65282}Espera aí. Está dizendo que mentiria só para ser importante uma vez?
+{65284}{65352}Não. Ele não mentiria conscientemente.
+{65354}{65434}Mas talvez tenha feito a si mesmo acreditar que escutou os gritos
+{65437}{65492}e reconheceu o rosto do rapaz.
+{65495}{65552}É a história mais fantástica que já escutei.
+{65555}{65649}Como pode inventar algo assim? O que você sabre sobre isso?
+{65860}{65944}-Alguém quer uma pastilha?|-Eu aceito uma.
+{65946}{66032}Não vejo como alguém ainda pode achar que ele é inocente.
+{66034}{66134}Tem mais uma coisa que eu gostaria de discutir. Obrigado.
+{66136}{66233}Provamos que o velho não poderia ter escutado o garoto dizer "Vou te matar".
+{66235}{66329}-Não provou nada!|-Espera. Suponha que tenha escutado.
+{66331}{66423}-Esta frase, quantas vezes já a usamos? Provavelmente milhares de vezes.
+{66426}{66545}"Poderia matá-lo por isso." "Joãozinho, faça isso e te mato." "Rocky, mate-o."
+{66548}{66673}-Não significa que vamos mesmo matar a pessoa.|-A frase foi "Vou te matar."
+{66675}{66730}O garoto falou isso aos berros.
+{66732}{66818}Não me diga que não falou sério. Quando falam assim, estão falando pra valer.
+{66821}{66866}Sei lá.
+{66869}{66959}Estava discutindo com um cara lá do trabalho, algumas semanas atrás.
+{66961}{67020}Me chamou de idiota e então gritei com ele.
+{67022}{67089}Este cara está tentando convencê-lo do que não ocorreu.
+{67091}{67140}O garoto falou que mataria ele e o fez!
+{67143}{67254}Realmente acha que o garoto gritou para a vizinhança inteira escutar?
+{67257}{67374}-Ele é muito esperto para isso.|-Esperto? É um ignorante qualquer, uma ralé.
+{67377}{67426}Ele nem mesmo falaM bem inglês.
+{67429}{67511}Ele nem mesmo FALA bom inglês.
+{67548}{67640}Sr. Foreman, gostaria de mudar meu voto para "inocente".
+{67656}{67707}- O quê?|-Você me escutou.
+{67709}{67791}-Tem certeza?|-Sim.
+{67794}{67858}São agora 9 a 3 a favor de "culpado".
+{67860}{67919}Assim é demais!
+{68019}{68105}Em que está se baseando? Na historinha que este cara inventou?
+{68107}{68205}Deveria escrever para uma destas revistas de detetive. Ia ganhar uma grana.
+{68207}{68295}Pelo amor de Deus, até o advogado do garoto sabia que ele não tinha chances.
+{68297}{68381}Desde o início o advogado sabia e podia se perceber isto.
+{68384}{68485}Putzgrila, este cara aqui é demais!
+{68487}{68567}O garoto tinha advogado, não tinha? Ele defendeu o caso, não você.
+{68570}{68639}-Porque fala tanto?|-Advogados não são infalíveis.
+{68641}{68713}-Baltimore, por favor.|-Ele foi indicado pelo tribunal.
+{68716}{68769}-E o que tem demais nisso?|-Tem muito.
+{68771}{68849}E ele não queria o caso e se arrependeu de ter sido indicado.
+{68851}{68958}É o tipo de caso que não dá dinheiro, glória e nem muita chance de ganhar.
+{68960}{69034}Não é uma situação muito tentadora para um jovem advogado.
+{69037}{69154}Teria que acreditar em seu cliente para levar bem o caso. Obviamente não acreditava.
+{69157}{69206}Claro que não.
+{69228}{69283}Quem acreditaria?
+{69286}{69357}Talvez apenas a mãe de alguém ou algo assim.
+{69359}{69429}Olha. Olha que horas são. Vamos lá.
+{69431}{69515}Com licença. Fiz algumas anotações,
+{69518}{69600}e gostaria, por favor, de dizer algo.
+{69602}{69669}Estive escutando com muita atenção e...
+{69671}{69763}acho que este homem tocou em alguns pontos interessantes.
+{69766}{69877}Pelo que foi apresentado no tribunal, o garoto parece culpado, a princípio.
+{69880}{69972}-Mas se olharmos mais a fundo...|-Ah, qual é?
+{69974}{70027}Tem uma pergunta que gostaria de fazer.
+{70030}{70112}Suponhamos que o garoto realmente cometeu o crime.
+{70115}{70195}Isto ocorreu 10 minutos após a meia-noite.
+{70198}{70259}Vejamos, como foi preso pela polícia?
+{70261}{70360}Ele voltou para casa... Às 3 da manhã, mais ou menos,
+{70362}{70452}e foi capturado por dois detetives no hall de seu prédio.
+{70455}{70566}Minha pergunta é: se realmente matou seu pai,
+{70568}{70650}porque voltaria três hora depois?
+{70653}{70722}Não estaria com medo de ser preso?
+{70724}{70822}Voltou para pegar a faca. Não é bom deixar facas no peito das pessoas.
+{70824}{70892}É, principalmente se forem parentes.
+{70894}{70957}Não vejo graça nenhuma.
+{70959}{71035}O garoto sabia que podiam identificar a faca.
+{71038}{71145}-Tinha que pegá-la antes da polícia.|-Se soubesse que a faca poderia ser...
+{71148}{71211}identificada, deixaria ela lá?
+{71213}{71344}Podemos assumir que fugiu em estado de pânico.
+{71346}{71418}Quando se acalmou, percebeu que a faca tinha ficado para trás.
+{71420}{71490}Isto, depende de sua definição de "pânico".
+{71492}{71611}Ele teria que estar calmo o bastante para limpar as impressões digitais.
+{71613}{71705}Onde o pânico começou e onde terminou?
+{71708}{71775}Você votou culpado. Em que lado está?
+{71777}{71853}Não acho que deva ser fiel a um lado ou outro.
+{71855}{71980}-Estou apenas fazendo perguntas.|-É apenas suposição,
+{71983}{72084}mas acho que se tivesse esfaqueado, voltaria para pegar a faca.
+{72086}{72147}Aposto que achou que ninguém o viu correndo
+{72150}{72217}e o corpo só seria encontrado no dia seguinte.
+{72219}{72320}Afinal, era no meio da madrugada. Acho que só achariam no dia seguinte.
+{72322}{72371}Com licença. É aí que quero chegar.
+{72373}{72469}A vizinha testemunhou que assim que viu o assassinato,
+{72471}{72524}isto é, no momento que o trem passou,
+{72527}{72603}começou a gritar e então telefonou para a polícia.
+{72605}{72689}O garoto certamente teria escutado o grito.
+{72692}{72770}Ele saberia que alguém viu algo.
+{72772}{72841}Apenas acho que ele não voltaria.
+{72843}{72954}Duas coisas: Talvez não tenha escutado o grito. Pode não ter sido tão alto.
+{72956}{73036}Dois: se escutou, talvez não tenha se tocado,
+{73038}{73110}pois vive numa região onde gritos são comuns.
+{73113}{73218}-Ai está a resposta.|-Talvez. Talvez o garoto matou seu pai.
+{73220}{73277}Não escutou o grito, correu em pânico,
+{73280}{73397}se acalmou e voltou, correndo o risco de ser apanhado pela polícia.
+{73399}{73470}Talvez estas coisas tenham acontecido, mas talvez não.
+{73472}{73574}Há dúvidas suficientes para nos perguntarmos se ele estava lá na hora da morte.
+{73576}{73658}Que quer dizer? O velho não viu ele saindo de casa?
+{73661}{73704}Ele está distorcendo os fatos.
+{73707}{73793}O velho viu ou não viu o garoto fugindo de casa às 12:10?
+{73795}{73859}-Bem, viu ou não viu?|-Ele diz que viu.
+{73861}{73920}Diz que viu? Cara, qual é a tua?
+{73922}{73996}-Testemunhas podem se equivocar.|-Claro, quando você quer!
+{73999}{74064}- Ou quando ele quer também!|-Vamos baixar a voz.
+{74066}{74181}Talvez precisemos de uns gritos. Estes caras continuam atirando por todos os lados.
+{74184}{74262}Escutou o grito, não escutou - que diferença faz?
+{74265}{74357}Está falando de pequenos detalhes e se esquecendo do importante.
+{74360}{74424}-Peço outra votação.|-Estou falando!
+{74426}{74475}Outra votação solicitada.
+{74478}{74537}Vamos nos sentar.
+{74612}{74671}Nunca vi tanto desperdício de tempo.
+{74673}{74728}Só leva um segundo.
+{74744}{74826}Ok, acho que a melhor maneira é ver quem vota "inocente".
+{74828}{74918}Todos que votam "inocente" levantem as mãos.
+{74921}{75007}Continua a mesma coisa. 3 "inocentes". 9 "culpados".
+{75010}{75129}E como ficamos? Podemos falar baboseira até terça que vem. Onde nos levará?
+{75131}{75203}Com licença. Voto "inocente".
+{75253}{75358}O que está falando? Estamos todos ficando loucos?
+{75360}{75442}O garoto é culpado. Porque não escuta os fatos?
+{75444}{75505}Fale pra eles. Isto está virando piada.
+{75508}{75588}O resultado é 8 a 4 em favor de "culpado".
+{75591}{75681}O que é isso? Semana do "Ame o seu irmão carente"?
+{75683}{75771}Gostaria que me desse razões para ter mudado seu voto.
+{75773}{75882}Não tenho que defender minha decisão. Existe uma dúvida razoável em minha mente.
+{75885}{75956}Dúvida razoável? Só palavras. Olhe isto.
+{75958}{76077}O garoto que vocês dizem inocente, foi visto enfiando isto em seu pai.
+{76080}{76197}-Que tal isto, Sr. Dúvida Razoável?|-Não é esta a faca, não se lembra?
+{76199}{76308}-Ah brilhante! |- Estou dizendo, estão malucos.
+{76311}{76430}O que devemos acreditar? Você está inventando mil e uma histórias.
+{76432}{76524}Um cara assim se tivesse luta entre Dimpsey  e Firpo,
+{76526}{76569}ia tentar te convencer que...
+{76583}{76638}Olhe. E sobre o velho?
+{76640}{76728}Devemos acreditar que não viu o garoto correndo pelas escadas
+{76731}{76778}quinze segundos depois do assassinato?
+{76781}{76844}Está apenas dizendo para se tornar importante, certo?
+{76846}{76897}-Qual o sentido disto?|-Peraí.
+{76899}{76954}- O "Baltimore" fala novamente.
+{76956}{77040}- E os batedores estão em festa.|-Espera um segundo. Olhe.
+{77043}{77127}-O velho não disse que correu para a porta?|-Qual a diferença?
+{77130}{77228}-Chegou lá, não chegou?|-Disse que correu. Pelo menos acho que disse.
+{77230}{77306}Não me lembro, mas não vejo como pode ter corrido.
+{77309}{77395}Disse que foi do quarto até a porta da frente. Não basta?
+{77397}{77456}-Onde era o quarto?|- Lá embaixo.
+{77458}{77524}-Não se lembra?|-Não.
+{77526}{77647}-Quero ver o desenho do apartamento.|-Porque não fazemos outro julgamento?
+{77650}{77705}Você é o único que quer ver as provas do caso.
+{77707}{77787}- Quero ver esta também.|-Gostaria que parássemos de perder tempo.
+{77789}{77867}Se vamos começar de novo com esta baboseira sobre o corpo...
+{77869}{78000}Não, mas gostaria de saber se um senhor de idade que arrasta um pé, devido a um ataque cardíaco,
+{78002}{78069}pode alcançar sua porta, vindo do seu quarto em 15 segundos.
+{78071}{78112}-Ele disse 20.|- Disse 15.
+{78115}{78203}- 20. O que está tentando distorcer?|-Ele disse 15.
+{78205}{78281}Como ele sabe que durou 15 segundos? Não se pode julgar isto.
+{78283}{78344}Ele disse 15. Foi bastante seguro neste ponto.
+{78346}{78399}Ele é um velhote! Estava confuso.
+{78402}{78488}Como poderia ter certeza de alguma coisa?
+{78647}{78746}Não sei o que tenta provar. Ele disse que viu o garoto.
+{78748}{78826}Vamos ver se os detalhes confirmam. Assim que o corpo cai,
+{78829}{78911}ele disse que ouviu passos, correndo para a porta da frente.
+{78913}{78989}Escutou a porta lá em cima se abrir e os passos escada abaixo.
+{78992}{79130}Disse que chegou em sua porta em no máximo 15 seg. Se o assassino correu imediatamente...
+{79132}{79193}-Talvez não tenha sido imediatamente.|-O velho disse que sim.
+{79196}{79276}Você deveria estar numa convenção de palhaços.
+{79278}{79333}Porque não para de fazer piadinhas?
+{79336}{79445}Meu amigo, ganhando 3 dólares por dia, tem que se escutar de tudo.
+{79448}{79590}Aqui está o apartamento. O velho estava no andar de baixo, na mesma posição.
+{79592}{79717}Aqui estão os trilhos do trem, o quarto, sala, cozinha, banheiro, hall, escadas.
+{79720}{79773}O velho estava em seu quarto aqui.
+{79776}{79856}Disse que cruzou a porta, andou pelo hall e abriu a outra porta
+{79859}{79937}bem a tempo de ver o garoto descendo. Certo?
+{79940}{79995}Esta é a história, pela enésima vez.
+{79998}{80082}- 15 segundos depois do corpo cair.|-Correto.
+{80084}{80133}Agora vejamos.
+{80136}{80226}São 3,65 metros da cama até a porta. O hall tem 13 metros.
+{80229}{80311}Teria que ter andado 3,65 metros, abrir a porta do quarto,
+{80314}{80400}andado 13 metros e aberto a porta da frente, em 15 segundos.
+{80402}{80451}-Será que conseguiria?|-Claro.
+{80454}{80526}Ele anda devagar. Precisou de ajuda para subir no banco de testemunhas.
+{80528}{80656}-Você fala como se fosse uma grande caminhada.|-Para um velho que sofreu um ataque é.
+{80658}{80719}-O que está fazendo?|-Vou tentar reproduzir.
+{80722}{80794}O que está dizendo? Porque o advogado nem mencionou isto?
+{80796}{80895}-Talvez nem tenha pensado.|-Acha que ele é idiota? Era  óbvio.
+{80897}{80969}-Você pensou nisto?|-Não importa. Ele não mencionou
+{80972}{81019}porque sabe que atrapalharia seu caso.
+{81022}{81119}Ou talvez porque não queria desmascarar um pobre coitado dum velhinho.
+{81121}{81201}Isto não fica bem em frente a um júri. A maioria dos advogados evita isto.
+{81203}{81267}- Que tipo de vagabundo ele é?|-Isto que estou perguntando.
+{81269}{81341}Me passe esta cadeira. Estas 2 cadeiras representam o quarto do velho.
+{81344}{81411}Separei com 3,65 m de distância. Esta é a porta do quarto.
+{81413}{81482}É loucura. Não pode recriar isto assim.
+{81484}{81615}O hall tinha 13 metros. Vou andar até aquela parede e voltar.
+{81617}{81701}É insano. Por que está desperdiçando o tempo de todo mundo?
+{81704}{81782}Pelo que você falou, só levará 15 segundos. Podemos nos dar ao luxo.
+{81864}{81913}Vamos lá, pare com isso.
+{81916}{81986}OK, OK, OK, "matador".
+{82098}{82201}Pode ficar aí e marcar a porta da frente? Estava trancada, lembre-se.
+{82204}{82261}- Quem tem um relógio que marca segundos?|-Eu tenho.
+{82263}{82368}Bata seu pé. Será o corpo caindo. Pode me cronometrar daí.
+{82371}{82468}- O que vamos fazer, jogo de adivinhação?|-O que está esperando?
+{82470}{82527}Eu quero que o ponteiro chegue nos 60.
+{82530}{82579}Ah, vamos lá.
+{82730}{82833}Vamos, anda mais depressa. Ele conseguia andar duas vezes mais rápido.
+{82836}{82926}Se quer que ande mais depressa, andarei.
+{83301}{83377}- Trava. Porta. Pare.|-Certo.
+{83380}{83427}Quanto tempo?
+{83430}{83506}Exatamente... 41 segundos.
+{83509}{83616}Isto é o que acho que aconteceu. O velho escutou a briga, horas antes.
+{83619}{83683}Quando estava na cama, escutou o corpo caindo,
+{83685}{83769}a mulher gritando, foi para sua porta da frente o mais rápido que pôde,
+{83772}{83833}escutou alguém correndo pelas escadas e assumiu que era o garoto.
+{83836}{83910}- Acho possível. |-Assumiu?
+{83946}{84017}Rapaz, já vi muita safadeza na minha vida,
+{84019}{84090}mas esta leva o prêmio.
+{84092}{84209}Vocês todos vêm aqui chorando mágoas por garotos de favela e injustiça.
+{84212}{84315}Escutam um conto de fadas. Aí começam a soar como  velhinhas.
+{84317}{84386}Não vão me convencer. Já estou farto.
+{84388}{84489}Qual o problema com vocês? Todos sabem que é culpado! Ele têm que fritar!
+{84491}{84573}- Ele vai fugir de nosso alcance.|-Fugir do nosso alcance?
+{84575}{84669}- Você é o carrasco?|-Um deles.
+{84671}{84765}- Talvez queira ligar a cadeira elétrica.|-Pra este garoto, pode apostar.
+{84768}{84860}Sinto pena de você. Como deve ser se sentir assim!
+{84863}{84959}Desde que entrou aqui, tem agido como se fosse um vingador da justiça.
+{84961}{85058}Quer ver este garoto morrer porque você quer, não pelos fatos.
+{85060}{85121}- Você é um sádico. |-Seu...
+{85123}{85213}Me solta! Vou matá-lo! Vou matá-lo!
+{85215}{85293}Você não quer mesmo me matar, não é mesmo?
+{85448}{85538}- Algo errado? Escutei um barulho. |-Não, tudo está bem.
+{85541}{85607}Só estávamos discutindo amigavelmente.
+{85609}{85734}Acabamos com a planta do quarto. Pode levar se quiser.
+{85892}{85951}O que estão olhando?
+{86438}{86507}- Alguém tem que começar de novo.|-Peço licença...
+{86509}{86579}"Peço licença" Porque é tão educadinho?
+{86581}{86704}Pela mesma razão que você não é. Cresci assim.
+{86729}{86823}Esta briga... Não é a razão para qual estamos aqui.
+{86826}{86885}Temos uma responsabilidade.
+{86913}{87018}Isto, sempre achei, é uma coisa notável sobre a democracia
+{87021}{87076}Que nós fomos...
+{87110}{87159}Como se diz?
+{87162}{87265}Intimados. Que nós fomos intimados por correio para vir aqui
+{87268}{87443}e decidir a inocência ou culpa de um homem que não conhecemos.
+{87445}{87570}Não temos nada a ganhar ou perder com nosso veredicto.
+{87572}{87673}Esta é uma das razões pelas quais somos fortes.
+{87675}{87769}Não deveríamos... fazer disso, algo pessoal.
+{87855}{87941}Se ninguém mais sabe o que fazer, acho que tenho uma idéia.
+{87944}{88005}Vamos jogar no chão e ver se o gato lambe...
+{88007}{88066}- O gato lambe? |-É. O garoto...
+{88177}{88307}Olha como está escuro. Aposto que teremos uma tempestade.
+{88332}{88410}Rapaz, está mesmo quente, hem?
+{88428}{88553}- Desculpe perguntar, mas você nunca sua?|-Não.
+{88586}{88664}Escuta. Eu estava pensando...
+{88699}{88768}Acho que deveríamos votar novamente.
+{88770}{88897}Ótimo. Talvez devêssemos fazer esta com dançarinas e bebidas.
+{88899}{88973}- Sr. Foreman? |-Por mim tudo bem.
+{88976}{89066}Alguém não quer votar? Vamos lá.
+{89087}{89158}- Desculpa.|- Acho que deveria ser voto aberto.
+{89160}{89238}Ditar nossos votos. Assim saberíamos quem é quem.
+{89241}{89325}Parece justo pra mim. Alguém é contra?
+{89369}{89453}Ok. Chamarei pelos números. Um?
+{89456}{89534}Ah, sou eu. Voto "culpado". Dois?
+{89570}{89615}Inocente.
+{89618}{89659}Três?
+{89662}{89707}Culpado.
+{89710}{89759}Número quatro?
+{89789}{89828}Culpado.
+{89831}{89868}Cinco?
+{89870}{89919}Inocente.
+{89922}{89973}Seis?
+{89975}{90022}Inocente.
+{90024}{90065}Sete?
+{90067}{90110}Culpado.
+{90112}{90157}Oito?
+{90159}{90208}Inocente.
+{90236}{90307}-Nove?|-Inocente.
+{90309}{90380}-Dez? |-Culpado.
+{90401}{90448}Onze?
+{90451}{90494}Inocente.
+{90497}{90546}Doze?
+{90556}{90609}Número doze!
+{90612}{90667}Culpado.
+{90794}{90858}Agora estamos com seis a seis.
+{90860}{90930}Vamos ter prorrogação e pênaltis?
+{90964}{91089}6 a 6! Alguns de vocês devem estar loucos.
+{91092}{91130}Um garoto feito aquele.
+{91132}{91214}Acho que o tipo dele não tem nada a ver com isso.
+{91217}{91283}-Fatos determinam o caso.|-Não me venha com essa!
+{91285}{91361}Estou cansado dos fatos. Podem distorcê-los da forma que quiserem.
+{91364}{91442}É exatamente onde este cavalheiro está tentando chegar.
+{91445}{91512}Você continua gritando...
+{91543}{91642}Gostaria de ser alguns anos mais novo. Este homem me deixa...
+{91723}{91782}- Está quente aqui.|-Quer um copo d'água?
+{91785}{91834}Não, não. Obrigado.
+{92065}{92172}- Tem que chover.|-Como chegou a esta conclusão, matador?
+{92197}{92306}- Porque mudou seu voto?|-Apenas me pareceu que havia espaço para dúvidas.
+{92308}{92380}- Não tem nada para se basear. |- Não acho que seja assim.
+{92383}{92459}- Muitos detalhes nunca apareceram.|-É, boa sorte.
+{92462}{92600}Qual é! Você é como todo mundo. Pensa demais e fica confuso.
+{92602}{92698}- Sabe o que digo?|-Não acho que tenha o direito...
+{92700}{92749}Falastrão.
+{94027}{94099}Olha que temporal...
+{94114}{94225}Isto me lembra da tempestade que tivemos...
+{94258}{94344}Foi em novembro? Sei lá. Por aí.
+{94347}{94439}Foi uma baita duma tempestade. Bem no meio do jogo.
+{94442}{94563}Estávamos perdendo. 7 a 6. Íamos por a bola em jogo...
+{94565}{94680}A bola passava, voltava, passava...
+{94682}{94731}e...
+{94744}{94803}tínhamos este garoto - Slattery.
+{94829}{94888}Era um touro. Um verdadeiro touro.
+{94909}{94966}Queria ter outro como ele.
+{94969}{95076}Eu esqueci de lhe dizer. Sou o assistente do técnico do Colégio Andrew McCorke.
+{95078}{95131}É no Queens.
+{95134}{95245}De qualquer forma... Estávamos entrando no jogo.
+{95248}{95361}A defesa deles estava desmoronando.
+{95363}{95449}Daí começou a chover assim mesmo.
+{95452}{95542}Chovendo canivetes.
+{95545}{95627}Foi uma pena, sabe?
+{95630}{95755}Juro pra você que quase me afoguei. Ficamos presos.
+{96188}{96274}Qual o problema com este ventilador? Como é que...
+{96510}{96580}Deve estar ligado com o mesmo interruptor da luz.
+{96582}{96654}As coisas estão melhorando, hem?
+{96671}{96720}É.
+{96822}{96871}Assim está melhor.
+{97032}{97091}Ei! Dois pontos.
+{97208}{97276}Vocês já foram ao Madison Square Garden?
+{97310}{97379}É uma coisa estúpida pra se fazer.
+{97381}{97430}Ih, desculpa... Eu...
+{97458}{97507}Sabe?
+{97534}{97591}Dá licença.
+{97593}{97708}O que me diz? Empatado. Surpreendente, não?
+{97711}{97760}É.
+{97790}{97911}Aquele assunto lá... Com aquele cara alto, estava tentando me fisgar.
+{97913}{98005}Não prova nada. Sou uma pessoa com sangue quente.
+{98007}{98097}Quem pensa que é me chamando de vingador e sádico?
+{98100}{98188}Qualquer um daria uma porrada nele.
+{98190}{98243}Ele apenas estava tentando me fisgar.
+{98246}{98305}E fez um excelente trabalho.
+{98355}{98406}Acho que não vamos a lugar algum.
+{98408}{98469}Estou pronto para voltar ao tribunal e declarar abstenção do júri.
+{98472}{98550}- Não há porque continuar.|-Também acho.
+{98552}{98617}Deixar o garoto ter outra chance com mais 12 jurados.
+{98619}{98697}O juiz não aceitará abstenção. Estamos aqui há muito tempo.
+{98699}{98771}- Bem, vamos descobrir. |-Não sou a favor.
+{98774}{98858}Este garoto não teria chance com outro júri, sabe disso.
+{98861}{98931}Vamos lá, estamos empacados. Ninguém mudará seu voto.
+{98933}{99013}- Não há espaço para dúvida razoável? |-Não.
+{99016}{99141}Com licença. Talvez não tenha entendido completamente o termo "dúvida razoável".
+{99143}{99217}O que quer dizer, eu não entendi?
+{99220}{99300}Vejam só este cara! São todos iguais.
+{99302}{99368}Vem para cá e quando menos se espera
+{99370}{99435}já estão nos dizendo como fazer as coisas.
+{99437}{99511}- Que arrogância desse cara!|-Tudo bem.
+{99513}{99589}Vamos para a discussão por dois minutinhos.
+{99592}{99653}Quem tem algo de construtivo a dizer?
+{99655}{99737}Gostaria de falar sobre algo se vocês não se importam.
+{99739}{99798}Um ponto importante para a promotoria foi
+{99800}{99921}o fato de que, depois que o garoto disse estar no cinema quando aconteceu o crime,
+{99924}{100022}não conseguiu lembrar o nome dos filmes e dos atores.
+{100024}{100118}- Este cavalheiro disse isso.|-Correto.
+{100121}{100228}É o único álibi do garoto e ele não pôde corroborá-lo com detalhes.
+{100230}{100304}Se estivesse no lugar dele, acha que se lembraria,
+{100307}{100391}após a deprimente experiência de ter sido esmurrado por seu pai?
+{100393}{100471}Acho que sim, se tivesse algum detalhe em especial a ser lembrado.
+{100474}{100554}O garoto não lembrou dos filmes porque não estava lá.
+{100556}{100675}De acordo com o testemunho policial, o garoto foi interrogado na cozinha,
+{100677}{100747}enquanto o corpo do pai estava deitado no quarto.
+{100749}{100808}Acha que poderia lembrar detalhes?
+{100810}{100861}-Sim.|- Sob grande stress emocional?
+{100863}{100963}-Sob grande stress emocional.|-Ele lembrou no julgamento.
+{100965}{101053}Sim. Seu advogado custou a trazer tudo à tona.
+{101055}{101152}Teve 3 meses até o dia do julgamento para poder memorizar tudo.
+{101154}{101263}Não é difícil para um advogado descobrir o que passou nos cinemas, numa noite em particular.
+{101265}{101351}Fico com o testemunhos depois do assassinato,
+{101354}{101457}quando não lembrou de nada, com grande stress emocional ou não.
+{101466}{101544}-Gostaria de fazer uma pergunta pessoal.|-Vá em frente.
+{101547}{101623}-Onde esteve ontem à noite?|-Em casa, à noite inteira.
+{101626}{101685}- E a noite anterior?|-O que é isso?
+{101688}{101780}Tudo bem. Saí do escritório às 20:30 e fui direto para casa.
+{101783}{101886}-E a noite anterior?|- Foi terça à noite.
+{101888}{101959}- O torneio de bridge. Joguei bridge.|-Segunda à noite?
+{101961}{102043}Quando chegar à virada do ano de 1954, me avise.
+{102088}{102240}Segunda? Segunda, minha esposa e eu fomos ao cinema.
+{102243}{102314}-O que você assistiu?|- "Scarlet Circle". Um filme de suspense.
+{102316}{102385}-Qual era o segundo filme?|-A...
+{102429}{102494}Já te digo. A...
+{102496}{102545}Memorável Sra...
+{102579}{102628}Alguma coisa.
+{102658}{102719}Sra. Bainbridge. "A Memorável Sra. Bainbridge".
+{102722}{102812}Eu vi esse. O nome é "A Incrível Sra. Bainbridge".
+{102814}{102875}É. "A Incrível Sra. Bainbridge"
+{102878}{102939}Quem estava no filme?
+{102941}{103033}Barbara... Long. Eu acho.
+{103035}{103092}Uma menina negra, muito bonita.
+{103114}{103194}- Ling ou Long. Algo assim|-Quem mais?
+{103197}{103248}Nunca ouvi falar de nenhum deles.
+{103251}{103362}Era um filme muito barato, com desconhecidos...
+{103364}{103464}E você não estava sob stress emocional, estava?
+{103505}{103554}Não.
+{103557}{103606}Não estava.
+{103644}{103716}-Acho me fiz entender. |-Grande coisa.
+{103756}{103850}Pode falar até sua língua arrastar no chão. O garoto é culpado.
+{103852}{103905}Sabe o que digo, meu amigo?
+{103908}{104008}- Você tem mais daquelas pastilhas?|-Acabaram, meu amigo.
+{104039}{104136}Olhe essa chuva. Lá se foi o seu jogo.
+{104151}{104206}É só uma chuveirada.
+{104209}{104274}Além do mais, eles têm o campo coberto.
+{104276}{104360}Posso ver esta faca por um segundo?
+{104403}{104514}Ainda estamos empatados em 6 a 6. Quem tem uma sugestão?
+{104516}{104616}- Já são 18:00. Vamos jantar. |-Porque não esperamos até as sete?
+{104618}{104638}Tudo bem.
+{104676}{104762}Tem uma coisa que gostaria de dizer. Tem me deixado pensando,
+{104764}{104819}e já que estamos emperrados...
+{104821}{104913}Teve esta discussão sobre a ferida e como foi feita.
+{104916}{105000}- O ângulo de cima para baixo, sabe?|-Não começa com isso de novo.
+{105003}{105097}- Falaram muito sobre isso.|-Eu sei, mas não concordo.
+{105099}{105197}O garoto tinha 1,69 metros.|O pai tinha 1,87.
+{105199}{105254}É uma diferença de 18 centímetros.
+{105257}{105360}É muito estranho se apunhalar o peito de alguém com 15 centímetros a mais que você.
+{105362}{105421}Me dá isso.
+{105423}{105513}Vou fazer uma demonstração. Alguém se levante.
+{105683}{105740}Olhem para cá - Não quero ter que fazer isso de novo.
+{105742}{105811}Vou fingir que tenho 18 centímetros a menos.
+{105813}{105901}- Mas ou menos isso. Talvez um pouco mais.|- Tá, um pouco mais.
+{106177}{106236}Ninguém está ferido.
+{106258}{106317}-Certo? |-Certo, ninguém ferido.
+{106413}{106532}É assim que apunhalaria um homem... Mais alto que eu.
+{106535}{106594}Olhem o ângulo. Pra baixo e pra dentro.
+{106597}{106687}E foi assim que foi feito. Agora digam se estou errado.
+{106754}{106832}- Pra baixo e pra dentro. Não há o que discutir.|-Espere um pouco.
+{106834}{106883}Pode me dar isto?
+{106901}{106950}Odeio estas coisas.
+{106953}{107029}- Já viu uma briga de facas antes?|-Não.
+{107031}{107103}Alguém já viu?
+{107106}{107229}Bem, eu já. Sabe, na rua onde morava, nos terrenos baldios.
+{107231}{107288}Canivetes eram comuns na vizinhança
+{107290}{107364}Engraçado nunca ter pensado nisso. Acho que tento esquecer.
+{107366}{107489}-Como se usa um canivete?|-Nunca se usa assim.
+{107492}{107574}Vê, muito tempo para trocar de mãos.
+{107591}{107650}Assim é que se faz. De baixo para cima.
+{107714}{107790}Qualquer um que já tenha usado uma não faria de outra forma.
+{107792}{107849}-Tem certeza? |-Tenho.
+{107852}{107963}-Por isso a fazem abrir desta forma.|-O garoto era bom com a faca...
+{107966}{108040}Acha que poderia ter feito aquele ferimento que matou seu pai?
+{108042}{108139}Não. Não com a experiência que teve usando estas coisas.
+{108141}{108217}-Acho que teria enfiado de baixo para cima.|-Como pode saber?
+{108219}{108313}-Estava lá quando ele foi morto?|-Não. E nem você.
+{108316}{108394}Porque está enrolando a gente assim? Não estou engolindo.
+{108396}{108474}Não acho que possa dizer que ferimento ele teria feito
+{108476}{108535}só porque sabia como segurar um canivete.
+{108537}{108611}-O que acha?|-Não sei.
+{108614}{108696}-O que quer dizer com não sabe?|-Eu não sei.
+{108796}{108865}-E você?|-Não sei sobre o resto deles,
+{108867}{108965}mas estou ficando cansado desta ladainha. Não está nos levando a lugar algum.
+{108967}{109084}Então estou mudando meu voto para "inocente".
+{109086}{109158}-Você o quê?|-Você escutou. Já estou farto.
+{109161}{109290}-Já está farto? Isto não é motivo.|-Ei, cuide de si mesmo.
+{109292}{109351}-Sabe de uma coisa?|-Ele está certo.
+{109360}{109419}Isto não é motivo.
+{109421}{109491}Que tipo de homem você é?
+{109493}{109569}Sentou aqui e votou "culpado" com todo mundo porque 
+{109571}{109674}tinha uns ingressos para o jogo queimando em seu bolso.
+{109676}{109793}Agora muda o voto porque diz estar cansado de tanta falação?
+{109796}{109886}- Ei, escute amigo...|-Quem lhe disse que tem o direito...
+{109889}{109961}de brincar com a vida de um homem? Não se importa...
+{109963}{110041}Espere um minuto. Não pode falar assim comigo.
+{110044}{110151}Posso sim. Se quer votar "inocente", faça porque...
+{110154}{110261}está convencido e não porque já está farto.
+{110263}{110330}E se achar que é ele é culpado, vote em "culpado".
+{110332}{110402}Ou não tem coragem de fazer o que acha que é certo?
+{110404}{110475}-Escute...|-Culpado ou inocente?
+{110477}{110563}- Já disse. Inocente.|-Porque?
+{110609}{110722}-Olha, não tenho que...|-Tem sim.Diga. Porque?
+{110725}{110780}Eu.. Eu não acho que seja culpado.
+{111008}{111109}-Quero outra votação.|-Ok, solicitada outra votação.
+{111111}{111183}Acho que a melhor forma é levantar as mãos. Todos de acordo?
+{111186}{111254}OK, todos votando "inocente", levantem a mão.
+{111263}{111314}Um, dois, três,
+{111324}{111398}quatro, cinco, seis, sete...
+{111462}{111511}oito.
+{111629}{111678}nove.
+{111719}{111797}Todos votando "culpado", levantem a mão.
+{111799}{111854}Um, dois, três.
+{111856}{111938}Bem, temos agora 9 a 3 a favor da absolvição.
+{111943}{111986}Não entendo vocês!
+{111988}{112084}Todos estes detalhes que continuam trazendo à tona não significam nada!
+{112086}{112127}Viram este garoto como eu o vi.
+{112129}{112213}Não digam que acreditam nesta farsa de ter perdido a faca
+{112215}{112264}e de que estava no cinema.
+{112267}{112339}Sabem como estas pessoas mentem. Nasceram assim.
+{112342}{112439}Que droga! Não preciso nem dizer. Não sabem o que é a verdade.
+{112441}{112527}E não precisam de motivo para matar outras pessoas, também.
+{112530}{112647}Não senhor. Eles enchem a cara. São todos uns beberrões, todos eles.
+{112650}{112724}Sabem disso. E Bum! Alguém está morto na sarjeta.
+{112726}{112800}Ninguém está acusando-os. São assim por natureza.
+{112802}{112886}Sabem o que digo? Violentos. Onde está indo?
+{112888}{112988}Vidas humanas não significam muito para eles como significam para nós.
+{112990}{113053}Estão brigando a todo hora,
+{113055}{113143}e se alguém morre, morre! Eles não estão nem aí!
+{113145}{113242}Claro, existem coisas boas também. Sou o primeiro a reconhecer.
+{113244}{113330}Conheci um casal que era legal, mas isto é exceção.
+{113332}{113420}A maioria deles. É como se não tivessem sentimentos. Podem fazer de tudo!
+{113422}{113471}O que está acontecendo aqui?
+{113489}{113586}Estou tentando lhes dizer. Estão cometendo um grande erro.
+{113588}{113678}Este garoto é um mentiroso. Eu sei. Sei tudo sobre eles.
+{113701}{113750}Me escutem. Eles não prestam.
+{113753}{113818}Não há nenhum que preste.
+{113860}{113919}O que está acontecendo aqui?
+{113922}{113983}Quando vou falar minha parte, vocês...
+{114003}{114052}Me escutem.
+{114071}{114130}Eu... Nós... Nós...
+{114133}{114242}O garoto sendo julgado. O tipo dele. Não sabem sobre eles?
+{114263}{114322}Existe... Existe uma situação perigosa aqui...
+{114348}{114399}Estas pessoas são perigosas.
+{114402}{114457}Eles são... Selvagens.
+{114479}{114538}Me escutem. Me escutem.
+{114553}{114649}Escutei. Agora sente-se e não abra sua boca de novo.
+{114743}{114811}Algumas vezes... Eu estou dizendo.
+{115684}{115816}É sempre difícil manter o preconceito longe de uma situação destas.
+{115818}{115950}Sempre que esbarramos no preconceito, ele sempre oculta a verdade.
+{115952}{116009}Eu não sei qual é a verdade.
+{116011}{116112}Acho que ninguém jamais saberá.
+{116114}{116204}Nove de nós agora acham que o garoto é inocente.
+{116207}{116330}Mas apenas estamos jogando com as probabilidades. Talvez estejamos errados.
+{116332}{116474}Talvez estejamos deixando um homem culpado escapar. Eu não sei. Ninguém pode saber.
+{116477}{116532}Mas temos uma dúvida razoável.
+{116534}{116624}E isto é algo de muito valor em nosso sistema.
+{116626}{116737}Nenhum júri pode declarar alguém culpado ao menos que tenha absoluta certeza.
+{116764}{116893}Nós nove não conseguimos entender como vocês ainda estão tão certos.
+{116917}{116976}- Talvez possa nos dizer. |-Vou tentar.
+{116997}{117085}Vocês levantaram questões interessantes, mas ainda acho que ele é culpado.
+{117087}{117194}Tenho duas razões. Um: a evidência dada pela vizinha,
+{117196}{117264}que viu o assassinato ocorrendo.
+{117266}{117331}É o testemunho mais importante.
+{117333}{117396}E dois: o fato de ter descrito o apunhalamento
+{117398}{117472}dizendo que o garoto levantou o braço por sobre a cabeça
+{117475}{117545}e esfaqueou seu pai, de cima para baixo.
+{117547}{117643}- Ela viu ele fazendo, da maneira errada.|-Está completamente certo.
+{117654}{117711}Vamos falar sobre esta mulher por um momento.
+{117714}{117790}Disse que foi para cama por volta das 23:00, naquela noite.
+{117792}{117872}Sua cama estava perto da janela e ela podia olhar para fora
+{117874}{117973}e ver bem em frente o quarto do garoto, do outro lado da rua.
+{117975}{118036}Ela estava tossindo e ficou se revirando por uma hora.
+{118038}{118138}Finalmente, se virou para a janela às 12:10
+{118140}{118268}e quando olhou pra fora, viu o crime pelas janelas do trem passando.
+{118270}{118327}Disse que as luzes apagaram após o crime,
+{118330}{118468}mas que deu uma boa olhada no garoto quando esfaqueava seu pai.
+{118471}{118580}Acho que este é um testemunho incontestável.
+{118582}{118666}- Para mim é o caso.|-O que acha?
+{118779}{118828}E você?
+{118860}{119010}Eu não sei. Muitas evidências a serem analisadas. Um caso complexo.
+{119013}{119107}Francamente não vejo como pode votar pela absolvição.
+{119110}{119210}-Não é tão fácil tratar com todas estas evidências|-Jogue fora todas elas!
+{119212}{119298}A mulher viu ele cometendo o crime! |-O que mais quer?
+{119301}{119352}-Bem, talvez...|-Vamos votar.
+{119355}{119447}Outra votação solicitada. Alguém contra?
+{119450}{119503}Ok. Estou mudando meu voto.
+{119506}{119582}- Ele é culpado. |-Mais alguém? Está 8 a 4.
+{119585}{119669}Porque este voto é como se fosse um triunfo para você?
+{119672}{119754}OK. Pra mim somos um júri de abstenção. Vamos falar para o juiz.
+{119757}{119827}Que tal? Quero ouvir opiniões.
+{119829}{119919}Você, você é o líder da causa. Que tal?
+{119940}{120030}- Vamos votar de novo.|-Já fizemos isso várias vezes.
+{120033}{120148}O rapaz da camisa cinzenta está indo pra lá e pra cá como uma bola de tênis.
+{120150}{120281}Não há porque baixar o nível. Você quer fazer disso uma competição.
+{120296}{120322}OK.
+{120324}{120398}Talvez seja melhor definirmos um limite de tempo.
+{120400}{120470}É. Mais uma vez para decidirmos, hem?
+{120472}{120612}São... 18:15. Alguém antes falou em sete horas.
+{120614}{120750}Daí em diante discutimos se no abstemos ou não.
+{120753}{120870}- Não se sente bem?|-Me sinto muito bem, obrigado.
+{120872}{120943}Estava dizendo que acho 7 horas uma bom horário...
+{120945}{121047}A razão que pergunto é porque você estava coçando seu nariz assim...
+{121049}{121113}Bem, desculpe pela interrupção.
+{121115}{121197}Mas você fez um gesto que me lembrou de algo.
+{121199}{121316}-Estou tentando acertar um negócio aqui.|-Bem, acho que isso é importante.
+{121322}{121427}Obrigado. Tenho certeza que irá me perdoar,
+{121429}{121501}mas estava querendo saber porque coça seu nariz assim.
+{121504}{121534}Ah, qual é?
+{121537}{121644}Eu estou falando com o cavalheiro ao seu lado.
+{121646}{121728}Por que estava coçando o nariz desta forma?
+{121730}{121824}Se é que é da sua conta, é porque me incomoda um pouco.
+{121826}{121922}Desculpe... É por causa dos seus óculos?
+{121924}{122008}Sim. Agora podemos tratar de outro assunto?
+{122011}{122120}Seus óculos fizeram estas depressões no lado do seu nariz.
+{122122}{122208}Não havia notado isto antes. Deve incomodar muito.
+{122210}{122259}Incomoda muito.
+{122262}{122392}Eu não saberia como é. Nunca usei óculos.
+{122394}{122495}Você vai ou não chegar ao ponto?
+{122497}{122585}A mulher que testemunhou que viu o assassinato
+{122587}{122688}tinha estas mesmas marcas no nariz.
+{122690}{122739}Meu Deus! Ele está certo!
+{122742}{122878}Por favor. Me dê um minuto e terminarei.
+{122881}{122952}Não sei se alguém notou isto nela.
+{122954}{123120}Não havia pensado nisto, mas estive repassando o rosto dela.
+{123122}{123224}Ela tinha estas mesmas marcas. Ela ficava coçando elas no tribunal.
+{123234}{123316}Ele está certo. Ela fazia muito isso.
+{123318}{123408}Esta mulher tinha uns 45 anos.
+{123433}{123529}Estava fazendo muito esforço para parecer 35.
+{123531}{123664}Para sua primeira aparição em público. Maquiagem pesada. Tintura no cabelo.
+{123666}{123758}Roupas novas que foram feitas para mulheres mais jovens.
+{123760}{123902}Sem óculos. Mulheres fazem isso. Vejam se conseguem visualizar seu rosto.
+{123905}{123989}O que quer dizer, sem óculos? Como sabe se ela usava ou não?
+{123992}{124072}-Só porque estava esfregando o nariz?|-Ela tinhas estas marcas. Eu vi.
+{124075}{124155}-E daí? O que tem a ver?|-Estou cansado dos seus gritos.
+{124158}{124194}Vamos lá. Esquece.
+{124196}{124305}Escute. Ele está certo.Eu as vi também. Eu estava bem perto dela.
+{124308}{124382}Ela tinha estas coisas, no seu nariz.
+{124389}{124430}Onde quer chegar?
+{124432}{124518}Ela tingia o cabelo e tinha marcas no nariz. E daí?
+{124521}{124630}Aquelas marcas poderiam ter sido feitas senão por óculos?
+{124713}{124764}Não. Não poderiam.
+{124766}{124825}Eu não vi marca alguma.
+{124861}{124960}Eu vi. Estranho, mas não pensei nisso antes.
+{124962}{125015}Porque o advogado não disse nada?
+{125018}{125089}Há doze pessoas aqui se concentrando neste caso.
+{125091}{125179}-Onze de nós também não pensou nisto.|-E o promotor?
+{125182}{125266}Acha que ele armaria deste jeito? Fazendo ela testemunhar sem óculos?
+{125269}{125371}Nunca viu uma mulher que não quisesse usar óculos por causa aparência?
+{125373}{125488}OK. Ela tinha marcas no nariz. Estou aceitando isto.
+{125490}{125570}De óculos, não é? Não queria usá-los fora de casa
+{125572}{125644}para que pensassem que era bonita.
+{125647}{125750}Mas quando viu o crime, estava em casa sozinha.
+{125753}{125802}Isto diz tudo.
+{125806}{125865}Você usa óculos quando vai deitar-se?
+{125867}{125916}Não, não uso.
+{125942}{125991}Ninguém usa.
+{125993}{126102}É lógico assumir que ela não estava usando.
+{126105}{126164}-Como pode saber?|-Não posso. Estou supondo.
+{126166}{126277}Também estou supondo que não colocou eles quando olhou pela janela.
+{126280}{126354}Ela testemunhou que o crime ocorreu assim que olhou para fora.
+{126357}{126429}As luzes se apagaram. Ela não teve tempo de colocá-los.
+{126431}{126523}Aqui vai outra suposição. Ela achou honestamente que tinha visto o garoto matar seu pai.
+{126526}{126610}-Digo que apenas viu um borrão.|-Como sabe o que ela viu?
+{126612}{126696}Como ele sabe tudo isso? Como sabe que tipo de óculos ela usava?
+{126698}{126792}Talvez fossem óculos escuros! Talvez tivesse astigmatismo! Como sabe?
+{126794}{126866}Apenas sei que a visão dela está em discussão agora.
+{126868}{127012}Ela tinha que estar apta a identificar uma pessoa a 20 metros de distância, à noite, sem óculos.
+{127015}{127087}Não pode mandar alguém para a morte com um testemunho como este.
+{127089}{127125}Não me venha com esta.
+{127127}{127199}- Pode ela ter cometido um erro?|-Não.
+{127204}{127276}-Não é possível?|-Não, não é.
+{127355}{127404}É possível?
+{127426}{127475}Inocente.
+{127565}{127628}Acha que ele é culpado?
+{127630}{127685}Acho que é culpado.
+{127745}{127794}Você?
+{127849}{127885}Não.
+{127887}{127959}Estou convencido. Inocente.
+{127962}{128056}- Qual é o seu problema?|-Tenho uma dúvida razoável, agora.
+{128059}{128133}-São onze contra um.|-E as outras evidências?
+{128135}{128221}E todas aquelas coisas? A... A faca? Tudo aquilo?
+{128223}{128321}Você disse que podíamos esquecer todas as outras evidências.
+{128431}{128490}Bem o que fazemos agora?
+{128559}{128604}Você está sozinho.
+{128606}{128709}Não me importo. É direito meu.
+{128765}{128812}É seu direito.
+{129040}{129111}Bem o que querem? Digo que é culpado.
+{129131}{129232}Queremos ouvir seus argumentos.|-Já disse.
+{129242}{129332}Não nos convenceu. Queremos ouvi-los de novo.
+{129359}{129426}Termos todo o tempo do mundo.
+{129545}{129697}Tudo - tudo que foi dito naquele tribunal diz que ele é culpado.
+{129699}{129773}O que acham? Que sou um idiota?
+{129799}{129935}Peguem o que disse o velho que vivia lá e escutou tudo!
+{129966}{130054}Ou o lance da faca. Acharam outra igual?
+{130056}{130140}O velho o viu. Bem ali na escada.
+{130142}{130228}Que diferença faz quantos segundos levou?
+{130241}{130391}Tudo. A faca caindo do seu bolso.
+{130393}{130481}Não pode provar que ele não chegou na porta a tempo.
+{130483}{130596}Claro, pode enrolar bastante, mas não pode provar!
+{130658}{130730}E sobre este negócio do trem? E do cinema?
+{130733}{130811}Nunca vi uma farsa maior.
+{130814}{130910}Aposto U$ 5000 que eu lembraria os filmes que vi.
+{130912}{131060}Estou lhes dizendo, tudo que foi dito foi distorcido!
+{131063}{131151}O assunto do óculos? Como sabe que ela não estava usando?
+{131154}{131234}Esta mulher testemunhou sob juramento!
+{131253}{131345}E sobre ter escutado o garoto gritando? Hem?
+{131348}{131448}Estou dizendo, temos todos os fatos aqui.
+{131458}{131507}Aqui...
+{131557}{131637}É isso. É o caso todo.
+{131792}{131841}Bem?
+{131884}{131933}Digam algo!
+{132054}{132134}Seu bando de chorões.
+{132154}{132279}Não vão me intimidar. Tenho direito a minha opinião.
+{132341}{132431}Crianças ingratas... Você trabalha a vida toda por eles!
+{132716}{132765}Não...
+{132851}{132900}Inocente.
+{132978}{133027}Inocente.
+{133398}{133447}Estamos prontos agora.
+{136155}{136204}Ei!
+{136306}{136378}-Qual seu nome?|-Davis.
+{136380}{136429}O meu é McCardle.
+{136485}{136550}-Bem, adeus.|-Adeus.
+{138143}{138217}Legendas por °Fredalme°
+
+
+9999
+00:00:0,500 --> 00:00:2,00
+<font color="#ffff00" size=14>www.moviesubtitles.org</font>

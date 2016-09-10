@@ -1,0 +1,732 @@
+{463}{559}Quartel-General da Federação Galáctica - Planeta Turo
+{741}{813}Leiam as acusações
+{813}{861}Doutor Jumba-Yu-Kiba
+{870}{918}Cientista da Indústria de Defesa Galáctica
+{942}{990}Esta em frente a este conselho
+{990}{1110}acusado de efetuar experimentos genéticos ilegalmente
+{1259}{1307}Como se declara?
+{1307}{1355}INOCENTE
+{1355}{1475}Meus experimentos são somente teóricos,|e completamente legais
+{1475}{1594}Nós acreditamos que atualmente você tem criado "algo"
+{1594}{1714}Criado algo, ah, eu nunca seria tão | irresponsável
+{1714}{1786}e não ético, eu nunca, nunca
+{1810}{1858}criaria mais de um ?
+{2050}{2098}O que é essa monstruosidade?
+{2122}{2146}Monstruosidade?
+{2146}{2242}O você vê em sua frente é | a criação de uma nova espécie
+{2280}{2352}Eu o chamo, experimento 626
+{2400}{2520}Pode pensar mas rápido que um supercomputador
+{2520}{2544}Pode ver na escuridão
+{2544}{2640}e mover objetos 1000 vezes maior | que seu tamanho
+{2640}{2760}seu único instinto é destruir tudo o que toca
+{2808}{2832}então, isso é um monstro
+{2856}{2880}Sim, mas pequeno.
+{2880}{2951}É uma ofensa à natureza | deve ser destruído.
+{2975}{3071}Acalme-se capitão  Gantu   |  Temos que pensar primeiro
+{3095}{3215}Experimento 626, | dê-nos algum sinal de que entende algo disto
+{3215}{3335}Com certeza |deve haver algo dentro de você que seja bom
+{3551}{3599}POR DEUS!
+{3671}{3791}Eu não lhe ensinei isso  |  Peguem esse cientista estúpido
+{3791}{3934}Prefiro que me chamem GÊNIO DIABÓLICO!  |  E a respeito dessa  abominação
+{3934}{4102}É o claro produto de uma mente doente  |  e não tem lugar entre nós.
+{4102}{4222}Capitão Gantu   ...    leve-o ...  |  com prazer
+{4246}{4294}Transporte para a prisão Durgon
+{4726}{4917}Incomodo? .. que bom   |o conselho te castigou com o banimento em  um asteróide deserto
+{4917}{5037}Então relaxe e desfrute a viajem  |  e não tente nada
+{5037}{5205}Estas armas estão programadas somente os seus genes | e não vão atacar a nada mais que você
+{5229}{5349}Você vai ver !......  |  deixe-me lembrar-te capitão que esta em serviço 
+{5421}{5445} Assegurem a cela !
+{5637}{5661}A toda força a frente
+{5781}{5853}Você acha que isto infeccionará ?
+{6548}{6572}Quieto
+{6668}{6740}Fogo na cela capitão  |  Abram os canais
+{6955}{7027}Esta solto na porta 6  |   Alerta vermelho feche todas as portas
+{7219}{7291}Segurança, todos na porta sete 
+{7363}{7411}Aqui esta. 
+{7531}{7603}Segurança à cobertura ... esta no sistema de ventilação
+{7675}{7771}Vá atrás das linhas de energia
+{7747}{7867}Red, O que foi isso?
+{7891}{8010}Não creio que esteja mais na nave capitão |  Confirmado, ele pegou um cruzeiro policial
+{8058}{8130}Sim, pegou um vermelho
+{8658}{8706}Lá esta, nós o pegamos, o pegamos.
+{8778}{8850}Todos os sistemas ativados , sistemas carregados
+{8850}{8897}Ativou os sistemas de arranque
+{8960}{9032}Comando de perseguição, essa coisa louca vai saltar 
+{9032}{9080}Rompam as filas, concluíram a perseguição
+{9104}{9176}Preparação completa, não ative nenhum sistema...
+{9415}{9487}Comunique-me com o controle galáctico...
+{9511}{9559}Onde ele esta! | Segue no hiper espaço
+{9583}{9631}Onde cairá ?,|  Calculando agora
+{9631}{9799}Patron 17 , seção 005 área 51 , um planeta chamado " TERRA"
+{9799}{9871}Quero um expert neste planeta agora
+{9895}{9991}O que é isso |  água, a maior parte do planeta é formada de água
+{9967}{10063}Ele não sobreviverá na água, |  sua densidade molecular é muito alta 
+{10183}{10207}Não..........
+{10350}{10374}Claro....
+{10398}{10518}Quanto tempo temos  |  O tempo estimado é de 3 horas 42 minutos
+{10518}{10638}Teremos que eliminar o planeta  | Esperem... Esperem todos
+{10638}{10782}A Terra é uma reserva de proteção de vida selvagem | Estamos reconstruindo a população de mosquitos 
+{10782}{10854}... Que deixe-me recordar  | é uma espécie em perigo
+{10854}{10998}Devo admitir que você é um expert |  ... Não sou expert 
+{11046}{11190}Agente Plinky a seus serviços  |  Não podemos somente destruir a ilha ?
+{11190}{11357}NÃO! Cabeça oca, o mosquito se alimenta  |  de primitivas formas de vida humanóides | que colonizara
+{11357}{11549}São inteligentes ?|Não, mais são pouco resistentes | Um meteoro chocou-se com seu planeta, começaram tudo de novo
+{11564}{11616}Fascinante, não acha | É muito bom estudar
+{11621}{11707}O que aconteceria |se a força militar somente aterrissar na ilha
+{11707}{11890}Bom, seria uma má idéia  | Estas criaturas são extremamente simples  |  Não criaram sequer cruzeiros
+{11890}{12091}Uma captura silenciosa requereria entendimento com 626, | que não temos, quem então  o senhor pliky 
+{12139}{12235}Tem algum irmão?...alguma avó talvez?...
+{12336}{12384}Algum primo amigável... talvez uma ave...
+{12527}{12551}"Cientista idiota é preso"
+{12935}{13031}Ele escapou...... | Estou segura de que a noticia não o surpreende
+{13055}{13199}Desenvolvi essa criatura para que ser imparável | É precisamente por isso que você o trará de volta
+{13199}{13391}Quem é você?.......... | e para recompensar-te estamos | dispostos a dar-te a liberdade por sua capt
+{13439}{13630}626 não voltará tão facilmente | Talvez um disparo direto de um canhão ....
+{13630}{13750}....de plasma o deteria o suficiente para... | canhão de plasma garantido, temos um trato Dr. Jumba?
+{13750}{13870}Mas é um planeta muito delicado, | quem vai controlá-lo ?
+{13870}{13918}Você o fará ...
+{13942}{14014}Esta foi uma boa piad... | Isto não... Isto não foi uma piada!
+{14014}{14350}Então... diga-me meu pequeno ciclope, | Em qual pobre, lastimoso e indefeso planeta ? | Minha monstr
+{16771}{16963}Venham, Meninas venham... uma, duas, três, quatro,  
+{16987}{17035}ai, ai, ai
+{17912}{18056}parem, parem .. Lilo, porque esta molhada | É que é dia de sandwich
+{18152}{18224}Cada jovem leva a Ponch o peixe um sandwich  |  de manteiga 
+{18224}{18320}Ponch é um peixe?  | E hoje não havia manteiga
+{18320}{18416}E perguntei a minha irmã o que podia dar-lhe  | E ela me disse: Um sandwich de atum.
+{18416}{18584}Não posso dar atum !.. Você sabe o que é o atum?  |  Um Peixe?
+{18584}{18728}É um peixe, e se eu tivesse dado atum  | Teria sido uma abominação
+{18728}{18895}Cheguei tarde porque tive que ir a venda  | comprar manteiga   |  porque só havia ATUM
+{18895}{18991}Lilo, Lilo, porque isto é tão importante   | Ponch controla o clima
+{19063}{19087}Você esta louca...
+{19159}{19279}Meninas por favor,.. por favor acalmem-se
+{19279}{19399}Meninas... acalmem-se..  |  Lilo ......
+{19399}{19519}Desculpa, Desculpa .. não acontecerá de novo |  Talvez devêssemos  chamar sua irmã.
+{19519}{19687}Não, serei boa, quero dançar, eu pratiquei | Eu só quero dançar.
+{19711}{19735}...Eu pratiquei....
+{19792}{19912}Lou.. me mordeu  |  Louca!
+{20042}{20161}Chamei a sua irmã, Ela disse que  |  para esperá-la aqui sentada na varanda
+{20185}{20233}Tentaremos de novo no domingo
+{20401}{20473}Isto vai infeccionar..  |  Sim 
+{20521}{20641}Tomara que não tenha raiva  |  Se você tem raiva, ela terá também | Vocês vão brincar com bonecas? 
+{20665}{20833}Você não tem boneca  |  Ela é a Scromb
+{20833}{20953}Eu a fiz, mas sua cabeça é muito grande  | Então finjo que ela tem ovos de bichos em seus ouvidos
+{20953}{21049}E ela está com nojo porque só lhe restam  |  poucos dias de.....
+{21514}{21586}Lilo?. Lilo? 
+{21681}{21777} Lilo?    oh não
+{21849}{21897}É melhor que você esteja em casa
+{21993}{22065}Olhe por onde anda   |   Idiota Cabeça oca
+{22305}{22425}Oh Lilo, Lilo? Abra a porta Lilo  |  Vá embora
+{22473}{22617}Lilo? Não temos tempo para isto   |  Deixe-me só para morrer
+{22617}{22688}Vamos Lilo o assistente social estará aqui a qualquer minuto
+{23192}{23240}Quando eu entrar você estará morta
+{23384}{23504}Vou te colocar em um saco e te dar  |  para o assistente social comer
+{23504}{23600}E ele dirá: mmm que gostoso  |  qual é o seu segredo? E eu direi....
+{23648}{23839}Amor e carinho... Oi você deve ser...
+{23839}{23983}O idiota cabeça oca  | Oh, sabe, realmente estou arrependida sobre isso
+{23983}{24055}Se eu soubesse quem era     | nunca teria dito...
+{24055}{24127}Posso pagar os danos   |  É alugado
+{24127}{24319}Você é a guardiã em questão   |  Sim, eu sou Nanny, muito prazer Sr ..  |  Bubbles
+{24319}{24391}Sr Bubbles? Isso é estranh...   |   Sim, eu sei 
+{24415}{24607}Você me impedirá de passar Nanny   |   Estava pensando que podíamos sentar aqui    |  Acho que não
+{24607}{24631}Genial
+{24702}{24726}É por aqui. 
+{24990}{25014}Espere aqui 
+{25278}{25422}Então... Limonada?   | Você sempre deixa sua irmã sozinha  |  Não nunca...
+{25446}{25470}Eu sozinha
+{25494}{25614}Bem, exceto por agora, tive que ir a venda   | para comprar um pouco de...
+{25662}{25733}Deixou o fogo aceso enquanto estava fora?
+{25733}{25853}E falta pouco.... Quando terminar estará ótimo
+{25877}{25997}Encontrei isso esta manhã  |  Lilo.... aqui esta, carinha de mel
+{25997}{26117}Este é o senhor Bubbles   |  Prazer em conhecê-la
+{26117}{26165}Suas juntas dizem "cobra" 
+{26237}{26381}Cobra Bubbles .. Não parece assistente social
+{26381}{26501}Sou de uma classificação especial   |  Você já matou alguém?
+{26501}{26645}Estamos fugindo do assunto   |  Falemos de você... Você esta feliz?
+{26692}{26932}Estou adaptada..  |  Olho as quatro esquinas antes de atravessar   |  Eu durmo cedo e..... Me ensina
+{26951}{26975}Te ensinam...
+{26975}{27119}Sim... Ela o faz muito bem   |  Algumas vezes todos os dias   |  Até me afoga. 
+{27119}{27191}Afogar |Sim com uma almofada mas....
+{27191}{27335}Ok.. Isso tudo é carinho   |  Porque não vai brincar? Pequena beleza
+{27335}{27431}O outro assistente social se impressionava com  |  sua imaginação... Está com sede?
+{27479}{27719}Deixe-me iluminar a situação precária em que se encontra   |  Eu sou aquele que chamam quando as coi
+{27743}{27815}E as coisas vão mal
+{27958}{28006}Guia de Vodu
+{28270}{28318}Minhas amigas precisam ser castigadas
+{28438}{28534}Chame-me a próxima vez que te deixarem sozinha   |  Bom
+{28558}{28750}Caso você pergunte, as coisas não vão bem  | E você tem três dias para mudar minha opinião
+{29709}{29829}Porque você saiu da escola   |  Eu acho que deveria ter esperado lá.
+{29829}{29948}Não entende! Quer que te levem   |  Responda-me
+{29953}{30001}Não   |  Não entende
+{30001}{30049}Não....  |  Não o que?   |  Não 
+{30289}{30481}Você é um peste ..  |  Porque não me vende e compra um coelho ? |  Pelo menos um coelho seria melhor
+{30481}{30696}Anda, ficarás feliz, porque será mais arrumado também  |  E tranqüilo....  |  E gostará porque será 
+{30720}{30816}!Vá para o seu quarto   |  Já estou nele !
+{31224}{31296}Hey te trouxe pizza , caso estivesse com fome 
+{31344}{31416}Somos uma família quebrada... não é ? 
+{31416}{31632}Não, talvez, um pouco, talvez muito..
+{31651}{31843}Eu não devia ter gritado. Somos irmãs é seu trabalho.  |  Sim bem, de agora em diante...  
+{31843}{31890}Eu gosto mais de ter uma irmã que uma mãe
+{31938}{31962}Sim ?
+{31962}{32058}E você prefere uma irmã que um coelho , certo ?
+{32178}{32250}Sim , sim eu prefiro
+{32269}{32389}Eu bati em uma amiga minha hoje   |  Bateu nela.. 
+{32389}{32461}E depois, eu a mordi   |  Mordeu
+{32485}{32557}Lilo você não dev...   |  As pessoas me tratam diferente 
+{32581}{32653}Só não sabem o que dizer  |  Te proponho uma coisa..
+{32653}{32773}Se me prometer que não vai brigar mais   |  Eu prometo que não  gritarei mais..
+{32773}{32821}Exceto em ocasiões especiais..
+{32821}{32965}Quintas e sextas seria bom..   |  Sim , seria bom
+{32989}{33108}Oh minha câmera esta cheia de novo.   |  Não são bonitas ? 
+{33372}{33420}Uma estrela cadente! 
+{33516}{33660}Sai, sai tenho que fazer meu desejo  | Não pode ir mais rápido
+{33660}{33756}Oh não, a gravidade esta aumentando   |  Não, não esta
+{33756}{33900}É normal, comecei a sentir.   |  Você deixou seu traseiro raspar em mim..
+{33900}{33948}Porque você é tão estranha? 
+{34067}{34235}Olá, sou eu outra vez.   |  Preciso que me de um amigo   |  alguém que esteja comigo
+{34259}{34379}É melhor um anjo, o melhor e mais bonito anjo que tiver
+{35554}{35626}O que era aquilo..
+{35650}{35722}Aqui esta, esta debaixo da carroceria 
+{35770}{35818}Melhor chamarmos alguém.
+{36247}{36393}Estamos procurando algo que sirva para defender,   |  algo que não mora,  algo forte.
+{36393}{36489}Entende ?   |  Como uma lagosta  |  Lilo, temos porta para lagosta? 
+{36494}{36566}Não, temos porta para cachorro, teremos um cachorro.
+{36681}{36813}Wa, estou contente de ver sua cara feia de novo   |  Jumba?
+{36815}{36861}Preciso do seu nome e seu endereço abaixo ... 
+{36933}{36981}Os cães estão por aqui
+{36993}{37041}Vá, escolha algum
+{37112}{37232}Olá.. Oláááá!!
+{37280}{37328}Tem algum animal aqui dentro ?
+{37520}{37568}Olá!
+{37808}{37904}Olá.   | Olá
+{37976}{38050}Oh sim, todos os cães são adotáveis
+{38064}{38095}¡EXCETO ESSE!
+{38119}{38201}O que é essa coisa .   |  Um cão, eu acho. Mas estava morto de manhã.
+{38203}{38318}Morto?   |Quando o encontramos estava morto, um caminhão o atropelou. 
+{38321}{38390}Eu gosto, vem cãozinho.
+{38503}{38599}Você não quer um cão diferente.  | Temos cães melhores aqui
+{38604}{38692}Não melhor que ele.  |  Ele fala, diga olá
+{38695}{38767}Ho..Ho..   |  Os cães não falam querida
+{38772}{38839}Ele falou  |  Tem que ser este cão?
+{38959}{39007}Sim, ele é bom   
+{39031}{39131}Tem que pensar em um nome para ele .   |  Seu nome é Stitch.
+{39155}{39285}Isso não é um nome de verdade.... na Islândia  |  Mas aqui é um bom nome.
+{39294}{39371}Então será Stitch.  | Serão dois dólares a licença .
+{39373}{39438}Eu quero comprá-lo.... Me empresta dois dólares.....  
+{39611}{39637}É todo seu
+{39654}{39702}É todo meu..
+{39707}{39822}O que esta fazendo?   | Quieto ele esta nos escutando.
+{39898}{39942}Como ele nos ouve?. Quero dizer.......
+{40126}{40169}Porque não corre?
+{40229}{40258}Ja volto, ja volto
+{40277}{40428}Pare! Tenho que acabar com esta situação   | Não se preocupe, não vou acertá-la. 
+{40438}{40565}NÃO... essa menina é a comida do mosquito.   |  Tome , eduque-se.
+{40613}{40733}Ele esta usando a menina como escudo   |  ISSO É BAIXO ATÉ PARA VOCÊ!
+{40805}{40853}Esse bicho mal agradecido, ele vai me pagar
+{40853}{40901}Perdeu a cabeça ?.
+{40925}{40973}Jumba, basta por favor .
+{41021}{41059}Cachorro mal, latindo por nada. 
+{41116}{41308}Você não pode disparar e nem ser visto.   |  Olhe-se, parece um monstro, temos que nos disfarçar
+{41332}{41452}Certo, tenho que ir trabalhar  |   Não saia da cidade e ande pela calçada, te vejo a 1:00.
+{41716}{41812}Tenho que ir   |  E o beijo do Stitch. 
+{41980}{42004}Minhas amigas . 
+{42123}{42147}O que você quer?
+{42147}{42267}Lamento ter te mordido e puxado seu cabelo   |  e batido no seu rosto.
+{42267}{42387}Desculpas não aceitas.   |   Agora, sai da minha frente antes que eu te atropele
+{42411}{42483}Tenho um cão novo, se chama Stitch
+{42483}{42579}Isso é a coisa mais horrorosa que eu já vi.   
+{42627}{42699}Afaste-o de mim , ele pode me machucar
+{42843}{42963}Oh genial, ele escapou   |   O programa de distração esta fazendo efeito.
+{42963}{43035}Se tornou irresistível, | para ele, ir a uma cidade grande.
+{43035}{43130}Donde rompera cosa , aterrorizara   | E roubará o sapato esquerdo de todos.
+{43586}{43706}É lindo viver numa ilha sem grandes cidades.
+{43778}{43802}Você esta bem?.
+{44617}{44641}Por aqui amiguinho.
+{45504}{45600}Quando estiver pronto para desistir é só nos avisar.
+{46559}{46607}Este é você.
+{46631}{46679}Este é seu nível de maldade
+{46679}{46799}É muito alto para alguém do seu tamanho   |  Temos que melhorar isso
+{46823}{46943}Lilo, o cão não pode sentar a mesa  |  Stitch tem um problema
+{46943}{46967}Precisa de uma sobremesa.
+{46991}{47110}Você nem comeu o purê, achava que gostasse.   | Sobremesa
+{47182}{47230}David
+{47254}{47278}Tenho um cãozinho novo.
+{47302}{47350}Oh, Tem certeza que é um cão.
+{47350}{47422}Sim, era um Coli, antes de que ser atropelado.
+{47758}{47878}Como vai Nanny ?  | Se queimou de novo?
+{47878}{47998}Não só o cenário. Escuta, eu estava te perguntando,   |  se você não esta saindo com ninguém nós pod
+{47998}{48093}David já te disse que não posso, tenho que...
+{48117}{48165}...lidar com outra coisa agora
+{48165}{48285}Não, só pensei que nós...  |  Você esta com cheiro de cera queimada...
+{48333}{48453}Olha, tenho que ir , a criança da mesa 3 esta dando problemas  |  Nos falamos depois.
+{48501}{48597}Não se preocupe, ela gosta do seu cabelo elegante.   |  Eu sei, li seu diário
+{48621}{48669}Ela acha elegante.
+{49029}{49220}Até que enfim te peguei, solte-me...   | Me dê as algemas  |  Eu o peguei, eu o peguei..
+{49604}{49652}Nanny
+{49676}{49724}Esse cão é seu ?
+{49748}{49844}Oh, por favor, não se preocupem, divirtam-se. | E estou bem...
+{49844}{49892}Sua cabeça esta estranha...
+{49892}{49940}A verdade é que ela é horrível. 
+{49964}{50059}Uma piada.  |Horrível ? Olhem-me...
+{50059}{50155}Isto não esta dando resultado.
+{50155}{50539}Mas, mas...
+{50155}{50179}Não
+{50203}{50203}Sim?
+{50203}{50323}Quem quer trabalhar neste estúpido luau, de toda forma...
+{50347}{50371}Vamos Lilo
+{50491}{50563}Perdeu seu trabalho por nossa culpa?
+{50563}{50683}Não, o gerente é um vampiro, | queria que me unisse a seu clã de "mortos vivos"
+{50707}{50755}Eu sabia
+{50779}{50851}Este é um grande lugar, Você gostará muito.
+{50923}{50995}Lilo | Sente-se
+{51043}{51090}Hey, qual é o seu problema
+{51090}{51114}Tenha cuidado com o pequeno anjo.
+{51162}{51210}Não é um anjo Lilo | Nem sei se é um cão.
+{51210}{51306}Teremos que devolvê-lo | Ele só esta assim porque tem passado por maus bocados.
+{51498}{51570}Hey o que você esta fazendo | Para com isso
+{51572}{51618}Pare!
+{51620}{51642}Olhe-o Lilo, Isto é uma mutação de outra coisa. | Devemos devolvê-lo.
+{51666}{51810}Ele era um órfão e nós o adotamos. | O que aconteceu com "hoanna" ? 
+{51810}{51906}Ele nem ficou aqui tanto tempo.
+{51925}{51973}Nem eu.
+{51973}{51997}Papai dizia que "hoanna" significa família
+{51997}{52045}"Hoanna" significa família.
+{52165}{52213}Família significa que ninguém é deixado para trás...
+{52213}{52284}Ou?
+{52284}{52308}...ou esquecido, eu sei, eu sei. | Odeio quando você usa “hoanna” contra mim.
+{52308}{52452}Não se preocupe, pode dormir comigo.
+{52548}{52620}Olha que cachorrinho curioso
+{52759}{52831}Este é meu quarto, e esta é sua cama  | Esta é sua boneca e mamadeira.
+{52831}{52999}Vê ? Não cai ?
+{53047}{53143}Parece que é café, bom cachorrinho.
+{53143}{53167}Agora vamos pra cama.
+{53215}{53239}Hey, essa é minha.
+{53311}{53335}Desça!!!
+{53407}{53454}Tome cuidado com isso!!!
+{53454}{53526}Não toque isto, nunca o toque!!!
+{53670}{53766}Não! Não puxe a cabeça | Esta se recuperando de uma cirurgia
+{53814}{53886}Não! Isso é do meu período azul.
+{54040}{54087}Isso era.
+{54087}{54207}Sabe, Você destrói tudo o que toca.| Por que você não faz, algo melhor ?
+{54615}{54663}Igual, San Francisco
+{54951}{54975}"Ajudem-me"
+{55070}{55142}Sem mais café para você...
+{55195}{55315}Essa menina esta perdendo seu tempo. | 626 não pode desobedecer seu programa de destruição.
+{55435}{55483}Empurre isso.
+{55507}{55579}O que você esta fazendo? | Nada.
+{55579}{55651}Olhe, eu quero provar  | Não.
+{55651}{55675}Compartilhe...
+{55675}{55723}Eu também quero provar.... | Não, não
+{55795}{55843}Um mosquito me escolheu como sua comida.
+{55890}{55914}É tão bonito.
+{55938}{55962}Olhe, outro.
+{55986}{56058}E outro, é toda uma colônia.
+{56058}{56154}E eles gostam de mim, | Não há prazer como este.. 
+{56154}{56298}E há muitos.... haaaaaaaaaaaaaaaaaaaa
+{56322}{56418}Eu acho que pode ser um coala. | Um coala mal.
+{56418}{56514}Não pode nem ser acariciado, fica me olhando,  | como se fosse comer
+{56610}{56754}Alô.... Nanny.... Alô
+{56778}{56802}Você esta aí ?
+{56921}{56969}Isto é interessante.
+{56969}{56993}O quê?
+{56993}{57137}626, foi feito para ser um monstro. | Mas agora não esta destruindo nada.
+{57161}{57329}Veja, nunca lhe dei verdadeiros grandes propósitos.  |Como será que se senti ao não ter nada.
+{57353}{57473}Nem sequer lembranças para visitar no meio da noite.
+{58240}{58288}Esse é o patinho feio.. 
+{58312}{58408}Vê? Esta triste porque está sozinho| e ninguém o quer...
+{58432}{58552}Mas nesta página sua família o encontra  |  E o patinho feio foi feliz para sem.
+{58552}{58600}Porque voltou a onde pertencia. 
+{58840}{58887}Quer escutar o rei.
+{58911}{58983}Você parece um fanático por Elvis.
+{59079}{59151}Nanny.. Nanny....
+{59151}{59199}Sim......
+{59199}{59223}Olha... 
+{59799}{59846}Soube que perdeu o emprego.
+{59870}{60062}Bem, na realidade só me demite  |  porque... a hora, sabe como é criar uma menina...
+{60086}{60158}Eu sinto muito. 
+{60158}{60206}Que coisa é essa...
+{60206}{60230}É meu cachorrinho.
+{60230}{60254}Verdade?...
+{60350}{60542}Essas faltas podem pesar na minha grande paciência. | Mas não posso deixar pesar que esta sem trabal
+{60542}{60614}Me fiz entender bem...
+{60614}{60638}Perfeitamente
+{60638}{60782}A próxima vez que eu ver este cão  |  espero ver um cidadão modelo. Entendido?
+{60782}{60806}Sim ?
+{60830}{60973}Novo trabalho, cidadão modelo.  |  Bom dia
+{61093}{61189}Senhora Asihaua , estou aqui pelo anuncio
+{61189}{61333}Elvis era um cidadão modelo  |  e foi copiado para você praticar.
+{61333}{61405}O primeiro é a dança.
+{61405}{61501}Não posso falar agora querida.   |  Estou esperando que respondam o anúncio
+{61501}{61525}É por isso que estou aqui.
+{61525}{61597}As mãos nas cadeiras e siga-me.
+{61765}{61813}Ah este é o meu.
+{61813}{61837}Eu sei...
+{62052}{62076}Porque esta tudo tão escuro.
+{62076}{62124}Eu sei tudo sobre café.
+{62148}{62172}Vamos com os passos.
+{62196}{62292}Elvis tocava guitarra.  | Pegue, assim.
+{62292}{62316}E ponha os dedos aqui.
+{62388}{62412}Vê, agora tente
+{62460}{62532}E faço um bom capuccino e...
+{62532}{62628}Olhe sinto muito mas já contratei Teddy...
+{62939}{63011}O turismo e os hotéis são minha vida...
+{63011}{63059}Eu adoro atender o telefone.
+{63059}{63107}Esta é a Fase do romance..
+{63107}{63179}Parece que ela precisa de um amante...
+{63299}{63323}Oh, talvez tenhamos algo...
+{63323}{63371}Bem, agora beije-a
+{63443}{63515}Tenho certeza |de que Elvis teve seus maus dias também..
+{63515}{63563}Sei tudo sobre salvar pessoas...
+{63563}{63635}Na verdade acho que temos uma vaga.
+{63635}{63635}Sério?
+{63635}{63731}Ok, isso é tudo. | Vamos a poner todo en practica.
+{63731}{63827}Oh isso é genial! |Você não sabe o quanto preciso deste emprego..
+{63922}{63970}São todos seus... Mate-os Stitch.
+{64498}{64546}Não o sufoquem.
+{64690}{64714}Eh, corta...
+{65649}{65721}Eh Lilo como vai... Nanny.
+{65721}{65793}Tivemos mau dia
+{65984}{66104}Hey, não sou médico, mais sei   | que não há melhor cura para uma cara triste...
+{66109}{66219}...que um par de pranchas e umas boas ondas.  | O que acham?
+{66248}{66320}Acho que é uma boa idéia.
+{69197}{69365}Oh não me queixo mãe.   |  Estou acampado com um criminoso.  | E quase que um monstro come minha cab
+{69365}{69485}Hey, tem algo errado com 626. | Ele esta voltando sozinho para água 
+{69485}{69677}Espere mãe tenho outra chamada. | Senhor Plinky acabou o tempo.  |  Quero saber o que tem a me dizer
+{69677}{69749}Ah, bem as coisas estão indo bem.   |  Ele não sabe nadar.
+{69749}{69844}Jumba as coisas vão bem?   |  Porque ele esta se arriscando?
+{69844}{69868}Jumba?
+{69868}{69892}Jumba ajude-me aqui.
+{69892}{70060}Eu os esperava de volta com 626.  |  É que temos muitas coisas atrapalhando.
+{70060}{70060}E vamos à...
+{70108}{70156}Desliga.
+{70156}{70204}Vamos nadar.
+{71403}{71475}Lilo?... O que aconteceu?
+{71475}{71547}Um idiota nos derrubou.
+{71547}{71595}E Stitch....
+{71643}{71667}Solte-a.
+{71667}{71787}Stitch a esta afogando.
+{72002}{72026}Aonde esta Stitch ?
+{72650}{72746}Lilo olhe pra mim, olhe, você esta bem ? 
+{72746}{72794}Não.
+{72889}{72937}Esta inconsciente, mas acho que esta vivo.
+{73297}{73321}David pegue a Lilo.
+{73369}{73441}Isto não é o que parece  |  nós estávamos... 
+{73537}{73681}Eu sei que você tenta Nanny,  | mas precisa pensar no que é melhor para Lilo.
+{73729}{73801}Inclusive se você não esta aqui.
+{73896}{73968}Voltarei amanhã de manhã. Por Lilo.
+{73992}{74016}Eu sinto muito.
+{74184}{74256}Nanny, existe algo que eu possa fazer ?
+{74256}{74304}Não, David. 
+{74328}{74400}Preciso levar a Lilo pra casa agora.
+{74424}{74496}Temos muito o que conversar, sabe ?
+{74520}{74544}Obrigada
+{74640}{74736}Sabe? | Eu sempre achei que havia uma possibilidade. 
+{74760}{74808}Até que você chegou...
+{75479}{75503}Lilo querida.
+{75527}{75599}Nós vamos nos separar.
+{75647}{75743}Não se preocupe. | Você é linda, alguém te dará um emprego.
+{75767}{75791}Eu o faria.
+{75886}{75910}Oh, vem aqui.
+{77445}{77517}Isso foi antes... 
+{77517}{77565}...de eles morrerem em um acidente.
+{77637}{77661}O que aconteceu com você?
+{77661}{77733}Te vi chorar a noite.
+{77757}{77805}Só com os olhos...
+{77900}{78020}...sei que por isso agiu assim e me empurrou
+{78140}{78236}Nossa família é pequena   |  e não temos, muitos brinquedos.
+{78260}{78332}Mas se quiser, pode ser parte dela.
+{78356}{78428}Pode ser nosso bebê.   |  E isso seria bom.
+{78500}{78596}Hoanna significa família.
+{78620}{78716}Família significa |que ninguém é deixado pra trás...
+{78740}{78835}Mas se quiser ir, pode fazê-lo
+{78979}{79003}Sempre lembrarei de você.
+{79003}{79147}Sempre lembro dos que se vão.
+{79866}{79938}Perdido.
+{80154}{80178}Estou perdido.
+{80490}{80538}Que golfinho bonitinho.
+{80610}{80634}Não são golfinho são tubarões.
+{80634}{80658}São tubarões e não são amigáveis.
+{80658}{80706}Pareciam golfinhos, peixe mentiroso.
+{80825}{80873}E agora um polvo, odeio este planeta.
+{81065}{81113}Pequeno monstro.
+{81300}{81348}Agente Plinkly. 
+{81348}{81396}Perdi a paciência com vocês.
+{81396}{81492}Capturaram 626 ou não ?
+{81564}{81612}Considerem-se despedidos e prisioneiros
+{81612}{81684}Seu incompetente é mais que inadmissível.
+{81684}{81732}Mas...
+{81804}{81924}Nos despedirão. | Agora farei a minha maneira.
+{81924}{81948}A sua maneira?
+{81972}{81996}Não, não espera.
+{82019}{82091}Parece que superestimamos a Jumba y Blinky
+{82091}{82139}Jumba e "Plinky" 
+{82139}{82163}Que seja.
+{82163}{82283}A missão esta incompleta, esta é sua chance  | de se redimir.
+{82283}{82307}Capitão Gantu
+{82331}{82379}Quando você estará pronto para ir.
+{82403}{82451}Imediatamente.
+{82811}{82859}Não se mova, não quero atirar em você.
+{82859}{83026}Você é caro. |  Sim, sim vem tranqüilo 
+{83074}{83098}Estou esperando.
+{83098}{83170}Pelo que ?
+{83218}{83242}Família.
+{83290}{83410}Você não tem uma, eu te criei.
+{83410}{83506}Talvez mais posso...
+{83506}{83626}Você foi feito para destruir e nunca pertencerá...
+{83650}{83746}Agora venha tranqüilo.  | E pegará sua parte...
+{83746}{83794}Não, não, não, não corra.
+{84173}{84268}Lilo não precisava levantar.
+{84340}{84364}Bebê o que foi?
+{84364}{84412}Stitch foi embora.
+{84412}{84436}Sério?
+{84460}{84532}Ainda bem que foi.
+{84532}{84556}Ele não queria ficar aqui, | de jeito nenhum. 
+{84580}{84628}Não precisamos dele.
+{84772}{84916}Às vezes você age com garra, mas as coisas,  | não são como as planeja
+{84940}{85036}Às vezes as coisas têm que mudar.
+{85036}{85132}E só às vezes pode ser para melhor.
+{85204}{85227}Nanny , 
+{85275}{85299}David
+{85299}{85347}Acho que consegui um trabalho pra você.
+{85347}{85371}Você o que ?
+{85371}{85419}O velho do armazém.
+{85419}{85443}Mas temos que nos apressar
+{85443}{85515}Oh, esta bem, Lilo.
+{85515}{85563}Isto é realmente importante. 
+{85563}{85683}Preciso que fique aqui um pouco, mas volto logo.  | Feche a porta e não abra pra ninguém.
+{85683}{85707}Esta bem ?
+{85731}{85779}Até que enfim as coisas vão bem
+{85827}{85875}Oh David, te devo uma.
+{85875}{85899}Esta bem.
+{85899}{85947}Podemos sair...
+{86115}{86163}Pare seu pequeno...
+{86234}{86258}Stitch?
+{86282}{86306}O que esta acontecendo?
+{86378}{86450}Oh, vejo que encontrou sua amiguinha.
+{86450}{86522}Não funcionará mas, vou te dizer...
+{86522}{86570}...nos despediram esta manhã
+{86570}{86618}Não há regras
+{86834}{86858}O que faremos ?
+{86882}{86930}Oh, eu gosto desta música.
+{86930}{86954}tesoura...
+{86954}{86954}tesoura
+{86954}{87002}Chave de fenda.
+{87002}{87002}Chave de fenda
+{87026}{87050}Pronto
+{87050}{87122}Meu amigo saia de onde quer que você esteja.
+{87194}{87217}O que é ....
+{87313}{87361}Vamos, qual é o grande problema.
+{87409}{87433}Vou te armar de novo.
+{87457}{87529}Te farei mais alto e não tão sentimental
+{87529}{87553} Eu gosto de ser assim.
+{87577}{87649}Não, não, não, nãooooooooo
+{87697}{87745}Deixe minha mãe fora disso. 
+{87793}{87841}Você poderia se dar por vencido.
+{87841}{87889}E seria mas fácil.
+{87889}{87985}Mas, vamos nos enfrentar, |  qualquer coisa pode sair mal.
+{87985}{87985}Nãooo
+{88105}{88129}Stitch, siga-me.
+{88129}{88153}Vamos à...
+{88153}{88177}Você esta viva!
+{88177}{88201}Estão por todos os lados.
+{88224}{88272}Pensando em escapar, toma. 
+{88272}{88320}Deixe-me te deter.
+{88368}{88416}Você sempre se entromete.
+{88416}{88464}Aonde esta a menina  |  o que você fez com a menina...
+{88464}{88560}Alô Agente Bubbles,  | extraterrestres estão atacando minha casa.
+{88560}{88608}Não, não, não extraterrestres.
+{88800}{88872}Querem meu cãozinho.
+{88872}{88920}Não se preocupe.
+{88920}{88944}Esta tudo sob controle.
+{88944}{88968}Lilo quem era esse?
+{88968}{89040}Oh, que bom meu cão encontrou a serra elétrica.
+{89040}{89064}Lilo não desligue....
+{89279}{89327}Não deveria brincar com armas.
+{89327}{89351}Ok
+{89351}{89375}Obrigado
+{89399}{89423}Mas lembra ? É seu aniversário.
+{89423}{89447}Feliz Aniversário!
+{89447}{89495}Feliz Natal!
+{89495}{89519}Não é Natal. 
+{89519}{89543}Feliz hanukka!
+{89543}{89567}Mas e Stitch ?
+{89567}{89615}Confie em mim isto não vai acabar bem.
+{89615}{89639}É seu. 
+{89639}{89639}É seu.
+{89687}{89735}Não deixe pingar...
+{89759}{89831}Minha, mãe, mandou, eu escolher, este, daqui.....
+{89831}{89855}E... , já, Eu ganhei.
+{90023}{90047}Obrigado.
+{90047}{90143}Não vai se decepcionar, virei pronta a ajudar.
+{90262}{90286}Por favor não vire a esquerda.
+{90358}{90382}Não...
+{90526}{90598}Um tinha um olho imenso no meio da cabeça.
+{90598}{90598}Oh Lilo.
+{90694}{90718}Por favor não faça isso.
+{90718}{90766}Você sabe que não tenho alternativa
+{90790}{90910}Não, não a leve.  | Eu sou a única que a compreende.  |  E ela o enganará.
+{90910}{90958}Não torne isto mais difícil do que deveria ser.
+{90958}{91006}Não sabe o que esta fazendo
+{91006}{91030}Ela precisa de mim.
+{91030}{91078}Ela precisa disso ?
+{91078}{91198}Parece que você precisa mais dela  | do que ela de você.
+{91317}{91365}Lilo.... LILOOOO
+{91970}{91994}Você arruinou tudo.
+{92185}{92233}Você era um deles?
+{92284}{92332}Saia daqui Stitch.
+{92427}{92451}Surpresa !
+{92502}{92574}E eu que pensei que seria mais difícil te pegar.
+{92598}{92646}Como sou tolo.
+{92646}{92742}Lilo?... Lilo?
+{93034}{93106}Ai você tem, uma boa vista da viajem. 
+{93154}{93250}E veja só. | Acho que te consegui lanche.
+{93372}{93396}Não.. pare.
+{93785}{93856}Ok fala, sei que tem algo a ver com isto.  
+{93856}{93880}Aonde esta Lilo?
+{93904}{93952}Fala...... Eu sei que pode.
+{94027}{94051}Bem, Bem.
+{94123}{94171}Aonde esta Lilo?
+{94218}{94266}Lilo...
+{94341}{94365}Agora todos seus planos acabaram.
+{94365}{94413}Está errado. Leia seus direitos...
+{94413}{94461}Escute atentamente...
+{94535}{94631}Alô, comando espacial, O experimento 626 preso...
+{94631}{94655}Esperaremos aqui mesmo.
+{94849}{94873}Que foi ?
+{94897}{94921}Não olhe para ela.
+{95067}{95091}Aonde esta Lilo ?
+{95091}{95115}Quem ?
+{95115}{95139}O que..
+{95187}{95211}Lilo
+{95235}{95259}Minha irmã.
+{95333}{95453}Lamentamos, não conhecemos ninguém, com esse...
+{95453}{95525}Lilo.. É uma menininha. Deste tamanho   |  Com o cabelo castanho...
+{95528}{95600}Um gorila a levou, ele queria essa coisa.
+{95623}{95695}Sim nós a conhecemos...
+{95719}{95767}Tragam-na de volta...
+{95770}{95818}Não podemos fazer isso.
+{95818}{95866}Não esta no Manual Galáctico...
+{95866}{95914}Veja, o problema é que...
+{95914}{95962}Só viemos por ele.
+{95986}{96009}Então, ela se foi.
+{96036}{96084}Veja o lado bom..
+{96084}{96108}Não terá que gritar com mais ninguém.
+{96640}{96664}Hoanna...  
+{96664}{96688}O que ?  
+{96688}{96736}Saia de perto dela.
+{96736}{96784}Não.... O que você disse?
+{96786}{96858}Honna significa família.
+{96858}{96930}Família significa, que ...
+{96930}{96978}Ninguém é dei.......   |  Ninguém é deixado pra trás.
+{96978}{97026}... ou esquecido.
+{97052}{97052}Sim.
+{97172}{97196}O que ?
+{97196}{97388}Depois de tudo o que passei por sua causa,   |  Ainda espera que eu te ajude assim. Como assim ?
+{97391}{97391}Sim.
+{97391}{97414}Certo...
+{97414}{97438}Certo?
+{97438}{97486}Então o que aconteceu com ele...
+{97486}{97534}Ele é muito persuasivo..
+{97537}{97609}Persuasivo. O que faremos exatamente?
+{97609}{97681}Resgate  |  Vamos por Lilo?
+{97681}{97705}Sim.
+{97777}{97896}Que bom, eu esperava, que nos colocassem em perigo de novo.
+{97899}{97947}Você também ?
+{98141}{98189}O que, acha que chegamos até aqui a pé.
+{98213}{98285}Aqui é o capitão, peço permissão para voltar.
+{98285}{98309}Espere pela permissão.
+{99400}{99448}Permissão concedida no vetor C12
+{99448}{99496}Ligue-me com a conselheira..
+{99496}{99544}Gantu, o que esta havendo ?
+{99570}{99618}Acho que gostara de saber| que a pequena abominação esta....
+{99714}{99810}Ali !!!    |   Sim, capitão?
+{99860}{99908}Ligarei depois.
+{100028}{100076}Como você saiu daqui?
+{100150}{100198}Então, o que exatamente estamos fazendo?
+{100198}{100270}Não se preocupe, é tudo parte do plano.
+{100270}{100294}Somos profissionais
+{100296}{100368}Tire isso da boca.
+{100543}{100567}Segurem-se.
+{100809}{100857}Ok, é hora do show..
+{101196}{101219}Pronto, Stitch?
+{101704}{101752}Pequeno selvagem, desça da minha nave.
+{101874}{101898}Stitch!!!
+{102238}{102337}Computador, rastreie o Experimento 626
+{102339}{102392}626 localizado
+{102363}{102411}Terminaremos isto agora.
+{102507}{102531}Stitch está inconsciente.
+{102531}{102555}O que faremos agora?
+{102555}{102627}Continuaremos cercando.    | E esperaremos um milagre.
+{102629}{102653}Isso é tudo o que podemos fazer.
+{103015}{103039}Não me deixe, esta bem?
+{103039}{103063}Esta bem.
+{103138}{103162}Esta bem.
+{103524}{103572}O alvo, 626, esta em movimento.
+{103574}{103598}Velocidade de 84 Km/H
+{103598}{103646}Impossível.
+{103718}{103742}Parque Nacional do Vulcão
+{104250}{104274}Stitch
+{104348}{104372}Abominação
+{104396}{104420}Gantu idiota.
+{104614}{104662}Aloha
+{105123}{105171}Você voltou...
+{105171}{105219}Ninguém é deixado pra trás.
+{105607}{105775}Bom cachorro.
+{106017}{106041}Que diabos...
+{106065}{106089}David.
+{106115}{106139}Hey Lilo.
+{106139}{106187}Você nos da uma carona.
+{106187}{106331}Claro, mas terei que fazer duas viagens.
+{106358}{106429}Você veio do espaço?
+{106429}{106453}Que escolha estranha.
+{106477}{106525} Pegamos o 626.
+{106525}{106549}Levem-no para minha nave.
+{106549}{106597}Deixe-no em paz.
+{106597}{106621}Espere.
+{106624}{106672}Conselheira. Deixe-me explicar.
+{106672}{106768}Silêncio. Estou cansada de você, capitão Gantu.
+{106792}{106863}Eu quero, créditos pela captura.
+{106866}{107010}Que vão para mim, tem sorte de não   |   terminar trabalhando em um uniforme espacial listrado.
+{107034}{107082}Eu acho que devo... 
+{107082}{107130}Você. Causou tudo isto. 
+{107132}{107228}Se não fosse seu experimento 626, | Nada disto teria .....
+{107228}{107324}Me chamo Stitch
+{107324}{107348}Stitch, então ...
+{107348}{107396}Se não fosse por Stitch...
+{107436}{107484}Stitch tem que ir à nave?
+{107508}{107556}Sim.
+{107556}{107580}Stitch pode dizer adeus?
+{107631}{107655}Sim.
+{107655}{107703}Obrigado.
+{107822}{107870}Quem são vocês?
+{107921}{107993}Esta é minha família    | Eu a encontrei.
+{107993}{108065}Sozinho
+{108091}{108187}É pequena, e quebrada, mas continua sendo boa.
+{108211}{108259}Sim, sendo boa.
+{108501}{108549}Ele realmente precisa ir?
+{108573}{108765}Você sabe tão bem quanto eu, que não posso mudar    |   o que o conselho decidiu.
+{108767}{108839}Lilo, Você não o comprou enquanto| Ele estava refugiado?
+{108961}{109081}Hey, eu comprei o Stitch enquanto| ele estava refugio.
+{109081}{109177}Paguei dois dólares por ele. | Vê este carimbo? Ele me pertence.
+{109180}{109275}Se levá-lo, estará roubando.
+{109323}{109371}Os extraterrestres... sempre seguem as regras.
+{109374}{109446}Você me parece familiar.
+{109446}{109542}C.I.A. ,,  Roswell ,,,, 1963. 
+{109566}{109613}Ah sim, você tinha cabelo.
+{109664}{109688}Anotem.
+{109688}{109808}Este ser foi condenado ao exílio, 
+{109832}{109928}sentença que deve ser cumprida aqui. 
+{109954}{110146}Na Terra  | E, como protetoras da forma de vida Stitch.
+{110148}{110292}Esta família esta sob proteção da   |  Federação das Galáxias Unidas.
+{110316}{110364}Estaremos vigiando-as.
+{110364}{110436}Temia que diria isso.
+{110462}{110534}Isto será difícil de explicar no Quartel General.
+{110534}{110582}Sei a que se refere.
+{110680}{110728}Não deixe que esses dois subam na minha nave.
+{110971}{111018}CIA? 
+{111018}{111090}Aposentado... salvei o planeta uma vez.
+{111090}{111198}Convenci a una raça alienígena que o mosquito era uma espécie    |  em perigo de extinção.
+{111203}{111263}Agora, sobre sua casa.
+
+9999
+00:00:0,500 --> 00:00:2,00
+<font color="#ffff00" size=14>www.moviesubtitles.org</font>

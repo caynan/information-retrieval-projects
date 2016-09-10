@@ -1,0 +1,3938 @@
+1
+00:00:13,959 --> 00:00:16,959
+Legendas:
+The_Tozz, Lilicca, Gus
+
+2
+00:00:16,960 --> 00:00:19,960
+Legendas:
+deGroote, JB, Vitor, Virtualnet
+
+3
+00:00:19,961 --> 00:00:24,961
+Revisão final:
+The_Tozz
+
+4
+00:00:24,962 --> 00:00:27,962
+Resync rls Screener ROAR
+RCJ -www.SEMLIMITES.org
+
+5
+00:00:32,360 --> 00:00:34,395
+<i>"O Giro de Notícias"
+apresenta:</i>
+
+6
+00:00:34,396 --> 00:00:37,526
+<i>"O foco da aventura"!</i>
+
+7
+00:00:38,896 --> 00:00:42,594
+<i>O que estão vendo agora
+são imagens jamais vistas!</i>
+
+8
+00:00:42,631 --> 00:00:44,584
+<i>Um mundo perdido
+na América do Sul,</i>
+
+9
+00:00:44,585 --> 00:00:48,237
+<i>são as Cataratas do Paraíso,
+com plantas e animais,</i>
+
+10
+00:00:48,238 --> 00:00:50,221
+<i>que a ciência nunca viu!</i>
+
+11
+00:00:50,306 --> 00:00:53,254
+<i>Quem se atreveria a desbravar
+tão inóspito cume?</i>
+
+12
+00:00:53,644 --> 00:00:57,679
+<i>Nosso herói de hoje:
+Charles Muntz.</i>
+
+13
+00:00:57,716 --> 00:01:00,873
+<i>Ele pousou seu dirigível,
+o "Espírito Aventureiro",</i>
+
+14
+00:01:00,910 --> 00:01:02,938
+<i>em New Hampshire,
+concluindo assim...</i>
+
+15
+00:01:02,939 --> 00:01:05,489
+<i>sua expedição de um ano
+ao mundo perdido!</i>
+
+16
+00:01:05,591 --> 00:01:08,031
+<i>Ela foi projeta pelo
+próprio Muntz e...</i>
+
+17
+00:01:08,091 --> 00:01:12,051
+<i>é mais longa que
+22 vagões de trem juntos!</i>
+
+18
+00:01:12,260 --> 00:01:15,147
+<i>E aqui vem nosso aventureiro!</i>
+
+19
+00:01:15,183 --> 00:01:17,382
+<i>Nunca separado
+dos seus cães fiéis,</i>
+
+20
+00:01:17,383 --> 00:01:19,580
+<i>tem todo conforto
+à bordo para eles!</i>
+
+21
+00:01:19,617 --> 00:01:22,603
+<i>É um palácio flutuante
+no céu que inclui...</i>
+
+22
+00:01:22,604 --> 00:01:25,590
+<i>uma máquina de banho
+e uma esteira!</i>
+
+23
+00:01:25,627 --> 00:01:31,189
+<i>E todos aclamam
+o nosso grande herói!</i>
+
+24
+00:01:31,191 --> 00:01:33,257
+<i>A aventura nos aguarda!</i>
+
+25
+00:01:35,761 --> 00:01:37,830
+<i>Mas o que desta vez
+nos trazido Muntz?</i>
+
+26
+00:01:37,831 --> 00:01:42,913
+<i>Cavalheiros, eis o Monstro
+das Cataratas do Paraíso!</i>
+
+27
+00:01:42,914 --> 00:01:47,690
+<i>Nossa,
+que monstruoso ele é!</i>
+
+28
+00:01:47,992 --> 00:01:52,121
+<i>Mas o que é isso? A Sociedade
+Nacional dos Exploradores...</i>
+
+29
+00:01:52,122 --> 00:01:54,685
+<i>acusam Muntz
+de fabricar o esqueleto!</i>
+
+30
+00:01:54,721 --> 00:01:56,092
+Não!
+
+31
+00:01:56,196 --> 00:01:59,193
+<i>A Sociedade desfilia Muntz!</i>
+
+32
+00:02:01,958 --> 00:02:04,658
+<i>Humilhado, Muntz jura
+regressar até as Cataratas,</i>
+
+33
+00:02:04,659 --> 00:02:07,854
+<i>e promete capturar
+a besta viva!</i>
+
+34
+00:02:07,891 --> 00:02:10,892
+<i>Eu prometo capturar
+a besta viva!</i>
+
+35
+00:02:11,832 --> 00:02:14,965
+E eu não voltarei
+até ter conseguido!
+
+36
+00:02:15,344 --> 00:02:18,031
+<i>E assim o explorador partiu
+para limpar seu nome!</i>
+
+37
+00:02:18,032 --> 00:02:20,104
+<i>Boa viagem,
+Charles Muntz.</i>
+
+38
+00:02:20,105 --> 00:02:25,128
+<i>E boa sorte na captura
+do Monstro das Cataratas!</i>
+
+39
+00:02:28,347 --> 00:02:30,259
+ESPÍRITO AVENTUREIRO
+
+40
+00:02:31,647 --> 00:02:34,846
+<i>Lá está Charles Muntz
+em seu famoso dirigível!</i>
+
+41
+00:02:39,502 --> 00:02:41,605
+<i>Ele sobrevoa Pikes Peak!</i>
+
+42
+00:02:42,685 --> 00:02:45,299
+<i>Ele sobrevoa o Grand Canyon!</i>
+
+43
+00:02:46,033 --> 00:02:48,595
+<i>Ele sobrevoa o Monte Everest!</i>
+
+44
+00:02:50,800 --> 00:02:53,450
+<i>Ele dá a volta
+no Monte Everest!</i>
+
+45
+00:02:53,989 --> 00:02:56,310
+<i>Não há nada que
+ele não possa fazer!</i>
+
+46
+00:02:56,311 --> 00:02:57,667
+"UP - ALTAS AVENTURAS"
+
+47
+00:02:57,686 --> 00:03:00,950
+<i>E como o próprio Muntz diria:
+"A aventura...</i>
+
+48
+00:03:00,951 --> 00:03:02,975
+Nos aguarda!
+
+49
+00:03:03,661 --> 00:03:05,535
+Cuidado!
+Lá vem ele!
+
+50
+00:03:05,536 --> 00:03:08,121
+Temos que desviar!
+Temos que levar...
+
+51
+00:03:08,123 --> 00:03:10,707
+o "Espírito Aventureiro"
+sobre o Monte Rushmore!
+
+52
+00:03:11,100 --> 00:03:15,349
+Viram isso, amigos?
+Como meus cãezinhos estão?
+
+53
+00:03:17,658 --> 00:03:19,844
+À todo o vapor!
+
+54
+00:03:19,845 --> 00:03:22,558
+Vamos subir
+até 9.000 metros!
+
+55
+00:03:22,662 --> 00:03:25,195
+18º de altitude!
+
+56
+00:03:25,530 --> 00:03:29,336
+É um dia lindo!
+Vamos viajar aos 10 nós!
+
+57
+00:03:29,337 --> 00:03:31,840
+Visibilidade ilimitada!
+
+58
+00:03:31,877 --> 00:03:34,611
+Coletar dados
+do balão atmosférico!
+
+59
+00:03:35,107 --> 00:03:38,558
+Tem algo lá embaixo!
+Vou levá-lo pra Ciência!
+
+60
+00:03:39,807 --> 00:03:41,188
+É um cachorrinho!
+
+61
+00:03:41,189 --> 00:03:45,048
+MUNTZ BATE O RECORDE
+DE 14.000 METROS DE ALTURA
+
+62
+00:03:45,049 --> 00:03:47,119
+O que está fazendo?
+
+63
+00:03:47,417 --> 00:03:49,578
+Não sabe que este
+é um clube exclusivo?
+
+64
+00:03:49,579 --> 00:03:51,666
+Só exploradores entram aqui!
+
+65
+00:03:51,770 --> 00:03:55,599
+Não uma criancinha com
+capacete e óculos!
+
+66
+00:03:55,600 --> 00:03:58,814
+Acha que tem condições?
+Acha mesmo?
+
+67
+00:04:00,273 --> 00:04:03,342
+Tudo bem, pode entrar!
+Seja bem-vindo à bordo!
+
+68
+00:04:04,314 --> 00:04:07,111
+O que foi?
+Não pode falar?
+
+69
+00:04:09,165 --> 00:04:11,298
+Ei, eu não mordo!
+
+70
+00:04:15,484 --> 00:04:17,967
+Eu e você somos parte
+do clube agora.
+
+71
+00:04:17,968 --> 00:04:19,688
+REFRIGERANTE DE UVA
+
+72
+00:04:22,353 --> 00:04:26,101
+Vi pra onde seu balão foi!
+Vamos!
+
+73
+00:04:27,445 --> 00:04:29,598
+Meu nome é Ellie.
+
+74
+00:04:32,449 --> 00:04:34,339
+Lá está!
+
+75
+00:04:37,938 --> 00:04:39,801
+Bem...
+vamos andando.
+
+76
+00:04:44,560 --> 00:04:46,454
+Vai!
+
+77
+00:05:07,978 --> 00:05:09,768
+Ei, garoto!
+
+78
+00:05:10,510 --> 00:05:12,505
+Achei que gostaria
+de animação!
+
+79
+00:05:12,506 --> 00:05:14,639
+Tenho uma coisa
+pra mostrar!
+
+80
+00:05:16,669 --> 00:05:19,329
+Estou a ponto de mostrar
+uma coisa pra você...
+
+81
+00:05:19,330 --> 00:05:21,989
+que nunca mostrei
+pra nenhum outro ser humano!
+
+82
+00:05:22,026 --> 00:05:24,653
+Nunca na minha vida!
+
+83
+00:05:25,234 --> 00:05:28,657
+E tem que jurar que
+nunca vai contar pra ninguém!
+
+84
+00:05:29,781 --> 00:05:31,961
+Jure!
+Anda!
+
+85
+00:05:34,719 --> 00:05:37,507
+Meu livro de aventuras!
+
+86
+00:05:38,921 --> 00:05:43,712
+Você o conhece,
+Charles Muntz, explorador.
+
+87
+00:05:43,713 --> 00:05:46,990
+Quando eu crescer,
+eu vou pra onde ele for!
+
+88
+00:05:46,991 --> 00:05:49,703
+América do Sul!
+
+89
+00:05:49,704 --> 00:05:53,356
+É como a América do Norte
+mas fica no sul!
+
+90
+00:05:53,439 --> 00:05:55,215
+E onde vou morar?
+
+91
+00:05:55,216 --> 00:05:57,783
+As Cataratas do Paraíso.
+
+92
+00:05:57,784 --> 00:06:00,601
+Um lugar perdido no tempo!
+
+93
+00:06:01,263 --> 00:06:05,183
+Eu arranquei esta página
+num livro da biblioteca!
+
+94
+00:06:05,219 --> 00:06:09,557
+Vou mudar a minha casa
+para perto das Cataratas!
+
+95
+00:06:09,935 --> 00:06:12,683
+Quem sabe o que vive por lá?
+
+96
+00:06:12,824 --> 00:06:14,222
+E quando chegar lá...
+
+97
+00:06:14,223 --> 00:06:19,169
+estou guardando essas páginas
+para as aventuras por lá!
+
+98
+00:06:19,652 --> 00:06:24,416
+Só não sei como chegar
+até as Cataratas do Paraíso.
+
+99
+00:06:31,375 --> 00:06:34,065
+É isso aí!
+Pode no levar com um dirigível!
+
+100
+00:06:34,066 --> 00:06:37,052
+Jure que vai nos levar!
+Por tudo que é sagrado!
+
+101
+00:06:37,053 --> 00:06:39,870
+Jure!
+Por tudo que é sagrado!
+
+102
+00:06:39,974 --> 00:06:42,704
+Bom, você prometeu.
+Não pode voltar atrás!
+
+103
+00:06:43,558 --> 00:06:46,699
+Até amanhã então, garoto.
+Tchau.
+
+104
+00:06:47,654 --> 00:06:50,609
+A aventura nos aguarda!
+
+105
+00:06:51,621 --> 00:06:53,855
+Sabe?
+Você não fala muito...
+
+106
+00:06:53,856 --> 00:06:55,943
+Eu gosto de você!
+
+107
+00:13:28,609 --> 00:13:31,322
+Que paisagem linda,
+né, Ellie!?
+
+108
+00:13:35,130 --> 00:13:36,560
+Correio!
+
+109
+00:13:50,312 --> 00:13:54,100
+Asilo Shady Oaks.
+Ora, bolas!
+
+110
+00:14:03,611 --> 00:14:06,695
+Olá, Sr. Carl Fredricksen!
+Precisa de ajuda?
+
+111
+00:14:06,696 --> 00:14:08,782
+Não!
+Sim!
+
+112
+00:14:08,785 --> 00:14:10,555
+Diga pro seu chefe ali...
+
+113
+00:14:10,556 --> 00:14:12,748
+que estão acabando
+com nossa casa!
+
+114
+00:14:12,852 --> 00:14:16,933
+Olha só, meu chefe quer muito
+comprar sua casa!
+
+115
+00:14:16,934 --> 00:14:19,539
+Sua última oferta
+é o dobro e mais nada!
+
+116
+00:14:19,540 --> 00:14:21,001
+O que me diz?
+
+117
+00:14:24,016 --> 00:14:25,685
+Acho que isso foi um "não".
+
+118
+00:14:25,686 --> 00:14:29,338
+Acho que já deixei bem claro
+minha posição pro seu chefe.
+
+119
+00:14:29,339 --> 00:14:31,461
+Fale com ele
+no megafone.
+
+120
+00:14:31,462 --> 00:14:33,027
+Isso vai ser legal!
+
+121
+00:14:33,028 --> 00:14:35,011
+Dá isso aí,
+deixe-me falar com ele.
+
+122
+00:14:37,789 --> 00:14:40,607
+Você aí, de terno!
+Você mesmo!
+
+123
+00:14:40,608 --> 00:14:42,486
+Vá tomar banho,
+e...
+
+124
+00:14:43,424 --> 00:14:45,198
+Foi ele que disse isso!
+
+125
+00:14:45,199 --> 00:14:48,850
+É sério!
+Ele vai conseguir sua casa!
+
+126
+00:14:48,851 --> 00:14:51,563
+Diga pro seu chefe que
+ele pode ter minha casa!
+
+127
+00:14:51,564 --> 00:14:52,920
+Verdade?
+
+128
+00:14:52,921 --> 00:14:54,799
+Quando eu morrer!
+
+129
+00:14:55,841 --> 00:14:58,032
+Então, não falta muito.
+
+130
+00:15:11,180 --> 00:15:12,536
+Boa tarde!
+
+131
+00:15:12,537 --> 00:15:18,171
+Sou Russel, o mais novo
+explorador da tribo 54.
+
+132
+00:15:18,172 --> 00:15:22,970
+Linha 12: precisa de
+alguma ajuda, senhor?
+
+133
+00:15:22,971 --> 00:15:24,118
+Não.
+
+134
+00:15:24,119 --> 00:15:26,102
+Possa ajudá-lo
+a atravessar a rua.
+
+135
+00:15:26,206 --> 00:15:27,353
+Não.
+
+136
+00:15:27,354 --> 00:15:30,484
+Poderia ajudá-lo
+a atravessar seu jardim?
+
+137
+00:15:30,589 --> 00:15:33,092
+- Não!
+- Eu poderia ajudá-lo...
+
+138
+00:15:33,093 --> 00:15:35,074
+- a atravessar a porta?
+- Não!
+
+139
+00:15:35,075 --> 00:15:37,485
+Preciso ajudá-lo a atravessar
+alguma coisa!
+
+140
+00:15:37,486 --> 00:15:39,573
+Não precisa, tô legal.
+
+141
+00:15:46,031 --> 00:15:49,474
+- Boa tarde, sou Russel...
+- Garoto...
+
+142
+00:15:49,475 --> 00:15:52,917
+o mais novo explorador
+da tribo 54.
+
+143
+00:15:52,918 --> 00:15:55,004
+- Linha 12...
+- Garoto!
+
+144
+00:15:55,840 --> 00:15:59,804
+- Precisa de ajuda para...
+- Obrigado, não preciso!
+
+145
+00:16:06,273 --> 00:16:07,839
+Prossiga!
+
+146
+00:16:08,257 --> 00:16:11,073
+- Boa tarde!
+- Pula pro final!
+
+147
+00:16:12,222 --> 00:16:16,186
+Viu? São minhas insígnias
+como Explorador.
+
+148
+00:16:16,187 --> 00:16:18,586
+Como pode notar,
+está faltando uma.
+
+149
+00:16:18,587 --> 00:16:21,090
+A insígnia por ajudar
+os idosos.
+
+150
+00:16:21,091 --> 00:16:26,135
+Se conseguir, me tornarei
+um Explorador Sênior.
+
+151
+00:16:26,137 --> 00:16:29,021
+A natureza precisa
+ser explorada!
+
+152
+00:16:31,629 --> 00:16:33,090
+Isso seria genial!
+
+153
+00:16:33,091 --> 00:16:36,429
+A cerimônia,
+todos os pais assistindo...
+
+154
+00:16:36,430 --> 00:16:37,995
+ganhamos as insígnias.
+
+155
+00:16:38,100 --> 00:16:40,603
+Então tem que
+ajudar um idoso?
+
+156
+00:16:40,604 --> 00:16:43,838
+Isso! Daí, vou me tornar
+um Explorador Sênior!
+
+157
+00:16:45,299 --> 00:16:48,481
+- Já viu um Narcejo?
+- Narcejo?
+
+158
+00:16:48,482 --> 00:16:50,307
+Um pássaro de olhos grandes.
+
+159
+00:16:50,308 --> 00:16:54,689
+Todas noite aparece no jardim
+e come minhas azaléias.
+
+160
+00:16:54,690 --> 00:16:58,133
+Mas estou velho.
+Não consigo pegá-lo!
+
+161
+00:16:58,134 --> 00:17:01,545
+- E ninguém quer me ajudar!
+- Eu! Eu!
+
+162
+00:17:01,546 --> 00:17:03,820
+Não sei não.
+É meio complicado.
+
+163
+00:17:03,821 --> 00:17:06,847
+Tem que aplaudir 3 vezes
+para assustá-lo.
+
+164
+00:17:06,951 --> 00:17:10,602
+- Onde estão, Sr. Fredricksen?
+- Três quadras daqui.
+
+165
+00:17:10,603 --> 00:17:12,377
+Agora, tá perdido!
+
+166
+00:17:13,213 --> 00:17:14,619
+Narcejo?
+
+167
+00:17:14,933 --> 00:17:17,020
+Aqui!
+Narcejinho!
+
+168
+00:17:17,021 --> 00:17:20,097
+- Traga aqui quando encontrar!
+- Certo!
+
+169
+00:17:23,488 --> 00:17:25,419
+Pare!
+
+170
+00:17:30,793 --> 00:17:32,879
+O que estão fazendo?
+
+171
+00:17:32,881 --> 00:17:36,052
+- Sinto muito, senhor.
+- Não toque nisso!
+
+172
+00:17:36,053 --> 00:17:39,453
+- Deixe-me consertá-la.
+- Largue a caixa do corrreio!
+
+173
+00:17:39,454 --> 00:17:41,541
+Não quero que ninguém
+toque nela!
+
+174
+00:18:29,017 --> 00:18:30,895
+Sinto muito, Sr. Fredricksen.
+
+175
+00:18:31,105 --> 00:18:34,025
+O senhor não parece
+uma ameaça pública para mim.
+
+176
+00:18:34,340 --> 00:18:36,112
+Fique com isso.
+
+177
+00:18:36,113 --> 00:18:39,244
+O pessoal do asilo
+vem buscá-lo pela manhã.
+
+178
+00:18:53,225 --> 00:18:56,042
+O que vou fazer agora, Ellie?
+
+179
+00:20:25,048 --> 00:20:26,947
+Bom dia, cavalheiros.
+
+180
+00:20:27,135 --> 00:20:30,265
+Bom dia, Sr. Fredricksen,
+pronto para ir?
+
+181
+00:20:31,310 --> 00:20:33,709
+Nunca estamos
+prontos pra isso.
+
+182
+00:20:33,710 --> 00:20:35,797
+Por favor,
+podem segurar isso pra mim?
+
+183
+00:20:35,901 --> 00:20:37,988
+Um minuto
+e já subirei na van.
+
+184
+00:20:37,989 --> 00:20:39,345
+É que...
+
+185
+00:20:39,346 --> 00:20:42,891
+gostaria de dar um último adeus
+pra minha casa.
+
+186
+00:20:42,892 --> 00:20:45,500
+Claro, o tempo que precisar,
+senhor.
+
+187
+00:20:47,483 --> 00:20:52,073
+O de sempre.
+Acho que vai tomar um banho.
+
+188
+00:20:52,074 --> 00:20:55,099
+Olha, acho que ninguém
+cuidava da casa.
+
+189
+00:21:37,360 --> 00:21:39,133
+Até mais, rapazes!
+
+190
+00:21:39,134 --> 00:21:42,889
+Mandarei um postal
+das Cataratas do Paraíso!
+
+191
+00:23:10,643 --> 00:23:12,521
+Estamos a caminho, Ellie.
+
+192
+00:24:22,641 --> 00:24:26,293
+Olá, Sr. Fredricksen!
+Sou eu, Russel!
+
+193
+00:24:26,294 --> 00:24:28,223
+O que está fazendo aqui,
+garoto?
+
+194
+00:24:28,224 --> 00:24:31,990
+Encontrei o narcejo e
+o segui até a entrada da casa!
+
+195
+00:24:31,991 --> 00:24:34,745
+Mas ele tinha
+um rabo bem comprido...
+
+196
+00:24:34,746 --> 00:24:37,876
+e parecia mais um ratão.
+
+197
+00:24:42,779 --> 00:24:44,657
+Por favor,
+deixe-me entrar.
+
+198
+00:24:44,763 --> 00:24:46,223
+Não!
+
+199
+00:24:50,657 --> 00:24:52,692
+Tá legal, pode...
+
+200
+00:24:53,944 --> 00:24:55,301
+entrar!
+
+201
+00:25:04,692 --> 00:25:07,509
+Nunca estive numa
+casa flutuante antes.
+
+202
+00:25:08,658 --> 00:25:11,266
+Binóculos!
+Tem um monte de coisas aqui!
+
+203
+00:25:11,267 --> 00:25:14,709
+Uau! Tá indo viajar?
+Cataratas do Paraíso...
+
+204
+00:25:14,710 --> 00:25:16,587
+um lugar esquecido
+no tempo.
+
+205
+00:25:16,588 --> 00:25:18,779
+Vai pra América do Sul,
+Sr. Fredricksen?
+
+206
+00:25:18,884 --> 00:25:20,761
+Não toque nisso!
+Vai quebrar!
+
+207
+00:25:20,762 --> 00:25:22,608
+Sabe, as pessoas pegam avião.
+
+208
+00:25:22,609 --> 00:25:26,108
+Mas você é esperto.
+Tem sua TV e tudo mais.
+
+209
+00:25:26,840 --> 00:25:28,743
+É assim que controla a casa?
+
+210
+00:25:28,953 --> 00:25:31,040
+E funciona mesmo?
+
+211
+00:25:33,336 --> 00:25:36,465
+Pra direita,
+agora pra esquerda.
+
+212
+00:25:37,665 --> 00:25:39,543
+Olha só!
+Prédios!
+
+213
+00:25:40,274 --> 00:25:43,299
+Estão tão pertos
+que quase dá pra tocar!
+
+214
+00:25:47,057 --> 00:25:49,248
+Uau!
+Isso é maneiro!
+
+215
+00:25:49,351 --> 00:25:51,334
+Devia experimentar,
+Sr. Fredricksen!
+
+216
+00:25:51,335 --> 00:25:54,777
+Olha, é o ônibus que
+me leva pra casa aqui perto!
+
+217
+00:25:55,091 --> 00:25:57,803
+Ei, posso ver sua casa daqui!
+
+218
+00:25:57,804 --> 00:26:00,203
+Pare de se mexer, garoto!
+
+219
+00:26:02,603 --> 00:26:04,377
+Bom, acho que
+não funcionaria.
+
+220
+00:26:04,378 --> 00:26:07,559
+Conheço essas nuvens,
+são Cumulus Nimbus.
+
+221
+00:26:07,560 --> 00:26:10,429
+Sabe o que as Nimbus são?
+
+222
+00:26:12,098 --> 00:26:15,291
+Fique parado aí,
+seu pestinha!
+
+223
+00:26:16,689 --> 00:26:18,828
+Que legal, garoto!
+
+224
+00:26:26,185 --> 00:26:28,480
+- Que está fazendo por aí?
+- Veja!
+
+225
+00:26:40,480 --> 00:26:43,089
+Tá vendo,
+aquilo é uma Cumulus Nimbus.
+
+226
+00:27:18,253 --> 00:27:20,340
+Minha mochila!
+
+227
+00:27:24,826 --> 00:27:26,235
+Peguei!
+
+228
+00:28:03,330 --> 00:28:05,364
+Pensei que estava morto!
+
+229
+00:28:07,765 --> 00:28:09,173
+O que aconteceu aqui?
+
+230
+00:28:09,174 --> 00:28:12,752
+Consegui!
+Eu consegui dirigir a casa!
+
+231
+00:28:12,753 --> 00:28:15,643
+- Dirigiu?
+- Depois que foi atingido,
+
+232
+00:28:15,644 --> 00:28:19,086
+você desmaiou,
+então me virei e dirigi a casa.
+
+233
+00:28:19,087 --> 00:28:20,756
+É, claro.
+
+234
+00:28:33,798 --> 00:28:35,619
+Não sei onde estou.
+
+235
+00:28:35,620 --> 00:28:37,659
+Já está na América do Sul.
+
+236
+00:28:37,660 --> 00:28:41,415
+Foi moleza,
+com meu GPS de explorador.
+
+237
+00:28:41,416 --> 00:28:42,773
+GP... o quê?!
+
+238
+00:28:42,774 --> 00:28:44,546
+Foi meu pai que me deu.
+
+239
+00:28:44,547 --> 00:28:46,947
+Ele mostra exatamente
+onde estamos no planeta!
+
+240
+00:28:48,302 --> 00:28:51,954
+Com essa belezura,
+nunca ficará perdido!
+
+241
+00:28:58,528 --> 00:29:01,137
+Vou descer você pra que
+procure um ponto de ônibus.
+
+242
+00:29:01,138 --> 00:29:03,537
+Diga pro motorista
+pra levá-lo até sua mãe.
+
+243
+00:29:03,642 --> 00:29:06,354
+Claro, mas acho que
+não tem ônibus...
+
+244
+00:29:06,355 --> 00:29:08,442
+aqui nas Cataratas do Paraíso.
+
+245
+00:29:10,945 --> 00:29:13,084
+Assim já vai dar.
+
+246
+00:29:13,085 --> 00:29:15,745
+Vou lhe dar umas moedas
+pro ônibus.
+
+247
+00:29:15,746 --> 00:29:18,146
+Não precisa,
+tenho meu passe escolar.
+
+248
+00:29:18,250 --> 00:29:21,901
+Mas acho que vou ter que
+pegar um montão de ônibus...
+
+249
+00:29:21,902 --> 00:29:23,989
+pra voltar pra casa.
+
+250
+00:29:29,727 --> 00:29:32,988
+Sr. Fredricksen,
+falta muito?
+
+251
+00:29:32,989 --> 00:29:36,927
+É que estamos muito alto.
+Vai demorar para descer.
+
+252
+00:29:38,909 --> 00:29:41,570
+Parecia um prédio,
+ou algo assim.
+
+253
+00:29:42,197 --> 00:29:44,961
+O que era aquilo,
+Sr. Fredricksen?
+
+254
+00:29:44,962 --> 00:29:47,049
+Não podemos estar tão baixo!
+
+255
+00:29:56,857 --> 00:29:58,578
+Volte aqui!
+
+256
+00:30:20,230 --> 00:30:21,899
+Puxe de volta!
+
+257
+00:30:35,464 --> 00:30:37,259
+Onde...
+
+258
+00:30:37,677 --> 00:30:39,638
+onde estamos?
+
+259
+00:30:39,639 --> 00:30:44,125
+Não parece com uma cidade
+ou uma selva, Sr. Fredricksen.
+
+260
+00:30:46,213 --> 00:30:47,985
+Não se preocupe, Ellie!
+
+261
+00:31:14,030 --> 00:31:16,154
+Lá está!
+
+262
+00:31:43,747 --> 00:31:46,911
+Ellie, é tão linda!
+
+263
+00:31:48,278 --> 00:31:50,014
+Nós conseguimos!
+
+264
+00:31:50,051 --> 00:31:53,460
+Conseguimos, Russell!
+É só mais um pouquinho adiante!
+
+265
+00:31:53,565 --> 00:31:56,636
+- Suba! Suba!
+- Quer que eu ajude?
+
+266
+00:31:56,637 --> 00:31:59,445
+- Tá, tanto faz!
+- Muito bem, eu ajudo!
+
+267
+00:32:04,925 --> 00:32:07,156
+- Cuidado!
+- Desculpa!
+
+268
+00:32:14,205 --> 00:32:17,880
+Quando chegar lá em cima,
+tem que me subir!
+
+269
+00:32:19,268 --> 00:32:21,443
+Entendeu?
+
+270
+00:32:24,558 --> 00:32:26,743
+Já chegou
+na porta de entrada?
+
+271
+00:32:33,184 --> 00:32:35,024
+O quê?
+Só isso?
+
+272
+00:32:35,061 --> 00:32:39,927
+Andei tanto pra
+ficar preso na rocha errada?
+
+273
+00:32:41,882 --> 00:32:43,326
+Legal!
+
+274
+00:32:46,815 --> 00:32:50,032
+Se eu ajudá-lo a atravessar
+até do outro lado,
+
+275
+00:32:50,033 --> 00:32:52,433
+vai me ajudar a ganhar
+a minha insígnia?
+
+276
+00:32:52,882 --> 00:32:54,334
+Do que está falando?
+
+277
+00:32:54,335 --> 00:32:57,204
+Podemos caminhar com sua casa
+até as Cataratas!
+
+278
+00:32:57,240 --> 00:32:58,686
+- Caminhar?
+- Sim.
+
+279
+00:32:58,687 --> 00:33:02,677
+Nosso peso mantêm ela aqui.
+Podemos andar até lá!
+
+280
+00:33:02,678 --> 00:33:04,676
+Como um balão de desfile!
+
+281
+00:33:08,515 --> 00:33:10,579
+Bem, vamos andar
+até as Cataratas...
+
+282
+00:33:10,580 --> 00:33:14,232
+rápido e silenciosamente,
+sem rap ou música eletrônica.
+
+283
+00:33:15,158 --> 00:33:19,396
+Temos uns três dias antes
+que os balões esvaziem!
+
+284
+00:33:19,432 --> 00:33:22,147
+E se não chegarmos até lá
+quando isso acontecer,
+
+285
+00:33:22,148 --> 00:33:27,328
+- não chegaremos nunca!
+- Encontrei areia!
+
+286
+00:33:27,364 --> 00:33:31,560
+Não se preocupe, Ellie.
+Vou levar nossa casa até lá!
+
+287
+00:33:35,665 --> 00:33:37,754
+Isso não é legal?
+
+288
+00:33:37,755 --> 00:33:41,616
+Quando chegarmos lá,
+vai ver que ajudei muito...
+
+289
+00:33:41,720 --> 00:33:43,546
+Ei, Sr. Fredricksen...
+
+290
+00:33:43,558 --> 00:33:47,790
+se a gente se separar, o grito
+dos Exploradores é esse:
+
+291
+00:33:50,813 --> 00:33:54,067
+Espera aí, porque estamos indo
+pra Cataratas do Paraíso?
+
+292
+00:33:54,104 --> 00:33:56,910
+Ei, vamos jogar um pouco?
+O jogo é...
+
+293
+00:33:56,911 --> 00:33:58,998
+"Vamos ver quem fica
+mais tempo quieto"!
+
+294
+00:33:59,102 --> 00:34:01,716
+Maneiro! Minha mãe
+adora esse jogo!
+
+295
+00:35:04,633 --> 00:35:06,666
+Maldito aparelho!
+
+296
+00:35:08,148 --> 00:35:10,317
+Vamos, Russell,
+mais rápido!
+
+297
+00:35:10,318 --> 00:35:14,430
+Estou cansadão
+e meu joelho tá doendo!
+
+298
+00:35:14,467 --> 00:35:16,289
+Que joelho?
+
+299
+00:35:16,612 --> 00:35:20,889
+Meu ombro tá doendo
+e preciso ir no banheiro!
+
+300
+00:35:20,890 --> 00:35:24,065
+Perguntei se você queria ir
+tem uns 5 minutos!
+
+301
+00:35:24,101 --> 00:35:27,605
+Mas não queria ir
+naquela hora!
+
+302
+00:35:27,908 --> 00:35:30,717
+Não quero mais caminhar!
+
+303
+00:35:30,718 --> 00:35:33,326
+Podemos parar?
+
+304
+00:35:33,848 --> 00:35:36,459
+Russell, se não se apressar
+os tigres vão comê-lo!
+
+305
+00:35:36,495 --> 00:35:39,730
+Não existem tigres
+na América do Sul.
+
+306
+00:35:39,766 --> 00:35:41,636
+Zoologia.
+
+307
+00:35:43,147 --> 00:35:46,718
+Minha Nossa Senhora!
+Vai no mato e faz logo!
+
+308
+00:35:46,719 --> 00:35:48,734
+Legal!
+Aqui, pega minhas coisas!
+
+309
+00:35:51,461 --> 00:35:53,114
+Sempre quis tentar isso!
+
+310
+00:35:57,478 --> 00:36:01,852
+Sr. Fredricksen, devo cavar
+um buraco antes ou depois?
+
+311
+00:36:02,062 --> 00:36:04,435
+Não é da minha conta!
+
+312
+00:36:06,842 --> 00:36:08,870
+Era antes!
+
+313
+00:36:16,080 --> 00:36:18,011
+Rastros?
+
+314
+00:36:18,796 --> 00:36:20,324
+O Narcejo!
+
+315
+00:36:21,115 --> 00:36:25,359
+Aqui, Narcejo!
+Saia, Narcejozinho!
+
+316
+00:36:26,372 --> 00:36:28,775
+Narcejo?
+
+317
+00:36:47,036 --> 00:36:48,402
+Peguei você!
+
+318
+00:36:48,403 --> 00:36:52,368
+Não fique com medo, Narcejinho!
+Eu sou um Explorador!
+
+319
+00:36:52,473 --> 00:36:55,498
+Sou amigo de toda
+a natureza!
+
+320
+00:36:55,499 --> 00:36:57,168
+Quer mais um pouco?
+
+321
+00:37:00,334 --> 00:37:04,458
+Ei, garoto, não coma tudo.
+Saia daí.
+
+322
+00:37:06,419 --> 00:37:08,948
+Vamos. Vamos.
+
+323
+00:37:08,949 --> 00:37:11,572
+Não fique com medo,
+narcejinho.
+
+324
+00:37:11,573 --> 00:37:14,390
+Narcejnho bonito.
+Narcejo pequenininho.
+
+325
+00:37:14,634 --> 00:37:16,018
+Pode vir...
+
+326
+00:37:16,645 --> 00:37:18,732
+Narcejo gigante!
+
+327
+00:37:23,340 --> 00:37:26,517
+- Encontrei o Narcejo!
+- Sério?
+
+328
+00:37:26,518 --> 00:37:29,692
+- Eles são altos?
+- Sim, são bem altos.
+
+329
+00:37:29,729 --> 00:37:32,470
+- São coloridos?
+- Claro que sim.
+
+330
+00:37:32,471 --> 00:37:34,916
+- Gostam de chocolate?
+- Sim...
+
+331
+00:37:34,917 --> 00:37:36,691
+Chocolate?
+
+332
+00:37:39,362 --> 00:37:41,732
+- Que coisa é essa?
+- Um Narcejo!
+
+333
+00:37:41,768 --> 00:37:45,995
+- Essas coisas não existem!
+- Mas você disse que...
+
+334
+00:37:48,966 --> 00:37:51,489
+Cai fora!
+Se manda!
+
+335
+00:38:01,504 --> 00:38:04,607
+- Cuidado, Russell!
+- Olha só, Sr. Fredricksen!
+
+336
+00:38:04,608 --> 00:38:06,695
+Ele gosta de mim!
+
+337
+00:38:07,335 --> 00:38:10,518
+- Russell!
+- Ele me faz cosquinhas!
+
+338
+00:38:10,555 --> 00:38:13,654
+Caia fora daqui!
+Vamos, largue!
+
+339
+00:38:21,099 --> 00:38:23,462
+Não, não, não... Kevin,
+não tem problema!
+
+340
+00:38:23,463 --> 00:38:25,550
+O Sr. Fredricksen é legal!
+
+341
+00:38:25,759 --> 00:38:28,895
+- Kevin?
+- É, coloquei esse nome nele.
+
+342
+00:38:30,246 --> 00:38:32,245
+Caia fora!
+Se manda!
+
+343
+00:38:32,246 --> 00:38:34,333
+Ei, isso é meu!
+
+344
+00:38:39,227 --> 00:38:40,855
+Sai! Sai!
+Cai fora daqui!
+
+345
+00:38:41,355 --> 00:38:43,356
+Vamos!
+Dá no pé!
+
+346
+00:38:48,479 --> 00:38:50,070
+Posso ficar com ele,
+por favor?
+
+347
+00:38:50,076 --> 00:38:52,700
+Dou comida pra ele,
+levo pra passear...
+
+348
+00:38:52,701 --> 00:38:54,787
+- troco os jornais...
+- Não!
+
+349
+00:38:56,625 --> 00:39:00,843
+Um Explorador é amigo de todos!
+Plantas, peixes, de todo modo!
+
+350
+00:39:00,879 --> 00:39:03,457
+- Isso não rimou!
+- Claro que sim.
+
+351
+00:39:04,165 --> 00:39:06,469
+- Olha só o Kevin.
+- Como?
+
+352
+00:39:07,625 --> 00:39:10,555
+Desce daí!
+Não tem permissão pra subir!
+
+353
+00:39:12,941 --> 00:39:15,424
+Desça daí imediatamente!
+
+354
+00:39:19,905 --> 00:39:22,979
+- Pode acreditar nisso, Ellie?
+- Ellie?
+
+355
+00:39:23,969 --> 00:39:27,285
+Ei, Ellie?
+Posso ficar com o pássaro?
+
+356
+00:39:29,721 --> 00:39:32,170
+Ela disse que
+é para você deixar.
+
+357
+00:39:32,171 --> 00:39:34,929
+Mas disse pra ele que não!
+Eu lhe disse não!
+
+358
+00:39:34,930 --> 00:39:36,599
+N-Ã-O!
+
+359
+00:39:47,956 --> 00:39:50,327
+Estou vendo você
+aí atrás!
+
+360
+00:39:51,672 --> 00:39:55,267
+Anda, passa fora!
+Vai perturbar outra pessoa!
+
+361
+00:39:55,268 --> 00:39:58,099
+Ei, está tudo bem por aí?
+
+362
+00:40:02,029 --> 00:40:03,852
+Olá?
+
+363
+00:40:08,662 --> 00:40:11,534
+Olá, senhor!
+Graças a Deus!
+
+364
+00:40:11,535 --> 00:40:14,144
+É bom saber que
+tem mais alguém aqui!
+
+365
+00:40:14,248 --> 00:40:15,977
+Pude farejá-los!
+
+366
+00:40:15,978 --> 00:40:19,943
+O quê?
+Pode nos farejar?
+
+367
+00:40:21,312 --> 00:40:23,859
+Pude farejá-los!
+
+368
+00:40:31,506 --> 00:40:36,351
+Tava falando com uma rocha!
+E essa parece uma tartaruga!
+
+369
+00:40:37,430 --> 00:40:40,805
+E olha essa aqui!
+Ela parece um cão!
+
+370
+00:40:41,692 --> 00:40:44,322
+- Mas é um cão!
+- O quê?!
+
+371
+00:40:44,709 --> 00:40:48,384
+Não é permitido ter cães
+no meu prédio!
+
+372
+00:40:49,954 --> 00:40:53,675
+- Eu gosto de cães!
+- Estamos com seu cão!
+
+373
+00:40:54,103 --> 00:40:56,820
+- De quem será que ele é?
+- Sentado, garoto.
+
+374
+00:40:56,856 --> 00:40:59,418
+Olha só, ele é treinado!
+Dá a pata!
+
+375
+00:41:00,613 --> 00:41:03,132
+- Fale!
+- Oi, vocês!
+
+376
+00:41:03,195 --> 00:41:05,724
+Esse cão acabou
+de dizer: "oi, vocês"?
+
+377
+00:41:05,725 --> 00:41:07,395
+Foi sim!
+
+378
+00:41:07,918 --> 00:41:10,087
+Meu nome é Dug,
+acabei de conhecê-lo!
+
+379
+00:41:10,088 --> 00:41:11,757
+E eu te amo!
+
+380
+00:41:11,851 --> 00:41:15,852
+Meu dono me deu esse coleira.
+Ele era um dono bem esperto.
+
+381
+00:41:15,853 --> 00:41:18,288
+Ele me fez essa coleira
+para que pudesse falar!
+
+382
+00:41:18,340 --> 00:41:20,322
+Nossa!
+
+383
+00:41:21,137 --> 00:41:23,669
+- Ele era um dono bem esperto.
+- Não é possível!
+
+384
+00:41:23,671 --> 00:41:26,112
+É sim, porque meu dono
+era bem esperto.
+
+385
+00:41:26,149 --> 00:41:28,855
+- Maneiro, isso aqui faz o quê?
+- Poderia...
+
+386
+00:41:28,856 --> 00:41:34,068
+Essa coleira me faz falar!
+Ela faz com que...
+
+387
+00:41:34,195 --> 00:41:37,560
+Russell, não toque nisso.
+Pode ser radioativo, sei lá!
+
+388
+00:41:37,561 --> 00:41:39,173
+Sou um grande farejador.
+
+389
+00:41:39,174 --> 00:41:42,042
+Meu dono me enviou em
+uma missão especial. Sozinho.
+
+390
+00:41:42,043 --> 00:41:43,552
+Viu uma ave?
+
+391
+00:41:43,553 --> 00:41:45,640
+Quero achar uma,
+estou na cola dele.
+
+392
+00:41:45,849 --> 00:41:49,189
+Sou um grande farejador.
+Já mencionei isso?
+
+393
+00:41:49,190 --> 00:41:53,758
+Ei, é a ave. Nunca vi de perto,
+mas esta ave...
+
+394
+00:41:53,759 --> 00:41:56,213
+Posso levar a ave como
+meu prisioneiro?
+
+395
+00:41:56,215 --> 00:42:00,361
+Sim, leve-o. E no caminho,
+aprenda a latir como um cão.
+
+396
+00:42:00,362 --> 00:42:04,200
+Eu sei latir.
+E isso é o uivo.
+
+397
+00:42:08,031 --> 00:42:10,687
+Posso ficar com ele,
+por favor?
+
+398
+00:42:10,688 --> 00:42:13,758
+- Não!
+- Mas ele é um cão falante!
+
+399
+00:42:13,759 --> 00:42:16,182
+É só uma galinha estranha
+ou algo assim.
+
+400
+00:42:16,183 --> 00:42:18,088
+Vamos para a cachoeira.
+
+401
+00:42:18,089 --> 00:42:21,950
+Por favor,
+seja meu prisioneiro.
+
+402
+00:42:24,405 --> 00:42:29,623
+- Aqui, sinto cheiro de ave!
+- Espere aí. O que é isso?
+
+403
+00:42:30,325 --> 00:42:32,242
+Chocolate.
+Cheiro de chocolate.
+
+404
+00:42:32,243 --> 00:42:35,296
+Sinto cheiro de ameixa seca
+e creme para dentadura.
+
+405
+00:42:35,297 --> 00:42:38,502
+- Quem são eles?
+- O mestre não vai gostar.
+
+406
+00:42:38,503 --> 00:42:42,041
+Melhor contar a ele que alguém
+levou a ave, certo, Alfa?
+
+407
+00:42:43,920 --> 00:42:48,256
+Não. Em pouco tempo a ave
+será nossa de novo.
+
+408
+00:42:48,257 --> 00:42:50,164
+Ache o cheiro,
+meus compadres...
+
+409
+00:42:50,165 --> 00:42:55,002
+E o mestre os recompensará
+pelo trabalho duro.
+
+410
+00:42:55,003 --> 00:42:59,780
+Alfa, tem algo errado com sua
+coleira. Deve ter quebrado.
+
+411
+00:42:59,781 --> 00:43:02,452
+É, sua voz está engraçada.
+
+412
+00:43:05,705 --> 00:43:09,378
+Beta, Gama. Vocês querem...
+Esquilo!
+
+413
+00:43:12,002 --> 00:43:14,314
+Talvez queiram
+desafiar a posição...
+
+414
+00:43:14,315 --> 00:43:16,804
+que consegui com minha força
+e esperteza?
+
+415
+00:43:16,805 --> 00:43:21,229
+Não, mas talvez Dug queira.
+Pergunta pra ele.
+
+416
+00:43:22,498 --> 00:43:26,668
+Queria saber se achou a ave,
+sozinho na sua missão especial.
+
+417
+00:43:26,669 --> 00:43:28,932
+Não mencione Dug
+para mim agora.
+
+418
+00:43:28,933 --> 00:43:34,109
+Sua missão tola o deixará,
+bem, bem ocupado.
+
+419
+00:43:35,914 --> 00:43:38,672
+Não concorda com o que fiz?
+
+420
+00:43:38,673 --> 00:43:40,381
+Claro, mas...
+
+421
+00:43:40,382 --> 00:43:43,610
+Quando o mestre descobrir
+que mandou Dug sozinho...
+
+422
+00:43:43,611 --> 00:43:46,434
+Nenhum de nós ganhará
+a recompensa.
+
+423
+00:43:46,435 --> 00:43:50,108
+Você é sábio,
+meu tenente confiável.
+
+424
+00:43:50,421 --> 00:43:53,386
+Alfa chamando Dug.
+Apareça, Dug.
+
+425
+00:43:53,387 --> 00:43:55,869
+Oi, Alfa.
+Sua voz está engraçada.
+
+426
+00:43:55,870 --> 00:43:58,946
+Eu sei, eu sei!
+Viu a ave?
+
+427
+00:43:58,947 --> 00:44:01,896
+Sim,
+a ave é minha prisioneira!
+
+428
+00:44:01,897 --> 00:44:03,670
+Tá, claro...
+
+429
+00:44:05,338 --> 00:44:07,209
+Impossível!
+Onde você está?
+
+430
+00:44:07,210 --> 00:44:10,547
+Aqui, com a ave.
+Vou levá-la de volta...
+
+431
+00:44:10,548 --> 00:44:12,426
+e você gostará de mim.
+Tenho que ir!
+
+432
+00:44:12,530 --> 00:44:13,993
+Ei, Dug.
+Tá falando com quem?
+
+433
+00:44:13,994 --> 00:44:16,090
+- Espere!
+- O que Dug está fazendo?
+
+434
+00:44:16,091 --> 00:44:18,302
+Por que está com
+aquele carteiro anão?
+
+435
+00:44:18,303 --> 00:44:19,972
+Onde eles estão?
+
+436
+00:44:22,061 --> 00:44:24,148
+Aí está ele!
+Vamos!
+
+437
+00:44:28,972 --> 00:44:31,458
+Por favor, por favor,
+seja meu prisioneiro!
+
+438
+00:44:31,459 --> 00:44:33,041
+Dug,
+pare de encher o Kevin!
+
+439
+00:44:33,042 --> 00:44:34,997
+Ele disse que posso
+ficar com ela...
+
+440
+00:44:34,998 --> 00:44:37,839
+E eu amo aquele homem
+como se fosse meu mestre.
+
+441
+00:44:37,840 --> 00:44:40,819
+- Não sou seu mestre!
+- Fica esperto, ave.
+
+442
+00:44:40,820 --> 00:44:43,546
+- Ei, pare!
+- Vou te pegar, ave.
+
+443
+00:44:43,547 --> 00:44:46,656
+Russell, desse jeito
+nunca chegaremos.
+
+444
+00:44:54,263 --> 00:44:56,233
+Não sou mestre de ninguém,
+entendeu?
+
+445
+00:44:56,234 --> 00:44:58,778
+Não quero você aqui,
+nem você!
+
+446
+00:44:58,779 --> 00:45:00,980
+Estou preso com você.
+
+447
+00:45:00,981 --> 00:45:03,276
+Se não pararem
+até eu contar 3...
+
+448
+00:45:03,277 --> 00:45:05,364
+Cara, uma bola!
+
+449
+00:45:08,211 --> 00:45:10,298
+Quer uma bola?
+
+450
+00:45:11,477 --> 00:45:13,516
+Quero sim!
+Quero muito a bola!
+
+451
+00:45:13,517 --> 00:45:15,802
+- Vai pegar!
+- Cara! Vou pegar e trazer!
+
+452
+00:45:15,803 --> 00:45:17,890
+Russel, me dá um pouco
+de chocolate.
+
+453
+00:45:17,891 --> 00:45:19,978
+- Por quê?
+- Me dá e ponto.
+
+454
+00:45:20,723 --> 00:45:22,810
+Ave!
+
+455
+00:45:24,672 --> 00:45:26,029
+Venha.
+
+456
+00:45:26,948 --> 00:45:29,285
+Espere, Sr. Fredricksen.
+
+457
+00:45:34,324 --> 00:45:36,411
+O que está fazendo?
+
+458
+00:45:40,907 --> 00:45:43,161
+Ei, estamos bem longe.
+
+459
+00:45:43,635 --> 00:45:46,389
+Kevin sentirá minha falta.
+
+460
+00:45:51,103 --> 00:45:53,273
+Parece que deu certo.
+
+461
+00:45:54,729 --> 00:45:56,815
+Oi, mestre.
+
+462
+00:45:56,995 --> 00:45:59,082
+De novo não.
+
+463
+00:46:23,876 --> 00:46:27,296
+Obrigado por nos manter secos,
+Ellie.
+
+464
+00:46:27,297 --> 00:46:29,717
+Qual é o da ponta?
+
+465
+00:46:32,272 --> 00:46:35,762
+É o passo 3 ou o 5?
+
+466
+00:46:37,908 --> 00:46:39,265
+<i>Pronto.</i>
+
+467
+00:46:43,293 --> 00:46:45,880
+Tá pronto.
+Em sua homenagem.
+
+468
+00:46:52,790 --> 00:46:54,877
+Tendas são complicadas.
+
+469
+00:46:55,313 --> 00:46:57,924
+Espere, não é o cara
+super-natureza?
+
+470
+00:46:57,925 --> 00:47:00,596
+Com "GPMs" e as insígnias?
+
+471
+00:47:00,969 --> 00:47:03,056
+É, mas...
+
+472
+00:47:03,363 --> 00:47:06,444
+- Posso contar um segredo?
+- Não.
+
+473
+00:47:06,445 --> 00:47:08,532
+Certo, aqui vai...
+
+474
+00:47:08,988 --> 00:47:13,222
+Nunca montei uma tenda antes.
+Pronto, falei.
+
+475
+00:47:13,223 --> 00:47:18,254
+- Já acampou antes, né?
+- Bem, nunca fora de casa.
+
+476
+00:47:18,255 --> 00:47:22,258
+Por que nunca perguntou ao seu
+pai como construir uma tenda?
+
+477
+00:47:22,259 --> 00:47:25,084
+Acho que ele não quer falar
+sobre essas coisas.
+
+478
+00:47:25,085 --> 00:47:27,782
+Devia tentar alguma vez.
+Talvez ele te surpreenda.
+
+479
+00:47:27,783 --> 00:47:30,109
+Ele sempre está fora.
+Não o vejo muito.
+
+480
+00:47:30,110 --> 00:47:31,845
+Ele fica em casa,
+às vezes vai.
+
+481
+00:47:31,846 --> 00:47:36,205
+Eu o chamo, mas Philis
+diz que eu abuso muito.
+
+482
+00:47:36,206 --> 00:47:39,702
+Philis? Chama sua mãe
+pelo primeiro nome?
+
+483
+00:47:39,703 --> 00:47:42,124
+Philis não é a minha mãe.
+
+484
+00:47:52,402 --> 00:47:56,291
+Mas ele prometeu ir
+à cerimônia do Explorador...
+
+485
+00:47:56,292 --> 00:48:00,566
+Para coloca minha insígnia de
+ajuda aos idosos.
+
+486
+00:48:00,567 --> 00:48:05,576
+Então ele pode me ensinar sobre
+tendas lá, certo?
+
+487
+00:48:10,108 --> 00:48:15,326
+Durma um pouco. Não quero
+que viaje sem descansar.
+
+488
+00:48:18,499 --> 00:48:20,484
+Sr. Fredricksen...
+
+489
+00:48:20,485 --> 00:48:24,040
+Dug disse que quer levar
+Kevin como prisioneiro.
+
+490
+00:48:24,042 --> 00:48:26,212
+Temos que protegê-lo.
+
+491
+00:48:28,498 --> 00:48:31,336
+Kevin pode vir com a gente?
+
+492
+00:48:31,997 --> 00:48:34,084
+Tá certo, ele pode vir.
+
+493
+00:48:34,740 --> 00:48:37,097
+Promete que não vai deixá-lo?
+
+494
+00:48:37,098 --> 00:48:39,185
+- Sim.
+- De coração?
+
+495
+00:48:47,838 --> 00:48:49,925
+Sim, de coração.
+
+496
+00:48:55,254 --> 00:48:57,341
+Onde me meti, Ellie?
+
+497
+00:49:20,568 --> 00:49:22,655
+Bom dia, querida.
+
+498
+00:49:24,757 --> 00:49:27,010
+Melhor nos apressarmos.
+
+499
+00:49:28,817 --> 00:49:32,179
+A ave se foi.
+Talvez Russell não perceba.
+
+500
+00:49:32,180 --> 00:49:34,267
+Certo. Todos em pé.
+
+501
+00:49:34,742 --> 00:49:36,515
+Onde está Kevin?
+Ele sumiu.
+
+502
+00:49:36,516 --> 00:49:41,286
+- Kevin! Dug, ache Kevin.
+- Achar a ave...
+
+503
+00:49:41,287 --> 00:49:43,374
+Pra lá!
+
+504
+00:49:43,507 --> 00:49:45,594
+Lá está ele.
+
+505
+00:49:47,488 --> 00:49:49,467
+Ali!
+
+506
+00:49:49,468 --> 00:49:52,675
+Ei, é a minha comida...
+Saia do meu telhado!
+
+507
+00:49:52,676 --> 00:49:55,180
+É, saia do telhado dele.
+
+508
+00:49:59,602 --> 00:50:04,285
+- O que ele está fazendo?
+- Ave, chamando seus bebês.
+
+509
+00:50:04,286 --> 00:50:06,373
+Seus bebês!
+
+510
+00:50:07,060 --> 00:50:09,147
+Kevin é menina?
+
+511
+00:50:11,545 --> 00:50:14,982
+A casa dela é lá,
+naquelas pedras tortuosas.
+
+512
+00:50:14,983 --> 00:50:17,131
+Ela está colhendo comida
+para os filhotes,
+
+513
+00:50:17,132 --> 00:50:18,906
+e deve voltar para eles.
+
+514
+00:50:19,011 --> 00:50:21,348
+Kevin está indo embora.
+
+515
+00:50:24,042 --> 00:50:26,567
+Ei,
+você prometeu protegê-la!
+
+516
+00:50:26,568 --> 00:50:29,787
+Os bebês precisam dela.
+Temos que deixá-los juntos.
+
+517
+00:50:29,788 --> 00:50:34,379
+Desculpe-me, Russell.
+Já perdemos muito tempo.
+
+518
+00:50:43,310 --> 00:50:46,065
+Esse era seu chocolate
+preferido.
+
+519
+00:50:46,651 --> 00:50:51,159
+Já que a mandou embora,
+sobrou mais para você.
+
+520
+00:50:53,331 --> 00:50:55,417
+Kevin?
+
+521
+00:51:13,504 --> 00:51:16,649
+Cadê a ave?
+Disse que estava com ele.
+
+522
+00:51:16,650 --> 00:51:20,656
+Sim, sim. Se eu disse isso,
+entendo como pensa isso.
+
+523
+00:51:20,657 --> 00:51:22,744
+Onde ele está?
+
+524
+00:51:23,117 --> 00:51:27,958
+Amanhã. Volte amanhã
+e terei a ave novamente.
+
+525
+00:51:29,167 --> 00:51:33,353
+O perdeu de vista.
+Por que não estou surpreso?
+
+526
+00:51:33,354 --> 00:51:36,550
+Pelo menos nos trouxe
+ao carteiro anão e...
+
+527
+00:51:36,551 --> 00:51:39,473
+Esse que cheira
+ameixa seca.
+
+528
+00:51:40,758 --> 00:51:43,282
+Mestre ficará muito satisfeito
+por os acharmos.
+
+529
+00:51:43,283 --> 00:51:46,491
+Fará muitas perguntas.
+Venha!
+
+530
+00:51:46,492 --> 00:51:51,667
+Não vamos com vocês.
+Estamos indo para a cachoeira.
+
+531
+00:51:52,162 --> 00:51:53,727
+Se afastem de mim!
+
+532
+00:51:57,611 --> 00:51:59,489
+Para trás!
+
+533
+00:52:52,890 --> 00:52:54,976
+Parados!
+
+534
+00:53:02,240 --> 00:53:06,905
+- Chegou aqui, nisso aí?
+- Sim.
+
+535
+00:53:07,168 --> 00:53:11,704
+Em uma casa?
+Uma casa voadora?
+
+536
+00:53:19,806 --> 00:53:22,982
+Essa é coisa
+mais estranha que eu já vi.
+
+537
+00:53:22,983 --> 00:53:26,210
+Não vieram atrás da ave,
+não é?
+
+538
+00:53:26,211 --> 00:53:29,133
+Mas se precisarem
+de uma xícara de açúcar...
+
+539
+00:53:29,237 --> 00:53:32,576
+ficarei feliz em emprestar.
+
+540
+00:53:35,101 --> 00:53:39,579
+É tudo um mal-entendido,
+meus cães cometeram um erro.
+
+541
+00:53:39,580 --> 00:53:42,167
+Espere aí,
+é o Charles Muntz?
+
+542
+00:53:42,483 --> 00:53:44,959
+Bem... sim.
+
+543
+00:53:44,960 --> 00:53:47,047
+"O" Charles Muntz?
+
+544
+00:53:47,353 --> 00:53:49,454
+A aventura nos aguarda!
+
+545
+00:53:49,455 --> 00:53:53,044
+É realmente ele.
+Esse é o Charles Muntz.
+
+546
+00:53:53,329 --> 00:53:56,380
+Ele é...
+Quem é Charles Muntz?
+
+547
+00:53:56,381 --> 00:53:59,471
+Ele! Eu sou Carl Fredricksen.
+Minha esposa e eu éramos...
+
+548
+00:53:59,472 --> 00:54:01,559
+seus maiores fãs!
+
+549
+00:54:02,432 --> 00:54:04,769
+Vocês tinham bom gosto.
+
+550
+00:54:05,823 --> 00:54:09,195
+Devem estar cansados,
+com fome?
+
+551
+00:54:09,196 --> 00:54:10,892
+Atenção todos!
+
+552
+00:54:10,893 --> 00:54:15,067
+Eles não são mais intrusos,
+são visita agora.
+
+553
+00:54:25,142 --> 00:54:27,368
+O carteiro anão
+cheira a chocolate.
+
+554
+00:54:28,424 --> 00:54:33,642
+Me desculpem pelos cachorros,
+espero que não tenham irritado.
+
+555
+00:54:33,722 --> 00:54:37,382
+Podem entrar, atraquem sua nave
+do lado da minha.
+
+556
+00:54:43,038 --> 00:54:46,617
+Vamos entrar
+na "Espírito Aventureiro"?
+
+557
+00:54:46,618 --> 00:54:49,817
+Não, você gostaria?
+
+558
+00:54:49,818 --> 00:54:51,488
+Se eu gostaria?!
+
+559
+00:54:53,060 --> 00:54:55,147
+Estou indo, Sr. Muntz.
+
+560
+00:54:55,757 --> 00:54:57,589
+Macacos me mordam!
+
+561
+00:54:57,590 --> 00:54:59,690
+Você não.
+O que faremos com o Dug?
+
+562
+00:54:59,691 --> 00:55:03,403
+Ele perdeu a ave, o que acham
+dele usar o cone da vergonha?
+
+563
+00:55:08,377 --> 00:55:11,382
+Não gosto
+do cone da vergonha.
+
+564
+00:55:12,275 --> 00:55:16,152
+A maioria da minha coleção está
+em grande museus.
+
+565
+00:55:16,153 --> 00:55:18,236
+Nova Iorque, Munique, Londres.
+
+566
+00:55:18,237 --> 00:55:20,637
+É claro que guardei
+o melhor para mim.
+
+567
+00:55:20,950 --> 00:55:23,812
+Você alguma vez...
+Olhe aquilo.
+
+568
+00:55:23,813 --> 00:55:26,312
+Sim, o "Arsolaterium"!
+
+569
+00:55:26,313 --> 00:55:29,130
+A besta me atacou
+enquanto eu escovava os dentes.
+
+570
+00:55:29,234 --> 00:55:32,091
+Usei meu kit higiene
+para o derrotar.
+
+571
+00:55:32,092 --> 00:55:33,693
+É, me surpreenda.
+
+572
+00:55:33,694 --> 00:55:36,121
+O único jeito de sair rápido
+da Etiópia,
+
+573
+00:55:36,122 --> 00:55:39,079
+foi declará-lo como parte
+do kit de limpeza dentária!
+
+574
+00:55:39,357 --> 00:55:43,025
+Meu Deus, a tartaruga gigante
+da Somália.
+
+575
+00:55:43,026 --> 00:55:46,478
+Você a conhece?
+Estou impressionado!
+
+576
+00:55:46,479 --> 00:55:48,563
+Tem uma história interessante.
+
+577
+00:55:48,564 --> 00:55:49,991
+Excelente escolha.
+
+578
+00:55:49,992 --> 00:55:54,061
+Eu a encontrei
+em um safári com Roosevelt,
+
+579
+00:55:54,165 --> 00:55:58,652
+nós tínhamos o hábito
+de jogar gamão,
+
+580
+00:55:58,653 --> 00:56:02,827
+e ele roubava muito.
+Nossa, ele era muito ruim!
+
+581
+00:56:03,081 --> 00:56:05,861
+Mestre, o jantar está pronto.
+
+582
+00:56:05,862 --> 00:56:11,080
+É, tradutor quebrado.
+Vamos ver o que posso fazer.
+
+583
+00:56:11,511 --> 00:56:14,578
+- Ai está, amigão.
+- Obrigado, mestre.
+
+584
+00:56:14,579 --> 00:56:17,000
+Eu gostava mais da outra voz.
+
+585
+00:56:17,713 --> 00:56:21,944
+Bem, o jantar está servido,
+me acompanhem.
+
+586
+00:56:21,945 --> 00:56:25,202
+Então, como estão as coisas
+lá em cima?
+
+587
+00:56:25,203 --> 00:56:28,207
+Eu até pensei em voltar,
+algumas vezes.
+
+588
+00:56:29,301 --> 00:56:31,484
+Mas tenho um trabalho
+inacabado aqui.
+
+589
+00:56:31,485 --> 00:56:34,407
+Sentem-se.
+Espero que estejam com fome.
+
+590
+00:56:34,511 --> 00:56:39,615
+porque Épsilon é o melhor chefe
+que já tive na vida.
+
+591
+00:56:44,482 --> 00:56:47,237
+Épsilon,
+você fez de novo.
+
+592
+00:56:51,936 --> 00:56:55,417
+Minha Ellie iria amar
+tudo isso!
+
+593
+00:56:55,418 --> 00:56:57,505
+Por sua causa,
+ela tinha esse sonho...
+
+594
+00:56:57,609 --> 00:57:00,436
+de viver aqui
+na Cachoeira do Paraíso.
+
+595
+00:57:00,437 --> 00:57:02,869
+Fico honrado, que agora
+tenha conseguido.
+
+596
+00:57:02,870 --> 00:57:05,558
+Não estamos incomodando, né?
+Odeio incomodar.
+
+597
+00:57:05,559 --> 00:57:08,521
+Não, não,
+é um prazer ter visitas.
+
+598
+00:57:08,522 --> 00:57:11,361
+- Uma verdadeira festa.
+- Festa?
+
+599
+00:57:15,858 --> 00:57:17,969
+Não devia ter usado
+essa palavra.
+
+600
+00:57:17,970 --> 00:57:20,591
+Quero dizer...
+ter visitas é um prazer.
+
+601
+00:57:20,592 --> 00:57:24,292
+Costumo encontrar ladrões que
+vem para roubar o que é meu.
+
+602
+00:57:24,293 --> 00:57:26,380
+Não...
+
+603
+00:57:27,695 --> 00:57:31,284
+Eles me chamam de fraude.
+Aqueles...
+
+604
+00:57:32,719 --> 00:57:35,204
+Mas quando eu voltar
+com essa criatura...
+
+605
+00:57:35,205 --> 00:57:36,875
+meu nome ficará limpo.
+
+606
+00:57:37,880 --> 00:57:39,925
+Bonito, não é?
+
+607
+00:57:42,698 --> 00:57:45,329
+Gastei uma vida,
+tentando achá-lo.
+
+608
+00:57:46,919 --> 00:57:51,844
+Algumas vezes,
+os anos passavam em silêncio.
+
+609
+00:57:52,123 --> 00:57:56,956
+Tentei tirá-lo desse labirinto
+mortal no qual vive.
+
+610
+00:57:56,957 --> 00:57:59,143
+Impossível de atravessar!
+
+611
+00:57:59,144 --> 00:58:01,753
+E uma vez dentro,
+não há mais saída.
+
+612
+00:58:02,483 --> 00:58:04,570
+Perdi tantos cachorros...
+
+613
+00:58:06,357 --> 00:58:10,949
+Então vem esses bandidos que
+só pensam nisso,
+
+614
+00:58:11,902 --> 00:58:14,302
+mas logo eles descobrem
+que essa montanha...
+
+615
+00:58:14,303 --> 00:58:17,434
+é um lugar perigoso!
+
+616
+00:58:20,236 --> 00:58:24,921
+- Isso parece com o Kevin.
+- Kevin?
+
+617
+00:58:24,922 --> 00:58:27,119
+Sim, a minha nova ave
+mascote gigante.
+
+618
+00:58:27,120 --> 00:58:28,841
+Eu treinei ela
+para nos seguir...
+
+619
+00:58:28,842 --> 00:58:32,523
+Seguir você? É impossível.
+Como fez?
+
+620
+00:58:32,524 --> 00:58:35,946
+Ela gosta de chocolate...
+Chocolate?
+
+621
+00:58:35,961 --> 00:58:39,372
+Sim, é só dar chocolate
+que ela volta louca.
+
+622
+00:58:39,373 --> 00:58:42,629
+Mas ela fugiu,
+já se foi agora.
+
+623
+00:58:48,767 --> 00:58:53,370
+Sabe, Carl, as pessoas
+que passam por aqui,
+
+624
+00:58:53,371 --> 00:58:57,116
+todas contam histórias
+muito boas.
+
+625
+00:58:59,228 --> 00:59:03,274
+Um cartógrafo,
+fazendo um mapa...
+
+626
+00:59:03,275 --> 00:59:05,490
+Um botânico,
+catalogando plantas...
+
+627
+00:59:09,095 --> 00:59:13,734
+Um velho levando sua casa
+para as Cataratas do Paraíso.
+
+628
+00:59:21,078 --> 00:59:26,295
+Essa é a melhor e mal posso
+esperar para ouvir o final.
+
+629
+00:59:34,230 --> 00:59:38,009
+Foi uma noite maravilhosa,
+mas é melhor nós irmos.
+
+630
+00:59:38,010 --> 00:59:40,180
+Não vão embora...
+
+631
+00:59:40,752 --> 00:59:43,412
+Nós não queremos abusar
+da sua hospitalidade.
+
+632
+00:59:43,413 --> 00:59:44,769
+Vamos, Russell.
+
+633
+00:59:44,873 --> 00:59:48,320
+- Nem serviram a sobremesa.
+- O garoto está certo.
+
+634
+00:59:48,321 --> 00:59:50,056
+Ainda não comeram
+a sobremesa!
+
+635
+00:59:50,057 --> 00:59:54,582
+Épsilon faz um delicioso
+creme de cereja.
+
+636
+00:59:55,329 --> 00:59:59,588
+Insisto para que fiquem!
+Insisto mesmo!
+
+637
+00:59:59,589 --> 01:00:02,495
+Temos tanto a conversar.
+
+638
+01:00:05,548 --> 01:00:07,635
+Kevin?
+
+639
+01:00:14,586 --> 01:00:16,672
+Está aqui.
+
+640
+01:00:18,590 --> 01:00:20,677
+Peguem eles.
+
+641
+01:00:22,228 --> 01:00:24,815
+Depressa!
+Já estou indo!
+
+642
+01:00:25,563 --> 01:00:27,649
+Eles estão vindo.
+
+643
+01:00:29,203 --> 01:00:31,290
+Mestre, por aqui.
+
+644
+01:00:47,277 --> 01:00:49,364
+Siga o caminho, mestre!
+
+645
+01:01:24,157 --> 01:01:26,244
+Para trás.
+
+646
+01:01:28,276 --> 01:01:32,116
+Vá mestre,
+eu vou deter os cachorros.
+
+647
+01:01:33,137 --> 01:01:35,224
+Cachorros, parados.
+
+648
+01:02:03,354 --> 01:02:05,441
+Socorro!
+
+649
+01:02:09,879 --> 01:02:11,966
+Socorro!
+Socorro!
+
+650
+01:02:13,208 --> 01:02:15,044
+Me dá a sua mão.
+
+651
+01:02:26,087 --> 01:02:28,174
+Agarre o Kevin!
+
+652
+01:02:59,127 --> 01:03:01,213
+Kevin!
+
+653
+01:03:24,419 --> 01:03:27,813
+Não! Kevin, calma aí.
+
+654
+01:03:28,968 --> 01:03:30,592
+Ela se machucou feio...
+
+655
+01:03:30,593 --> 01:03:33,203
+Podemos ajudá-la
+a chegar em casa?
+
+656
+01:03:44,247 --> 01:03:47,146
+Certo, mas temos
+que nos apressar.
+
+657
+01:03:53,556 --> 01:03:56,512
+- Você os perdeu?
+- Não, foi o Dug.
+
+658
+01:03:56,513 --> 01:04:00,436
+É! Dug está com eles.
+Ajudou na fuga.
+
+659
+01:04:01,749 --> 01:04:03,836
+Espere, espere um pouco.
+
+660
+01:04:04,833 --> 01:04:06,920
+Dug.
+
+661
+01:04:11,670 --> 01:04:13,027
+Farejou algo?
+
+662
+01:04:13,028 --> 01:04:15,372
+Não. Meu bando
+não está nos seguindo.
+
+663
+01:04:15,373 --> 01:04:16,730
+Cara, eles são durões.
+
+664
+01:04:16,834 --> 01:04:19,378
+É loucura, enfim conheci
+meu herói de infância,
+
+665
+01:04:19,379 --> 01:04:20,826
+e ele tenta nos matar.
+
+666
+01:04:20,827 --> 01:04:22,966
+- Que piada.
+- Ei, conheço uma piada.
+
+667
+01:04:22,967 --> 01:04:25,062
+Um esquilo vira para
+uma árvore e diz:
+
+668
+01:04:25,063 --> 01:04:28,289
+"Não guardei nozes pro inverno
+e agora estou morto".
+
+669
+01:04:28,290 --> 01:04:33,132
+É engraçado porque o esquilo
+acaba morrendo.
+
+670
+01:04:35,302 --> 01:04:39,121
+- Cuidado, Russell.
+- Está bem, Kevin?
+
+671
+01:04:43,867 --> 01:04:48,992
+Sabe, Sr. Fredricksen, o mundo
+selvagem não é como imaginei.
+
+672
+01:04:48,993 --> 01:04:54,210
+- É, como assim?
+- É meio selvagem. Tipo...
+
+673
+01:04:54,415 --> 01:04:58,937
+- Não é como nos livros.
+- Se acostume.
+
+674
+01:04:58,938 --> 01:05:01,415
+Meu pai fazia
+parecer tão fácil.
+
+675
+01:05:01,416 --> 01:05:06,634
+Ele é muito bom em acampar,
+fazer fogo de pedras e tal.
+
+676
+01:05:06,955 --> 01:05:10,375
+Ele vinha me ver
+na tenda de reuniões.
+
+677
+01:05:10,376 --> 01:05:14,115
+E depois tomávamos sorvete
+no Gorducho's.
+
+678
+01:05:14,116 --> 01:05:16,981
+Eu sempre tomava de chocolate
+e ele de pasta de nozes.
+
+679
+01:05:16,982 --> 01:05:19,904
+Então sentávamos na calçada...
+
+680
+01:05:20,158 --> 01:05:24,742
+Eu contava os carros azuis
+e ele contava os vermelhos.
+
+681
+01:05:24,743 --> 01:05:27,054
+E ganhava quem tivesse mais.
+
+682
+01:05:30,561 --> 01:05:32,648
+Gostava daquela calçada.
+
+683
+01:05:35,125 --> 01:05:39,513
+Parece estranho,
+mas são os momentos tediosos...
+
+684
+01:05:39,514 --> 01:05:41,684
+Os que me lembro mais.
+
+685
+01:05:49,124 --> 01:05:51,211
+Olhe, lá está!
+
+686
+01:05:53,189 --> 01:05:55,276
+Espere, Russell,
+ainda está preso!
+
+687
+01:06:05,781 --> 01:06:09,936
+Olhe essa galinha indo!
+Toda empolgada.
+
+688
+01:06:10,772 --> 01:06:13,443
+Isso aí!
+Vá Kevin, ache seus bebês!
+
+689
+01:06:18,684 --> 01:06:20,770
+Corra, Kevin, corra!
+
+690
+01:06:23,485 --> 01:06:25,572
+Não!
+
+691
+01:06:30,172 --> 01:06:32,676
+Russell, me dê sua faca!
+
+692
+01:06:33,938 --> 01:06:37,131
+Se afastem da minha ave.
+
+693
+01:07:02,413 --> 01:07:04,500
+Não.
+
+694
+01:07:10,229 --> 01:07:12,316
+Não!
+
+695
+01:07:17,695 --> 01:07:22,540
+Cuidado! Eu o quero em boas
+condições para a exposição.
+
+696
+01:07:22,541 --> 01:07:26,682
+Deixa ela em paz!
+Pare!
+
+697
+01:07:29,436 --> 01:07:31,523
+Kevin!
+
+698
+01:07:44,933 --> 01:07:47,187
+Você entregou o Kevin.
+
+699
+01:07:49,448 --> 01:07:52,495
+Você entregou ele
+de bandeja!
+
+700
+01:07:54,266 --> 01:07:56,771
+Isso não é problema meu.
+
+701
+01:07:57,712 --> 01:08:00,216
+Não pedi por nada disso!
+
+702
+01:08:02,544 --> 01:08:05,995
+Mestre. Tudo bem...
+
+703
+01:08:05,996 --> 01:08:08,622
+Não sou seu mestre!
+
+704
+01:08:08,623 --> 01:08:11,841
+Se você não tivesse aparecido,
+nada disso teria acontecido.
+
+705
+01:08:11,842 --> 01:08:13,929
+Cachorro mau!
+
+706
+01:08:22,449 --> 01:08:24,932
+Com a sua ajuda ou não...
+
+707
+01:08:24,933 --> 01:08:27,437
+eu vou para
+as Cataratas do Paraíso...
+
+708
+01:08:27,542 --> 01:08:30,124
+mesmo que isso me mate!
+
+709
+01:09:40,891 --> 01:09:45,665
+Pegue. Não quero mais isto.
+
+710
+01:13:25,160 --> 01:13:27,351
+Russell?
+
+711
+01:13:31,421 --> 01:13:32,778
+Russell?!
+
+712
+01:13:32,779 --> 01:13:36,640
+Eu vou ajudar a Kevin,
+mesmo que você não queira.
+
+713
+01:13:37,371 --> 01:13:39,980
+Não, Russell, não!
+
+714
+01:14:52,084 --> 01:14:53,962
+Russell?
+
+715
+01:14:55,528 --> 01:14:57,094
+Dug!
+
+716
+01:14:57,095 --> 01:15:00,121
+Estava escondido na sua varanda
+porque eu te amo.
+
+717
+01:15:00,643 --> 01:15:03,043
+- Posso ficar?
+- Se pode ficar?
+
+718
+01:15:03,044 --> 01:15:05,340
+É o meu cão, não é?
+E sou o seu mestre.
+
+719
+01:15:05,758 --> 01:15:08,680
+- Você é o meu mestre!
+- Bom garoto!
+
+720
+01:15:08,786 --> 01:15:12,334
+Bom garoto, Dug.
+Muito bom garoto.
+
+721
+01:15:37,169 --> 01:15:39,256
+É isso aí!
+
+722
+01:15:40,509 --> 01:15:43,744
+Não se preocupe, Kevin!
+Eu vou salvar você!
+
+723
+01:15:51,154 --> 01:15:53,658
+E eles não iriam
+acreditar em mim.
+
+724
+01:15:53,868 --> 01:15:56,372
+Quero ver a cara deles
+quando olharem pra você!
+
+725
+01:15:56,373 --> 01:15:57,729
+Mestre!
+
+726
+01:15:57,730 --> 01:16:01,800
+- O pequeno carteiro voltou.
+- O quê?!
+
+727
+01:16:01,802 --> 01:16:03,576
+Solte-me!
+
+728
+01:16:04,933 --> 01:16:07,959
+Onde está a seu velho amigo?
+
+729
+01:16:08,691 --> 01:16:11,404
+Ele não é mais meu amigo.
+
+730
+01:16:11,405 --> 01:16:15,579
+Se você está aqui,
+ele não pode estar longe.
+
+731
+01:16:15,788 --> 01:16:18,814
+Por que prendeu o Kevin?
+
+732
+01:16:19,128 --> 01:16:20,485
+Me solta!
+
+733
+01:16:20,486 --> 01:16:22,990
+Grite o quanto quiser,
+pequeno carteiro.
+
+734
+01:16:22,991 --> 01:16:25,495
+Seus amigos não podem ouvi-lo!
+
+735
+01:16:25,496 --> 01:16:30,505
+Vou usar todo meu conhecimento
+dos Exploradores!
+
+736
+01:16:33,115 --> 01:16:35,202
+Alfa!
+Fredricksen está voltando!
+
+737
+01:16:35,307 --> 01:16:38,020
+Vigie aquele pássaro!
+Se virem o velhote...
+
+738
+01:16:38,021 --> 01:16:40,525
+- sabem o que fazer!
+- Ei! Pra onde está indo?
+
+739
+01:16:40,526 --> 01:16:45,117
+- Ainda não terminei com você!
+- Foi bom conversar com você.
+
+740
+01:16:48,875 --> 01:16:52,527
+Onde está você, Fredricksen?
+
+741
+01:17:06,093 --> 01:17:09,327
+Socorro!
+
+742
+01:17:09,642 --> 01:17:12,146
+Russel!
+
+743
+01:17:24,042 --> 01:17:26,859
+- Sr. Fredricksen!
+- Dug, puxa pra cá!
+
+744
+01:17:28,217 --> 01:17:30,826
+Você voltou pelo Kevin!
+Vamos pegá-la!
+
+745
+01:17:30,931 --> 01:17:32,914
+Eu vou pegar o Kevin.
+Você fica aqui.
+
+746
+01:17:33,019 --> 01:17:36,149
+- Mas, eu quero ajudar!
+- Eu não quero a sua ajuda.
+
+747
+01:17:36,150 --> 01:17:38,863
+Quero que
+fique em segurança!
+
+748
+01:17:44,082 --> 01:17:47,108
+Como passamos pelos
+cães em segurança?
+
+749
+01:17:47,109 --> 01:17:49,822
+Apontando!
+
+750
+01:17:58,796 --> 01:18:00,570
+Kevin!
+
+751
+01:18:01,510 --> 01:18:04,014
+Não se preocupe, Kevin.
+Estamos a caminho.
+
+752
+01:18:04,120 --> 01:18:07,876
+Fiquem de guarda nessas
+portas de entrada.
+
+753
+01:18:07,982 --> 01:18:11,112
+Não deixe esse pássaro fugir.
+
+754
+01:18:11,217 --> 01:18:14,348
+O que faremos agora,
+Dug?
+
+755
+01:18:26,348 --> 01:18:29,061
+- Quem quer a bola?
+- Eu!
+
+756
+01:18:29,062 --> 01:18:33,027
+- Eu!
+- Eu!
+
+757
+01:18:33,237 --> 01:18:35,742
+Vão pegá-la.
+
+758
+01:18:38,142 --> 01:18:40,334
+Eu peguei!
+
+759
+01:18:44,823 --> 01:18:47,953
+Desculpe-me, Kevin.
+Vamos tirá-lo daqui.
+
+760
+01:18:48,163 --> 01:18:50,458
+- Mestre, a ave se foi!
+- O quê?
+
+761
+01:18:50,459 --> 01:18:52,546
+- O que foi?
+- Estão fugindo!
+
+762
+01:18:53,381 --> 01:18:55,990
+Acalmem-se!
+Um de cada vez!
+
+763
+01:18:58,704 --> 01:19:00,060
+Eu...
+
+764
+01:19:00,061 --> 01:19:01,105
+quero...
+
+765
+01:19:01,106 --> 01:19:02,462
+ajudar!
+
+766
+01:19:04,965 --> 01:19:06,739
+Socorro!
+
+767
+01:19:15,924 --> 01:19:19,889
+Alguém sabe
+onde eles estão?!
+
+768
+01:19:30,011 --> 01:19:33,976
+Socorro!
+
+769
+01:19:33,977 --> 01:19:37,212
+Bravo Líder.
+Derrube a casa!
+
+770
+01:19:37,526 --> 01:19:40,656
+Socorro!
+O quê?
+
+771
+01:19:43,162 --> 01:19:46,083
+- Bravo Líder, aqui!
+- Bravo Dois, aqui!
+
+772
+01:19:46,189 --> 01:19:48,484
+Bravo Três, aqui!
+
+773
+01:19:51,407 --> 01:19:54,016
+Alvo na mira!
+
+774
+01:20:01,425 --> 01:20:03,929
+Vamos lá, Kevin.
+
+775
+01:20:17,913 --> 01:20:20,208
+Oi?
+
+776
+01:20:45,043 --> 01:20:47,443
+Algumas últimas palavras,
+Fredricksen?
+
+777
+01:20:47,444 --> 01:20:49,635
+Vamos lá, desembucha!
+
+778
+01:20:52,454 --> 01:20:53,810
+Vamos lá!
+
+779
+01:20:53,811 --> 01:20:55,168
+Já chega!
+
+780
+01:20:55,169 --> 01:20:59,969
+Eu vou levar esse pássaro
+vivo ou morto!
+
+781
+01:21:02,265 --> 01:21:05,291
+É o fim!
+
+782
+01:21:21,780 --> 01:21:23,345
+Isso!
+
+783
+01:21:26,268 --> 01:21:28,668
+Vamos lá, Kevin!
+
+784
+01:21:28,773 --> 01:21:30,860
+Ei!
+
+785
+01:21:46,931 --> 01:21:51,627
+Vou me divertir
+fazendo isso com você!
+
+786
+01:21:57,993 --> 01:21:59,767
+Ele está usando
+o cone da vergonha!
+
+787
+01:21:59,872 --> 01:22:04,776
+Ei! Não fiquem
+só sentados. Atacar!
+
+788
+01:22:06,760 --> 01:22:10,203
+Vamos lá! Não fiquem aí!
+Tirem isso de mim!
+
+789
+01:22:10,308 --> 01:22:12,813
+Escute aqui, cão!
+Sente-se!
+
+790
+01:22:13,753 --> 01:22:17,718
+- Sim, Alfa.
+- Alfa? Eu não sou Alfa, ele é!
+
+791
+01:22:19,284 --> 01:22:21,997
+Ajudem, não consigo.
+
+792
+01:22:24,502 --> 01:22:26,172
+Russell!
+
+793
+01:22:30,660 --> 01:22:34,208
+Estou indo, Sr. Fredricksen!
+Espera aí!
+
+794
+01:22:49,860 --> 01:22:51,634
+Ei!
+Esquilo!
+
+795
+01:22:51,740 --> 01:22:54,870
+Esquilo?
+Onde, onde?!
+
+796
+01:22:58,940 --> 01:23:01,445
+Odeio esquilos!
+
+797
+01:23:21,482 --> 01:23:24,404
+- Dug!
+- Mestre!
+
+798
+01:23:25,239 --> 01:23:27,535
+Russell, aqui!
+
+799
+01:23:27,849 --> 01:23:29,205
+Vamos embora!
+
+800
+01:23:33,485 --> 01:23:35,572
+Sr. Fredricksen!
+
+801
+01:23:35,990 --> 01:23:37,764
+Vamos lá, subam.
+
+802
+01:23:52,896 --> 01:23:54,252
+Não!
+
+803
+01:24:08,444 --> 01:24:11,679
+Russell, saia daí!
+
+804
+01:24:12,932 --> 01:24:16,062
+Não!
+Deixe-os em paz!
+
+805
+01:24:29,837 --> 01:24:35,054
+Russell, saiam todos da casa!
+Venham para cá!
+
+806
+01:24:36,516 --> 01:24:38,707
+Kevin, chocolate!
+
+807
+01:25:00,935 --> 01:25:03,543
+Isso foi maneiro!
+
+808
+01:25:04,379 --> 01:25:07,405
+Não chacoalhe muito,
+garoto.
+
+809
+01:25:07,824 --> 01:25:10,119
+Com calma, Russell.
+
+810
+01:25:11,268 --> 01:25:16,485
+Ah, estou pronto
+para não se separar.
+
+811
+01:25:37,042 --> 01:25:41,216
+Lamento pela sua casa,
+Sr. Fredricksen.
+
+812
+01:25:42,156 --> 01:25:46,226
+Sabe?
+É só uma casa.
+
+813
+01:25:53,322 --> 01:25:56,035
+Olhe para você,
+é tão macio!
+
+814
+01:25:59,899 --> 01:26:02,508
+Eu queria ficar com um.
+
+815
+01:26:04,700 --> 01:26:08,143
+Onde está a minha bengala?
+Ela estava aqui!
+
+816
+01:26:16,074 --> 01:26:17,848
+Querem saber?
+Fiquem com elas.
+
+817
+01:26:17,954 --> 01:26:20,354
+Um presentinho meu
+pra vocês.
+
+818
+01:26:20,355 --> 01:26:23,694
+Tchau, Kevin!
+
+819
+01:26:31,521 --> 01:26:35,068
+- Pronto?
+- Pronto!
+
+820
+01:26:45,295 --> 01:26:48,947
+Recebendo suas insígnias
+os seguintes Exploradores...
+
+821
+01:26:49,053 --> 01:26:52,183
+irão se formar passando
+para Exploradores Seniores.
+
+822
+01:26:52,288 --> 01:26:54,480
+Por montanhismo radical.
+
+823
+01:26:54,585 --> 01:26:56,672
+Parabéns, Jimmy.
+
+824
+01:26:56,673 --> 01:26:59,490
+Por defesa de animais
+selvagens.
+
+825
+01:26:59,491 --> 01:27:01,161
+Parabéns, Brandon.
+
+826
+01:27:01,162 --> 01:27:03,770
+Por ajudar os mais velhos.
+
+827
+01:27:04,084 --> 01:27:09,302
+Russell, tem alguém que...
+
+828
+01:27:09,616 --> 01:27:14,416
+Desculpem-me, perdoem-me.
+Velho passando.
+
+829
+01:27:15,877 --> 01:27:18,069
+Eu estou aqui por ele.
+
+830
+01:27:18,070 --> 01:27:20,887
+Parabéns, Russell.
+Senhor?
+
+831
+01:27:22,975 --> 01:27:26,627
+Russell, por ajudar
+os mais velhos...
+
+832
+01:27:26,628 --> 01:27:31,845
+e pelo cumprimento acima
+e além de todo o dever,
+
+833
+01:27:31,951 --> 01:27:34,038
+eu gostaria de premiá-lo...
+
+834
+01:27:34,039 --> 01:27:36,856
+com a maior honra
+que eu posso conceder.
+
+835
+01:27:37,899 --> 01:27:41,551
+A Insígnia Ellie!
+
+836
+01:27:43,222 --> 01:27:46,248
+Nossa!
+
+837
+01:27:48,962 --> 01:27:51,571
+Tudo bem.
+Acho que acabou.
+
+838
+01:27:51,572 --> 01:27:54,285
+Então vamos dar
+um grande grito de Explorador,
+
+839
+01:27:54,286 --> 01:27:57,520
+para os nossos novos
+Exploradores Seniores!
+
+840
+01:27:57,521 --> 01:27:58,878
+Todo mundo pronto?
+
+841
+01:28:07,331 --> 01:28:09,418
+- Um azul
+- Um vermelho.
+
+842
+01:28:09,523 --> 01:28:12,340
+- Um azul
+- Um vermelho.
+
+843
+01:28:12,550 --> 01:28:14,846
+- Um vermelho.
+- Esse é cor-de-rosa.
+
+844
+01:28:15,055 --> 01:28:16,934
+É vermelho, não é?
+
+845
+01:28:16,935 --> 01:28:19,335
+Sr. Fredricksen,
+o senhor está trapaceando!
+
+846
+01:28:19,336 --> 01:28:20,901
+Não estou!
+Um vermelho!
+
+847
+01:28:20,902 --> 01:28:24,032
+Esse é laranja queimado.
+
+848
+01:28:24,659 --> 01:28:27,268
+Talvez precise dos meus óculos.
+
+849
+01:28:27,269 --> 01:28:29,356
+ESPÍRITO AVENTUREIRO
+
+
+
+9999
+00:00:0,500 --> 00:00:2,00
+<font color="#ffff00" size=14>www.moviesubtitles.org</font>

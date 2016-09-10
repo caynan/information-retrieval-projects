@@ -1,0 +1,5873 @@
+1
+00:00:39,965 --> 00:00:42,684
+Existe um antigo poema egípcio
+que diz:
+
+2
+00:00:42,805 --> 00:00:45,565
+" Nilo, Nilo, Nilo!
+
+3
+00:00:45,565 --> 00:00:48,033
+" Rio impetuoso e tumultuoso,
+
+4
+00:00:48,165 --> 00:00:52,124
+tu és, como a nossa rainha,
+a fonte da vida:"
+
+5
+00:00:52,805 --> 00:00:58,198
+ASTÉRIX & OBÉLIX:
+MISSÃO CLEÓPATRA
+
+6
+00:01:01,525 --> 00:01:03,880
+Argumento baseado na obra de
+
+7
+00:01:49,245 --> 00:01:52,555
+A nossa história começa
+,
+em tempos idos e recuados
+
+8
+00:01:52,685 --> 00:01:56,234
+na cidade de Alexandria ou em
+Alexandria - diz-se dos dois modos -
+
+9
+00:01:56,365 --> 00:02:00,563
+aqui mesmo no Egipto, no palácio
+da rainha das rainhas,
+
+10
+00:02:00,645 --> 00:02:05,241
+a lendária e delicada Cleópatra:
+- Basta!
+
+11
+00:02:07,765 --> 00:02:12,156
+Digo apenas que, em termos culturais,
+o Egipto já não é...
+
+12
+00:02:12,565 --> 00:02:15,204
+Não que não tenha havido
+um grande período egípcio.
+
+13
+00:02:15,325 --> 00:02:18,476
+Houve. Só que hoje em dia
+o teu povo está decadente
+
+14
+00:02:18,725 --> 00:02:21,603
+e o Egipto não passa
+de uma província de Roma.
+
+15
+00:02:21,765 --> 00:02:23,565
+Uma " " província" " !
+
+16
+00:02:23,565 --> 00:02:24,680
+Sim!
+
+17
+00:02:24,965 --> 00:02:27,923
+Que eu saiba, ó César,
+
+18
+00:02:28,085 --> 00:02:30,997
+não foram os romanos que erigiram
+as pirâmides.
+
+19
+00:02:31,885 --> 00:02:34,685
+- Aquelas cenas bicudas?
+- E a Esfinge?
+
+20
+00:02:34,685 --> 00:02:37,597
+E a Torre de Pharos, são o quê?
+Uma ninharia?!
+
+21
+00:02:37,685 --> 00:02:40,324
+- Isso não foi propriamente feito ontem.
+- Ontem...
+
+22
+00:02:40,405 --> 00:02:43,285
+...como hoje, o meu povo
+é o maior de todos os povos!
+
+23
+00:02:43,285 --> 00:02:45,879
+Ora, o teu povo!
+Tu és de origem grega.
+
+24
+00:02:45,965 --> 00:02:49,321
+- Como egípcia de cepa já vi melhor!
+- Basta!
+
+25
+00:02:51,885 --> 00:02:55,116
+Posso provar-te em qualquer altura,
+ó César,
+
+26
+00:02:55,205 --> 00:02:58,197
+que o meu povo egípcio conserva
+todo o seu génio.
+
+27
+00:02:58,285 --> 00:03:01,004
+E como?
+Desenhando homenzinhos de perfil?
+
+28
+00:03:01,125 --> 00:03:04,725
+Não. Fazendo com que te seja
+construído um palácio.
+
+29
+00:03:04,725 --> 00:03:06,716
+Estou bem servido com
+o que tenho em Roma.
+
+30
+00:03:06,845 --> 00:03:09,279
+Pois terás outro aqui
+em Alexandria.
+
+31
+00:03:09,365 --> 00:03:12,880
+Assim, quando vieres à " " província" "
+já tens onde ficar!
+
+32
+00:03:13,085 --> 00:03:17,363
+Com a diferença que este será maior
+e mais sumptuoso
+
+33
+00:03:17,445 --> 00:03:19,561
+do que todos os palácios
+que alguma vez tiveste!
+
+34
+00:03:19,845 --> 00:03:24,325
+Maior e mais sumptuoso que o Palácio
+César? Isso queria eu ver!
+
+35
+00:03:24,325 --> 00:03:25,599
+Pois verás.
+
+36
+00:03:26,325 --> 00:03:30,000
+Roma não se fez num dia... Essa
+maravilha fica pronta quando?
+
+37
+00:03:30,125 --> 00:03:32,639
+- Daqui a 3 séculos?
+- Daqui a 3 meses.
+
+38
+00:03:33,965 --> 00:03:37,401
+- Três meses?
+- Três meses?!
+
+39
+00:03:38,085 --> 00:03:41,485
+Precisamente daqui a 3 meses
+terás o teu palácio.
+
+40
+00:03:41,485 --> 00:03:43,521
+Nunca vi uma obra acabar a tempo,
+
+41
+00:03:44,085 --> 00:03:46,155
+mas aceito a aposta.
+
+42
+00:03:46,245 --> 00:03:49,125
+Se tiveres êxito,
+reconhecerei publicamente
+
+43
+00:03:49,125 --> 00:03:51,719
+que o teu povo ainda é um grande povo.
+
+44
+00:03:51,925 --> 00:03:53,597
+Mas duvido!
+
+45
+00:03:57,165 --> 00:03:58,803
+" " Mas... duvido" " !
+
+46
+00:04:00,965 --> 00:04:02,921
+Até daqui a 3 meses!
+
+47
+00:04:03,085 --> 00:04:05,883
+Como este César me põe fula!
+
+48
+00:04:16,525 --> 00:04:19,925
+Ó, não! Porque é que já colocou
+os ladrilhos?
+
+49
+00:04:19,925 --> 00:04:23,918
+Primeiro era o escoamento de águas.
+Vai ter que ser tudo retirado.
+
+50
+00:04:24,005 --> 00:04:26,394
+Sr. Dornocóccis, eu não sou
+arquitecto, sou ladrilhador.
+
+51
+00:04:26,485 --> 00:04:28,362
+Mandam-me ladrilhar, eu ladrilho.
+
+52
+00:04:28,445 --> 00:04:31,562
+- Que porta é aquela ali em cima?
+- Não faço ideia.
+
+53
+00:04:31,685 --> 00:04:33,721
+Quem sabe isso é Numerobis,
+o arquitecto.
+
+54
+00:04:33,925 --> 00:04:38,441
+Esses e os reparadores de carros
+são uns vigaristas e incompetentes.
+
+55
+00:04:38,645 --> 00:04:40,158
+Dornocóccis!
+
+56
+00:04:40,325 --> 00:04:43,397
+- Numerobis!
+- Fico muito contente de o ver.
+
+57
+00:04:43,885 --> 00:04:46,035
+- Que tal vai?
+- Mal.
+
+58
+00:04:46,525 --> 00:04:48,402
+qual é o problema?
+
+59
+00:04:48,485 --> 00:04:50,601
+- Aquela porta ali em cima?
+- Aquilo?
+
+60
+00:04:50,765 --> 00:04:55,475
+Prevejo já o futuro. Se quiser fazer
+um 2º piso, já lá tem a porta para entrar.
+
+61
+00:04:55,605 --> 00:04:59,041
+Os ladrilhos não são uma maravilha?
+Fogodartificis, anda ver.
+
+62
+00:04:59,245 --> 00:05:02,362
+- O chão não é uma maravilha?
+- Uma maravilha.
+
+63
+00:05:07,005 --> 00:05:10,793
+Dornocóccis, confie em mim.
+Não sou reparador de carros!
+
+64
+00:05:10,885 --> 00:05:14,885
+É pior! Já leva 2 meses de atraso
+e desrespeitou o projecto.
+
+65
+00:05:14,885 --> 00:05:18,085
+Eu tenho conhecimentos, gente bem
+colocada que lhe pode dar chatices.
+
+66
+00:05:18,085 --> 00:05:21,760
+- Gente da alta-roda.
+- Antes fossem de Alexandria.
+
+67
+00:05:23,365 --> 00:05:24,844
+Arquitecto Numerobis?
+
+68
+00:05:26,445 --> 00:05:29,125
+Não sou;.. Bem, depende.
+E porquê?
+
+69
+00:05:29,125 --> 00:05:32,037
+Só disse que mais valia serem
+de Alexandria. Era uma piada.
+
+70
+00:05:32,165 --> 00:05:35,157
+Porque " " alta-roda" "  faz lembrar
+Alto Reno. Foi por isso.
+
+71
+00:05:35,485 --> 00:05:38,602
+Tenham lá calma!
+Não é preciso empurrar.
+
+72
+00:05:41,525 --> 00:05:45,518
+Pequeninos, pequeninos, pequeninos...
+Cá está o pequeno-almoço.
+
+73
+00:05:47,165 --> 00:05:48,678
+Imundícies.
+
+74
+00:05:49,125 --> 00:05:50,717
+O que é isto?
+
+75
+00:05:52,445 --> 00:05:53,764
+Paziamoris.
+
+76
+00:05:55,445 --> 00:05:56,673
+Sérgio...
+
+77
+00:06:02,085 --> 00:06:06,124
+Amonbófis, tens de mudar a água
+dos crocodilos. Está um fedor.
+
+78
+00:06:07,005 --> 00:06:08,961
+Não me cheira a nada!
+
+79
+00:06:09,085 --> 00:06:12,125
+Instalei o sistema de escoamento
+de águas como é costume...
+
+80
+00:06:12,125 --> 00:06:16,845
+Aí reside o problema. Fazes sempre
+as coisas " " como é costume" " .
+
+81
+00:06:16,845 --> 00:06:19,120
+Sim, é costume fazermos
+as coisas deste modo.
+
+82
+00:06:20,005 --> 00:06:22,997
+Este chão é esquisito.
+Não se sente.
+
+83
+00:06:23,165 --> 00:06:24,598
+É para onde?
+
+84
+00:06:27,205 --> 00:06:28,479
+Bom dia.
+
+85
+00:06:31,165 --> 00:06:35,283
+Numerobis, consideras o Egipto
+o império mais poderoso do mundo?
+
+86
+00:06:35,445 --> 00:06:38,881
+Sim. Exacto. Não há no mundo
+império mais poderoso.
+
+87
+00:06:39,125 --> 00:06:42,645
+Não conheço todos os impérios
+do mundo, mas... não.
+
+88
+00:06:42,645 --> 00:06:45,955
+O mundo romano,
+representado por César, duvida.
+
+89
+00:06:46,045 --> 00:06:48,845
+Vou mostrar-lhe aquilo
+de que o Egipto é capaz.
+
+90
+00:06:48,845 --> 00:06:49,965
+Está bem.
+
+91
+00:06:49,965 --> 00:06:52,645
+Farei com que lhe construam
+um palácio magnífico.
+
+92
+00:06:52,645 --> 00:06:53,845
+Está bem.
+
+93
+00:06:53,845 --> 00:06:56,845
+E o arquitecto da obra serás tu,
+Numerobis.
+
+94
+00:06:56,845 --> 00:06:58,073
+Está bem.
+
+95
+00:06:58,325 --> 00:07:01,237
+Serei eu... o arquitecto.
+O que... quereis dizer?
+
+96
+00:07:01,325 --> 00:07:03,600
+Eu é que vou arquitectar
+todo o...
+
+97
+00:07:04,525 --> 00:07:07,198
+Os meus arquitectos
+estão todos ocupados.
+
+98
+00:07:07,285 --> 00:07:09,965
+Eu cá não estou.
+
+99
+00:07:09,965 --> 00:07:11,921
+Ele... não está ocupado.
+
+100
+00:07:14,845 --> 00:07:18,394
+Numerobis,
+tu és o único disponível.
+
+101
+00:07:18,725 --> 00:07:22,525
+Ando um bocadinho ocupado
+a acabar a obra do Dornocóccis.
+
+102
+00:07:22,525 --> 00:07:24,993
+Há um problema com o chão,
+coisa pouca, mas convém...
+
+103
+00:07:25,165 --> 00:07:29,365
+Minha rainha, como vosso arquitecto,
+ouso propor-vos os meus serviços.
+
+104
+00:07:29,365 --> 00:07:32,198
+Uma vez mudada a água
+dos crocodilos, posso...
+
+105
+00:07:32,325 --> 00:07:36,113
+Não, Amonbófis. És um bom
+arquitecto, mas um pouco clássico.
+
+106
+00:07:36,205 --> 00:07:38,878
+Clássico... Como assim?
+
+107
+00:07:38,965 --> 00:07:42,162
+Busco aqui uma abordagem
+diferente, um olhar jovem.
+
+108
+00:07:42,245 --> 00:07:46,325
+Mas ajudarás o Numerobis,
+encontrando-lhe o terreno.
+
+109
+00:07:46,325 --> 00:07:47,644
+O terreno?
+
+110
+00:07:48,525 --> 00:07:51,164
+- Como quiserdes.
+- Vai, Numerobis.
+
+111
+00:07:51,325 --> 00:07:53,680
+Constrói o palácio.
+Tens 3 meses.
+
+112
+00:07:55,325 --> 00:07:58,605
+Mas a partir de...
+E com quanto tempo para atrasos?
+
+113
+00:07:58,605 --> 00:08:02,234
+Porque em 3 meses, em 3 meses no
+máximo, faz-se o projecto, tudo bem.
+
+114
+00:08:02,325 --> 00:08:06,318
+Para as fundações há que contar
+com 2, 3 meses. 3 x 4 = 9...
+
+115
+00:08:06,485 --> 00:08:10,398
+Três meses vai ser... Quer-me parecer
+que não é lá muito praticável.
+
+116
+00:08:10,565 --> 00:08:15,275
+Numerobis! Tens precisamente 3 meses
+a partir de... agora!
+
+117
+00:08:26,405 --> 00:08:29,602
+Se conseguires,
+cobrir-te-ei de ouro.
+
+118
+00:08:30,565 --> 00:08:34,399
+Se falhares,
+atiro-te aos crocodilos.
+
+119
+00:09:01,445 --> 00:09:03,276
+Que é do memézinho?
+
+120
+00:09:04,565 --> 00:09:06,601
+Comeram o memézinho?
+
+121
+00:09:11,805 --> 00:09:14,638
+Quem devia construir este palácio
+era eu.
+
+122
+00:09:15,005 --> 00:09:20,682
+Cleópatra, a chuva, o granizo e
+os gafanhotos são pragas menores.
+
+123
+00:09:20,805 --> 00:09:24,354
+Eu é que serei o teu pior pesadelo
+aqui no Egipto.
+
+124
+00:09:27,205 --> 00:09:30,481
+17, 18, 19, 20, 21 .
+
+125
+00:09:40,325 --> 00:09:43,044
+- 444, 445, 446, 447...
+- Patrãozinho!
+
+126
+00:09:43,165 --> 00:09:45,838
+450, 45 1, 452, 453, 454,
+
+127
+00:09:45,965 --> 00:09:48,877
+- 455, 456, 457, 458..
+- Patrãozinho.
+
+128
+00:09:49,005 --> 00:09:51,200
+Vim assim que pude,
+mas isto fica longe!
+
+129
+00:09:51,605 --> 00:09:54,403
+Pensei numa espécie de máquina
+
+130
+00:09:54,525 --> 00:09:57,165
+para podermos subir ás pirâmides...
+
+131
+00:09:57,165 --> 00:09:59,485
+Otis, isso pode ficar
+para daqui a bocadinho?
+
+132
+00:09:59,485 --> 00:10:00,474
+Sim.
+
+133
+00:10:01,205 --> 00:10:06,074
+- Estás a contar o quê, patrãozinho?
+- Estou a medir. 471 ... 47 4...
+
+134
+00:10:07,325 --> 00:10:11,365
+Cleópatra mandou-me construir
+um palácio para César. Aqui,
+
+135
+00:10:11,365 --> 00:10:13,833
+a ocupar este terreno todo.
+Dali...
+
+136
+00:10:14,565 --> 00:10:16,157
+até ali.
+
+137
+00:10:17,845 --> 00:10:19,965
+Nada mau, esse palácio!
+
+138
+00:10:19,965 --> 00:10:23,002
+- Ela quere-o moderno e audacioso.
+- Calha mesmo bem!
+
+139
+00:10:23,125 --> 00:10:26,925
+Não queres parar de contar?
+E para isso que temos medidores...
+
+140
+00:10:26,925 --> 00:10:29,125
+Não há tempo.
+Só dispomos de 3 meses.
+
+141
+00:10:29,125 --> 00:10:32,525
+- Mais quanto tempo de atraso?
+- Nenhum, Otis.
+
+142
+00:10:32,525 --> 00:10:34,481
+3 meses e nem mais um dia.
+
+143
+00:10:35,445 --> 00:10:37,640
+- É impossível!
+- Obviamente.
+
+144
+00:10:38,005 --> 00:10:42,396
+- Um contra-relógio é interessante.
+- Não é contra-relógio, é um suicídio.
+
+145
+00:10:42,525 --> 00:10:44,959
+Se falho, Cleópatra
+atira-me aos crocodilos.
+
+146
+00:10:45,125 --> 00:10:48,117
+E eu vi-os! Os bichos têm cá
+um destes apetites.
+
+147
+00:10:48,205 --> 00:10:51,245
+Não é nada bom.
+Não conseguirei acabar a máquina.
+
+148
+00:10:51,245 --> 00:10:55,557
+Não ouviste o que acabei de dizer ou
+não ouviste o que acabei de dizer?!
+
+149
+00:10:56,285 --> 00:10:59,285
+Arrisco-me a acabar na barriga
+de um crocodilo!
+
+150
+00:10:59,285 --> 00:11:00,957
+São 3 meses a partir de quando?
+
+151
+00:11:03,405 --> 00:11:06,203
+- Já começou a contar.
+- Só para os jardins são anos.
+
+152
+00:11:06,285 --> 00:11:09,322
+Não há nada feito.
+Temos de começar do zero.
+
+153
+00:11:09,525 --> 00:11:14,394
+Só conseguiríamos com poderes
+mágicos, se fôssemos magos, deuses.
+
+154
+00:11:16,805 --> 00:11:20,036
+É isso... Precisamos de ter
+poderes mágicos!
+
+155
+00:11:20,125 --> 00:11:22,958
+Exacto. Não vejo
+é onde está a boa notícia.
+
+156
+00:11:26,805 --> 00:11:28,523
+Quando eu era pequeno...
+
+157
+00:11:29,445 --> 00:11:33,518
+o meu pai falava-me muito de um
+druida, o Pamo... Panobêmix...
+
+158
+00:11:35,565 --> 00:11:39,922
+- Panassonix...
+- Uma cena acabada em ix?
+
+159
+00:11:40,485 --> 00:11:42,476
+Mathieukassovix?
+
+160
+00:11:42,565 --> 00:11:45,159
+Começa por Panob...
+e acaba em ininekix...
+
+161
+00:11:45,285 --> 00:11:49,961
+- Será Pêradoceperabacatix?
+- Pamê... Panorémi... Um druida.
+
+162
+00:11:50,125 --> 00:11:53,565
+Um gaulês cuja poção mágica
+dá uma forca sobre-humana.
+
+163
+00:11:53,565 --> 00:11:55,885
+Ela dá uma força
+mas uma senhora forca!
+
+164
+00:11:55,885 --> 00:11:59,594
+Com a poção acabaríamos a tempo e
+eu não seria atirado aos crocodilos.
+
+165
+00:12:00,085 --> 00:12:04,158
+Imhotep... Não pensei que fosse
+tão fácil. De repente estou safo!
+
+166
+00:12:04,325 --> 00:12:07,362
+As poções mágicas não existem.
+
+167
+00:12:07,445 --> 00:12:10,721
+Só nos papiros aos quadradinhos
+para as crianças, não na realidade.
+
+168
+00:12:11,005 --> 00:12:13,963
+Arranja muitos trabalhadores
+e lanca as fundacões além.
+
+169
+00:12:14,085 --> 00:12:16,885
+Junto á palmeira, uma grande
+alameda com estátuas,
+
+170
+00:12:16,885 --> 00:12:19,605
+a " " Grande Alameda Com Estátuas" " .
+Além, jardins com...
+
+171
+00:12:19,605 --> 00:12:22,445
+oliveiras, laranjadas, chorões
+e cações...
+
+172
+00:12:22,445 --> 00:12:25,925
+Ao fundo o palácio...
+luxuriante, magnífico, garrido,
+
+173
+00:12:25,925 --> 00:12:28,723
+com uma grande corte cheia
+de dançarinas que poderão dançar.
+
+174
+00:12:29,565 --> 00:12:31,840
+E aqui um pequeno gerânio.
+
+175
+00:12:32,005 --> 00:12:34,280
+Vai ficar bem.
+
+176
+00:12:34,445 --> 00:12:37,960
+Vai ficar muito bem, aliás.
+É claro que agora só imaginando.
+
+177
+00:12:39,085 --> 00:12:43,165
+- Vou partir. Até daqui a um mês.
+- Daqui a um mês?!
+
+178
+00:12:43,165 --> 00:12:46,125
+No máximo. É só o tempo de
+encontrar o Panobamix e de voltar.
+
+179
+00:12:46,125 --> 00:12:47,240
+Arre, Cannabis.
+
+180
+00:12:48,565 --> 00:12:50,123
+Arre, Cannabis!
+
+181
+00:12:51,405 --> 00:12:57,037
+Vai!
+Não dás um passo!
+
+182
+00:12:57,765 --> 00:13:01,645
+- Embora! Arre, Cannabis!
+- Onde é que mora o RMIx?
+
+183
+00:13:01,645 --> 00:13:05,525
+No norte. Bem Iá para o norte!
+Vai, Cannabis! Arre! Galopa!
+
+184
+00:13:05,525 --> 00:13:08,597
+Galopa, Cannabis.
+Get on down:
+
+185
+00:13:13,445 --> 00:13:16,357
+Estamos no ano 50 antes
+de Jesus Cristo:
+
+186
+00:13:16,445 --> 00:13:19,084
+Toda a Gália está ocupada
+pelos romanos:
+
+187
+00:13:19,165 --> 00:13:23,477
+Toda? Não! Uma aldeia
+habitada por indomáveis gauleses
+
+188
+00:13:23,565 --> 00:13:25,954
+resiste ainda e sempre
+ao invasor:
+
+189
+00:13:26,165 --> 00:13:29,919
+E a vida não é fácil
+para as guarnições romanas
+
+190
+00:13:30,085 --> 00:13:33,475
+dos campos fortificados de
+Babaorum, Aquarium, Laudanum
+
+191
+00:13:33,605 --> 00:13:35,243
+e Petibonum:::
+
+192
+00:13:35,325 --> 00:13:37,998
+Defende-te, gaulês.
+Vende cara a vida!
+
+193
+00:13:38,085 --> 00:13:39,996
+Eu já vos dou atenção.
+
+194
+00:13:44,565 --> 00:13:46,123
+O que era isso?
+
+195
+00:13:46,405 --> 00:13:49,841
+- São novos por aqui?
+- Acabámos de chegar.
+
+196
+00:13:49,965 --> 00:13:54,125
+Ora aí está! É que esta poção
+é uma poção mágica
+
+197
+00:13:54,125 --> 00:13:56,445
+preparada pelo nosso druida
+e que aumenta
+
+198
+00:13:56,445 --> 00:13:58,481
+consideravelmente a nossa forca.
+ç
+
+199
+00:14:01,365 --> 00:14:02,878
+Ora veja.
+
+200
+00:14:06,965 --> 00:14:08,478
+Panomanix!
+
+201
+00:14:09,005 --> 00:14:13,396
+Panomaplix!
+Que raio de país este!
+
+202
+00:14:14,525 --> 00:14:18,518
+Não é possível.
+Devem estar uns 8 mil graus negativos.
+
+203
+00:14:27,045 --> 00:14:30,515
+Eu não preciso de a tomar. Caí
+dentro dela quando era pequeno,
+
+204
+00:14:30,685 --> 00:14:33,916
+o que me dá por si só uma força
+considerável.
+
+205
+00:14:34,285 --> 00:14:35,638
+Ora veja.
+
+206
+00:14:39,285 --> 00:14:40,513
+Lindo!
+
+207
+00:14:42,325 --> 00:14:44,919
+Bom dia. Onde fica a aldeia
+dos gauleses?
+
+208
+00:14:45,285 --> 00:14:50,085
+Daqui, o melhor a fazer é seguir os
+tabefes, que dá com eles de certeza.
+
+209
+00:14:50,085 --> 00:14:52,045
+Não me leva a mal
+que eu não o acompanhe...
+
+210
+00:14:52,045 --> 00:14:55,481
+Vou ficar aqui...
+a pensar na vida.
+
+211
+00:14:57,085 --> 00:15:00,794
+Não estão mal estes romanos.
+Voam melhor do que os outros.
+
+212
+00:15:00,885 --> 00:15:05,322
+Deve ser dos capacetes novos.
+Com eles cortam melhor o ar.
+
+213
+00:15:05,765 --> 00:15:07,084
+Escuta.
+
+214
+00:15:08,525 --> 00:15:11,244
+A aterragem é que é sempre
+um bocado pesada.
+
+215
+00:15:12,365 --> 00:15:16,995
+- Faz favor. O senhor é o Asterixco?
+- Rix. Astérix.
+
+216
+00:15:17,085 --> 00:15:20,441
+- E este é o Obélix.
+- E o cãozinho é o Ideiafix.
+
+217
+00:15:20,605 --> 00:15:25,679
+Conhecem o Panobaménix?
+É um dróide.
+
+218
+00:15:31,765 --> 00:15:35,997
+Panoramix, desculpa interromper-te
+o trabalho, mas tens uma visita.
+
+219
+00:15:38,325 --> 00:15:41,283
+- O senhor é?
+- Sou... sou eu!
+
+220
+00:15:42,845 --> 00:15:46,405
+- É nítido que ele não o conhece.
+- Conhece! Sou...
+
+221
+00:15:46,405 --> 00:15:49,044
+o Numerobis, filho do seu velho
+amigo Tumôris.
+
+222
+00:15:49,165 --> 00:15:52,555
+Mas que bela surpresa!
+
+223
+00:15:52,685 --> 00:15:56,758
+Se vens de Alexandria,
+deves estar gelado.
+
+224
+00:15:56,845 --> 00:15:59,313
+Meu caro amigo,
+estou felicíssimo de o ver.
+
+225
+00:15:59,445 --> 00:16:02,835
+É um alexandrino.
+Vem aquecer-te.
+
+226
+00:16:04,765 --> 00:16:07,996
+- É poção mágica?
+- Não, é sopa de castanhas.
+
+227
+00:16:13,525 --> 00:16:18,963
+Não. Não te posso vender poção
+mágica, Numerobis.
+
+228
+00:16:20,405 --> 00:16:24,717
+Não era para ma vender toda.
+Eu só quero um caldeirão.
+
+229
+00:16:26,885 --> 00:16:30,085
+É uma questão de princípio.
+Não o demoverás.
+
+230
+00:16:30,085 --> 00:16:31,757
+Um caldeirão pequenino.
+
+231
+00:16:34,285 --> 00:16:35,764
+Um cantil.
+
+232
+00:16:38,485 --> 00:16:40,316
+Um cantilzinho.
+
+233
+00:16:41,605 --> 00:16:46,315
+Uma taça. Uma tacita. É uma taça
+pequenina. Uma tacita e mais nada.
+
+234
+00:16:46,405 --> 00:16:51,320
+O segredo da poção transmite-se de
+druida em druida. Não é para venda.
+
+235
+00:16:54,485 --> 00:16:56,521
+Uma tacita não é nada.
+
+236
+00:16:57,245 --> 00:16:59,679
+Sinto muito, Numerobis.
+
+237
+00:17:04,245 --> 00:17:05,758
+Está bem.
+
+238
+00:17:07,165 --> 00:17:09,474
+Era a minha única esperança.
+
+239
+00:17:10,645 --> 00:17:15,639
+O último raminho que me prendia
+à vida. Mas compreendo.
+
+240
+00:17:16,685 --> 00:17:18,596
+Tem outras preocupações:
+
+241
+00:17:19,445 --> 00:17:22,562
+César, os romanos, por quem eu
+não morro de amores, aliás.
+
+242
+00:17:24,565 --> 00:17:28,478
+Talvez eu vá morrer, mas gostei
+muito de vos conhecer.
+
+243
+00:17:29,525 --> 00:17:32,915
+Senhores gauleses, Minifix...
+
+244
+00:17:39,005 --> 00:17:40,757
+Mas o que é?
+
+245
+00:17:43,005 --> 00:17:44,563
+Espera, Numerobis.
+
+246
+00:17:44,805 --> 00:17:48,565
+Eu queria consultar uns manuscritos
+na biblioteca de Alexandria.
+
+247
+00:17:48,565 --> 00:17:51,762
+Não te prometo nada,
+mas gostava de ir contigo.
+
+248
+00:17:51,885 --> 00:17:56,197
+Obrigado, Panom...
+Muito obrigado, Panomanix!
+
+249
+00:17:57,245 --> 00:18:00,125
+O navio espera-nos na costa.
+Há lugar para todos.
+
+250
+00:18:00,125 --> 00:18:02,320
+- Não há tempo a perder.
+- Vamos viajar, Ideiafix.
+
+251
+00:18:02,525 --> 00:18:06,085
+- Não o vais levar connosco.
+- E porque não?
+
+252
+00:18:06,085 --> 00:18:09,839
+É muito pequeno para tal viagem.
+E o Egipto é o país dos gatos.
+
+253
+00:18:10,565 --> 00:18:13,159
+Vai fazer as tuas malas.
+Não se fala mais nisto.
+
+254
+00:18:14,365 --> 00:18:16,037
+" " Não se fala mais nisto" " .
+
+255
+00:18:16,365 --> 00:18:18,162
+" " Não se fala mais nisto" " .
+
+256
+00:18:27,365 --> 00:18:31,483
+E sob a gelada chuva de Inverno,
+a bordo do " Nadadelis" ,
+
+257
+00:18:31,565 --> 00:18:35,763
+começa a longa viagem a caminho do
+Egipto, o país de Rá, o deus Sol:
+
+258
+00:18:35,845 --> 00:18:39,245
+O reino da lendária Cleópatra
+não tardaria a acolher
+
+259
+00:18:39,245 --> 00:18:41,805
+Astérix, Obélix, Panoramix:::
+
+260
+00:18:42,085 --> 00:18:43,837
+E Ideiafix?
+
+261
+00:18:44,685 --> 00:18:46,323
+O que foi?
+
+262
+00:18:47,565 --> 00:18:51,035
+Fui eu que ladrei. Como não tenho
+o direito de falar, ladro.
+
+263
+00:18:51,565 --> 00:18:55,405
+Vá, ganhaste. Tira-o do saco,
+ou ele ainda morre asfixiado.
+
+264
+00:18:55,405 --> 00:18:58,158
+- Não há nada no saco.
+- " " Não há nada no saco" " .
+
+265
+00:18:59,205 --> 00:19:03,085
+Olha, estava aqui!
+Como é inteligente!
+
+266
+00:19:03,085 --> 00:19:06,565
+Meu pequenino... Que querido!
+Ele não me queria deixar.
+
+267
+00:19:06,565 --> 00:19:08,405
+Veio sozinho...
+
+268
+00:19:08,405 --> 00:19:11,556
+Estávamos aqui a dizer que 3 meses
+era um bocado apertado.
+
+269
+00:19:11,645 --> 00:19:13,601
+Até porque Amonbófis
+é uma verdadeira hiena.
+
+270
+00:19:13,685 --> 00:19:16,438
+Sabem o que é uma hiena?
+Ele é igual.
+
+271
+00:19:16,525 --> 00:19:19,915
+- Ele odeia-me e tem muito talento.
+- É dotado?
+
+272
+00:19:20,005 --> 00:19:24,237
+Não, é rico. Tem muitos talentos
+de ouro. É a moeda que utilizamos.
+
+273
+00:19:24,365 --> 00:19:27,357
+Na Gália, as pessoas de mais talento
+não são as mais ricas...
+
+274
+00:19:27,485 --> 00:19:30,682
+- E que mais temos a temer?
+- A partida, nada.
+
+275
+00:19:31,405 --> 00:19:36,115
+Barba Ruiva! Barba Ruiva!
+Barba Ruiva!
+
+276
+00:19:48,005 --> 00:19:51,998
+Rapazes! Da última vez tivemos azar,
+apareceram-nos os gauleses,
+
+277
+00:19:52,965 --> 00:19:56,321
+entupidos de poção mágica,
+mais o seu canzarrão.
+
+278
+00:19:57,565 --> 00:20:01,725
+Numericamente esmagados por ambos,
+nada pudemos fazer e tivemos de...
+
+279
+00:20:01,725 --> 00:20:04,956
+- Fugir.
+- Não propriamente.
+
+280
+00:20:05,245 --> 00:20:08,365
+Abandonámos o navio um pouco
+á pressa...
+
+281
+00:20:08,365 --> 00:20:10,245
+A nado e com a água gelada.
+
+282
+00:20:10,245 --> 00:20:11,685
+- Não, estava boa.
+- Estava gelada.
+
+283
+00:20:11,685 --> 00:20:12,879
+Boa.
+
+284
+00:20:14,085 --> 00:20:18,601
+Portanto, para evitar sarilhos,
+evitaremos os navios gauleses.
+
+285
+00:20:18,805 --> 00:20:21,877
+Com os outros não teremos
+piedade!
+
+286
+00:20:27,525 --> 00:20:31,234
+Navio a estibo'do!
+
+287
+00:20:34,205 --> 00:20:37,003
+Preparada para a abordagem, pai.
+Icem as artemusas!
+
+288
+00:20:37,085 --> 00:20:40,964
+Calma, minha filha. Além do mais,
+" Icem as artemusas "  não é nada.
+
+289
+00:20:41,085 --> 00:20:45,476
+- Era o que eu estava a pensar.
+- Quantos navios são?
+
+290
+00:20:45,565 --> 00:20:48,682
+Só um, capitão.
+Visto daqui é muito pequenino.
+
+291
+00:20:49,925 --> 00:20:53,315
+Egípcio, capitão. Egípcio!
+
+292
+00:20:53,445 --> 00:20:57,074
+Egípcio é bom.
+Vamos poder melhorar de vida.
+
+293
+00:20:57,205 --> 00:20:59,805
+Ipso Facto et Manu Militari:
+
+294
+00:20:59,805 --> 00:21:01,238
+Perna de Pau...
+
+295
+00:21:02,285 --> 00:21:06,517
+Todos aos seus postos! Bosco,
+Rum-Duplo, adricem os escabeches!
+
+296
+00:21:06,605 --> 00:21:09,756
+Crânio Duro, Facadas, Caveira...
+Enfunem as artibandas!
+
+297
+00:21:11,765 --> 00:21:14,404
+À abordagem!
+
+298
+00:21:22,845 --> 00:21:26,554
+Sou o rei do mundo!
+
+299
+00:21:27,845 --> 00:21:29,324
+Piratas!
+
+300
+00:21:33,045 --> 00:21:34,763
+Socorro, são piratas!
+
+301
+00:21:38,365 --> 00:21:41,163
+Vejam, são piratas.
+Depressa, temos de sair daqui.
+
+302
+00:21:41,285 --> 00:21:44,083
+Ah, os piratas!
+
+303
+00:21:46,965 --> 00:21:48,683
+Somos nós!
+
+304
+00:21:51,445 --> 00:21:54,205
+Os gau... Os gau...
+
+305
+00:21:54,205 --> 00:21:55,479
+Os gaugau...
+
+306
+00:21:55,805 --> 00:21:59,161
+Os gauleses! Não pode ser!
+
+307
+00:22:01,525 --> 00:22:05,643
+Não há aí um machado?
+Chega-te para lá. Dá-me cá isso.
+
+308
+00:22:08,525 --> 00:22:12,313
+- Cuidadinho aí em baixo!
+- O que estão eles a fazer?
+
+309
+00:22:21,525 --> 00:22:24,801
+- Batoteiros! Não sabem perder!
+- Não está certo.
+
+310
+00:22:30,445 --> 00:22:32,754
+Pois, é verdade.
+Afundem-se, sempre é melhor!
+
+311
+00:22:32,885 --> 00:22:35,245
+Parecia que sabiam
+com quem se iam meter.
+
+312
+00:22:35,245 --> 00:22:38,681
+São velhos conhecidos nossos.
+Vamos muitas vezes ao mar juntos.
+
+313
+00:22:42,405 --> 00:22:45,442
+Vês, " " O abismo convoca
+o abismo" " .
+
+314
+00:22:45,685 --> 00:22:51,396
+- Abyssus abyssum invocat:
+- Já chega de citações em Latim.
+
+315
+00:23:00,165 --> 00:23:04,725
+- Que clarão é aquele no horizonte?
+- As luzes do porto de Alexandria.
+
+316
+00:23:04,725 --> 00:23:07,637
+" " Fazem naufragar as borboletas
+da minha juventude" " .
+
+317
+00:23:08,765 --> 00:23:10,835
+Não sei porque disse isto.
+
+318
+00:23:10,925 --> 00:23:13,280
+- Tenho fome.
+- Estaremos em Alexandria amanhã.
+
+319
+00:23:13,365 --> 00:23:17,278
+Além fica a torre da ilha de Pharos,
+cuja luz orienta todos os navios.
+
+320
+00:23:17,365 --> 00:23:21,085
+Uma luz que orienta todos os navios?
+Estes egípcios são doidos!
+
+321
+00:23:21,085 --> 00:23:22,885
+É uma das sete maravilhas
+do mundo,
+
+322
+00:23:22,885 --> 00:23:26,082
+o maior edifício alguma vez
+construído pelo homem.
+
+323
+00:23:26,205 --> 00:23:30,562
+- Tenho mais fome que uma barracuda.
+- Ba-rra-cu-da.
+
+324
+00:24:01,205 --> 00:24:03,514
+Solicitaste uma audiência,
+Numerobis.
+
+325
+00:24:03,605 --> 00:24:06,685
+Minha rainha, a construção
+do palácio avança, mas o prazo
+
+326
+00:24:06,685 --> 00:24:09,805
+é demasiado curto. Logo, pedi
+a uns amigos gauleses, um mago
+
+327
+00:24:09,805 --> 00:24:13,045
+muito poderoso e dois valorosos
+guerreiros, que me ajudassem.
+
+328
+00:24:13,045 --> 00:24:15,565
+Venho solicitar
+a vossa concordância,
+
+329
+00:24:15,565 --> 00:24:19,365
+isto é, que me acordeis
+toda a vossa ajudança.
+
+330
+00:24:19,365 --> 00:24:23,565
+Mas ajudança de ajudar.
+Não tem nada a ver com dançar.
+
+331
+00:24:23,565 --> 00:24:27,319
+- Tal não ousaria pedir-vos.
+- Utiliza a ajuda que quiseres,
+
+332
+00:24:28,085 --> 00:24:31,600
+mas constrói o palácio dentro
+do prazo. E tudo o que eu peço.
+
+333
+00:24:31,965 --> 00:24:36,005
+César maça-me com piadinhas.
+Não posso desacreditar-me...
+
+334
+00:24:36,005 --> 00:24:38,724
+- Ela é bonita.
+- Todo ele é arrogância.
+
+335
+00:24:39,125 --> 00:24:41,798
+Todo! Todo!
+
+336
+00:24:59,925 --> 00:25:01,722
+Far-se-á o seguinte.
+
+337
+00:25:01,965 --> 00:25:04,765
+Se terminarem a tempo,
+haverá ouro para os quatro.
+
+338
+00:25:04,765 --> 00:25:06,164
+Isso é agradável.
+
+339
+00:25:06,245 --> 00:25:08,805
+- Senão, crocodilos para todos.
+- Isso não é agradável!
+
+340
+00:25:13,245 --> 00:25:15,201
+E agora, saiam.
+
+341
+00:25:24,245 --> 00:25:26,554
+O bigodaças é queridinho.
+
+342
+00:25:27,085 --> 00:25:30,634
+- Um bocadinho velho, não?
+- Não é esse, o outro.
+
+343
+00:25:30,725 --> 00:25:33,523
+- É gordo de mais.
+- Estás a fazer de propósito, é?
+
+344
+00:25:36,085 --> 00:25:40,124
+Ela tem ar de não ser para graças,
+mas possui um lindo nariz.
+
+345
+00:25:40,845 --> 00:25:43,685
+- Vai atirar-me aos crocodilos.
+- Um nariz bem bonito.
+
+346
+00:25:43,685 --> 00:25:45,323
+Um nadinha arrebitado.
+
+347
+00:25:45,965 --> 00:25:48,240
+Com aquela trançazinha
+sobre o ombro...
+
+348
+00:25:49,445 --> 00:25:52,525
+Ela vai atirar-me aos crocodilos
+e ele gaba-lhe o nariz.
+
+349
+00:25:52,525 --> 00:25:54,277
+Os crocodilos serão gostosos?
+
+350
+00:25:55,365 --> 00:25:58,038
+Não podiam, ao menos, fingir
+interessar-se pelo meu problema?!
+
+351
+00:26:00,645 --> 00:26:02,715
+Uma formiga enorme.
+
+352
+00:26:56,805 --> 00:27:00,325
+Quanta gente! Faz lembrar o mundial
+de gado bovino em Lutécia.
+
+353
+00:27:00,325 --> 00:27:02,600
+De 2 em 2 anos há lá
+uma feira de gado
+
+354
+00:27:02,685 --> 00:27:06,075
+onde são expostosos novos bovinos,
+as novas raças. E extraordinário.
+
+355
+00:27:06,165 --> 00:27:10,124
+- É um grande acontecimento popular.
+- Que bovinos têm vocês?
+
+356
+00:27:11,445 --> 00:27:15,199
+Parece um estaleiro, mas a obra
+avança sem se dar por ela.
+
+357
+00:27:15,365 --> 00:27:19,324
+Mas ainda há muito trabalho
+a fazer e só temos mais 2 meses.
+
+358
+00:27:19,565 --> 00:27:21,805
+Ora bem.
+Quanto à poção mágica...
+
+359
+00:27:21,805 --> 00:27:24,565
+Quando fui ter convosco
+à vossa terra, a Gaularia,
+
+360
+00:27:24,565 --> 00:27:27,685
+disse para eu não me preocupar,
+que me daria muita poção mágica.
+
+361
+00:27:27,685 --> 00:27:30,365
+-Disse que veria o que poderia fazer.
+-Como?
+
+362
+00:27:30,365 --> 00:27:33,675
+- E de onde vem toda esta areia?
+- Já aqui estava antes, Obélix.
+
+363
+00:27:34,445 --> 00:27:38,365
+Estas pedras são nilites:
+Vêm de propósito do Nilo.
+
+364
+00:27:38,365 --> 00:27:40,645
+É muito violento chicotear
+os escravos.
+
+365
+00:27:40,645 --> 00:27:43,478
+Eles não são escravos;
+são trabalhadores qualificados
+
+366
+00:27:43,565 --> 00:27:46,485
+que executam as tarefas de livre
+vontade e com uma remuneração.
+
+367
+00:27:46,485 --> 00:27:48,525
+E as chicotadas,
+são para encher o olho?
+
+368
+00:27:48,525 --> 00:27:51,995
+Não, quer dizer, sim. Não sei...
+Até á data ninguém se queixou.
+
+369
+00:27:52,925 --> 00:27:55,085
+- Istou?
+- Deve querer dizer " " avança" " .
+
+370
+00:27:55,085 --> 00:27:56,313
+- Istou:
+- Sim, Istou:
+
+371
+00:27:58,445 --> 00:28:00,754
+É o toque para o rancho.
+
+372
+00:28:00,925 --> 00:28:03,723
+Não. É o sinal para os chicoteadores
+se revezarem. Ora vejam.
+
+373
+00:28:04,445 --> 00:28:07,205
+A tradição obriga-os
+a trocarem os cabelos.
+
+374
+00:28:07,205 --> 00:28:10,085
+O chicoteador torna-se carregador
+e vice-versa.
+
+375
+00:28:10,085 --> 00:28:13,122
+- Unidos por laços capilares.
+- E uma cultura diferente.
+
+376
+00:28:13,485 --> 00:28:17,285
+Astérix, lembras-te do menir
+que eu atirei ao Caius Bónus?
+
+377
+00:28:17,285 --> 00:28:19,401
+Pesava mais ou menos o mesmo
+que aquele trenó de pedras, não?
+
+378
+00:28:19,485 --> 00:28:23,239
+Pergunta ao Caius Bónus.
+Ele é o mais indicado para responder.
+
+379
+00:28:30,125 --> 00:28:31,956
+É uma cultura diferente.
+
+380
+00:28:38,125 --> 00:28:41,485
+Outra factura. Já não posso mais
+com esta papirada administrativa!
+
+381
+00:28:41,485 --> 00:28:44,283
+Otis, o meu escriba.
+É ele quem escreve tudo.
+
+382
+00:28:44,365 --> 00:28:48,153
+- Imhotep!
+- Ser-se escriba é um bom emprego?
+
+383
+00:28:48,285 --> 00:28:52,325
+Se querem que vos diga, não acredito
+que haja bons ou maus empregos.
+
+384
+00:28:52,325 --> 00:28:54,325
+Se tivesse de vos resumir
+a minha vida,
+
+385
+00:28:54,325 --> 00:28:56,281
+diria que é uma questão
+de oportunidade.
+
+386
+00:28:56,445 --> 00:29:01,121
+Houve quem me tivesse estendido
+a mão em alturas difíceis, de solidão.
+
+387
+00:29:01,205 --> 00:29:05,118
+É curioso verificar que os acasos, os
+encontros fortuitos, traçam um destino.
+
+388
+00:29:05,245 --> 00:29:08,445
+Porque quando temos o gosto do
+trabalho bem feito, do bom resultado,
+
+389
+00:29:08,445 --> 00:29:12,154
+ás vezes não encontramos
+o interlocutor necessário,
+
+390
+00:29:12,285 --> 00:29:15,402
+o espelho que nos ajuda
+a avançar.
+
+391
+00:29:15,485 --> 00:29:19,125
+Não é o meu caso. Como estava
+a dizer, eu, ao invés, pude...
+
+392
+00:29:19,125 --> 00:29:22,959
+E agradeço à vida, canto a vida,
+danço a vida. Sou todo amor.
+
+393
+00:29:23,125 --> 00:29:27,445
+E quando muitas pessoas me perguntam
+" " Como consegue ser tão humano?" "
+
+394
+00:29:27,445 --> 00:29:30,562
+eu respondo-lhes, muito simplesmente,
+que é este gosto do amor,
+
+395
+00:29:30,645 --> 00:29:34,001
+o qual me empurrou hoje
+para a construção mecânica,
+
+396
+00:29:34,125 --> 00:29:37,965
+mas amanhã pode, quem sabe,
+colocar-me ao serviço da comunidade,
+
+397
+00:29:37,965 --> 00:29:40,763
+levando-me a sacrificar os meus
+interesses em prol dos outros.
+
+398
+00:29:45,165 --> 00:29:48,362
+- O que é que comemos ao meio-dia?
+- Lentilhas, como de costume.
+
+399
+00:29:52,885 --> 00:29:54,204
+Volto já.
+
+400
+00:30:00,245 --> 00:30:03,245
+Brevemente neste local:
+Palácio de César:
+
+401
+00:30:03,245 --> 00:30:05,600
+Dias para a abertura:58:
+
+402
+00:30:09,285 --> 00:30:13,073
+- O que é que procuras?
+- Perdi a minha lente (= lentilha).
+
+403
+00:30:15,245 --> 00:30:16,724
+Trabalhadoras.
+
+404
+00:30:17,125 --> 00:30:18,558
+Trabalhadores.
+
+405
+00:30:19,445 --> 00:30:20,878
+Camaradas!
+
+406
+00:30:21,565 --> 00:30:24,875
+Voltámos ao tempo dos faraós?!
+
+407
+00:30:26,525 --> 00:30:29,562
+A mourejar a golpes de chicote?!
+
+408
+00:30:31,085 --> 00:30:32,643
+E para quem?
+
+409
+00:30:33,085 --> 00:30:35,440
+Para César.
+
+410
+00:30:39,365 --> 00:30:43,995
+Que ele vá mandar construir
+o seu palácio em Roma!
+
+411
+00:30:44,085 --> 00:30:47,157
+Cada qual no seu quintal e os hipopó-
+tamos ficarão bem guardados!
+
+412
+00:30:48,445 --> 00:30:52,677
+Eh pá, os corruptos estrangeiros
+
+413
+00:30:52,925 --> 00:30:56,201
+são vossos inimigos.
+
+414
+00:30:59,405 --> 00:31:03,159
+Camaradas!
+Estão a explorar-vos!
+
+415
+00:31:03,765 --> 00:31:06,484
+Matam-vos de trabalho
+
+416
+00:31:06,645 --> 00:31:08,158
+e...
+
+417
+00:31:09,565 --> 00:31:11,556
+sinceramente...
+
+418
+00:31:13,565 --> 00:31:15,165
+É isso.
+
+419
+00:31:15,165 --> 00:31:16,757
+Ele tem razão.
+
+420
+00:31:18,525 --> 00:31:21,885
+E ali duas estátuas monumentais
+de Cleópatra e César,
+
+421
+00:31:21,885 --> 00:31:24,319
+mas sem exageros.
+Só 15 metros de altura.
+
+422
+00:31:24,445 --> 00:31:27,323
+Na periferia das esfinges,
+uma grande cozinha equipada.
+
+423
+00:31:27,485 --> 00:31:31,114
+Fica mesmo ao lado dos quartos.
+Talvez não seja o ideal.
+
+424
+00:31:31,285 --> 00:31:35,039
+- Por causa do barulho e dos cheiros?
+- Há quem possa ficar incomodado.
+
+425
+00:31:35,125 --> 00:31:37,161
+Não pensei nisso.
+
+426
+00:31:37,445 --> 00:31:39,675
+Estas uvas grandes são o quê?
+
+427
+00:31:39,845 --> 00:31:43,633
+São tâmaras, Obélix.
+Crescem no cimo daquelas árvores.
+
+428
+00:31:47,565 --> 00:31:50,245
+- O interior é estaladiço.
+- E o caroço.
+
+429
+00:31:50,245 --> 00:31:51,598
+Não é mau.
+
+430
+00:31:55,845 --> 00:31:58,917
+Acabou-se o descanso!
+Vá, mexam-se! Ao trabalho!
+
+431
+00:32:01,485 --> 00:32:04,363
+Eu só disse que o descanso
+tinha terminado.
+
+432
+00:32:04,485 --> 00:32:06,794
+Protestamos! Protestamos!...
+
+433
+00:32:06,885 --> 00:32:09,922
+Protestamos! Protestamos!...
+
+434
+00:32:10,085 --> 00:32:11,564
+Dão licença?
+
+435
+00:32:12,165 --> 00:32:15,874
+Protestamos! Protestamos!...
+
+436
+00:32:18,325 --> 00:32:22,796
+Recusamo-nos a retomar o trabalho.
+Não continuaremos nestas condições.
+
+437
+00:32:23,125 --> 00:32:26,515
+- Protestamos! Protestamos!...
+- Calma, calma, calma.
+
+438
+00:32:30,085 --> 00:32:33,165
+Quem é o responsável?
+Designem um porta-voz.
+
+439
+00:32:33,165 --> 00:32:34,484
+Está bem.
+
+440
+00:32:34,685 --> 00:32:37,765
+Serei eu a voz dos meus camaradas
+para fazer passar a mensagem.
+
+441
+00:32:37,765 --> 00:32:39,562
+O meu nome é Celularis.
+
+442
+00:32:39,645 --> 00:32:43,115
+- Estou a ouvir.
+- Tens duas mensagens novas.
+
+443
+00:32:44,005 --> 00:32:47,634
+Primeiro, trabalhamos mais de 18 horas
+por dia, o que faz
+
+444
+00:32:47,725 --> 00:32:51,240
+36 horas em 2 dias.
+Exigimos uma redução para 35 horas.
+
+445
+00:32:51,325 --> 00:32:53,925
+Com 35 horas não dá.
+Era complicações em barda.
+
+446
+00:32:53,925 --> 00:32:56,165
+Em seguida,
+e desculpa a interrupção,
+
+447
+00:32:56,165 --> 00:32:59,157
+exigimos uma diminuição de,
+pelo menos, 50%.
+
+448
+00:32:59,245 --> 00:33:01,365
+- Quer dizer, um aumento.
+- Não!
+
+449
+00:33:01,365 --> 00:33:04,125
+Exigimos uma diminuição
+do número de chicotadas.
+
+450
+00:33:04,125 --> 00:33:06,045
+Recebemos chicotadas a mais.
+
+451
+00:33:06,045 --> 00:33:08,405
+Alguns camaradas sofrem de
+enxaquecas por causa do estalido.
+
+452
+00:33:08,405 --> 00:33:10,361
+A cabeça mais lhes parece
+uma melancia.
+
+453
+00:33:10,485 --> 00:33:15,001
+A propósito de comida, não se podia
+servir com as lentilhas um javali
+
+454
+00:33:15,085 --> 00:33:16,916
+ou dois, por exemplo?
+
+455
+00:33:17,125 --> 00:33:20,435
+Não, não! Se diminuo as chicotadas,
+vocês não terminam o palácio a tempo
+
+456
+00:33:20,525 --> 00:33:23,961
+...e lá vou eu para os crocodilos.
+- Basta, Numerobis!
+
+457
+00:33:24,085 --> 00:33:27,077
+Celularis tem razão.
+O número dela está correcto.
+
+458
+00:33:32,965 --> 00:33:35,877
+De certeza que eles iam gostar
+de uns javalizitos com as lentilhas.
+
+459
+00:33:43,325 --> 00:33:44,724
+Está pronta.
+
+460
+00:33:50,525 --> 00:33:53,039
+Tu não, ObéIix.
+Caíste nela quando eras pequeno.
+
+461
+00:33:53,205 --> 00:33:57,205
+Anda, Ideiafix. " " Blá, blá, blá...
+quando eras pequeno" " .
+
+462
+00:33:57,205 --> 00:33:59,161
+Astérix,
+faz uma demonstraçãozinha.
+
+463
+00:34:00,165 --> 00:34:02,201
+Acho que a fiz
+um bocadinho forte.
+
+464
+00:34:08,565 --> 00:34:11,477
+- Está forte, sim.
+- Não, está muito bem.
+
+465
+00:34:22,125 --> 00:34:24,002
+Ideiafix, mostra o que sabes.
+
+466
+00:34:25,965 --> 00:34:27,637
+Faz um bonito.
+
+467
+00:34:32,165 --> 00:34:33,837
+Obrigado.
+
+468
+00:34:51,605 --> 00:34:53,084
+Senta.
+
+469
+00:34:54,165 --> 00:34:55,883
+É um prodígio!
+
+470
+00:35:04,725 --> 00:35:07,523
+- Vai dar para toda a gente?
+- Eu faço mais.
+
+471
+00:35:08,725 --> 00:35:11,523
+- Não, Obélix, tu caíste...
+- Num caldeirão em pequenino.
+
+472
+00:35:11,725 --> 00:35:14,398
+Está bem, já se sabe.
+
+473
+00:35:50,885 --> 00:35:53,319
+l'm " non" in my " youd" now:
+
+474
+00:36:12,125 --> 00:36:14,241
+Não, ObéIix, não!
+
+475
+00:36:22,965 --> 00:36:24,842
+l'm " beg" in my " youd" now:
+
+476
+00:36:46,805 --> 00:36:50,718
+Ó, iça! Ó iça!...
+
+477
+00:36:50,805 --> 00:36:52,841
+Hoíss, é o nome dele.
+
+478
+00:36:53,925 --> 00:36:55,483
+Mossa?
+
+479
+00:36:56,085 --> 00:36:59,157
+Não. Hoíss, como " " Ó iça a..." "
+
+480
+00:37:24,125 --> 00:37:25,478
+Nexusis.
+
+481
+00:37:28,005 --> 00:37:29,643
+O que vão tomar?
+
+482
+00:37:29,765 --> 00:37:32,040
+- Para mim é um Imhotep.
+- Dois.
+
+483
+00:37:34,205 --> 00:37:36,885
+Queria que me tratasses
+de um assunto.
+
+484
+00:37:36,885 --> 00:37:39,125
+Tudo bem, patrão.
+E para matar quem?
+
+485
+00:37:39,125 --> 00:37:41,081
+Ninguém.
+Não se vai matar ninguém.
+
+486
+00:37:42,125 --> 00:37:43,956
+Dois Imhoteps.
+
+487
+00:37:46,325 --> 00:37:49,761
+Vamos sabotar a construção
+do palácio.
+
+488
+00:37:50,085 --> 00:37:53,919
+Eles estão à espera de pedras
+que vêm do sul, pelo Nilo.
+
+489
+00:37:54,045 --> 00:37:56,559
+Desenrasca-te. As pedras
+não devem chegar ao estaleiro.
+
+490
+00:37:57,085 --> 00:37:59,519
+Sem pedras não há construção;
+
+491
+00:38:00,085 --> 00:38:02,918
+sem construção não há palácio.
+
+492
+00:38:03,405 --> 00:38:04,918
+Sem palácio...
+
+493
+00:38:06,445 --> 00:38:08,242
+Não há palácio.
+
+494
+00:38:10,485 --> 00:38:13,682
+Toma lá ouro para tratares
+do assunto.
+
+495
+00:38:14,085 --> 00:38:16,804
+Se for a mais, traz-me o troco.
+
+496
+00:38:27,405 --> 00:38:29,760
+Vestido giro, esse!
+
+497
+00:38:52,085 --> 00:38:56,203
+" " Chaguei, vi e venci" " .
+Veni, vidi, vici:
+
+498
+00:38:56,285 --> 00:38:58,640
+Grave o final do costume
+e assine
+
+499
+00:38:58,725 --> 00:39:00,317
+" " Cizar" " .
+
+500
+00:39:01,245 --> 00:39:02,845
+" " Cizar" "
+
+501
+00:39:02,845 --> 00:39:04,278
+ou " " César" " ?
+
+502
+00:39:06,205 --> 00:39:09,481
+Está bem, " " César" " . Eu achava
+o som interessante, mas...
+
+503
+00:39:09,645 --> 00:39:11,317
+Grave-me 4 cópias.
+
+504
+00:39:12,805 --> 00:39:14,955
+Ave, César.
+Respeito e robustez.
+
+505
+00:39:15,045 --> 00:39:17,354
+Respeito e robustez,
+Caius SupIícius. Boas notícias?
+
+506
+00:39:17,485 --> 00:39:20,285
+" " Chaguei, vi e venci" " .
+Veni, vidi, vici, como de costume?
+
+507
+00:39:20,285 --> 00:39:23,685
+Venie vidi, ainda vai.
+Vicié que é um pouco prematuro.
+
+508
+00:39:23,685 --> 00:39:25,277
+Isso quer dizer?
+
+509
+00:39:25,525 --> 00:39:27,800
+A Gália, por exemplo.
+
+510
+00:39:27,965 --> 00:39:29,637
+A Gália o quê?
+
+511
+00:39:31,085 --> 00:39:33,997
+Ora, na Gália é vici:
+Toda a Gália está ocupada.
+
+512
+00:39:34,205 --> 00:39:37,595
+Toda não. Uma pequena aldeia habitada
+por indomáveis gauleses resiste...
+
+513
+00:39:37,685 --> 00:39:41,280
+Ainda e sempre ao invasor. Eu sei.
+Já ouvi isso em qualquer lado.
+
+514
+00:39:41,405 --> 00:39:44,761
+E a Cleópatra?
+Como é que estão a ir as obras?
+
+515
+00:39:44,885 --> 00:39:47,877
+Pois, precisamente,
+não estão a ir nada mal.
+
+516
+00:39:48,325 --> 00:39:52,318
+Isto é genial!
+Até puseram... dentro do...
+
+517
+00:39:52,445 --> 00:39:56,324
+Não me toque no...
+
+518
+00:39:56,525 --> 00:39:58,755
+Deste modo,
+eles conseguirão cumprir o prazo.
+
+519
+00:39:58,845 --> 00:40:02,076
+- Impossível.
+- " " Impossível" "  não é um termo gaulês.
+
+520
+00:40:02,165 --> 00:40:06,525
+Numerobis tem 3 a ajudá-lo, um dos
+quais um druida chamado Têagáchix.
+
+521
+00:40:06,525 --> 00:40:08,725
+- Panoramix?
+- Isso mesmo.
+
+522
+00:40:08,725 --> 00:40:10,725
+Eu bem sabia que soava
+a coisa grande.
+
+523
+00:40:10,725 --> 00:40:13,445
+Com ele vieram um baixote astuto
+e um gordo gigantesco:
+
+524
+00:40:13,445 --> 00:40:15,163
+Aspertix e Playboix.
+
+525
+00:40:16,565 --> 00:40:18,999
+Ou Malcolmix.
+
+526
+00:40:19,325 --> 00:40:22,123
+Vai vigiando a progressão
+das obras.
+
+527
+00:40:22,205 --> 00:40:26,164
+Civis pacem parabellum:
+" " Quem deseja a paz prepara a guerra" " .
+
+528
+00:40:27,245 --> 00:40:31,602
+O gaulês baixote tem um nome de herói,
+do estilo Djomannix.
+
+529
+00:40:38,285 --> 00:40:41,595
+Entretanto, o impiedoso Nexusis,
+
+530
+00:40:41,685 --> 00:40:45,365
+enviado do infecto Amonbófis,
+leva a cabo a sua missão:
+
+531
+00:40:45,365 --> 00:40:48,038
+cortar o abastecimento de pedra,
+
+532
+00:40:48,165 --> 00:40:52,443
+aliciando com ouro o vil e venal
+chefe da caravana:
+
+533
+00:40:58,525 --> 00:41:01,164
+Atirem-me isso ao Nilo!
+
+534
+00:41:21,925 --> 00:41:25,838
+Ali os edifícios podiam formar
+um " C " , de Cleópatra.
+
+535
+00:41:26,245 --> 00:41:28,361
+O palácio é para César.
+
+536
+00:41:28,445 --> 00:41:30,959
+- Serve à mesma.
+- Como?
+
+537
+00:41:31,085 --> 00:41:33,315
+Parece que a caravana de pedras
+já chegou.
+
+538
+00:41:33,765 --> 00:41:36,757
+Tu 'tás-me a indrominar,
+'tás 'tás!
+
+539
+00:41:36,925 --> 00:41:39,120
+Nem qu'eu quisesse.
+
+540
+00:41:39,925 --> 00:41:42,365
+O chefe da caravana diz...
+
+541
+00:41:42,365 --> 00:41:45,004
+...que não pôde trazer pedras,
+que as pedreiras estão esgotadas.
+
+542
+00:41:46,165 --> 00:41:49,202
+- Que língua engraçada.
+- Diz que gostaria de ser pago.
+
+543
+00:41:49,285 --> 00:41:51,925
+- Cá para mim, está a mentir.
+- Não. Ele foi muito claro.
+
+544
+00:41:51,925 --> 00:41:54,155
+- Quer que lhe paguemos.
+- Eu referia-me ás pedreiras.
+
+545
+00:41:54,365 --> 00:41:58,040
+- Ainda devem ter toneladas de pedra.
+- Posso fazê-lo falar, se quiseres.
+
+546
+00:41:58,125 --> 00:42:00,559
+Não exageres.
+Ele tem de ficar em estado de falar.
+
+547
+00:42:00,805 --> 00:42:04,275
+- Faço o quê? Ná, essa é qu'é essa!
+- Essa é qu'é essa?
+
+548
+00:42:04,405 --> 00:42:07,397
+- Como é que se diz " fala " ?
+- Se é " fala "  no sentido
+
+549
+00:42:07,485 --> 00:42:11,445
+de " Não falIo lá muito bem egípcio "
+é " Não falo como tu " .
+
+550
+00:42:11,445 --> 00:42:13,276
+Não falo como tu.
+
+551
+00:42:13,525 --> 00:42:17,125
+Mas se for " Fala mais devagar "
+é " Não fales correndo" " .
+
+552
+00:42:17,125 --> 00:42:19,165
+- Não fales correndo.
+- Não, não. " Kêtêbêcê " .
+
+553
+00:42:19,165 --> 00:42:20,325
+" Kêtêbêcê " .
+
+554
+00:42:20,325 --> 00:42:22,236
+" Kêteb " . " Kêtêbêcê "
+é se forem uns 8.
+
+555
+00:42:22,565 --> 00:42:24,405
+Não diga " kêtêbêcê " ...
+
+556
+00:42:24,405 --> 00:42:28,525
+Ninguém vai compreender. Eu é que
+tenho razão. " Kêteb.. "  vogal aberta.
+
+557
+00:42:28,525 --> 00:42:29,753
+Diz!
+
+558
+00:42:30,725 --> 00:42:32,283
+Desembucha.
+
+559
+00:42:36,645 --> 00:42:40,558
+Desembucha!
+Não queres desembuchar?
+
+560
+00:42:43,325 --> 00:42:45,600
+Disse-te para não exagerares.
+
+561
+00:42:46,525 --> 00:42:50,996
+Ele diz que Amonbófis lhe pagou para
+atirar as pedras ao Nilo. Eu sabia!
+
+562
+00:42:51,085 --> 00:42:53,315
+Ai! Pare... Ai!
+
+563
+00:42:55,365 --> 00:42:58,801
+Diz que ainda há muitas pedras
+nas pedreiras. Muitas...
+
+564
+00:43:05,165 --> 00:43:09,124
+- O " " ai" "  eu percebi.
+- Ele diz " " ai" "  porque lhe dói. Ai!
+
+565
+00:43:09,405 --> 00:43:13,159
+" " Está a doer, está a doer...
+O bigode não" " . Diz que o bigode não.
+
+566
+00:43:14,565 --> 00:43:17,085
+- Acabei.
+- Ele acabou.
+
+567
+00:43:17,085 --> 00:43:19,405
+Vamos com ele buscar as pedras.
+
+568
+00:43:19,405 --> 00:43:22,954
+Eu fico aqui a supervisionar a obra.
+O Otis vai convosco para...
+
+569
+00:43:25,205 --> 00:43:27,275
+Sim. Bem, para...
+
+570
+00:43:27,925 --> 00:43:30,564
+Tomem. São uns amuletos,
+
+571
+00:43:30,685 --> 00:43:33,518
+uns talismãs para vos protegerem
+do azar.
+
+572
+00:43:34,565 --> 00:43:35,884
+Obrigado.
+
+573
+00:43:37,685 --> 00:43:40,153
+- Asterixco.
+- Rix.
+
+574
+00:43:40,285 --> 00:43:42,245
+- Histerixmo.
+- Rix. Bom...
+
+575
+00:43:42,245 --> 00:43:43,678
+Rixme.
+
+576
+00:43:44,485 --> 00:43:47,602
+O destino de todo o Egipto
+está nas tuas mãos.
+
+577
+00:43:48,165 --> 00:43:50,633
+Mas quanto exagero!
+
+578
+00:43:51,725 --> 00:43:54,637
+- O meu destino está nas tuas mãos?
+- Melhorou.
+
+579
+00:43:58,445 --> 00:44:00,754
+Vai, Amstériskmo!
+
+580
+00:44:08,005 --> 00:44:10,599
+E eis os nossos amigos gauleses,
+guiados por Otis,
+
+581
+00:44:10,725 --> 00:44:13,842
+a caminho das pedreiras,
+para atestarem os barcos de pedras:
+
+582
+00:44:16,085 --> 00:44:19,125
+O teu dromedário faz cá
+um destes barulhos, Obélix!
+
+583
+00:44:19,125 --> 00:44:20,922
+É o meu estômago.
+
+584
+00:44:21,005 --> 00:44:23,845
+Porque não vão visitar a Esfinge
+enquanto os barcos carregam?
+
+585
+00:44:23,845 --> 00:44:27,394
+A zona deve fervilhar de restauran-
+tezinhos com comidas deliciosas,
+
+586
+00:44:27,485 --> 00:44:31,045
+uma verdadeira loucura para
+o paladar: croquetes, espetadas,
+
+587
+00:44:31,045 --> 00:44:33,240
+peixinho cozido em lume brando,
+carnes com molho...
+
+588
+00:44:34,725 --> 00:44:38,638
+- Eu sabia! Não há nada que se coma.
+- Estas esfingezitas são giras.
+
+589
+00:44:39,165 --> 00:44:43,605
+Eu também podia fazer uns menirzitos
+de recordação. E o meu ofício.
+
+590
+00:44:43,605 --> 00:44:45,436
+- Esfinge!
+- Não, obrigado.
+
+591
+00:44:51,525 --> 00:44:54,885
+Nobre estrangeiro, vai um retrato
+com a Esfinge para recordação?
+
+592
+00:44:54,885 --> 00:44:56,885
+Uma escultura instantânea
+em 30 minutos?
+
+593
+00:44:56,885 --> 00:45:00,321
+E porque não?
+Ficaria muito bem na minha cabana.
+
+594
+00:45:00,405 --> 00:45:02,282
+- Aceita sestércios?
+- Sim, sim.
+
+595
+00:45:02,525 --> 00:45:06,279
+Ponha-se de perfil, com os ombros
+a 3 quartos.
+
+596
+00:45:06,965 --> 00:45:08,603
+Sem exageros.
+
+597
+00:45:08,805 --> 00:45:13,003
+É preciso reforçar a segurança porque
+o Amonbófis é uma verdadeira víbora.
+
+598
+00:45:13,165 --> 00:45:16,316
+Pode tentar sabotar directamente
+as obras.
+
+599
+00:45:16,405 --> 00:45:20,444
+Temos de organizar turnos de vigia.
+O que é que achas, Obélix?
+
+600
+00:45:22,645 --> 00:45:24,522
+Onde é que ele se meteu?!
+
+601
+00:45:30,765 --> 00:45:32,756
+Não me grave demasiado curto.
+
+602
+00:45:35,725 --> 00:45:37,636
+Então o senhor é gaulês.
+
+603
+00:45:38,765 --> 00:45:41,563
+Mas que calor se pôs
+nos últimos tempos.
+
+604
+00:45:52,885 --> 00:45:55,638
+Não, Obélix,
+é de certeza proibido!
+
+605
+00:45:57,685 --> 00:45:59,676
+Desce imediatamente!
+
+606
+00:46:01,285 --> 00:46:03,003
+Mas que...
+
+607
+00:46:14,005 --> 00:46:15,518
+É lindo!
+
+608
+00:46:15,645 --> 00:46:17,522
+Desce daí! Que tolice!
+
+609
+00:46:18,085 --> 00:46:23,239
+- Vocês parecem umas formiguinhas.
+- Não digas disparates. Desce daí!
+
+610
+00:46:24,165 --> 00:46:27,157
+Vou dar uma voltinha pela cara.
+
+611
+00:46:28,685 --> 00:46:30,562
+Não te armes em finório.
+
+612
+00:46:52,085 --> 00:46:54,076
+Parti o nariz.
+
+613
+00:46:58,085 --> 00:47:00,280
+Espantoso!
+
+614
+00:47:02,685 --> 00:47:04,596
+Bravo, Obélix.
+
+615
+00:47:08,285 --> 00:47:11,685
+- Conseguiste superar-te.
+- Talvez pudéssemos voltar a colá-lo.
+
+616
+00:47:11,685 --> 00:47:17,521
+Sim, é uma boa ideia! Com o quê?
+Já viste bem o tamanho deste nariz?
+
+617
+00:47:17,645 --> 00:47:20,318
+Sem dúvida.
+" " É um rochedo, é um cabo." "
+
+618
+00:47:20,405 --> 00:47:24,000
+" " Mas qual cabo!
+E uma península." "
+
+619
+00:47:24,245 --> 00:47:27,999
+Pára lá de fazer literatura
+e ajuda-me a encontrar uma solução.
+
+620
+00:47:32,005 --> 00:47:34,565
+Ainda bem que ninguém nos viu.
+
+621
+00:47:36,685 --> 00:47:38,685
+- Imhotep.
+- Tep.
+
+622
+00:47:38,685 --> 00:47:40,482
+De certeza que ele disse
+" " embalsamar" " ?
+
+623
+00:47:58,965 --> 00:48:01,718
+Ajuda-me aqui,
+que eu não tenho 6 braços.
+
+624
+00:48:07,165 --> 00:48:09,156
+Não viste um relâmpago, tu?
+
+625
+00:48:19,285 --> 00:48:21,321
+Eu bem disse que era
+um relâmpago. Não sou tolo.
+
+626
+00:48:26,485 --> 00:48:27,918
+Pronto...
+
+627
+00:48:28,765 --> 00:48:31,325
+Ninguém se lembrará de vir
+para aqui escavar.
+
+628
+00:48:31,525 --> 00:48:35,643
+Embora. Não ganhamos nada
+em ficar por aqui.
+
+629
+00:48:36,685 --> 00:48:39,645
+E não se conta ao Panoramix
+o que sucedeu.
+
+630
+00:48:39,645 --> 00:48:41,965
+- Não sucedeu nada.
+- Não.
+
+631
+00:48:41,965 --> 00:48:43,284
+Nada.
+
+632
+00:48:48,525 --> 00:48:50,117
+A minha construção!
+
+633
+00:48:55,725 --> 00:48:59,354
+E na medida em que o palácio avança
+muito mais depressa do que o previsto,
+
+634
+00:48:59,445 --> 00:49:02,565
+os meus camaradas e eu exigimos,
+e com todo o direito,
+
+635
+00:49:02,565 --> 00:49:06,165
+mais um dia de folga.
+E pronto.
+
+636
+00:49:06,165 --> 00:49:08,805
+Tu entendes. Antes de seres
+arquitecto eras aprendiz.
+
+637
+00:49:08,805 --> 00:49:10,636
+O meu nome é Numerobis.
+
+638
+00:49:10,725 --> 00:49:13,922
+Sim, o que foi... chamei?
+Eu não te... pois não?
+
+639
+00:49:14,045 --> 00:49:17,515
+Se te chamei... Descul...
+Não fiz de propó...
+
+640
+00:49:17,805 --> 00:49:19,955
+Celularis, estou a perder-te.
+
+641
+00:49:20,445 --> 00:49:22,913
+Mexe-te. Tenta agora.
+
+642
+00:49:23,085 --> 00:49:24,845
+- Já consegues...?
+- Não... E agora?
+
+643
+00:49:24,845 --> 00:49:25,914
+Bem, e se...?
+
+644
+00:49:26,765 --> 00:49:29,325
+Agora ouves, agora ouves?
+
+645
+00:49:29,845 --> 00:49:33,360
+Isto... agora... acontece-me...
+a toda a hora.
+
+646
+00:49:37,125 --> 00:49:39,480
+- Isso vai, Obé?
+- Estou com uma sede louca.
+
+647
+00:49:40,525 --> 00:49:43,525
+Como puderam eles construir
+estes edifícios?
+
+648
+00:49:43,525 --> 00:49:46,039
+- Empilhando as pedras.
+- Realmente.
+
+649
+00:49:46,165 --> 00:49:50,605
+Gauleses! Gostariam de fazer uma
+visitinha ao interior da pirâmide?
+
+650
+00:49:50,605 --> 00:49:53,244
+- Não!
+- É uma visita gratuita.
+
+651
+00:49:53,365 --> 00:49:57,278
+- Não vejo onde esteja o interesse.
+- Parece que é algo de magnífico.
+
+652
+00:49:57,365 --> 00:50:02,803
+- Ainda temos algum tempo. Vamos.
+- Ideiafix, ficas a guardar o Panoramix.
+
+653
+00:50:02,885 --> 00:50:04,876
+Se te portares bem,
+ganhas um rico osso.
+
+654
+00:50:17,525 --> 00:50:21,837
+Não me percam de vista.
+Não sairiam vivos deste labirinto.
+
+655
+00:50:22,525 --> 00:50:26,916
+Os corredores são muito estreitos.
+Não convém ser muito gordo.
+
+656
+00:50:27,125 --> 00:50:28,717
+Aqui ninguém é gordo.
+
+657
+00:50:31,005 --> 00:50:34,645
+- À vossa direita, Anúbis...
+- É impressionante!
+
+658
+00:50:34,645 --> 00:50:36,522
+... deus dos mortos
+e do mundo das trevas.
+
+659
+00:50:39,765 --> 00:50:41,323
+Por aqui.
+
+660
+00:50:42,765 --> 00:50:44,915
+Entrem, caros visitantes.
+
+661
+00:50:45,805 --> 00:50:49,798
+Os hieróglifos que decoram esta sala
+são... magníficos.
+
+662
+00:50:51,005 --> 00:50:52,961
+O senhor primeiro. Entre.
+
+663
+00:50:55,045 --> 00:50:56,524
+Realmente.
+
+664
+00:51:04,285 --> 00:51:07,038
+Nunca mais sairão daqui,
+estrangeiros!
+
+665
+00:51:08,525 --> 00:51:12,962
+Este túmulo será o vosso túmulo!
+
+666
+00:51:16,325 --> 00:51:18,525
+Não há saída.
+Estamos encurralados.
+
+667
+00:51:18,525 --> 00:51:22,677
+" Este túmulo será o vosso túmulo! "
+Foi bem achada. Sou mesmo bom!
+
+668
+00:51:22,765 --> 00:51:25,325
+Uma visita gratuita.
+Eu devia ter desconfiado.
+
+669
+00:51:26,525 --> 00:51:28,993
+Pelo menos, temos leitura.
+
+670
+00:51:29,445 --> 00:51:33,597
+- Os hieróglifos são todos iguais!
+- Nada disso. Repara, ObéIix.
+
+671
+00:51:33,805 --> 00:51:36,558
+As cores são sublimes.
+
+672
+00:51:36,805 --> 00:51:40,798
+Isso é muito divertido, mas se não
+encontramos um modo de sair daqui,
+
+673
+00:51:41,005 --> 00:51:44,441
+teremos toda a eternidade
+para os decifrar.
+
+674
+00:51:45,565 --> 00:51:50,036
+Está o caso arrumado.
+Se eles se safarem desta,
+
+675
+00:51:50,525 --> 00:51:54,677
+juro que nunca mais raparei
+o cabelo!
+
+676
+00:51:55,525 --> 00:52:00,280
+Para começar temos de abrir esta
+porta, mas dada a sua espessura...
+
+677
+00:52:00,445 --> 00:52:03,278
+- Olha, Obélix.
+- O que é?
+
+678
+00:52:03,365 --> 00:52:06,801
+Pela primeira vez vou dar-te a beber
+a minha poção mágica.
+
+679
+00:52:06,885 --> 00:52:09,080
+- A sério?
+- Pois se ele to diz.
+
+680
+00:52:12,525 --> 00:52:16,564
+Uma, duas, três gotas.
+E suficiente.
+
+681
+00:52:38,885 --> 00:52:42,400
+Não noto grande diferença
+antes e depois da poção.
+
+682
+00:52:46,365 --> 00:52:47,764
+Obé!
+
+683
+00:52:50,685 --> 00:52:52,641
+- Pano!
+- Sim...
+
+684
+00:52:53,725 --> 00:52:56,603
+- Obé!
+- Não, é o Pano!
+
+685
+00:52:56,965 --> 00:53:00,958
+- Astérix!
+- Estou aqui!
+
+686
+00:53:02,525 --> 00:53:03,924
+Aqui!
+
+687
+00:53:09,125 --> 00:53:11,559
+É a décima vez que vimos parar
+ao mesmo sítio.
+
+688
+00:53:12,125 --> 00:53:14,764
+Estes faraós tinham
+bons arquitectos!
+
+689
+00:53:15,045 --> 00:53:17,434
+- A situação é grave.
+- Muito grave.
+
+690
+00:53:17,525 --> 00:53:19,356
+Começo a ter fome.
+
+691
+00:53:19,925 --> 00:53:23,281
+O que quererão dizer
+todos estes hieróglifos?
+
+692
+00:53:23,445 --> 00:53:28,963
+Há alturas para decifrar hieróglifos
+e alturas para sair de pirâmides!
+
+693
+00:53:29,045 --> 00:53:32,242
+Convinha, se calhar, revermos
+as nossas prioridades!
+
+694
+00:53:32,325 --> 00:53:35,397
+Eu lembro ao senhor Astérix
+que tenho fome
+
+695
+00:53:35,525 --> 00:53:39,325
+e que deste modo ocupo os miolos
+e não penso nela.
+
+696
+00:53:39,325 --> 00:53:42,405
+Perdão! Tinha-me esquecido
+que o estômago do senhor Obélix
+
+697
+00:53:42,405 --> 00:53:44,085
+se sobrepõe a tudo.
+
+698
+00:53:44,085 --> 00:53:47,605
+Javalis e tabefes aos romanos
+bastam para o fazer feliz!
+
+699
+00:53:47,605 --> 00:53:50,597
+O Sr. Astérix sabe sempre mais
+que os outros!
+
+700
+00:53:50,725 --> 00:53:53,405
+- Sim, talvez.
+- Eu lembro ao senhor Astérix...
+
+701
+00:53:53,405 --> 00:53:55,361
+... que queria muito visitar
+a pirâmide,
+
+702
+00:53:55,445 --> 00:53:57,675
+que nada disto aconteceria
+num menir.
+
+703
+00:53:58,765 --> 00:54:01,563
+Esse argumento
+não vale 2 sestércios.
+
+704
+00:54:06,085 --> 00:54:07,962
+O que estarão eles a fazer?
+
+705
+00:54:09,005 --> 00:54:12,361
+A areia não pára... As pedras já
+estão carregadas. Temos de partir.
+
+706
+00:54:15,885 --> 00:54:19,924
+Eu estava irritado.
+Falei sem pensar. Mea culpa:
+
+707
+00:54:20,045 --> 00:54:25,324
+Mea culpa eu. Tudo isto poderia
+muito bem acontecer num menir.
+
+708
+00:54:25,445 --> 00:54:28,915
+Os meus poderes são insuficientes
+para nos fazer sair daqui.
+
+709
+00:54:29,805 --> 00:54:34,162
+Receio bem, meus amigos, que isto
+seja o fim das nossas aventuras.
+
+710
+00:54:40,085 --> 00:54:42,360
+Alguém tem aí algo
+com que reacender o archote?
+
+711
+00:54:42,445 --> 00:54:46,120
+Tenho a caixa de amuletos,
+mas não serve para nada.
+
+712
+00:54:46,325 --> 00:54:48,725
+Tenho pena por causa
+do Numerobis.
+
+713
+00:54:48,725 --> 00:54:51,034
+A mim faz-me pena por causa
+do meu pobre Ideiafix.
+
+714
+00:54:51,125 --> 00:54:52,683
+Não é, Ideiafix?
+
+715
+00:54:53,845 --> 00:54:58,365
+Sim, e depois?! Não me vão censurar
+por o ter trazido. Ele veio sozinho.
+
+716
+00:54:58,365 --> 00:55:00,754
+Pois!
+Ele encontrou-nos graças ao faro.
+
+717
+00:55:00,885 --> 00:55:03,245
+Talvez seja capaz de nos ajudar
+a sair daqui.
+
+718
+00:55:03,245 --> 00:55:07,602
+É verdade! Ideiafix, escuta:
+se nos ajudares a sair daqui,
+
+719
+00:55:07,725 --> 00:55:10,364
+ganhas uma data de ossos!
+
+720
+00:55:28,205 --> 00:55:31,565
+Muito bem, Ideiafix.
+
+721
+00:55:31,565 --> 00:55:33,645
+Desculpa.
+Tinhas toda a razão em trazê-lo.
+
+722
+00:55:33,645 --> 00:55:36,921
+Às vezes, tenho a impressão
+que entende tudo o que lhe digo.
+
+723
+00:55:41,845 --> 00:55:44,125
+E é o regresso à obra,
+
+724
+00:55:44,125 --> 00:55:46,764
+a bordo dos barcos carregados
+de pedras:::
+
+725
+00:55:47,845 --> 00:55:50,765
+- Que viagem lenta.
+- Muito lenta.
+
+726
+00:55:50,765 --> 00:55:52,125
+Demasiado lenta.
+
+727
+00:55:52,125 --> 00:55:55,959
+Nunca mais chegamos à Gália
+para o banquete dos javalis...
+
+728
+00:55:56,045 --> 00:56:01,085
+- ...e já estou cheio de lentilhas.
+- O Nilo é um rio caprichoso.
+
+729
+00:56:01,085 --> 00:56:03,965
+De vez em quando tumultuoso,
+de vez em quando preguiçoso.
+
+730
+00:56:03,965 --> 00:56:07,640
+Aliás, não sei se conhecem aquele
+belo poema egípcio sobre o Nilo
+
+731
+00:56:07,725 --> 00:56:11,638
+que diz: " " Nilo, Nilo, Nilo" " .
+
+732
+00:56:18,165 --> 00:56:20,599
+O que está ele a fazer?
+
+733
+00:56:30,085 --> 00:56:31,484
+Rapazes!
+
+734
+00:56:32,765 --> 00:56:35,040
+Eis-nos uma vez mais
+desencalhados.
+
+735
+00:56:52,765 --> 00:56:54,642
+Atenção aí atrás!
+
+736
+00:57:07,565 --> 00:57:11,445
+Por Toutatis, apesar de estar farto
+de saber que ele caiu
+
+737
+00:57:11,445 --> 00:57:13,965
+num caldeirão de poção mágica
+quando era pequeno,
+
+738
+00:57:13,965 --> 00:57:16,559
+este rapaz nunca deixará
+de me espantar!
+
+739
+00:57:20,925 --> 00:57:22,404
+Já chega!
+
+740
+00:57:23,405 --> 00:57:26,165
+E a construção
+pôde ser retomada:
+
+741
+00:57:26,165 --> 00:57:28,554
+Numerobis estava agora certo
+de poder respeitar
+
+742
+00:57:28,685 --> 00:57:32,598
+o prazo estabelecido, caso raro
+nas empreitadas daquela época:
+
+743
+00:57:32,805 --> 00:57:34,602
+Um gole por pessoa.
+
+744
+00:57:35,045 --> 00:57:36,956
+Só um gole por pessoa.
+
+745
+00:57:37,445 --> 00:57:40,285
+Anda aí a circular
+poção mágica falsa.
+
+746
+00:57:40,285 --> 00:57:42,241
+Tem a mesma cor
+e a mesma consistência,
+
+747
+00:57:42,325 --> 00:57:44,965
+mas não é poção mágica,
+é sopa de abóbora.
+
+748
+00:57:44,965 --> 00:57:46,805
+A única poção realmente mágica
+
+749
+00:57:46,805 --> 00:57:50,205
+é a distribuida peIo druida Panoramix
+além junto ao caldeirão.
+
+750
+00:57:50,205 --> 00:57:52,639
+Trinta minutos de espera,
+a partir deste ponto.
+
+751
+00:57:54,685 --> 00:57:57,205
+Então fechei a porta e gritei:
+
+752
+00:57:57,205 --> 00:58:01,198
+- " " Este túmulo será o vosso túmulo!" "
+- Nada mal.
+
+753
+00:58:01,325 --> 00:58:05,285
+Também me ocorreu: " " Bando de
+chacais, ides morrer como chacais" " .
+
+754
+00:58:05,285 --> 00:58:07,241
+Mas aí era " " chacais" "  duas vezes.
+
+755
+00:58:09,565 --> 00:58:12,033
+O que é? Diz-se " " chacales" " , é?
+
+756
+00:58:12,725 --> 00:58:15,797
+- Com que então presos na pirâmide!
+- Não compreendo.
+
+757
+00:58:16,245 --> 00:58:20,443
+São magos! Só seres sobre-humanos
+conseguem sair de uma pirâmide.
+
+758
+00:58:20,845 --> 00:58:25,236
+Estes bárbaros são duros.
+Preciso de uma ideia.
+
+759
+00:58:27,405 --> 00:58:31,683
+Já sei! Tive uma ideia terrível.
+Aliás, duas. Não, três.
+
+760
+00:58:32,005 --> 00:58:35,315
+Ena tantas ideias!
+Sou mesmo bom!
+
+761
+00:58:38,885 --> 00:58:42,165
+Não gosto nada de o ouvir rir assim,
+patrão. Dá-me cagaço.
+
+762
+00:58:42,165 --> 00:58:43,723
+Mãos à obra!
+
+763
+00:58:48,405 --> 00:58:52,114
+Não conseguiremos ter um jardim
+luxuriante daqui a duas semanas.
+
+764
+00:58:54,365 --> 00:58:59,120
+Não tem uma variedade de poção
+mágica para fazer acelerar as coisas,
+
+765
+00:58:59,965 --> 00:59:02,559
+assim, por exemplo,
+umas sementinhas
+
+766
+00:59:02,645 --> 00:59:05,682
+que ao serem plantadas
+dessem logo palmeiras?
+
+767
+00:59:05,765 --> 00:59:08,757
+Nem tudo pode ser resolvido
+com poções, Numerobis.
+
+768
+00:59:08,845 --> 00:59:11,725
+Há coisas inalteráveis.
+A natureza carece de tempo.
+
+769
+00:59:11,725 --> 00:59:15,245
+São precisos meses e anos
+para que de uma sementinha,
+
+770
+00:59:15,245 --> 00:59:18,999
+e por acção da paciência,
+do sol e da água, nasça um botão.
+
+771
+00:59:20,085 --> 00:59:21,757
+E depois...
+
+772
+00:59:24,565 --> 00:59:26,157
+o botão....
+
+773
+00:59:26,285 --> 00:59:27,684
+Por favor.
+
+774
+00:59:28,525 --> 00:59:29,924
+Por favor!
+
+775
+00:59:48,565 --> 00:59:50,715
+Não tenho nada mais rápido.
+
+776
+01:00:02,165 --> 01:00:03,564
+Genial!
+
+777
+01:00:12,445 --> 01:00:14,436
+Quem é que me ajuda a descer?
+
+778
+01:00:22,405 --> 01:00:24,361
+Como, a construção foi retomada?
+
+779
+01:00:24,445 --> 01:00:27,445
+Ó nobre César, tão-pouco me alegro
+com a continuação dos trabalhos.
+
+780
+01:00:27,445 --> 01:00:29,276
+Por motivos de natureza pessoal,
+também eu desejo
+
+781
+01:00:29,405 --> 01:00:31,600
+que Numerobis fracasse.
+
+782
+01:00:31,725 --> 01:00:35,718
+Ocorreu-me então que talvez
+possa ajudar-vos,
+
+783
+01:00:35,845 --> 01:00:39,963
+mediante um acordo...
+que convenha a ambas as partes.
+
+784
+01:00:41,445 --> 01:00:43,720
+Aqui, não. Na minha tenda.
+
+785
+01:00:48,805 --> 01:00:50,238
+Sou todo ouvidos.
+
+786
+01:00:50,765 --> 01:00:52,357
+Nobre César,
+
+787
+01:00:52,485 --> 01:00:57,001
+se eu conseguir sabotar a construção
+do palácio, entregais-me a obra
+
+788
+01:00:57,085 --> 01:00:59,758
+e eu termino-a com...
+dois meses de atraso.
+
+789
+01:00:59,845 --> 01:01:03,201
+Desta feita, ganhais a aposta
+e Cleópatra será humilhada.
+
+790
+01:01:05,365 --> 01:01:07,799
+Certo, desde que termines
+com 4 meses de atraso.
+
+791
+01:01:07,885 --> 01:01:09,876
+- Três. Não posso ir menos depressa.
+- Está bem.
+
+792
+01:01:10,005 --> 01:01:12,997
+Menos não, ou pagarás tu a multa
+da antecipação.
+
+793
+01:01:14,445 --> 01:01:17,403
+Negócio fechado, nobre César.
+
+794
+01:01:21,685 --> 01:01:25,041
+Agora, diz-me: como pensas
+sabotar os trabalhos?
+
+795
+01:01:27,085 --> 01:01:28,564
+Com isto.
+
+796
+01:01:39,125 --> 01:01:42,245
+O que hei-de vestir hoje?
+
+797
+01:01:42,245 --> 01:01:44,554
+Cuidado, que está bem morno.
+
+798
+01:01:55,085 --> 01:01:57,440
+Um presente para a rainha
+das rainhas.
+
+799
+01:01:59,485 --> 01:02:02,955
+" " Homenagem à rainha das rainhas,
+da parte dos três gauleses:
+
+800
+01:02:03,125 --> 01:02:07,277
+Panoramix, Obélix e Astérix." "
+Que simpáticos!
+
+801
+01:02:08,805 --> 01:02:10,318
+Posso abri-lo?
+
+802
+01:02:13,085 --> 01:02:15,076
+Está morno!
+
+803
+01:02:16,765 --> 01:02:20,314
+Um bolo. Será servido
+como sobremesa hoje à noite.
+
+804
+01:02:20,405 --> 01:02:23,078
+Uma refeição íntima,
+só com 40 dançarinos,
+
+805
+01:02:23,165 --> 01:02:26,165
+80 músicos e 300 pratos simples.
+
+806
+01:02:26,165 --> 01:02:28,360
+A mim também me aborrece
+muita gente.
+
+807
+01:02:30,045 --> 01:02:33,365
+Para a mesa! Temos javali
+acabadinho de chegar numa galera.
+
+808
+01:02:33,365 --> 01:02:35,645
+- Até que enfim uma refeição normal.
+- Javalis?!
+
+809
+01:02:35,645 --> 01:02:39,274
+- Com lentilhas.
+- Esquecem-se de que não é permitido.
+
+810
+01:02:39,365 --> 01:02:41,605
+Eu informei-me, o javali
+é essencialmente porco.
+
+811
+01:02:41,605 --> 01:02:44,525
+- Infringimos um nadinha as regras.
+- Ninguém se mexe!
+
+812
+01:02:44,525 --> 01:02:46,885
+Vimos prender os gauleses.
+Ordem da rainha!
+
+813
+01:02:46,885 --> 01:02:49,319
+Com franqueza, por 3 javalis!
+
+814
+01:02:49,445 --> 01:02:52,365
+Eu dou-lhes uns tabefes
+e comemos já de seguida.
+
+815
+01:02:52,365 --> 01:02:54,481
+Não! Espera, espera...
+
+816
+01:02:54,565 --> 01:02:56,954
+Não vais lutar
+contra todos eles!
+
+817
+01:02:57,125 --> 01:03:00,405
+E porque não?
+Também é proibido?
+
+818
+01:03:00,405 --> 01:03:02,600
+- Cá não se pode fazer nada!
+- Numerobis tem razão.
+
+819
+01:03:02,685 --> 01:03:06,439
+- Vejamos o que Cleópatra quer.
+- E é uma ocasião de ir ao palácio...
+
+820
+01:03:06,525 --> 01:03:08,805
+- Os javalis!
+- Eu fico aqui a reavivar a fogueira.
+
+821
+01:03:08,805 --> 01:03:11,080
+É que ela ás vezes
+des-reaviva-se.
+
+822
+01:03:11,965 --> 01:03:13,683
+Vou reavivá-la.
+
+823
+01:03:26,085 --> 01:03:29,282
+Dou sempre os meus alimentos
+a provar antes de os comer.
+
+824
+01:03:29,365 --> 01:03:31,481
+O vosso plano fracassou,
+gauleses.
+
+825
+01:03:31,565 --> 01:03:34,965
+O meu provador é que foi envenenado
+com o bolo que me enviaram.
+
+826
+01:03:34,965 --> 01:03:38,805
+- Qual bolo? Não enviámos nenhum.
+- Aquele ali.
+
+827
+01:03:38,805 --> 01:03:40,557
+Não há 50 bolos para comer.
+
+828
+01:03:40,645 --> 01:03:43,325
+Em matéria de javalis
+não é tanto assim.
+
+829
+01:03:43,325 --> 01:03:44,805
+Silêncio!
+
+830
+01:03:44,805 --> 01:03:47,763
+Tentaram matar-me.
+Pagarão com a vossa vida.
+
+831
+01:03:47,845 --> 01:03:49,642
+Por Toutatis, é falso!
+Estamos inocentes!
+
+832
+01:03:49,765 --> 01:03:51,245
+Que lata!
+
+833
+01:03:51,245 --> 01:03:55,165
+Nós passámos o dia na obra, de manhã
+à noite, a trabalhar, a engolir poeira...
+
+834
+01:03:55,165 --> 01:03:57,485
+- E lentilhas.
+- Sim, não... Não é...
+
+835
+01:03:57,485 --> 01:03:59,485
+- Lentilhas, sim.
+- Agora não é a melhor altura...
+
+836
+01:03:59,485 --> 01:04:02,565
+Nunca, mas nunca...
+vos enviámos um bolo envenenado.
+
+837
+01:04:02,565 --> 01:04:06,685
+Se tivéssemos um bolo destes,
+tínhamo-lo era comido nós. É lógico!
+
+838
+01:04:06,685 --> 01:04:08,243
+- É evidente.
+- Cale-se!
+
+839
+01:04:10,045 --> 01:04:14,721
+Astérix, se a rainha não quer ouvir,
+nada mais há a dizer... por enquanto.
+
+840
+01:04:14,805 --> 01:04:18,764
+Levem-nos! Sirvam-nos aos crocodilos
+sagrados, como aperitivo.
+
+841
+01:04:26,565 --> 01:04:28,078
+Tenho fome.
+
+842
+01:04:31,525 --> 01:04:35,074
+Tenho fome! Tenho fome!!!
+
+843
+01:04:36,125 --> 01:04:38,958
+Quando a cumprimentei
+ela virou a cabeça.
+
+844
+01:04:40,125 --> 01:04:44,965
+Antes éramos os dois sorrisos
+e momices e agora, de repente...
+
+845
+01:04:44,965 --> 01:04:49,085
+Já nem olha para mim.
+Vê-me como um estranho.
+
+846
+01:04:49,085 --> 01:04:51,645
+Tu e a Cleópatra
+agora fazem fosquices?
+
+847
+01:04:51,645 --> 01:04:53,965
+Creio que o Astérix não se está
+a referir a Cleópatra,
+
+848
+01:04:53,965 --> 01:04:56,525
+mas sim a uma das damas
+de honor.
+
+849
+01:04:56,525 --> 01:04:58,277
+Aquela da trancinha linda.
+
+850
+01:04:59,685 --> 01:05:02,805
+Não me admirava que estivesse
+um nadinha apaixonado.
+
+851
+01:05:02,805 --> 01:05:04,445
+Qual apaixonado qual quê!
+
+852
+01:05:04,445 --> 01:05:07,721
+Eu só lhe queria era explicar que
+não tive nada a ver com o caso.
+
+853
+01:05:07,845 --> 01:05:11,085
+É um ponto de vista
+puramente judicial.
+
+854
+01:05:11,085 --> 01:05:12,598
+Judicial, pois!
+
+855
+01:05:12,725 --> 01:05:17,480
+- É evidente. Parem com isso.
+- Cucu! Amo-te.
+
+856
+01:05:18,445 --> 01:05:21,164
+Ora, que tolice!
+
+857
+01:05:25,925 --> 01:05:29,122
+Em certas alturas és mesmo genial,
+mas noutras...
+
+858
+01:05:29,965 --> 01:05:33,640
+- ...pareces um gordo parvalhão.
+- Quem é o gordo parvalhão?!
+
+859
+01:05:33,805 --> 01:05:36,444
+Bebam. Um golinho para cada um.
+E um antídoto.
+
+860
+01:05:37,765 --> 01:05:40,485
+Obélix, não bebas tudo.
+É só um golinho.
+
+861
+01:05:40,485 --> 01:05:41,998
+Pois, um golinho.
+
+862
+01:05:42,085 --> 01:05:45,919
+- Agora, Obélix, abre a porta.
+- Eu não bebi o antídoto todo.
+
+863
+01:05:46,125 --> 01:05:49,085
+Arreda! Vamos sair.
+
+864
+01:05:49,085 --> 01:05:51,804
+Sim. Já agora no regresso
+podiam-me trazer um maço de...
+
+865
+01:05:52,965 --> 01:05:57,117
+Estes egípcios são doidos.
+Mandamo-los sair e eles nada.
+
+866
+01:06:03,085 --> 01:06:06,043
+- Então?
+- Pronto, já terminei.
+
+867
+01:06:07,685 --> 01:06:12,520
+Já estou farta de me ver de perfil.
+Não me podias fazer a três quartos?
+
+868
+01:06:14,645 --> 01:06:16,636
+Ora, a arte contemporânea...
+
+869
+01:06:16,765 --> 01:06:18,118
+Se faz favor.
+
+870
+01:06:22,485 --> 01:06:25,602
+- Pode-se entrar?
+- O melhor é eu deixá-los a sós.
+
+871
+01:06:25,805 --> 01:06:29,400
+Gauleses,
+pois que estão decididos a perder-me
+
+872
+01:06:29,485 --> 01:06:32,795
+vou mostrar-vos, por Osíris,
+como morre uma rainha.
+
+873
+01:06:32,885 --> 01:06:37,165
+Nada disso, por Toutatis, oiça o que
+temos para dizer. Que é das aias?
+
+874
+01:06:37,165 --> 01:06:39,005
+- Porquê?
+- Por nada...
+
+875
+01:06:39,005 --> 01:06:42,884
+Tenho a certeza que o bolo não está
+envenenado. Até deve ser muito bom.
+
+876
+01:06:44,645 --> 01:06:48,001
+Obélix, divide o bolo em 3 fatias.
+
+877
+01:06:52,525 --> 01:06:55,085
+- Ele disse 3 fatias.
+- Uma.
+
+878
+01:06:57,685 --> 01:06:59,835
+- Sim, continua.
+- Duas.
+
+879
+01:07:01,205 --> 01:07:02,638
+E três.
+
+880
+01:07:03,485 --> 01:07:05,043
+Tinha de ser.
+
+881
+01:07:13,085 --> 01:07:16,395
+Está a ver, minha rainha?
+O bolo não está envenenado.
+
+882
+01:07:16,485 --> 01:07:19,602
+Diga-o ás suas damas de honor,
+sobretudo à da trancinha.
+
+883
+01:07:19,685 --> 01:07:22,757
+- O nome dela é Beijoquicis.
+- Beijoquicis.
+
+884
+01:07:31,845 --> 01:07:34,359
+Esta noite tive um sonho.
+
+885
+01:07:36,005 --> 01:07:38,360
+Sonhei que ganhava um milhão
+de sestércios
+
+886
+01:07:38,525 --> 01:07:42,803
+e que comprava um par de sapatos,
+enormes e, ainda por cima, foleiros.
+
+887
+01:07:42,885 --> 01:07:46,245
+Ele há cada sonho!
+É estranho porque...
+
+888
+01:07:46,245 --> 01:07:49,396
+O arquitecto egípcio que nos
+ofereceu os seus préstimos...
+
+889
+01:07:49,525 --> 01:07:51,561
+- O Artificis?
+- Amonbófis.
+
+890
+01:07:51,645 --> 01:07:55,160
+É um incapaz. Não resolveu nada.
+O palácio vai estar pronto.
+
+891
+01:07:55,245 --> 01:07:58,794
+Envia alguém à obra para espiolhar,
+meter o nariz, obter informações.
+
+892
+01:07:59,165 --> 01:08:02,805
+AIguém em particuIar, ó Cesar?
+
+893
+01:08:02,805 --> 01:08:05,685
+Quem quiseres.
+Alguém que se infiltre bem.
+
+894
+01:08:05,685 --> 01:08:07,801
+- Cartada secreta!
+- Sim?
+
+895
+01:08:09,085 --> 01:08:13,317
+César, eis a Cartada secreta
+a nossa melhor espia.
+
+896
+01:08:13,405 --> 01:08:15,794
+Avé César. Respeito e robustez.
+
+897
+01:08:16,405 --> 01:08:20,478
+A Cartada secreta é uma profissional,
+a rainha da camuflagem. Demonstra.
+
+898
+01:08:21,445 --> 01:08:23,800
+Quando olho assim, vêem-me.
+
+899
+01:08:24,285 --> 01:08:27,885
+Se olho assim, já não me vêem.
+Vêem-me.
+
+900
+01:08:27,885 --> 01:08:30,035
+Já não me vêem. Vêem-me.
+
+901
+01:08:30,205 --> 01:08:32,594
+- Já não me vêem. Vêem-me.
+- Extraordinário.
+
+902
+01:08:32,685 --> 01:08:36,165
+Já não me vêem. Vêem-me.
+Já não me vêem.
+
+903
+01:08:36,165 --> 01:08:38,395
+Já não me vêem. Vêem-me.
+
+904
+01:08:45,005 --> 01:08:46,597
+É surpreendente.
+
+905
+01:08:47,845 --> 01:08:50,200
+E ela nem está em grande forma.
+
+906
+01:08:55,525 --> 01:08:57,481
+Ele está a gozar comigo!
+
+907
+01:09:02,485 --> 01:09:04,874
+- Quatro meses...
+- Oiça, não me empurre.
+
+908
+01:09:04,965 --> 01:09:08,605
+- Há 4 meses que espero a casa.
+- A roupa não. A minha mãe mata-me.
+
+909
+01:09:08,605 --> 01:09:11,403
+- Eu tenho conhecimentos, já disse.
+- Então, calma.
+
+910
+01:09:11,565 --> 01:09:14,238
+Não me toque! Não tenho razões
+para estar calmo.
+
+911
+01:09:14,325 --> 01:09:16,998
+Dornocóccis, amanhã passo por lá
+e trato de tudo.
+
+912
+01:09:17,085 --> 01:09:20,805
+Até lhe faço um descontinho
+na empreitada com todo o prazer.
+
+913
+01:09:20,805 --> 01:09:22,557
+Ele tem prazer nisso.
+
+914
+01:09:22,645 --> 01:09:25,318
+Se não estiver na minha obra
+amanhã de madrugada,
+
+915
+01:09:25,405 --> 01:09:27,236
+terá de se haver comigo.
+
+916
+01:09:33,485 --> 01:09:34,845
+E?
+
+917
+01:09:34,845 --> 01:09:37,200
+Eles servem uma poção mágica
+que dá 10 vezes mais força.
+
+918
+01:09:37,285 --> 01:09:40,755
+Bebi-a e tornei-me um super-homem.
+Enfim, uma super-mulher.
+
+919
+01:09:40,845 --> 01:09:42,563
+Uma super-mulher.
+
+920
+01:09:43,645 --> 01:09:47,433
+- Não acreditais em mim, ó César?
+- Já se vai ver.
+
+921
+01:09:48,005 --> 01:09:51,998
+Bestasuperbrutus
+dá um estalo a esta presunçosa.
+
+922
+01:10:28,245 --> 01:10:30,918
+César vai ocupar-se ele próprio
+do assunto.
+
+923
+01:10:31,085 --> 01:10:34,361
+Os dados estão lançados:
+Alea jacta est:
+
+924
+01:10:34,485 --> 01:10:37,079
+Perdão. Ai! Deixem-me passar.
+
+925
+01:10:41,005 --> 01:10:43,645
+Em nome de César!
+Temos conhecimento
+
+926
+01:10:43,645 --> 01:10:46,925
+de que nestas obras se escondem
+dissidentes gauleses.
+
+927
+01:10:46,925 --> 01:10:51,005
+Ordeno ao Aspégix, ao Pomadix
+e ao Betadix...
+
+928
+01:10:51,005 --> 01:10:55,362
+- Os nomes deles são Astérix...
+- É irrelevante que nome têm!
+
+929
+01:10:55,685 --> 01:10:59,365
+Que se rendam,
+senão atacaremos o palácio!
+
+930
+01:10:59,365 --> 01:11:02,405
+Viemos por vontade de Cleópatra
+para cumprir uma missão.
+
+931
+01:11:02,405 --> 01:11:04,645
+Não partiremos sem o trabalho
+estar pronto, por Toutatis!
+
+932
+01:11:04,645 --> 01:11:06,925
+Não é preciso tanta violência.
+Talvez possamos conversar.
+
+933
+01:11:06,925 --> 01:11:08,565
+Talvez possamos conversar!
+
+934
+01:11:08,565 --> 01:11:12,114
+- Não deixaremos nem um de vós vivo.
+- Eu bem sabia!
+
+935
+01:11:12,405 --> 01:11:16,921
+Jeanclaudus, preparar para atacar.
+E não há piedade para ninguém.
+
+936
+01:11:17,085 --> 01:11:20,555
+Antivírus.
+O meu nome é Antivírus.
+
+937
+01:11:31,005 --> 01:11:34,325
+- Lancas!
+- Um, dois, três, quatro, seis.
+
+938
+01:11:34,325 --> 01:11:35,519
+Não, cinco.
+
+939
+01:11:36,325 --> 01:11:37,804
+Vá, de pé!
+
+940
+01:11:42,605 --> 01:11:44,038
+Formar!
+
+941
+01:11:59,125 --> 01:12:00,319
+Viva.
+
+942
+01:12:01,205 --> 01:12:04,436
+Estacione-o á sombra.
+
+943
+01:12:05,445 --> 01:12:09,245
+Então, ó amadores, vieram ver como
+nós, os profissionais, trabalhamos?
+
+944
+01:12:09,245 --> 01:12:10,598
+Exactamente.
+
+945
+01:12:16,165 --> 01:12:20,795
+Eu sei. Quando não se está habituado,
+mete respeito.
+
+946
+01:12:21,565 --> 01:12:23,805
+É preciso poção mágica
+para os trabalhadores.
+
+947
+01:12:23,805 --> 01:12:25,682
+Quais trabalhadores?
+Hoje é a folga deles.
+
+948
+01:12:29,125 --> 01:12:32,640
+Aqui está o palácio;
+
+949
+01:12:33,125 --> 01:12:38,677
+aqui os jardins, Norte e Sul,
+aqui os templos com as esfinges...
+
+950
+01:12:38,845 --> 01:12:43,475
+- Não está muito bem desenhado.
+- É que foi feito á pressa.
+
+951
+01:12:43,565 --> 01:12:47,001
+Com a perspectiva ficava mais assim,
+realmente.
+
+952
+01:12:47,125 --> 01:12:49,645
+Eu punha-os um niquinho mais
+de perfil.
+
+953
+01:12:49,645 --> 01:12:51,636
+Vocês também desenham tudo de...
+
+954
+01:13:02,245 --> 01:13:05,078
+- Ao ataque!
+- Estes romanos são doidos.
+
+955
+01:13:09,085 --> 01:13:10,996
+Face á violência desta cena
+
+956
+01:13:11,085 --> 01:13:14,760
+preferimos mostrar-vos este
+documentário dedicado á lagosta:
+
+957
+01:13:16,085 --> 01:13:18,525
+Contrariando uma ideia amplamente
+divulgada,
+
+958
+01:13:18,525 --> 01:13:21,244
+a lagosta alimenta-se
+exclusivamente de marisco,
+
+959
+01:13:21,725 --> 01:13:25,354
+o que não a impede de continuar
+bastante humana:
+
+960
+01:13:32,965 --> 01:13:34,364
+Cuidado.
+
+961
+01:13:38,445 --> 01:13:40,913
+Entrou ali agora um.
+Ideiafix, ataca!
+
+962
+01:13:53,245 --> 01:13:56,874
+Deixe-me, por favor!
+Não vê que já fui repelido?
+
+963
+01:13:59,125 --> 01:14:00,524
+Está bem.
+
+964
+01:14:02,485 --> 01:14:06,405
+Então, não se passa assim pelas
+pessoas a toda a velocidade!
+
+965
+01:14:06,405 --> 01:14:08,236
+Isto aqui não é a România!
+
+966
+01:14:12,805 --> 01:14:16,445
+Ave, Caius Suplícius.
+Fomos repelidos,
+
+967
+01:14:16,445 --> 01:14:18,965
+mas alguns de nós conseguiram
+penetrar nas defesas.
+
+968
+01:14:18,965 --> 01:14:21,240
+Bravo, valorosos legionários!
+
+969
+01:14:21,805 --> 01:14:24,797
+- Eles não me deviam ter provocado.
+- E isto?
+
+970
+01:14:26,485 --> 01:14:30,605
+Fomos nós que conseguimos penetrar
+nas defesas, mas eles foram gentis
+
+971
+01:14:30,605 --> 01:14:34,234
+e deixaram-nos sair
+sem nos baterem de mais.
+
+972
+01:14:35,005 --> 01:14:38,765
+E o que se faz agora?
+Estou a perguntar como... amador.
+
+973
+01:14:38,765 --> 01:14:40,323
+Relancem o ataque!
+
+974
+01:14:40,445 --> 01:14:44,199
+Caius Suplícius, não sei se será
+boa ideia insistir.
+
+975
+01:14:44,325 --> 01:14:47,085
+Estes gauleses são invencíveis.
+Estão entupidos de poção mágica.
+
+976
+01:14:47,085 --> 01:14:50,361
+O melhor seria desistirmos ou,
+em último caso...
+
+977
+01:14:50,565 --> 01:14:55,285
+Estou muito decepcionado consigo,
+centurião Casodreyfus.
+
+978
+01:14:55,285 --> 01:14:57,845
+O meu nome é Antivírus.
+
+979
+01:14:59,085 --> 01:15:03,556
+Ninguém achincalha o Império Romano.
+Quando o Império é atacado,
+
+980
+01:15:04,445 --> 01:15:06,720
+o Império contra-ataca.
+
+981
+01:15:07,805 --> 01:15:10,877
+Ele é maluco.
+Deu-me cabo da garganta.
+
+982
+01:15:26,805 --> 01:15:28,796
+Isto está calmo de mais.
+
+983
+01:15:30,325 --> 01:15:32,680
+Não me agrada lá muito.
+
+984
+01:15:34,085 --> 01:15:38,203
+Prefiro quando as coisas estão mais...
+um pouco menos calmas.
+
+985
+01:15:49,165 --> 01:15:50,484
+Alto!
+
+986
+01:15:51,645 --> 01:15:55,001
+- Máquinas de guerra.
+- Em posição!
+
+987
+01:15:55,845 --> 01:15:57,403
+Que vulgaridade!
+
+988
+01:16:00,765 --> 01:16:02,084
+Preparados!
+
+989
+01:16:02,725 --> 01:16:04,443
+A vista é bonita.
+
+990
+01:16:05,125 --> 01:16:07,480
+Está muito bem situado.
+
+991
+01:16:07,765 --> 01:16:10,074
+Disparar à vontade!
+Arrasem-me aquele palácio!
+
+992
+01:16:11,365 --> 01:16:13,196
+- Preparado?
+- Preparado.
+
+993
+01:16:13,445 --> 01:16:15,640
+Quando eu baixar o braço...
+
+994
+01:16:18,245 --> 01:16:21,442
+- Tu mandas.
+- Está bem. É canja.
+
+995
+01:16:26,925 --> 01:16:28,405
+E... em cheio!
+
+996
+01:16:28,405 --> 01:16:29,838
+O meu palácio!
+
+997
+01:16:54,405 --> 01:16:57,795
+Pergunto-me se toda esta violência
+será mesmo necessária.
+
+998
+01:16:59,485 --> 01:17:00,998
+Não, está bem.
+
+999
+01:17:04,645 --> 01:17:05,964
+Vem!
+
+1000
+01:17:17,085 --> 01:17:19,235
+Está bom. Perfeito.
+
+1001
+01:17:27,885 --> 01:17:30,353
+Com estes meios todos também eu.
+
+1002
+01:17:31,165 --> 01:17:34,605
+- Não é uma questão de meios.
+- E.
+
+1003
+01:17:34,605 --> 01:17:36,163
+- Não é.
+- É.
+
+1004
+01:17:36,365 --> 01:17:39,163
+- Não é.
+- É.
+
+1005
+01:17:45,165 --> 01:17:47,599
+O meu palácio está feito
+em ruínas.
+
+1006
+01:17:49,965 --> 01:17:54,004
+Vá, disparem sobre nós se são
+homens. Estamo-nos nas tintas.
+
+1007
+01:18:03,565 --> 01:18:06,955
+Falharam! Não nos atingiram!
+São mas é romanas, vocês!
+
+1008
+01:18:12,525 --> 01:18:14,561
+Ainda aqui estamos, toma toma!
+
+1009
+01:18:14,685 --> 01:18:17,358
+Temos de prevenir Cleópatra.
+Ela deve ter suficiente influência
+
+1010
+01:18:17,445 --> 01:18:20,403
+sobre César para pôr cobro
+ao ataque.
+
+1011
+01:18:23,485 --> 01:18:25,441
+- Não é.
+- É.
+
+1012
+01:18:30,965 --> 01:18:34,480
+" " Ó rainha, aceitai... etc, etc.
+Assim está muito bem.
+
+1013
+01:18:39,165 --> 01:18:43,397
+Tive uma ideia. O Ideiafix é que
+vai levar a mensagem a Cleópatra.
+
+1014
+01:18:43,565 --> 01:18:45,760
+O Ideiafix é que vai levar
+a mensagem?
+
+1015
+01:18:46,485 --> 01:18:49,363
+Não querem mesmo que eu viva!
+
+1016
+01:18:49,485 --> 01:18:53,525
+O Numerobis tem razão.
+Trata-se de um cão.
+
+1017
+01:18:53,525 --> 01:18:55,481
+Que nos fez sair da pirâmide.
+
+1018
+01:18:55,685 --> 01:18:59,473
+Vai, Ideiafix, leva esta mensagem
+a Cleópatra.
+
+1019
+01:19:00,565 --> 01:19:03,443
+Já te tinha dito que ele era muito
+novo para perceber.
+
+1020
+01:19:11,805 --> 01:19:13,682
+Fui atingido!
+
+1021
+01:19:14,565 --> 01:19:16,157
+Não é nada.
+
+1022
+01:19:21,445 --> 01:19:24,525
+Rapazes!
+Eis-nos de novo de vento em popa
+
+1023
+01:19:24,525 --> 01:19:27,358
+a bordo do nosso velho drakkar,
+
+1024
+01:19:27,685 --> 01:19:33,362
+este célebre barco de um só mastro,
+delgado como um pássaro. Toca a içar.
+
+1025
+01:20:02,445 --> 01:20:04,083
+Longe de mais.
+
+1026
+01:20:10,685 --> 01:20:12,357
+Estou assombrado.
+
+1027
+01:20:14,165 --> 01:20:15,803
+Isto deve chegar.
+
+1028
+01:20:19,005 --> 01:20:21,803
+Um golaço.
+Vou num pé e venho no outro.
+
+1029
+01:20:21,925 --> 01:20:24,678
+Despacha-te.
+Tem cuidado, Astérix.
+
+1030
+01:20:29,765 --> 01:20:31,562
+Agarra-te bem, Ideiafix.
+
+1031
+01:20:33,645 --> 01:20:36,603
+Corre, Asterix, corre!
+
+1032
+01:20:37,445 --> 01:20:38,798
+Alerta!
+
+1033
+01:20:39,165 --> 01:20:42,316
+Aquele conheço-o bem.
+E uma sarna.
+
+1034
+01:20:42,965 --> 01:20:44,364
+Escudos!
+
+1035
+01:20:46,965 --> 01:20:48,444
+Lanças!
+
+1036
+01:20:50,925 --> 01:20:52,916
+Porque é que ele não pára?
+
+1037
+01:21:01,125 --> 01:21:02,843
+A poção mágica!
+
+1038
+01:21:06,365 --> 01:21:10,365
+Coxiadautocarrus, Francorussus,
+apanhem-no! Depressa, vá!
+
+1039
+01:21:10,365 --> 01:21:11,957
+O meu nome não é Francorussus.
+
+1040
+01:21:15,165 --> 01:21:17,315
+O Obélix está sozinho.
+Vai ajudá-lo.
+
+1041
+01:21:21,285 --> 01:21:23,355
+A força já está comigo?
+
+1042
+01:22:04,685 --> 01:22:06,118
+Numerobis,
+
+1043
+01:22:08,445 --> 01:22:10,436
+prepara o teu sarcófago.
+
+1044
+01:22:28,845 --> 01:22:30,278
+Esquiva dupla.
+
+1045
+01:22:42,005 --> 01:22:45,965
+A violência do monge nunca fez
+o hábito do monge.
+
+1046
+01:22:45,965 --> 01:22:47,921
+Pára lá com os salamaleques!
+
+1047
+01:22:51,325 --> 01:22:53,520
+Espera, eu não tomei
+poção mágica.
+
+1048
+01:23:17,445 --> 01:23:20,285
+- O papel sobrepõe-se à pedra.
+- Tens a certeza?
+
+1049
+01:23:20,285 --> 01:23:21,638
+- Tenho.
+- Está bem.
+
+1050
+01:23:40,205 --> 01:23:42,719
+Não, não, não.... o pião, não!
+
+1051
+01:23:51,245 --> 01:23:54,476
+O meu nome é Amonbófis
+e numa papa fiz o Numerobis.
+
+1052
+01:24:05,845 --> 01:24:08,120
+Acabou o efeito da poção mágica.
+
+1053
+01:24:08,445 --> 01:24:11,118
+Cleópatra não chegará a receber
+esta mensagem.
+
+1054
+01:24:14,285 --> 01:24:15,604
+Pronto.
+
+1055
+01:24:20,285 --> 01:24:23,245
+- A família vai bem?
+- Vai, Imhotep.
+
+1056
+01:24:23,245 --> 01:24:25,525
+- E o teu pai, vai bem?
+- Vai, Imhotep.
+
+1057
+01:24:25,525 --> 01:24:28,483
+- E a tua irmã, como vai ela?
+- Vai bem, Imhotep.
+
+1058
+01:24:28,565 --> 01:24:32,319
+- E o teu primo? O que é feito dele?
+- Vai bem, Imhotep.
+
+1059
+01:24:32,445 --> 01:24:35,485
+- E o negócio, vai andando?
+- Vai, Imhotep.
+
+1060
+01:24:35,485 --> 01:24:38,283
+Levo isto emprestado.
+Desculpem!
+
+1061
+01:24:47,845 --> 01:24:50,643
+- Passa aqui muita gente?
+- Passa, Imhotep.
+
+1062
+01:25:00,725 --> 01:25:02,238
+Isto dá jeito.
+
+1063
+01:25:02,325 --> 01:25:04,634
+Mais depressa!
+Assim não o apanhamos!
+
+1064
+01:25:04,725 --> 01:25:07,717
+Vou no máximo. Isto é um 2 cavalos.
+Não posso ir mais depressa.
+
+1065
+01:25:14,325 --> 01:25:16,680
+Mas para que é tanto " yah " ?
+
+1066
+01:25:18,085 --> 01:25:19,882
+Apanha-me, se puderes.
+
+1067
+01:25:38,485 --> 01:25:42,842
+- Como é que te vais levantar agora?
+- Assim.
+
+1068
+01:25:44,845 --> 01:25:47,120
+Este combate é ridículo.
+
+1069
+01:25:47,405 --> 01:25:49,805
+Associemo-nos e terminemos juntos
+a construção.
+
+1070
+01:25:49,805 --> 01:25:51,761
+O leão não se associa ao zângão.
+
+1071
+01:25:52,645 --> 01:25:54,203
+O quê?
+
+1072
+01:25:54,885 --> 01:25:58,285
+O leão, bem, um leão,
+não se associa
+
+1073
+01:25:58,285 --> 01:25:59,923
+ao zângão.
+
+1074
+01:26:00,125 --> 01:26:02,565
+Não, é que eu percebi:
+" " Um leão
+
+1075
+01:26:02,565 --> 01:26:06,565
+não tem a ver com um emplastrão" " .
+Pensei que era uma treta qualquer.
+
+1076
+01:26:06,565 --> 01:26:07,918
+Não, não é isso.
+
+1077
+01:26:08,685 --> 01:26:10,198
+Turbo-salto!
+
+1078
+01:26:15,205 --> 01:26:16,684
+Larga-me.
+
+1079
+01:26:19,965 --> 01:26:23,753
+- Na minha frase o leão era eu.
+- Isso eu percebi.
+
+1080
+01:26:28,525 --> 01:26:30,516
+O que é que se passa?
+
+1081
+01:26:43,845 --> 01:26:46,405
+O leão não se associa
+ao zângão:
+
+1082
+01:26:57,565 --> 01:26:59,521
+E quem é agora o leão?
+
+1083
+01:27:00,765 --> 01:27:03,199
+Diz-mo de perfil, se és homem!
+
+1084
+01:27:32,965 --> 01:27:34,478
+Tudo bem?
+
+1085
+01:27:42,245 --> 01:27:44,565
+Por Júpiter,
+ele ainda agora aqui estava.
+
+1086
+01:27:44,565 --> 01:27:47,682
+Voltemos para trás. Perdêmo-lo.
+
+1087
+01:27:50,765 --> 01:27:53,325
+Fui bastante paciente
+com Numerobis.
+
+1088
+01:27:53,325 --> 01:27:55,085
+- Aonde é que me leva?
+- A Cleópatra.
+
+1089
+01:27:55,085 --> 01:27:57,085
+- Estou cheio de medo!
+- Arme-se em esperto.
+
+1090
+01:27:57,085 --> 01:28:01,125
+Cleópatra tem-me lá nos papirozinhos
+dela. Já vai ver como é.
+
+1091
+01:28:01,125 --> 01:28:03,195
+Receio não ter escolha!
+
+1092
+01:28:04,285 --> 01:28:07,960
+Um, dois, três, quatro, cinco,
+tripleta...
+
+1093
+01:28:08,085 --> 01:28:09,518
+Antílope e leão.
+
+1094
+01:28:10,005 --> 01:28:14,485
+- Qual é o presságio?
+- Uma mensagem e um apaixonado.
+
+1095
+01:28:14,485 --> 01:28:16,043
+Que parvoíce de jogo.
+
+1096
+01:28:16,205 --> 01:28:19,565
+- Minha rainha.
+- Dornocóccis. Entra.
+
+1097
+01:28:19,565 --> 01:28:21,635
+Vai, Ideiafix, vai levar a mensagem
+à rainha.
+
+1098
+01:28:25,205 --> 01:28:28,993
+- Ora cá está a mensagem.
+- E o apaixonado.
+
+1099
+01:28:31,845 --> 01:28:35,605
+Minha rainha, como deveis saber,
+eu mandei construir uma casa
+
+1100
+01:28:35,605 --> 01:28:40,085
+e as obras já deviam ter terminado há...
+4 meses, pelo menos.
+
+1101
+01:28:40,085 --> 01:28:42,041
+- O quê?
+- Pelo menos.
+
+1102
+01:28:42,405 --> 01:28:44,714
+Isto não vai ser assim!
+
+1103
+01:28:44,805 --> 01:28:47,956
+Obrigado, minha rainha, pela
+atenção dada ao meu problema!
+
+1104
+01:28:48,045 --> 01:28:50,565
+Mas que mau perdedor, por Ísis!
+
+1105
+01:28:50,565 --> 01:28:52,078
+É mesmo típico de César!
+
+1106
+01:28:52,285 --> 01:28:55,482
+Mas desta vez,
+ele vai ter de admitir a derrota.
+
+1107
+01:28:55,565 --> 01:29:00,036
+- A obra acabou dentro do prazo.
+- A obra... ainda está por acabar.
+
+1108
+01:29:00,125 --> 01:29:03,322
+Eu trato de tudo. Vai, gaulês.
+
+1109
+01:29:03,965 --> 01:29:07,844
+Beijoquicis, indica-lhe o caminho.
+Eu já Iá vou ter.
+
+1110
+01:29:09,205 --> 01:29:10,877
+Desculpa lá, pá.
+
+1111
+01:29:12,525 --> 01:29:15,562
+- Vem, meu Ideiafix.
+- Vem, meu gaulês.
+
+1112
+01:29:16,645 --> 01:29:19,318
+O meu problema não foi lá
+muito bem compreendido...
+
+1113
+01:29:22,805 --> 01:29:25,797
+É por ali. Sempre a direito.
+Muita cautela.
+
+1114
+01:29:39,765 --> 01:29:42,040
+O palácio está a ir ao ar.
+
+1115
+01:29:42,165 --> 01:29:45,601
+Com calminha chegamos lá.
+Tranquilum:
+
+1116
+01:29:45,885 --> 01:29:48,353
+A minha ideia de atacar
+o palácio foi boa.
+
+1117
+01:29:48,525 --> 01:29:51,358
+A vós o que é de vós.
+
+1118
+01:29:57,765 --> 01:29:59,642
+O Astérix está de volta.
+
+1119
+01:30:03,565 --> 01:30:05,556
+Quando eu baixar o braço.
+
+1120
+01:30:12,285 --> 01:30:16,642
+- Então?!
+- Não sei. Deve ter sido um refIexo.
+
+1121
+01:30:32,325 --> 01:30:34,156
+Que tal correu?
+
+1122
+01:30:34,285 --> 01:30:36,321
+- CIeópatra recebeu a mensagem.
+- Magnífico.
+
+1123
+01:30:36,405 --> 01:30:38,999
+Como pôde o efeito da poção mágica
+durar tanto tempo?
+
+1124
+01:30:39,085 --> 01:30:40,916
+O que se passou foi que...
+
+1125
+01:30:41,085 --> 01:30:46,239
+O que se passou foi que... provaste
+a melhor das poções mágicas.
+
+1126
+01:30:48,085 --> 01:30:49,845
+Anda daí, canito.
+
+1127
+01:30:49,845 --> 01:30:50,880
+Cucu!
+
+1128
+01:30:51,965 --> 01:30:55,480
+O Ideafix cumpriu lindamente
+a missão de que foi incumbido.
+
+1129
+01:30:55,565 --> 01:30:58,318
+Vês? Eu sabia.
+
+1130
+01:31:00,765 --> 01:31:02,835
+Tens a cara cor-de-rosa.
+
+1131
+01:31:05,085 --> 01:31:06,518
+Ave César.
+
+1132
+01:31:07,525 --> 01:31:09,645
+Está aqui uma pessoa
+para falar com César.
+
+1133
+01:31:09,645 --> 01:31:11,795
+- Quem?
+- Uma pessoa...
+
+1134
+01:31:14,525 --> 01:31:18,313
+Está bem. Se precisarem de mim...
+estou mesmo aqui ao lado.
+
+1135
+01:31:19,285 --> 01:31:23,085
+Minha rainha, que bela surpresa.
+O que é que...
+
+1136
+01:31:23,085 --> 01:31:24,279
+Basta!
+
+1137
+01:31:24,405 --> 01:31:28,485
+Saí do palácio a correr sem ter tido
+tempo de mudar de roupa...
+
+1138
+01:31:28,485 --> 01:31:31,716
+...mal soube o que se passava!
+- E o que era?
+
+1139
+01:31:31,845 --> 01:31:35,838
+Quando se faz uma aposta é preciso
+ter-se espírito desportivo.
+
+1140
+01:31:36,845 --> 01:31:40,525
+- Era meu direito apelar aos gauleses.
+- Eu nunca disse o con...
+
+1141
+01:31:40,525 --> 01:31:41,799
+Se me permites...
+
+1142
+01:31:42,525 --> 01:31:45,483
+Não estás num país conquistado!
+
+1143
+01:31:48,085 --> 01:31:53,000
+Exijo que os romanos deixem
+os construtores em paz
+
+1144
+01:31:53,085 --> 01:31:55,765
+e que antes de partirem reparem
+os estragos que fizeram.
+
+1145
+01:31:55,765 --> 01:31:58,837
+Caluda! imediatamente!
+
+1146
+01:32:08,245 --> 01:32:10,554
+E agora, o que fazemos?
+
+1147
+01:32:10,685 --> 01:32:14,200
+O que ela disse. Levantamos o cerco
+e reparamos os estragos, idiota.
+
+1148
+01:32:14,325 --> 01:32:16,520
+Tem lógica.
+
+1149
+01:32:17,485 --> 01:32:20,238
+Não quero que ela me deteste ao ponto
+de lhe chegar a mostarda ao nariz,
+
+1150
+01:32:20,725 --> 01:32:23,000
+que é muito bonito, aliás.
+
+1151
+01:32:23,365 --> 01:32:25,481
+César mandou-nos regressar.
+
+1152
+01:32:27,245 --> 01:32:29,679
+Sendo disciplinados,
+vamos voltar.
+
+1153
+01:32:30,405 --> 01:32:32,839
+Vejam, os romanos levantam
+o cerco.
+
+1154
+01:32:35,165 --> 01:32:37,918
+- Dá gosto ver.
+- O quê? Já se vão embora?!
+
+1155
+01:32:38,085 --> 01:32:40,485
+É incrível pensarmos que cada um
+destes romanos
+
+1156
+01:32:40,485 --> 01:32:42,840
+vai deixar na areia
+uma espécie de marca...
+
+1157
+01:32:44,765 --> 01:32:47,996
+- Não me consegui conter, a sério.
+- Não faz mal.
+
+1158
+01:32:49,085 --> 01:32:51,121
+E, pela primeira vez,
+
+1159
+01:32:51,205 --> 01:32:55,596
+romanos e egípcios trabalharam lado
+a lado na reconstrução do palácio:
+
+1160
+01:32:55,965 --> 01:32:59,196
+E foi assim que no final do prazo,
+ao cair do último grão:::
+
+1161
+01:33:35,645 --> 01:33:37,795
+O que vais fazer agora,
+Numerobis?
+
+1162
+01:33:37,885 --> 01:33:42,276
+Acabar a obra do Dornocóccis,
+mas, ao mesmo tempo...
+
+1163
+01:33:42,485 --> 01:33:46,205
+- Já não há a ameaça dos crocodilos.
+- A obra vai levar o seu tempo.
+
+1164
+01:33:46,205 --> 01:33:48,639
+Mas não demasiado. Que isso
+não se torne um hábito.
+
+1165
+01:34:00,165 --> 01:34:03,365
+César reconheceu ter perdido
+a aposta:
+
+1166
+01:34:03,365 --> 01:34:05,725
+Inclino-me perante a mais formosa
+das rainhas
+
+1167
+01:34:05,725 --> 01:34:09,798
+e perante o povo egípcio que é,
+a seguir ao povo rom...
+
+1168
+01:34:12,125 --> 01:34:16,243
+E inclino-me perante o povo egípcio,
+que é o maior de todos os povos.
+
+1169
+01:34:21,085 --> 01:34:24,005
+Cléopatra cumpriu a promessa feita
+a Numerobis:
+
+1170
+01:34:24,005 --> 01:34:25,723
+Cubram-no de ouro!
+
+1171
+01:34:25,805 --> 01:34:28,638
+Pois, foi isso que ficou acordado:
+eu seria coberto de ouro.
+
+1172
+01:34:31,085 --> 01:34:33,005
+A rainha ofereceu a Panoramix
+
+1173
+01:34:33,005 --> 01:34:36,441
+preciosos manuscritos
+da biblioteca de Alexandria:::
+
+1174
+01:34:37,005 --> 01:34:38,518
+Vossa narina...
+
+1175
+01:34:39,205 --> 01:34:42,754
+Vossa Majestade é muito generosa,
+por Belenos.
+
+1176
+01:34:50,965 --> 01:34:54,445
+Otis deu mesmo um pequeno toque
+de modernidade:::
+
+1177
+01:34:54,445 --> 01:34:55,958
+Que salita é esta?
+
+1178
+01:35:05,885 --> 01:35:07,921
+É uma invenção
+do meu amigo Otis.
+
+1179
+01:35:09,805 --> 01:35:12,239
+Chama-se sem-sesforçar.
+
+1180
+01:35:12,365 --> 01:35:15,485
+Chegámos a este nome porque nos
+apercebemos que... é um engenho
+
+1181
+01:35:15,485 --> 01:35:18,283
+que permite ás pessoas
+subirem e descerem sem esforço.
+
+1182
+01:35:18,365 --> 01:35:19,878
+Fala por ti.
+
+1183
+01:35:30,845 --> 01:35:33,723
+Faz umas cóceguinhas na barriga
+quando pára.
+
+1184
+01:35:39,165 --> 01:35:40,883
+Por Júpiter,
+
+1185
+01:35:41,045 --> 01:35:44,401
+tenho pressa de ver contigo
+todas as divisões desta maravilha.
+
+1186
+01:35:44,645 --> 01:35:49,082
+O Palácio é gigantesco, César.
+Tem 662 quartos.
+
+1187
+01:35:49,285 --> 01:35:53,119
+É coisa para levar o seu tempo.
+
+1188
+01:35:54,285 --> 01:35:56,674
+O que achas que estão a fazer
+a Cleópatra e o Sésamo?
+
+1189
+01:35:56,885 --> 01:35:58,398
+César.
+
+1190
+01:35:58,565 --> 01:36:00,283
+Cesariano...
+
+1191
+01:36:00,525 --> 01:36:02,675
+Nada de bom, com certeza.
+
+1192
+01:36:38,245 --> 01:36:40,605
+E desta vez, excepcionalmente,
+
+1193
+01:36:40,605 --> 01:36:44,245
+o tradicional banquete que encerra
+cada uma das aventuras de Astérix
+
+1194
+01:36:44,245 --> 01:36:47,760
+não teve lugar na Gália,
+mas sim no Egipto:
+
+1195
+01:36:52,845 --> 01:36:55,803
+- Estes camarões grandes são bons.
+- Lavagante.
+
+1196
+01:36:55,885 --> 01:36:57,113
+ObéIix.
+
+1197
+01:36:58,965 --> 01:37:01,320
+E o fulano diz-lhe:
+" " É o faro-oh!" "
+
+1198
+01:37:04,765 --> 01:37:07,677
+É que o fulano chama-se Oh.
+
+1199
+01:37:11,285 --> 01:37:15,437
+O fulano chama-se Oh
+e como tinha bom faro,
+
+1200
+01:37:15,845 --> 01:37:17,722
+é o faro Oh!
+
+1201
+01:37:20,245 --> 01:37:24,955
+O fulano chama-se Oh.
+Ele diz-lhe que é o seu faro...
+
+1202
+01:37:25,925 --> 01:37:31,204
+Faro-Oh, como " " faraó" " ,
+o chefe de... o nosso chefe.
+
+1203
+01:37:36,525 --> 01:37:38,993
+Tensum bigode lindo.
+E verdadeiro?
+
+1204
+01:37:39,165 --> 01:37:41,963
+Sim. Não é lá grande coisa.
+
+1205
+01:37:42,165 --> 01:37:44,884
+É só deixá-lo crescer
+e pronto.
+
+1206
+01:37:45,325 --> 01:37:47,156
+Como as tuas tranças,
+
+1207
+01:37:47,365 --> 01:37:51,597
+que, já agora, são muito mais
+bonitas do que as do ObéIix.
+
+1208
+01:37:51,925 --> 01:37:55,156
+Obrigada. Tu tens palavrinhas
+doces para as mulheres.
+
+1209
+01:37:55,445 --> 01:37:58,323
+É uma tradição nossa.
+
+1210
+01:37:58,445 --> 01:38:00,242
+Da Gália.
+
+1211
+01:38:43,445 --> 01:38:46,485
+Boa noite.
+Dizia-me o seu nome?
+
+1212
+01:38:46,485 --> 01:38:47,759
+Porquê?
+
+1213
+01:38:47,885 --> 01:38:50,399
+É uma festa privada.
+Tenho de consultar a lista.
+
+1214
+01:38:50,565 --> 01:38:52,237
+Sou Júlio César.
+
+1215
+01:38:54,085 --> 01:38:56,645
+Não. Desculpe,
+não vai poder entrar.
+
+1216
+01:38:57,165 --> 01:39:00,043
+Deve haver algum
+problema porque...
+
+1217
+01:39:00,205 --> 01:39:03,083
+Desculpe.
+Queira afastar-se, por favor.
+
+1218
+01:39:03,365 --> 01:39:05,365
+- Estás bom?
+- Olá, fofo.
+
+1219
+01:39:05,365 --> 01:39:07,560
+- A festa está quente?
+- A ferver. Estão sozinhos?
+
+1220
+01:39:07,725 --> 01:39:10,956
+- Somos 2, 4, 6, 8...
+- Entrem, entrem.
+
+1221
+01:39:11,965 --> 01:39:14,684
+Há um problema com a lista.
+Eu devia aí estar.
+
+1222
+01:39:14,805 --> 01:39:18,878
+- Soletre-me o nome.
+- C-É-S-A-R. " " César" " , Júlio.
+
+1223
+01:39:20,205 --> 01:39:22,878
+Setembroemparis,
+Senasaintdenis,
+
+1224
+01:39:23,005 --> 01:39:26,395
+- ...Suplícius.
+- Esse sou eu.
+
+1225
+01:39:26,525 --> 01:39:30,484
+Devia ter dito. Entre.
+Couraça gira, essa.
+
+1226
+01:39:30,565 --> 01:39:34,444
+- Obrigado. Até já.
+- Diverte-te. Estão cá todos.
+
+1227
+01:39:34,805 --> 01:39:38,844
+Veja então em Júlio.
+J,U,L,l,O.
+
+1228
+01:39:38,925 --> 01:39:41,075
+Oiça, estou a trabalhar.
+
+1229
+01:39:41,205 --> 01:39:44,754
+Sou conhecido aqui.
+Tenho uma ânfora no bar!
+
+1230
+01:39:44,885 --> 01:39:46,841
+- Com J?
+- Ú,L,I,O.
+
+1231
+01:39:46,965 --> 01:39:49,365
+Sim, realmente.
+Júlio César.
+
+1232
+01:39:49,365 --> 01:39:51,165
+Pode entrar.
+Está na mesa da rainha.
+
+1233
+01:39:51,165 --> 01:39:52,314
+Sim!
+
+1234
+01:39:56,405 --> 01:39:58,157
+Parvalhão da treta.
+
+1235
+01:39:58,685 --> 01:40:00,437
+Da próxima não entras.
+
+1236
+01:40:43,805 --> 01:40:47,844
+Diz-se " " em Alexandria" "  ou
+" " na cidade de Alexandria" "  ?
+
+1237
+01:40:47,965 --> 01:40:50,605
+No sul da Gália
+há uma terra chamada
+
+1238
+01:40:50,605 --> 01:40:53,365
+que tem uma bonita ponte,
+a ponte de Avénio
+
+1239
+01:40:53,365 --> 01:40:55,083
+e nós dizemos " " em Avénio" " .
+
+1240
+01:40:58,805 --> 01:41:00,477
+Você é uma aia?
+
+1241
+01:41:00,845 --> 01:41:02,801
+Sim, mas antes fiz
+outras coisas.
+
+1242
+01:41:03,445 --> 01:41:05,481
+Até sei falar sem mexer
+os lábios.
+
+1243
+01:41:05,565 --> 01:41:07,715
+Que maneira gira
+que eles têm de...
+
+1244
+01:41:07,925 --> 01:41:09,677
+Sei fazer outras coisas.
+
+1245
+01:41:09,845 --> 01:41:11,164
+Vê.
+
+1246
+01:41:13,845 --> 01:41:17,281
+Cada parte desse rosto
+tem uma beleza escondida.
+
+1247
+01:41:19,325 --> 01:41:21,793
+Da tua orelha surge
+uma rosa,
+
+1248
+01:41:23,885 --> 01:41:26,479
+do teu nariz uma esfinge.
+
+1249
+01:41:44,765 --> 01:41:46,278
+O fulano
+
+1250
+01:41:46,725 --> 01:41:49,637
+disse-lhe que era
+o faro-Oh!
+
+1251
+01:41:50,645 --> 01:41:53,318
+É o nome dele
+
+1252
+01:41:53,485 --> 01:41:55,794
+e é o seu faro.
+
+1253
+01:41:56,005 --> 01:41:58,519
+É pertença dele.
+
+1254
+01:41:58,645 --> 01:42:00,445
+O faro é pertença dele.
+
+1255
+01:42:00,445 --> 01:42:02,515
+É o faro-oh...
+Como ele se chama Oh...
+
+1256
+01:43:28,965 --> 01:43:30,921
+Socorro.
+
+1257
+01:43:31,085 --> 01:43:33,085
+Tradução
+Fátima Chinita
+
+1258
+01:43:33,085 --> 01:43:35,041
+Adaptação
+Carmen Cabrita
+
+
+
+0
+00:00:0,500 --> 00:00:2,00
+<font color="#ffff00" size=14>www.moviesubtitles.org</font>

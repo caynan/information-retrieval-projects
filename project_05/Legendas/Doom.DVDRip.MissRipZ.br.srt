@@ -1,0 +1,4708 @@
+1
+00:00:07,201 --> 00:00:10,587
+<i>No Ano 2026, arqueólogos que
+trabalhavam no deserto do Nevada</i>
+
+2
+00:00:10,621 --> 00:00:13,973
+<i>descobriram um portal para
+uma cidade ancestral em Marte.</i>
+
+3
+00:00:15,074 --> 00:00:16,944
+<i>Esse portal foi baptizado
+com o nome de "Arca".</i>
+
+4
+00:00:18,412 --> 00:00:22,414
+<i>20 anos depois ainda nos
+perguntamos por que foi construído</i>
+
+5
+00:00:23,515 --> 00:00:26,350
+<i>e o que aconteceu à
+civilização que o construiu.</i>
+
+6
+00:01:07,855 --> 00:01:10,055
+CORPORAÇÃO AEROESPACIAL
+UNION OLDUVAI
+
+6
+00:01:10,056 --> 00:01:12,125
+INSTALAÇÃO DE PESQUISA
+MARTE
+
+7
+00:01:18,631 --> 00:01:20,333
+Socorro!
+
+8
+00:01:50,160 --> 00:01:50,927
+Dr. Carmack!
+
+9
+00:01:50,960 --> 00:01:52,561
+ACESSO PERMITIDO
+DR. TOOD CARMACK
+
+10
+00:01:53,061 --> 00:01:54,629
+Dr. Carmack!
+
+11
+00:01:55,429 --> 00:01:57,331
+Dr. Carmack!
+
+12
+00:01:57,865 --> 00:02:01,936
+Dr. Carmack!
+
+13
+00:02:14,214 --> 00:02:17,082
+Aqui é o Dr. Carmack, responsável
+pelas instalações de pesquisa Olduvai...
+
+14
+00:02:17,116 --> 00:02:19,485
+Identidade: 662700.
+
+15
+00:02:19,752 --> 00:02:21,219
+Temos uma situação Nível 5,
+
+16
+00:02:21,287 --> 00:02:23,720
+estou permitindo procedimentos
+de quarentena imediatamente.
+
+17
+00:02:23,822 --> 00:02:26,191
+Entregue o pedido do
+procedimento de quarentena, agora!
+
+17
+00:02:44,000 --> 00:02:48,000
+DOOM
+A PORTA DO INFERNO
+
+18
+00:02:50,379 --> 00:02:51,379
+SUBDIVISÃO ESPECIAL
+DA MARINHA OP1
+
+18
+00:02:51,378 --> 00:02:52,349
+QUARTEL GENERAL DA RRTS
+
+19
+00:02:52,350 --> 00:02:53,349
+TWENTINNE PALMS,
+CALIFÓRNIA, EUA
+
+19
+00:02:53,350 --> 00:02:54,349
+Entendendo perfeitamente General!
+
+20
+00:02:54,583 --> 00:02:56,885
+Fomos requisitados pelo
+sistema aeroespacial,
+
+21
+00:02:57,018 --> 00:02:59,221
+para conter uma situação Nível
+5 nas instalações de Olduvai.
+
+22
+00:02:59,387 --> 00:03:00,322
+Quantos funcionáros estão envolvidos?
+
+23
+00:03:00,387 --> 00:03:02,957
+Seis cientistas estão trancados
+em um nível de alta segurança,
+
+24
+00:03:03,124 --> 00:03:04,124
+em situação crítica.
+
+25
+00:03:04,491 --> 00:03:07,160
+Havia 79 empregados
+da UAC lá dentro.
+
+26
+00:03:07,727 --> 00:03:09,295
+A viagem pela "Arca"
+foi suspensa.
+
+27
+00:03:09,462 --> 00:03:10,630
+Qual é o objetivo?
+
+28
+00:03:10,663 --> 00:03:12,465
+Código vermelho,
+acesso nível de ameaça.
+
+29
+00:03:12,498 --> 00:03:13,533
+Acesso ao nível de ameaça?
+
+30
+00:03:13,600 --> 00:03:15,300
+Proteger direitos
+de propriedade da UAC.
+
+31
+00:03:15,335 --> 00:03:16,835
+Manter a quarentena de
+ambos os portais da "Arca",
+
+31
+00:03:16,836 --> 00:03:18,538
+com todos os meios necessários.
+
+32
+00:03:18,605 --> 00:03:19,806
+É extremamente prejudicial?
+
+33
+00:03:19,839 --> 00:03:20,973
+Extremamente
+prejudicial!
+
+34
+00:03:21,006 --> 00:03:22,608
+Se necessário
+procurar e destruir!
+
+35
+00:03:22,708 --> 00:03:23,575
+Terminado.
+
+36
+00:03:23,876 --> 00:03:24,942
+Procurar e destruir.
+
+37
+00:03:25,611 --> 00:03:27,312
+Ordens recebidas e compreendidas!
+
+38
+00:03:27,345 --> 00:03:27,911
+Saio.
+
+39
+00:03:29,813 --> 00:03:31,482
+Estão se fazendo
+de difíceis, hein?
+
+40
+00:03:32,315 --> 00:03:34,818
+Hoje não. Certo, Certo.
+
+41
+00:03:35,652 --> 00:03:36,887
+está com medo rapaz...
+
+42
+00:03:40,357 --> 00:03:41,224
+Eu confesso...
+
+43
+00:03:41,324 --> 00:03:43,493
+o meu nome é Peter... sim!
+
+44
+00:03:52,834 --> 00:03:53,834
+Olha a parede cara!
+
+45
+00:03:54,636 --> 00:03:57,004
+Cara! Eu não acredito nessa merda!
+
+46
+00:03:57,071 --> 00:03:58,771
+Ao fim de seis meses
+temos um fim de semana,
+
+46
+00:03:58,772 --> 00:04:00,874
+e o maldito transporte
+está 5 minutos atrasado,
+
+47
+00:04:01,041 --> 00:04:04,077
+e esses 5 minutos eu
+nunca os terei de volta.
+
+48
+00:04:04,178 --> 00:04:06,447
+Relaxa querido,
+estamos todos de férias!
+
+49
+00:04:08,782 --> 00:04:10,082
+Uhu!
+
+50
+00:04:10,783 --> 00:04:12,585
+Está ficando tarde, cara.
+
+51
+00:04:16,822 --> 00:04:18,024
+Para onde vai, Portman?
+
+52
+00:04:18,857 --> 00:04:20,792
+Eu vou para "El Honto",
+
+53
+00:04:20,826 --> 00:04:22,961
+me enfiar em um
+quarto de motel,
+
+54
+00:04:23,294 --> 00:04:26,297
+com uma garrafa de
+tequila e três travecos.
+
+55
+00:04:28,533 --> 00:04:29,533
+Você é doente!
+
+56
+00:04:34,071 --> 00:04:35,673
+Estou farto das suas porcarias, Portman!
+
+57
+00:04:35,806 --> 00:04:38,374
+- Espaço.
+- Como será rapazes?
+
+58
+00:04:38,707 --> 00:04:40,710
+E se fossemos à procura
+de um lugar calmo?
+
+59
+00:04:41,076 --> 00:04:43,079
+Sim para relaxar um pouco.
+
+60
+00:04:47,249 --> 00:04:48,251
+Ouçam homens!
+
+61
+00:04:50,987 --> 00:04:52,554
+A partida foi cancelada.
+
+62
+00:04:53,054 --> 00:04:55,389
+Oh, cara, eu disse...
+
+63
+00:04:55,990 --> 00:04:56,958
+Não acredito nessa merda...
+
+64
+00:04:57,592 --> 00:04:58,493
+Caralho...
+
+65
+00:04:58,559 --> 00:05:01,662
+Há algum problema com isso Duke?
+Claro que não, eu amo o meu trabalho!
+
+66
+00:05:01,961 --> 00:05:02,963
+O que está acontecendo, Sarge?
+
+67
+00:05:03,230 --> 00:05:04,264
+Nos deram um jogo!
+
+68
+00:05:06,133 --> 00:05:10,470
+Kid, filho, agora faz parte da
+resposta rápida do esquadrão tático,
+
+69
+00:05:10,503 --> 00:05:12,238
+o RRTS.
+
+70
+00:05:13,440 --> 00:05:14,440
+Podem seguir.
+
+71
+00:05:14,841 --> 00:05:18,211
+Perigoso, coisinha nojenta.
+
+72
+00:05:18,244 --> 00:05:19,912
+Não é dessa vez
+que vamos para casa.
+
+73
+00:05:21,347 --> 00:05:25,250
+- Se é que íamos...
+- Cala essa boca, Portman!
+
+74
+00:05:26,517 --> 00:05:27,217
+Não dessa vez, John.
+
+75
+00:05:28,318 --> 00:05:28,786
+O quê?
+
+76
+00:05:28,819 --> 00:05:30,354
+Podemos lidar com isso.
+
+77
+00:05:30,654 --> 00:05:32,756
+Está dizendo besteira...
+
+78
+00:05:32,823 --> 00:05:34,056
+Não é besteira...
+
+79
+00:05:34,625 --> 00:05:35,925
+Vamos para Olduvai.
+
+80
+00:05:37,995 --> 00:05:39,029
+Olduvai?
+
+81
+00:05:43,599 --> 00:05:45,101
+Aceite a licença.
+
+82
+00:05:45,701 --> 00:05:46,769
+Isso é uma ordem?
+
+83
+00:05:47,203 --> 00:05:48,771
+É uma recomendação.
+
+84
+00:05:50,439 --> 00:05:51,806
+Te vejo quando voltar!
+
+85
+00:05:56,010 --> 00:05:57,311
+Nave pronta para levantar.
+
+86
+00:05:57,344 --> 00:05:57,911
+Entendido.
+
+87
+00:05:57,945 --> 00:05:59,646
+Limpa as lágrimas. Não vou desistir.
+
+88
+00:05:59,747 --> 00:06:01,482
+Um soldado nunca desiste.
+
+89
+00:06:03,217 --> 00:06:04,017
+Estamos de partida.
+
+90
+00:06:04,051 --> 00:06:05,520
+Oficial Grimm, prepare-se
+para levantar.
+
+90
+00:06:05,521 --> 00:06:06,520
+Ok, Sarge, corram.
+
+91
+00:06:12,425 --> 00:06:13,425
+RRTS, confirmação de rotina.
+
+91
+00:06:13,426 --> 00:06:14,426
+Verificação do Oficial
+Especial confirmada.
+
+92
+00:06:14,626 --> 00:06:16,761
+Identificação
+final: Destroyer.
+
+93
+00:06:16,795 --> 00:06:18,096
+Papai chegou!
+
+94
+00:06:18,197 --> 00:06:20,165
+Identificação
+final: Mac.
+
+95
+00:06:21,366 --> 00:06:22,799
+Identificação
+final: Portman.
+
+96
+00:06:22,934 --> 00:06:24,835
+Identificação
+final: Goat.
+
+97
+00:06:25,203 --> 00:06:28,339
+- Identificação final: The Kid.
+- The Kid?
+
+98
+00:06:28,473 --> 00:06:29,673
+Identificação
+final: Duke.
+
+99
+00:06:29,707 --> 00:06:30,874
+Diga o meu nome, querida.
+
+100
+00:06:32,743 --> 00:06:35,146
+Oficial Especial da
+RRTS permissão verificada.
+
+101
+00:06:35,278 --> 00:06:37,379
+Identificação
+final: Sarge.
+
+102
+00:06:37,414 --> 00:06:39,415
+Nem acredito que
+vamos pela "Arca".
+
+103
+00:06:39,582 --> 00:06:42,651
+Não se preocupe, Kid. Vai adorar!
+
+104
+00:06:44,619 --> 00:06:46,388
+- Todos prontos?
+- Sim, senhor.
+
+105
+00:06:53,895 --> 00:06:56,331
+Oficial Especial da
+RRTS permissão verificada.
+
+106
+00:06:56,530 --> 00:06:58,799
+Identificação
+final: Reaper.
+
+107
+00:06:59,032 --> 00:06:59,666
+Leva-nos para cima.
+
+108
+00:06:59,733 --> 00:07:01,634
+RRTS FA66, vamos partir.
+
+109
+00:07:12,636 --> 00:07:13,736
+Sabe Kid...
+
+110
+00:07:13,836 --> 00:07:13,904
+É engraçado...
+
+111
+00:07:13,937 --> 00:07:17,337
+Há um tempo atrás pedi
+ao Sargento uma bucetinha...
+
+112
+00:07:19,238 --> 00:07:21,237
+No dia seguinte te
+trouxe para a equipe.
+
+113
+00:07:22,438 --> 00:07:23,837
+Não me dê nenhuma
+desculpa Portman!
+
+114
+00:07:25,437 --> 00:07:26,637
+Ninguém aqui vai
+sentir a sua falta...
+
+115
+00:07:28,338 --> 00:07:29,638
+Prestem atenção...
+
+116
+00:07:31,639 --> 00:07:33,039
+Isso é o que
+temos da SIMCON...
+
+117
+00:07:34,640 --> 00:07:37,240
+Temos uma situação
+de quarentena na Olduvai,
+
+118
+00:07:37,641 --> 00:07:39,841
+Recebemos essa mensagem quando
+perdemos a comunicação...
+
+118
+00:07:39,842 --> 00:07:40,841
+Olduvai...
+
+119
+00:07:41,750 --> 00:07:44,500
+Aqui é o Dr. Carmack, responsável
+pelas instalações de pesquisa Olduvai...
+
+119
+00:07:44,534 --> 00:07:46,903
+Identidade: 662700.
+
+119
+00:07:47,288 --> 00:07:48,637
+Temos uma situação Nível 5,
+
+119
+00:07:48,823 --> 00:07:51,138
+estou permitindo procedimentos
+de quarentena imediatamente.
+
+119
+00:07:51,139 --> 00:07:52,500
+Eu repito...
+Aqui é o Dr. Carmack,
+
+119
+00:07:52,501 --> 00:07:53,500
+responsável pelas instalações
+de pesquisa Olduvai...
+
+119
+00:07:53,501 --> 00:07:55,500
+Identidade: 662700.
+
+119
+00:07:55,501 --> 00:07:57,499
+Temos uma situação Nível 5,
+
+119
+00:07:57,500 --> 00:07:59,500
+entregue o pedido do
+procedimento de quarentena, agora!
+
+119
+00:08:00,839 --> 00:08:02,838
+UAC fechou o laboratório...
+
+120
+00:08:03,040 --> 00:08:05,039
+Temos que ir lá,
+localizar a equipe,
+
+120
+00:08:05,040 --> 00:08:07,040
+eliminar a ameaça e colocar
+as instalações em segurança.
+
+121
+00:08:07,073 --> 00:08:08,041
+Que ameaça?
+
+122
+00:08:09,041 --> 00:08:13,340
+É assim... se tenta
+te matar é uma ameaça.
+
+123
+00:08:44,139 --> 00:08:46,138
+Quanto tempo já passou?
+
+124
+00:08:47,226 --> 00:08:48,227
+10 anos.
+
+125
+00:08:48,628 --> 00:08:49,896
+Tem certeza de que ela
+ainda está lá em cima?
+
+126
+00:08:52,831 --> 00:08:54,765
+Sim...
+
+127
+00:08:57,268 --> 00:08:59,837
+Acho que todos temos que enfrentar
+os nossos demônios de vez em quando.
+
+128
+00:09:08,446 --> 00:09:11,147
+Fiquem atentos, homens.
+Está na hora do jogo!
+
+129
+00:09:36,269 --> 00:09:37,171
+Parem!
+
+130
+00:09:59,290 --> 00:10:00,859
+Vamos entrar.
+
+131
+00:10:12,168 --> 00:10:14,904
+Se hesitarmos... pessoas morrerão!
+
+132
+00:10:32,019 --> 00:10:35,688
+INSTALAÇÕES DA UAC ARCA
+LAGO PAPOOSE, NEVADA, EUA
+
+133
+00:10:37,991 --> 00:10:41,061
+Sandford Crosby, departamento
+de relações públicas da UAC.
+
+134
+00:10:42,528 --> 00:10:43,430
+Sigam-me, por favor.
+
+135
+00:10:43,462 --> 00:10:44,865
+Quantas pessoas
+vocês têm lá em cima?
+
+136
+00:10:44,898 --> 00:10:46,898
+Tudo indica que ainda
+tem cinco cientistas
+
+136
+00:10:46,899 --> 00:10:48,601
+da equipe permanente de pesquisa.
+
+137
+00:10:52,137 --> 00:10:54,338
+Bem-vindos à "Arca", cavalheiros.
+
+138
+00:10:55,407 --> 00:10:57,407
+Iniciando mapeamento molecular.
+
+139
+00:11:03,046 --> 00:11:05,682
+Todo o pessoal
+preparar para a ativação.
+
+140
+00:11:06,349 --> 00:11:07,820
+Mantenham distância do núcleo,
+
+140
+00:11:07,821 --> 00:11:09,820
+ou vocês poderão ser
+sugados lá para dentro.
+
+141
+00:11:10,053 --> 00:11:12,221
+Você já... já fez isso antes?
+
+142
+00:11:12,255 --> 00:11:14,390
+Uma vez, em uma missão de treino.
+
+143
+00:11:14,424 --> 00:11:15,958
+Espero que tenha jantado bem Kid.
+
+144
+00:11:15,992 --> 00:11:18,195
+Temos as coordenadas
+inseridas e travadas.
+
+145
+00:11:19,295 --> 00:11:22,564
+Altimetria muito boa,
+transmissão em 5 por 5.
+
+146
+00:11:22,629 --> 00:11:25,265
+Assim que entrarmos, preciso que
+feche os elevadores de superfície.
+
+147
+00:11:25,299 --> 00:11:27,735
+Tenha certeza de que a
+quarentena será mantida por 6 horas.
+
+148
+00:11:28,535 --> 00:11:30,137
+Prontos para prosseguir?
+
+149
+00:11:31,238 --> 00:11:33,841
+Viagem pela "Arca",
+em 15 segundos.
+
+150
+00:11:33,941 --> 00:11:35,042
+E contando...
+
+151
+00:11:44,349 --> 00:11:45,083
+5,
+
+152
+00:11:45,718 --> 00:11:46,385
+4,
+
+153
+00:11:47,153 --> 00:11:47,953
+3,
+
+154
+00:11:48,587 --> 00:11:49,422
+2,
+
+155
+00:11:49,921 --> 00:11:51,757
+1.
+
+156
+00:12:02,066 --> 00:12:03,801
+Por que temos
+que vir dessa forma?
+
+157
+00:12:04,035 --> 00:12:06,502
+Por que não temos caras para fazer
+essa porcaria funcionar de outro modo?
+
+158
+00:12:07,470 --> 00:12:08,537
+Isso é sempre assim, Goat?
+
+159
+00:12:08,571 --> 00:12:11,440
+Acredite em mim,
+costumava ser bem pior.
+
+160
+00:12:11,840 --> 00:12:14,544
+Houve uma época em que viajar
+na "Arca", era suscetível a...
+
+161
+00:12:14,743 --> 00:12:16,813
+digamos, uma grande turbulência.
+
+162
+00:12:16,880 --> 00:12:18,080
+O que ele quer dizer?
+
+163
+00:12:18,247 --> 00:12:21,816
+Ele quer dizer, que foi para uma
+galáxia e seu traseiro para outra.
+
+164
+00:12:21,883 --> 00:12:24,485
+Chamam de erro nos
+cálculos ciêntíficos.
+
+165
+00:12:26,085 --> 00:12:27,754
+Inacreditável, como podem ver,
+
+166
+00:12:27,820 --> 00:12:30,988
+apenas fazem com que bizarro
+se pareça com um pequeno erro.
+
+167
+00:12:31,056 --> 00:12:33,292
+Sou Marcus Penzaroski, vocês
+podem me chamar de Pinky.
+
+168
+00:12:33,392 --> 00:12:34,159
+Sigam-me.
+
+169
+00:12:34,525 --> 00:12:36,595
+Onde estão os funcionários que não
+ficaram trancados no laboratório?
+
+170
+00:12:36,662 --> 00:12:37,795
+No pátio!
+
+171
+00:12:38,062 --> 00:12:39,264
+Pinky, nos conecte.
+
+172
+00:12:40,398 --> 00:12:42,800
+Ativando as câmeras
+de vigilância pessoal.
+
+173
+00:12:46,070 --> 00:12:48,472
+Formem um círculo homens.
+Quando eu disser 3...
+
+174
+00:12:49,006 --> 00:12:51,608
+1, 2, 3.
+
+175
+00:12:52,943 --> 00:12:55,144
+As suas câmeras...
+ligadas e funcionando!
+
+176
+00:12:55,844 --> 00:12:57,846
+Homens, essa é uma
+área em código vermelho,
+
+177
+00:12:57,880 --> 00:12:59,882
+isso significa que ninguem pode
+circular sem a nossa permissão,
+
+177
+00:12:59,883 --> 00:13:00,882
+custe o que custar.
+
+178
+00:13:00,982 --> 00:13:03,618
+Mac, fica aqui com o nosso
+amigo e vigie a porta.
+
+179
+00:13:03,718 --> 00:13:05,753
+Sigam-me, vamos prosseguir!
+
+180
+00:13:10,659 --> 00:13:11,626
+Abram a porta!
+
+181
+00:13:26,805 --> 00:13:28,307
+Olha, militares!
+
+182
+00:13:28,708 --> 00:13:29,976
+Mãe, olha...
+
+183
+00:13:34,179 --> 00:13:35,280
+Onde diabos estamos nós?
+
+184
+00:13:35,615 --> 00:13:37,782
+A alguns milhares de
+anos luz do café da manhã?
+
+185
+00:13:37,983 --> 00:13:40,151
+Quando podemos começar a
+evacuar as pessoas pela "Arca"?
+
+186
+00:13:40,218 --> 00:13:42,653
+Estamos em uma quarentena nível
+5, ninguém vai a lugar nenhum.
+
+187
+00:13:42,786 --> 00:13:46,790
+Meninas, estamos em uma
+quarentena nível 5,
+
+188
+00:13:47,056 --> 00:13:50,593
+por isso eu vou ter que despi-las
+para efetuar a revista... meninas.
+
+189
+00:13:50,627 --> 00:13:52,896
+- Eu acho que não.
+- Segure esse pensamento.
+
+190
+00:13:53,429 --> 00:13:55,865
+Estamos sob uma
+quarentena nível 5,
+
+191
+00:13:55,932 --> 00:13:56,851
+por isso terei que
+despi-la para efetuar...
+
+191
+00:13:56,852 --> 00:13:57,851
+Portman...
+
+192
+00:13:57,884 --> 00:14:00,769
+Sarge, essa é a Dra. Samantha
+Grimm, Cientista da UAC,
+
+193
+00:14:00,869 --> 00:14:02,772
+designada para recolher
+informações do laboratório.
+
+194
+00:14:02,905 --> 00:14:04,772
+- Sargento!
+- Grimm!
+
+195
+00:14:04,806 --> 00:14:07,008
+- Olá, John!
+- Olá, Samantha!
+
+196
+00:14:07,275 --> 00:14:08,976
+Olá, Samantha!
+
+197
+00:14:09,577 --> 00:14:11,495
+Sarge, essa é uma
+operação Código Vermelho,
+
+198
+00:14:11,528 --> 00:14:13,380
+acho que não temos
+lugar para passageiros...
+
+199
+00:14:13,414 --> 00:14:16,751
+Com licença, mas tenho ordens
+de recolher dados de 3 fontes
+
+200
+00:14:16,784 --> 00:14:19,754
+oncológica, forense
+arqueológica e genética.
+
+201
+00:14:20,153 --> 00:14:22,221
+Essa é uma operação militar doutora,
+
+202
+00:14:22,255 --> 00:14:25,775
+não estamos aqui para resgatar
+qualquer trabalho científico.
+
+203
+00:14:25,809 --> 00:14:29,295
+Por que não pergunta ao seu
+comandante quais são suas ordens?
+
+204
+00:14:32,096 --> 00:14:37,902
+Conter e neutralizar a ameaça, proteger
+os civis e resgatar propriedade da UAC.
+
+205
+00:14:38,636 --> 00:14:40,905
+Finalmente, terminamos aqui,
+porque eu tenho trabalho para fazer.
+
+206
+00:14:41,306 --> 00:14:42,807
+Se vocês me seguirem...
+
+207
+00:14:43,274 --> 00:14:46,944
+Você escolheu assim, Reaper.
+Isso vai estragar o meu dia?
+
+208
+00:14:47,010 --> 00:14:47,979
+Não, senhor!
+
+209
+00:14:48,046 --> 00:14:51,048
+Me diz que não vai deixar escapar
+um traseiro daqueles, Reaper.
+
+210
+00:14:51,147 --> 00:14:52,814
+- Ela é minha irmã.
+- Não me diga!
+
+211
+00:14:52,881 --> 00:14:54,916
+- Não faça isso de novo, cara.
+- Fazer o quê?
+
+212
+00:14:55,450 --> 00:14:57,919
+Existem três seções que formam o
+laboratório do Carmack nesse complexo.
+
+213
+00:14:58,053 --> 00:15:00,455
+Arqueologia, genética e
+pesquisa sobre armas biológicas.
+
+214
+00:15:00,856 --> 00:15:01,790
+Testam armas biológicas, aqui em cima?
+
+215
+00:15:01,823 --> 00:15:05,160
+É mais seguro testá-las
+aqui ou no seu quintal?
+
+216
+00:15:05,493 --> 00:15:07,863
+Primariamente eram as
+explorações arqueológicas.
+
+217
+00:15:07,929 --> 00:15:10,231
+A pesquisa de armas biológicas
+era feita em uma outra instalação,
+
+218
+00:15:10,265 --> 00:15:12,400
+Não tinha nada a ver com
+o trabalho do Dr. Carmack.
+
+219
+00:15:12,600 --> 00:15:14,101
+Quantas pessoas estavam dentro do
+laboratório quando ele se fechou?
+
+220
+00:15:14,135 --> 00:15:16,436
+Apenas a equipe do Dr.
+Carmack, seis pessoas.
+
+221
+00:15:16,603 --> 00:15:20,372
+E um deles deixou o telefone
+interno fora do gancho.
+
+222
+00:15:20,606 --> 00:15:22,174
+Obteve alguma informação a partir dele?
+
+223
+00:15:30,849 --> 00:15:31,717
+Abra a porta!
+
+224
+00:15:42,226 --> 00:15:44,694
+Portman, Goat... liderem.
+
+225
+00:15:52,268 --> 00:15:54,838
+Magnésio, crômio,
+chumbo, tudo normal.
+
+225
+00:15:54,839 --> 00:15:55,838
+Tudo limpo!
+
+226
+00:15:59,608 --> 00:16:00,976
+Pinky nos dê um mapa.
+
+227
+00:16:02,676 --> 00:16:03,678
+Vou enviar agora!
+
+228
+00:16:07,982 --> 00:16:10,751
+O laboratório de Carmack era
+isolado do resto das instalações.
+
+229
+00:16:11,318 --> 00:16:13,654
+A ventilação é o único
+modo de entrar ou sair.
+
+230
+00:16:16,824 --> 00:16:18,492
+Goat, Portman para a Genética.
+
+231
+00:16:18,692 --> 00:16:20,692
+Kid e Destroyer, o
+escritório de Carmack
+
+231
+00:16:20,693 --> 00:16:22,195
+de onde veio o
+pedido de socorro, Reaper,
+
+232
+00:16:22,261 --> 00:16:24,697
+mantenha a Dra. Grimm a salva
+no seu trabalho de recuperação.
+
+233
+00:16:24,730 --> 00:16:26,030
+O Duke e eu vamos ao
+laboratório das armas
+
+233
+00:16:26,031 --> 00:16:27,499
+nos certificar de que todo o
+hardware se encontra seguro.
+
+234
+00:16:27,933 --> 00:16:29,100
+Fiquem em segurança, cavalheiros.
+
+235
+00:16:29,935 --> 00:16:32,771
+- Portman, Goat, é com vocês.
+- Vamos.
+
+236
+00:16:44,114 --> 00:16:45,950
+- Vou pela esquerda.
+- E eu pela direita.
+
+237
+00:16:50,053 --> 00:16:51,921
+Aposto 5 dólares,
+como essa confusão
+
+237
+00:16:51,922 --> 00:16:53,921
+começou com um
+empregado com uma arma.
+
+238
+00:16:56,258 --> 00:16:58,693
+Marquem seus objetivos, conforme
+as salas ficarem limpas. Vão!
+
+239
+00:17:04,765 --> 00:17:06,133
+Estão a caminho.
+
+240
+00:17:07,969 --> 00:17:10,004
+Você não se
+parece com um "Mac".
+
+241
+00:17:11,472 --> 00:17:14,274
+Katsuhiko Kumanoske Takahashi.
+
+242
+00:17:15,342 --> 00:17:16,843
+Portanto, um "Mac"!
+
+243
+00:18:00,781 --> 00:18:03,050
+PESQUISA GENÉTICA
+
+244
+00:18:06,420 --> 00:18:07,688
+Mas que droga...
+
+245
+00:18:26,470 --> 00:18:30,174
+- Pinky, está nos captando?
+- Jesus!
+
+246
+00:18:30,642 --> 00:18:32,577
+Muito maneiro!
+
+247
+00:18:59,133 --> 00:18:59,634
+Limpa!
+
+248
+00:19:01,269 --> 00:19:03,137
+Onde diabos estão todos?
+
+249
+00:19:06,241 --> 00:19:07,142
+Ei!
+
+250
+00:19:21,920 --> 00:19:22,621
+Feche-a!
+
+251
+00:19:30,462 --> 00:19:31,429
+Está limpo!
+
+252
+00:19:34,798 --> 00:19:36,232
+De quanto tempo vai precisar?
+
+253
+00:19:36,266 --> 00:19:38,068
+30 minutos, no máximo.
+
+254
+00:19:38,802 --> 00:19:42,272
+Goat, Portman, há
+outra sala ao norte,
+
+255
+00:19:42,306 --> 00:19:43,773
+passando pela Genética!
+
+256
+00:19:45,508 --> 00:19:46,442
+Entendido!
+
+257
+00:20:03,825 --> 00:20:06,526
+- Mas que diabos é isso?
+- Você nunca cumpriu pena Portman!
+
+258
+00:20:07,028 --> 00:20:07,895
+O quê?
+
+259
+00:20:09,763 --> 00:20:11,499
+Isso é uma cela de segurança!
+
+260
+00:20:12,566 --> 00:20:14,367
+Besteira!
+
+261
+00:20:14,402 --> 00:20:16,002
+O que te faz pensar isso?
+
+262
+00:20:18,004 --> 00:20:19,406
+Toque-a.
+
+263
+00:20:23,041 --> 00:20:25,076
+Porque as paredes
+são eletrificadas!
+
+264
+00:20:25,510 --> 00:20:27,278
+É um imbecil!
+
+265
+00:20:32,649 --> 00:20:35,619
+Jesus... será que essa
+confusão está por toda parte?
+
+266
+00:20:36,720 --> 00:20:38,322
+Deve ser por isso que o trancaram.
+
+267
+00:20:48,264 --> 00:20:49,699
+BFG
+BIO FORCE GUN
+
+268
+00:20:53,000 --> 00:20:54,002
+Sarge?
+
+269
+00:20:54,536 --> 00:20:55,903
+O que está acontecendo
+com o Reaper e a irmã dele?
+
+270
+00:20:58,472 --> 00:21:01,242
+Os pais deles eram do primeiro
+grupo de arqueólogos, da Olduvali,
+
+271
+00:21:01,276 --> 00:21:03,644
+eles morreram em um acidente,
+quando ele era pequeno.
+
+272
+00:21:05,246 --> 00:21:06,647
+ARMAS AVANÇADAS
+
+273
+00:21:06,681 --> 00:21:08,681
+Ela seguiu os passos deles,
+mas ele não fez o mesmo.
+
+274
+00:21:09,382 --> 00:21:10,884
+Não, o que eu queria era saber
+no que ela estava pensando...
+
+275
+00:21:17,624 --> 00:21:19,626
+Por favor, proceda
+a verificação de DNA.
+
+276
+00:21:24,562 --> 00:21:25,730
+Acesso negado.
+
+277
+00:22:00,727 --> 00:22:03,227
+Todas as unidades
+entrem em contato...
+
+278
+00:22:03,728 --> 00:22:05,728
+Droga... Todas as
+unidades entrem em contato!
+
+279
+00:22:10,728 --> 00:22:11,729
+Estava em movimento...
+
+280
+00:22:12,230 --> 00:22:13,730
+Fogo amigo... Sarge,
+pareciam fantasmas.
+
+281
+00:22:14,030 --> 00:22:15,631
+Entendido, vamos Duke.
+
+282
+00:22:17,294 --> 00:22:18,561
+Então é Reaper?
+
+283
+00:22:19,328 --> 00:22:20,361
+Como em Grimm?
+
+284
+00:22:20,528 --> 00:22:23,197
+Somos da marinha,
+Sam, não somos poetas.
+
+285
+00:22:24,032 --> 00:22:25,432
+Que droga!
+
+286
+00:22:26,233 --> 00:22:27,401
+Oh, sim... essa é a Lucy.
+
+287
+00:22:27,434 --> 00:22:31,238
+Lucy esse é o meu irmão John, outra
+criatura perdida no meu passado.
+
+288
+00:22:31,639 --> 00:22:33,841
+- Encontrou restos humanos?
+- Humanóides!
+
+289
+00:22:33,874 --> 00:22:36,143
+Lucy foi a primeira
+grande descoberta.
+
+290
+00:22:36,277 --> 00:22:38,378
+Trazemos mais,
+todos os dias.
+
+291
+00:22:39,413 --> 00:22:41,315
+Vocês reabriram a escavação?
+
+292
+00:22:42,183 --> 00:22:43,816
+Sei que devia ter te contado.
+
+293
+00:22:43,849 --> 00:22:47,453
+Mas, senti que não era o tipo de coisa
+que se conta em um cartão de aniversário.
+
+294
+00:22:48,487 --> 00:22:50,655
+- Está estabilizado!
+- Besteira!
+
+295
+00:22:50,789 --> 00:22:52,190
+Quer falar de segurança?
+
+296
+00:22:52,223 --> 00:22:54,192
+Como você ter um trabalho
+atrás de uma escrivaninha?
+
+297
+00:22:55,393 --> 00:22:58,229
+Sou uma arqueóloga forense
+John, sei como isso funciona.
+
+298
+00:22:58,296 --> 00:22:59,997
+Essa é a única razão para
+você estar aqui em cima?
+
+299
+00:23:00,398 --> 00:23:01,866
+Quer saber porque
+estou aqui em cima?
+
+300
+00:23:03,134 --> 00:23:04,434
+Eu te mostro, vem aqui.
+
+301
+00:23:07,002 --> 00:23:10,139
+Esse é o perfil do cromossomo
+da Lucy, nota alguma coisa?
+
+302
+00:23:11,006 --> 00:23:12,843
+Os meus conhecimentos de
+manipulação genética
+
+302
+00:23:12,844 --> 00:23:13,843
+estão um pouco enferrujados.
+
+303
+00:23:13,877 --> 00:23:15,811
+Foi a primeira coisa que
+papai nos ensinou a procurar.
+
+304
+00:23:23,218 --> 00:23:25,253
+Ela tem 24 pares
+de cromossomos.
+
+305
+00:23:25,353 --> 00:23:27,655
+Humanos tem apenas 23.
+
+306
+00:23:27,722 --> 00:23:30,424
+- E o par extra?
+- Faz dela um super-humano!
+
+307
+00:23:30,824 --> 00:23:32,824
+O cromossomo extra,
+faz ela ser super-forte,
+
+307
+00:23:32,825 --> 00:23:34,393
+super-adaptável,
+super-inteligente...
+
+308
+00:23:35,462 --> 00:23:37,731
+As células dela se dividem
+50 vezes mais rápido,
+
+309
+00:23:37,763 --> 00:23:40,100
+isso significa que ela se
+cura quase instantaneamente.
+
+310
+00:23:40,700 --> 00:23:43,436
+Os nossos registos demonstram que
+essas pessoas não contraiem doenças...
+
+311
+00:23:43,603 --> 00:23:44,904
+Nenhuma desordem genética,
+
+312
+00:23:45,105 --> 00:23:46,606
+nenhum vírus, nenhum cancro.
+
+313
+00:23:46,673 --> 00:23:48,841
+Então, o quê? Eles são apenas
+naturalmente superiores?
+
+314
+00:23:49,541 --> 00:23:50,942
+Não, não naturalmente.
+
+315
+00:23:51,476 --> 00:23:54,912
+Os primeiros cadáveres que
+encontramos, tinham apenas 23.
+
+316
+00:23:54,978 --> 00:23:58,047
+Suspeitamos que esse cromossomo
+extra, talvez seja sintético.
+
+317
+00:23:58,082 --> 00:23:59,416
+Bioengenharia.
+
+318
+00:24:00,184 --> 00:24:01,951
+É um longo trabalho para a Marie.
+
+319
+00:24:03,286 --> 00:24:04,286
+Alguma vez já
+te aborreceu saber
+
+319
+00:24:04,287 --> 00:24:05,955
+que poderia passar a sua vida
+trabalhando com um microscópio,
+
+320
+00:24:06,089 --> 00:24:07,223
+em vez de ficar atrás
+de uma mira de arma?
+
+321
+00:24:10,260 --> 00:24:12,629
+Se eles são tão espertos,
+por que estão tão mortos?
+
+322
+00:24:14,064 --> 00:24:14,931
+Não sabemos.
+
+323
+00:24:16,599 --> 00:24:18,200
+Talvez seja um
+trabalho do tempo.
+
+324
+00:24:19,500 --> 00:24:21,836
+Não se justifica
+um bebê com o tempo.
+
+325
+00:24:24,105 --> 00:24:25,806
+Temos alguma coisa à nossa frente.
+
+326
+00:24:26,707 --> 00:24:29,342
+Fica aqui, ok? E tranque a porta.
+
+327
+00:24:39,386 --> 00:24:40,753
+A droga da porta foi
+completamente destruída.
+
+328
+00:24:41,654 --> 00:24:43,656
+Tem alguma coisa no
+escritório do Carmack!
+
+329
+00:25:36,870 --> 00:25:39,838
+- Diabos!
+- Cuidado!
+
+330
+00:25:40,773 --> 00:25:43,643
+Contato. Precisamos de reforços
+no escritório do Carmack, agora!
+
+331
+00:25:47,579 --> 00:25:49,848
+Se move muito depressa,
+perdemos o contato.
+
+332
+00:25:50,149 --> 00:25:51,282
+Parem de atirar!
+
+333
+00:26:01,091 --> 00:26:02,859
+Se tem alguma arma, largue-a.
+
+334
+00:26:08,532 --> 00:26:09,933
+Não se mexa.
+
+335
+00:26:20,107 --> 00:26:22,810
+- Sam, não faça...
+- Ele me conhece, John.
+
+336
+00:26:24,411 --> 00:26:25,979
+Dr. Carmack sou
+eu... a Samantha!
+
+337
+00:26:27,481 --> 00:26:28,582
+Onde estão os outros?
+
+338
+00:26:29,916 --> 00:26:30,984
+Onde eles estão?
+
+339
+00:26:31,017 --> 00:26:32,419
+Steve? Hilary?
+
+340
+00:26:33,519 --> 00:26:35,122
+Não vou te fazer mal.
+
+341
+00:26:37,356 --> 00:26:38,558
+Não vou te fazer mal.
+
+342
+00:26:43,462 --> 00:26:44,963
+Jesus Cristo!
+
+343
+00:26:46,032 --> 00:26:47,099
+Me dê um curativo, Kid.
+
+344
+00:26:47,599 --> 00:26:48,667
+Boa!
+
+345
+00:26:49,567 --> 00:26:50,734
+Não vou te fazer mal.
+
+346
+00:26:50,802 --> 00:26:52,503
+Levem-no para a enfermaria
+com a Dra. Grimm.
+
+347
+00:26:52,670 --> 00:26:54,072
+Portman e Kid...
+
+348
+00:26:54,105 --> 00:26:56,273
+Vão para a entrada de
+ar e se escondam lá.
+
+349
+00:26:56,474 --> 00:26:59,176
+Se eles tentarem fugir de nós,
+os levamos direto para vocês.
+
+350
+00:27:02,244 --> 00:27:05,048
+Vamos ver se encontramos um corpo
+que combine com aquele braço.
+
+351
+00:27:09,819 --> 00:27:11,353
+Que bagunça, hein?
+
+352
+00:27:13,423 --> 00:27:15,190
+Um homem como o Carmack,
+
+353
+00:27:15,724 --> 00:27:18,327
+que foi treinado para colocar
+a razão antes da emoção.
+
+354
+00:27:18,794 --> 00:27:20,561
+Ele parece louco.
+
+355
+00:27:20,995 --> 00:27:22,730
+Ele arrancou a
+sua própria orelha...
+
+356
+00:27:24,899 --> 00:27:26,466
+Vou te dizer uma coisa.
+
+357
+00:27:26,700 --> 00:27:30,437
+Uma droga como essa se
+enfia por debaixo da pele.
+
+358
+00:27:37,344 --> 00:27:38,744
+Você tem...
+
+359
+00:27:43,449 --> 00:27:44,650
+Você tem algum?
+
+360
+00:27:44,683 --> 00:27:46,385
+Se eu tenho algum?
+
+361
+00:27:51,989 --> 00:27:53,223
+O quê?
+
+362
+00:27:55,592 --> 00:27:56,527
+Você sabe,
+
+363
+00:27:58,294 --> 00:27:59,833
+estou apenas um
+pouco chocado,
+
+363
+00:27:59,834 --> 00:28:02,333
+preciso de algo que me
+mantenha concentrado...
+
+363
+00:28:02,334 --> 00:28:04,333
+no meu campo de visão...
+
+364
+00:29:03,786 --> 00:29:04,887
+Meu Deus!
+
+365
+00:29:36,149 --> 00:29:37,617
+Eu usei o Seu nome em vão.
+
+366
+00:30:03,614 --> 00:30:06,615
+Droga...
+
+367
+00:30:12,615 --> 00:30:16,314
+Deus existe!
+
+368
+00:30:36,312 --> 00:30:37,313
+Desculpa...
+
+369
+00:30:39,313 --> 00:30:41,314
+Desculpa, senhora...
+
+370
+00:30:49,500 --> 00:30:51,000
+SOFRIMENTO
+
+370
+00:30:51,313 --> 00:30:56,213
+Sarge... podemos encontrar
+o resto desse braço?
+
+371
+00:31:08,828 --> 00:31:09,796
+Não, não, não...
+
+372
+00:31:09,830 --> 00:31:12,732
+- Não passo por portas magnéticas.
+- Passa sim!
+
+373
+00:31:16,803 --> 00:31:19,905
+- Você o pegou?
+- Espere aqui.
+
+374
+00:31:21,772 --> 00:31:22,773
+Droga!
+
+375
+00:31:38,722 --> 00:31:41,058
+1, 2, 3.
+
+376
+00:31:41,791 --> 00:31:43,593
+- Você está bem?
+- Encontraram os outros?
+
+377
+00:31:43,626 --> 00:31:44,394
+Ainda não.
+
+378
+00:31:44,828 --> 00:31:46,295
+O meu marido está com eles.
+
+379
+00:31:48,596 --> 00:31:50,164
+Estou certa de que o Steve, está bem.
+
+380
+00:31:51,798 --> 00:31:53,834
+Dr. Carmack tenho que
+medir sua pressão sanguínea.
+
+381
+00:32:00,375 --> 00:32:02,008
+Está tudo bem...
+está tudo bem!
+
+382
+00:32:03,310 --> 00:32:05,178
+- Vão embora.
+- O que é que aconteceu lá dentro?
+
+383
+00:32:06,213 --> 00:32:09,148
+Matem-no...
+matem-no.
+
+384
+00:32:16,722 --> 00:32:17,656
+Está na escuridão.
+
+385
+00:32:20,991 --> 00:32:22,494
+Está aqui dentro.
+
+386
+00:32:24,128 --> 00:32:26,598
+Temos alguma coisa na
+Genética, é onde estamos entrando.
+
+387
+00:32:26,630 --> 00:32:27,699
+Afirmativo, Reaper.
+
+388
+00:32:34,505 --> 00:32:36,072
+Parece que perdemos a festa.
+
+389
+00:32:36,839 --> 00:32:37,740
+Acabamos de sair daqui.
+
+390
+00:32:39,675 --> 00:32:41,044
+O que aconteceu
+com todos os animais?
+
+391
+00:33:03,363 --> 00:33:05,065
+Senhor, somos RRTS,
+estamos aqui para ajudar.
+
+392
+00:33:08,167 --> 00:33:09,069
+Senhor, sente-se bem?
+
+393
+00:33:11,370 --> 00:33:12,305
+Ok!
+
+394
+00:33:15,307 --> 00:33:17,444
+Não, não, não.
+Senhor, largue isso!
+
+395
+00:33:22,080 --> 00:33:23,247
+- Contato...
+- Reporte.
+
+396
+00:33:23,313 --> 00:33:24,514
+Droga!
+
+397
+00:33:24,982 --> 00:33:26,183
+Encontramos outro ciêntista.
+
+398
+00:33:26,950 --> 00:33:28,785
+Alguma coisa está
+acontecendo aqui, Sarge.
+
+399
+00:33:28,919 --> 00:33:29,886
+Pode identificá-lo?
+
+400
+00:33:30,420 --> 00:33:32,222
+Temos aqui, Dr. Olson.
+
+401
+00:33:33,756 --> 00:33:36,326
+Ele nos atacou, estava
+completamente louco, como o Carmack.
+
+402
+00:33:36,460 --> 00:33:39,196
+- Ele está morto?
+- Sim, bem morto.
+
+403
+00:33:39,228 --> 00:33:40,397
+Devemos embalá-lo
+e etiquetá-lo?
+
+404
+00:33:40,496 --> 00:33:42,432
+Negativo... continuem a busca.
+
+405
+00:33:44,799 --> 00:33:46,234
+Sarge...
+
+406
+00:34:41,418 --> 00:34:42,251
+O que era aquilo?
+
+407
+00:34:42,519 --> 00:34:43,652
+Um macaco!
+
+408
+00:34:46,689 --> 00:34:47,823
+Algum tipo de macaco.
+
+409
+00:35:05,839 --> 00:35:07,239
+Oh! Meu Deus!
+
+410
+00:35:08,774 --> 00:35:10,476
+Há alguma coisa no sangue dele.
+
+411
+00:35:12,978 --> 00:35:14,480
+O que está acontecendo com ele?
+
+412
+00:35:30,993 --> 00:35:33,230
+Eu o peguei! Vamos!
+Vamos! Vamos!
+
+413
+00:35:35,365 --> 00:35:36,532
+Reaper o que é que vocês apanharam?
+
+414
+00:35:36,834 --> 00:35:37,901
+Alguma coisa grande.
+
+415
+00:35:37,935 --> 00:35:38,935
+Nós vimos alguma coisa.
+
+416
+00:35:38,968 --> 00:35:41,203
+Alguma coisa grande, não era humana!
+
+417
+00:35:41,236 --> 00:35:43,372
+Diabos. Me dêem uma descrição
+daquilo que vocês viram. Reaper!
+
+418
+00:35:44,606 --> 00:35:45,841
+Está nos esgotos!
+
+419
+00:35:47,009 --> 00:35:48,644
+Todas as unidades...
+todas as unidades.
+
+419
+00:35:48,645 --> 00:35:50,344
+Selem esse corredor no
+complexo do laboratório.
+
+420
+00:35:54,115 --> 00:35:56,649
+Achei que estar na merda
+era uma forma de falar.
+
+421
+00:35:56,683 --> 00:35:58,451
+Entra nesse maldito buraco, Portman.
+
+422
+00:36:04,356 --> 00:36:06,058
+Posso tratar das coisas
+por aqui, você deveria ir.
+
+423
+00:36:07,359 --> 00:36:08,761
+Eu quero ficar.
+
+424
+00:36:09,461 --> 00:36:10,696
+O Steve vai ficar bem.
+
+425
+00:36:12,398 --> 00:36:14,366
+Os caras que estão à
+procura dele, são os melhores.
+
+426
+00:36:15,900 --> 00:36:17,868
+Vá, vai ficar com a sua filha.
+
+427
+00:36:19,537 --> 00:36:20,638
+Obrigada!
+
+428
+00:36:27,977 --> 00:36:29,145
+O que está acontecendo?
+
+429
+00:36:31,681 --> 00:36:34,717
+Não há combinação de sangue!
+Não pode ser bom, certo?
+
+430
+00:36:36,452 --> 00:36:37,853
+Isso é loucura!
+
+431
+00:36:41,290 --> 00:36:42,657
+Meu Deus!
+
+432
+00:36:49,797 --> 00:36:51,531
+Vão em frente na ligação principal.
+
+433
+00:36:51,565 --> 00:36:53,566
+Por favor, se assegurem de que
+não volte ao complexo do laboratório.
+
+434
+00:36:53,700 --> 00:36:56,302
+Destroyer, cobre a saída.
+
+435
+00:37:51,952 --> 00:37:53,453
+Temos um Dr. Willits.
+
+436
+00:37:53,820 --> 00:37:55,188
+Steve Willits.
+
+437
+00:37:57,824 --> 00:37:58,925
+Vamos prosseguir.
+
+438
+00:38:14,406 --> 00:38:16,374
+Fique sóbrio,
+fique vigilante,
+
+439
+00:38:16,441 --> 00:38:18,609
+porque o seu
+adversário é o demônio
+
+440
+00:38:18,676 --> 00:38:21,378
+e anda por aí à espera de
+que cometa um único erro.
+
+441
+00:38:22,880 --> 00:38:24,281
+É realmente reconfortante, Goat,
+
+442
+00:38:24,480 --> 00:38:26,849
+pena que não consiga me
+assustar, rigorosamente, nada!
+
+443
+00:38:30,419 --> 00:38:32,255
+- Portman?
+- Mas que droga!
+
+444
+00:38:34,723 --> 00:38:36,826
+Há alguma coisa aqui embaixo. Vamos!
+
+445
+00:38:37,259 --> 00:38:38,193
+Levantem-no.
+
+446
+00:38:38,461 --> 00:38:40,462
+Esse bastardo é pesado.
+
+447
+00:38:42,397 --> 00:38:45,100
+Ele está voltando.
+Puxem-no para cima.
+
+448
+00:38:47,601 --> 00:38:49,236
+Portman, que diabos aconteceu?
+
+449
+00:38:49,336 --> 00:38:51,805
+Cai em um maldito buraco. Droga!
+
+450
+00:38:52,138 --> 00:38:54,708
+Isso é para todos, a partir de agora
+vejam onde põem a droga dos pés!
+
+451
+00:38:54,874 --> 00:38:55,708
+Mexam-se!
+
+452
+00:38:56,543 --> 00:38:57,343
+Droga.
+
+453
+00:39:11,256 --> 00:39:14,157
+- Goat... siga em frente.
+- Portman... vem comigo.
+
+454
+00:39:14,192 --> 00:39:16,527
+John, pegue o Kid
+e vá pela direita.
+
+455
+00:39:50,490 --> 00:39:53,226
+- Perdeu os seus pais, certo?
+- Cale a boca!
+
+456
+00:39:53,793 --> 00:39:56,163
+Mundo pequeno, quero dizer
+eu também perdi os meus pais.
+
+457
+00:39:58,031 --> 00:40:00,832
+Acordei uma manhã, e todas
+as coisas tinham desaparecido.
+
+458
+00:40:00,899 --> 00:40:02,100
+Quero dizer, a unica
+coisa que deixaram fui eu.
+
+459
+00:40:02,567 --> 00:40:04,536
+Queriam mais a televisão
+do que me queriam!
+
+460
+00:40:08,173 --> 00:40:11,743
+Cada vez que abre a boca,
+revela a nossa posição.
+
+461
+00:40:13,545 --> 00:40:14,812
+Espere um pouco.
+
+462
+00:40:19,317 --> 00:40:21,318
+As suas pupilas estão dilatadas.
+
+463
+00:40:21,951 --> 00:40:24,086
+- Está drogado?
+- O quê?
+
+464
+00:40:25,020 --> 00:40:27,355
+- Eu tenho esse problema...
+- Eu não dou a mínima.
+
+465
+00:40:27,389 --> 00:40:29,692
+Toma mais uma dose dessa porcaria
+e eu abro buracos em você!
+
+466
+00:40:29,725 --> 00:40:30,959
+Estamos entendidos?
+
+467
+00:40:31,160 --> 00:40:32,161
+Ok!
+
+468
+00:40:40,602 --> 00:40:41,569
+- Abaixa.
+- Sinto muito,
+
+469
+00:40:41,603 --> 00:40:43,439
+- só precisava de um pouco...
+- Abaixa!
+
+470
+00:40:46,241 --> 00:40:48,407
+Goat, acho que tem alguma
+coisa indo na sua direção.
+
+471
+00:40:53,779 --> 00:40:54,981
+Isso não me está acontecendo.
+
+472
+00:40:56,515 --> 00:40:57,783
+Estou sem iluminção.
+
+473
+00:41:06,624 --> 00:41:07,860
+Eu não vejo nada.
+
+474
+00:41:07,994 --> 00:41:10,029
+Não se mexa. Estou
+indo na sua direção.
+
+475
+00:41:11,529 --> 00:41:12,530
+Pinky...
+
+476
+00:41:13,597 --> 00:41:14,966
+Consegue ver alguma coisa?
+
+477
+00:41:17,101 --> 00:41:19,035
+Não. Nada!
+
+478
+00:41:33,148 --> 00:41:34,150
+Dr. Willit?
+
+479
+00:41:36,984 --> 00:41:37,986
+Goat!
+
+480
+00:41:40,021 --> 00:41:40,655
+Reporte!
+
+481
+00:41:41,222 --> 00:41:41,922
+Goat!
+
+482
+00:41:42,456 --> 00:41:43,824
+Goat qual é a sua posição?
+
+483
+00:41:44,326 --> 00:41:45,693
+Goat onde está?
+
+484
+00:41:46,527 --> 00:41:47,894
+Goat fala comigo!
+
+485
+00:41:48,094 --> 00:41:49,529
+Maldito seja, onde está?
+
+486
+00:41:51,464 --> 00:41:52,666
+Contato!
+
+487
+00:41:53,633 --> 00:41:54,734
+Perdemos contato.
+
+488
+00:42:17,220 --> 00:42:18,689
+Homem abatido!
+
+489
+00:42:19,356 --> 00:42:21,158
+Homem abatido!
+
+490
+00:42:22,858 --> 00:42:24,092
+Todos para a "Arca", agora!
+
+491
+00:42:24,193 --> 00:42:27,430
+Mac, cancele a quarentena e
+evacue todas as instalações.
+
+492
+00:42:27,529 --> 00:42:28,898
+Junte todos eles... e
+entre na "Arca", agora!
+
+493
+00:42:28,931 --> 00:42:29,431
+O que está acontecendo?
+
+494
+00:42:30,532 --> 00:42:31,833
+Vamos lá! Mexam-se.
+
+495
+00:42:32,167 --> 00:42:35,603
+Temos uma emergência. Vamos,
+vão todos para a "Arca".
+
+496
+00:42:40,875 --> 00:42:41,810
+O que aconteceu?
+
+497
+00:42:42,077 --> 00:42:44,145
+- Vamos deter aqueles demônios.
+- Demônios?
+
+498
+00:42:44,179 --> 00:42:45,679
+Todos essas besteiras da Bíblia.
+
+499
+00:42:45,879 --> 00:42:48,948
+- O bem e o mal, o demônio entre nós.
+- Vamos tirar o colete dele.
+
+500
+00:42:52,417 --> 00:42:53,019
+Vamos lá...
+
+501
+00:42:54,386 --> 00:42:56,689
+- Precisamos achar pulso.
+- Portman, me dá uma linha aqui.
+
+502
+00:42:57,990 --> 00:43:00,592
+- Vamos, meu!
+- Mantém pressionado o ferimento.
+
+503
+00:43:01,593 --> 00:43:04,129
+- Como está o pulso?
+- Estou perdendo.
+
+504
+00:43:04,563 --> 00:43:06,231
+Sam, dê a ele uma
+injeção de adrenalina.
+
+505
+00:43:11,869 --> 00:43:13,771
+- O perdemos.
+- Ok, vamos reanimá-lo.
+
+506
+00:43:15,439 --> 00:43:16,040
+Vamos lá cara!
+
+507
+00:43:19,808 --> 00:43:20,710
+Afastem-se.
+
+508
+00:43:24,580 --> 00:43:25,348
+Onde diabos está o Carmack?
+
+509
+00:43:26,583 --> 00:43:29,019
+- Ele desapareceu.
+- O que quer dizer com desapareceu?
+
+510
+00:43:29,118 --> 00:43:30,953
+Ele evaporou. Desapareceu!
+
+511
+00:43:31,253 --> 00:43:31,987
+Não encontro pulso.
+
+512
+00:43:32,087 --> 00:43:33,021
+Droga.
+
+513
+00:43:33,321 --> 00:43:35,990
+Certo, um mais
+forte... se afastem.
+
+514
+00:43:38,926 --> 00:43:41,462
+Vamos... responda.
+
+515
+00:43:41,663 --> 00:43:42,363
+O perdemos.
+
+516
+00:43:42,429 --> 00:43:43,698
+Sam, me dê aquela adrenalina.
+
+517
+00:43:53,005 --> 00:43:54,740
+Vamos, filho da mãe.
+
+518
+00:43:54,874 --> 00:43:56,642
+Ok, vamos tentar de
+novo... se afastem.
+
+519
+00:44:18,361 --> 00:44:19,428
+Morreu!
+
+520
+00:44:28,737 --> 00:44:32,374
+Doutora, você vai me dizer o que
+diabos está acontecendo aqui.
+
+521
+00:44:32,407 --> 00:44:34,075
+- O quê?
+- Vem aqui.
+
+522
+00:44:35,677 --> 00:44:36,577
+Vem aqui.
+
+523
+00:44:38,379 --> 00:44:39,514
+O que é isso?
+
+524
+00:44:40,815 --> 00:44:43,250
+Oh! Deus!
+
+525
+00:44:43,284 --> 00:44:46,286
+Já encontrou alguma coisa como isso
+nas suas escavações arqueológicas?
+
+526
+00:44:46,721 --> 00:44:47,553
+Não!
+
+527
+00:44:47,587 --> 00:44:50,288
+Existe alguma maneira dessa coisa
+ter vindo de fora, da superfície?
+
+528
+00:44:50,322 --> 00:44:54,259
+- O planeta está completamente morto.
+- Ele veio de algum lugar, senhora.
+
+529
+00:44:54,293 --> 00:44:55,494
+Portman, cala a boca.
+
+530
+00:44:56,095 --> 00:44:58,497
+A atmosfera na superfície,
+não pode prover vida.
+
+531
+00:44:58,530 --> 00:45:01,200
+Então se não é daqui, pode ter vindo
+de outro planeta, ou algo assim?
+
+532
+00:45:01,232 --> 00:45:03,651
+- Como um alienígena?
+- Olhe para essa coisa.
+
+533
+00:45:03,684 --> 00:45:06,070
+Portman se importa de
+calar a droga da boca!
+
+534
+00:45:06,104 --> 00:45:07,839
+Não foi o mesmo que vimos.
+
+535
+00:45:08,539 --> 00:45:11,075
+Não foi contra isso que eu e o
+Goat andamos atirando na Genética.
+
+536
+00:45:11,241 --> 00:45:13,844
+Está me dizendo que existem
+mais dessas coisas malditas?
+
+537
+00:45:13,910 --> 00:45:15,078
+Onde são as entradas da superfície?
+
+538
+00:45:15,279 --> 00:45:17,680
+Há uma porta de pressão
+no final do corredor norte.
+
+539
+00:45:17,980 --> 00:45:20,816
+Destroyer, você e o Portman, vão para
+lá depressa. Mantenham-me informado.
+
+540
+00:45:20,850 --> 00:45:23,119
+- Sim, senhor.
+- O que quer que seja essa coisa,
+
+541
+00:45:23,152 --> 00:45:25,121
+não pode voltar para a "Arca"!
+
+542
+00:45:25,154 --> 00:45:27,589
+Mac, quero que dê
+ao Pinky uma arma.
+
+543
+00:45:27,623 --> 00:45:30,525
+Use algumas granadas ST
+e sela a porta de saída.
+
+544
+00:45:30,658 --> 00:45:32,661
+- Existe outra porta
+- Aonde?
+
+545
+00:45:32,894 --> 00:45:35,630
+Na entrada da escavação arqueológica.
+
+546
+00:45:38,133 --> 00:45:39,701
+Não deixe nada entrar na "Arca".
+
+547
+00:45:42,870 --> 00:45:44,805
+Ei, espera, espera um pouco.
+
+548
+00:45:45,039 --> 00:45:47,407
+Não me podem deixar aqui,
+eu não sou um soldado.
+
+549
+00:45:47,540 --> 00:45:48,975
+Por que não vai se ferrar?
+
+550
+00:45:49,008 --> 00:45:49,975
+Isso é uma droga!
+
+551
+00:45:50,009 --> 00:45:51,311
+Você é que me deveria proteger.
+
+552
+00:45:51,377 --> 00:45:52,545
+Porta segura!
+
+553
+00:46:07,544 --> 00:46:10,444
+Duke... Mantenha a boca aberta.
+
+554
+00:46:12,445 --> 00:46:14,445
+Não seja fresco!
+
+555
+00:46:32,443 --> 00:46:33,944
+Existe uma tensão
+entre você e o Reaper.
+
+556
+00:46:34,244 --> 00:46:35,744
+Só seguimos
+caminhos diferentes.
+
+556
+00:46:36,000 --> 00:46:40,000
+O que faz um estudante talentoso
+largar tudo para se juntar a RRTS?
+
+557
+00:46:41,744 --> 00:46:43,044
+Como ele era antes?
+
+558
+00:46:43,045 --> 00:46:45,345
+Quem? O John? Era
+um tolo sensível...
+
+559
+00:46:46,045 --> 00:46:47,345
+Não consigo imaginar
+o Reaper sensível.
+
+560
+00:46:47,845 --> 00:46:50,445
+Conheci o Reaper antes
+dessas coisas de flexões
+
+560
+00:46:50,446 --> 00:46:51,445
+e os Uas que aprendem...
+
+561
+00:46:54,446 --> 00:46:56,047
+Sim? Bem se diz Uaa.
+
+562
+00:46:59,047 --> 00:47:01,047
+Tem família?
+
+563
+00:47:01,248 --> 00:47:03,048
+Tenho um amigo... crescemos juntos.
+
+564
+00:47:05,048 --> 00:47:08,048
+Sabe Duke, aposto que no fundo
+até que você tem um grande coração.
+
+565
+00:47:11,249 --> 00:47:13,849
+Sim? Isso não é a unica coisa
+grande que tenho guardada em segredo
+
+566
+00:47:14,349 --> 00:47:15,650
+Um pouco enferrujado, hein?
+
+567
+00:47:15,951 --> 00:47:18,649
+Oh... não faz a mínima ideia!
+
+568
+00:47:18,851 --> 00:47:22,650
+Nesse momento, fazer amor comigo
+é praticamente dever cívico.
+
+569
+00:47:26,051 --> 00:47:28,050
+Preciso de uma serra para ossos.
+
+570
+00:47:28,352 --> 00:47:29,452
+Uma serra para ossos?
+
+571
+00:47:30,452 --> 00:47:32,452
+Tenho esperado por
+você a minha vida toda!
+
+572
+00:47:34,453 --> 00:47:35,653
+Há uma na sala
+de operações,
+
+572
+00:47:35,654 --> 00:47:38,653
+pela porta ao fundo à esquerda,
+atravessando a porta magnética.
+
+573
+00:47:39,653 --> 00:47:41,654
+Atravessando a
+porta magnética?
+
+574
+00:47:42,654 --> 00:47:47,254
+Ok... Tranquilo, eu vou
+lá... Por você eu vou lá.
+
+574
+00:47:47,255 --> 00:47:49,253
+- Porque é bonita!
+- Legal!
+
+575
+00:47:49,254 --> 00:47:51,254
+- Eu faço por você!
+- Então, vai.
+
+576
+00:47:54,201 --> 00:47:55,703
+Estamos voltando
+para a entrada de ar.
+
+577
+00:47:56,737 --> 00:47:58,105
+Não vamos pedir reforços?
+
+578
+00:48:00,207 --> 00:48:01,509
+A "Arca" está selada!
+
+579
+00:48:02,043 --> 00:48:04,946
+Nada voltará, até que tudo
+nesse planeta esteja morto.
+
+580
+00:48:05,712 --> 00:48:06,781
+Nós vamos caçar.
+
+581
+00:48:07,782 --> 00:48:08,848
+Está falando sério?
+
+582
+00:48:09,650 --> 00:48:12,553
+- Pegue sua arma, Portman.
+- Vamos Portman, mexa-se.
+
+583
+00:48:12,686 --> 00:48:14,120
+Todos vimos a coisa que matou o Goat.
+
+584
+00:48:15,388 --> 00:48:17,823
+Não sabemos com o que
+estamos lidando aqui.
+
+585
+00:48:19,224 --> 00:48:21,826
+É regra, chamarmos
+reforço nessas situações...
+
+586
+00:48:21,859 --> 00:48:24,562
+Nós somos, o reforço.
+
+587
+00:48:31,669 --> 00:48:34,872
+E ponha no ombro... a
+droga da sua arma, soldado.
+
+588
+00:48:48,584 --> 00:48:51,353
+Todo pessoal da UAC,
+evacuado para a Terra.
+
+589
+00:49:12,238 --> 00:49:13,039
+Duke?
+
+590
+00:49:40,130 --> 00:49:41,164
+Duke?
+
+591
+00:49:43,433 --> 00:49:45,902
+É apenas falha na energia.
+
+592
+00:49:46,136 --> 00:49:47,036
+Você está bem?
+
+593
+00:49:48,637 --> 00:49:50,337
+Aqui está a sua serra de ossos.
+
+594
+00:49:51,438 --> 00:49:52,740
+- Qual de vocês é o mais velho?
+- O quê?
+
+595
+00:49:54,142 --> 00:49:56,209
+Oh, eu... por
+dois minutos.
+
+596
+00:49:56,244 --> 00:49:59,446
+Gêmeos, droga...
+aposto que ele...
+
+597
+00:50:06,521 --> 00:50:07,921
+Hora de voltar
+para o laboratório.
+
+598
+00:50:34,511 --> 00:50:35,412
+Venha!
+
+599
+00:50:35,546 --> 00:50:36,547
+Bicho filho da puta.
+
+600
+00:50:38,348 --> 00:50:39,115
+Feche-a.
+
+601
+00:50:48,123 --> 00:50:49,958
+É por isso que
+não gosto de animais.
+
+602
+00:50:51,859 --> 00:50:53,995
+Pinky estamos no
+laboratório de genética.
+
+603
+00:51:04,237 --> 00:51:05,238
+Mantenha a área em segurança.
+
+604
+00:51:52,780 --> 00:51:54,782
+<i>John...</i>
+
+605
+00:51:54,915 --> 00:51:56,917
+<i>Ei, Sam, estou aqui...</i>
+
+606
+00:51:57,451 --> 00:51:59,452
+<i>Sam...</i>
+
+607
+00:51:59,486 --> 00:52:01,487
+<i>Estou indo...</i>
+
+608
+00:52:01,922 --> 00:52:03,923
+<i>Já te vi...</i>
+
+609
+00:52:10,863 --> 00:52:12,782
+<i>Te peguei...</i>
+
+610
+00:52:12,815 --> 00:52:13,999
+<i>Anda, vamos...</i>
+
+611
+00:52:14,032 --> 00:52:15,534
+<i>Tenham cuidado agora...</i>
+
+612
+00:52:15,568 --> 00:52:17,568
+<i>Tenham cuidado
+com os pés John...</i>
+
+613
+00:52:18,603 --> 00:52:20,605
+<i>Vamos, vamos, vamos...</i>
+
+614
+00:52:20,639 --> 00:52:22,073
+<i>Oh, meu Deus...</i>
+
+615
+00:52:22,773 --> 00:52:24,742
+<i>Volte para trás, volte
+para trás de novo...</i>
+
+616
+00:52:24,776 --> 00:52:26,277
+<i>Não consigo...</i>
+
+617
+00:52:26,310 --> 00:52:27,962
+<i>Mãe...</i>
+
+618
+00:52:27,995 --> 00:52:29,614
+<i>Não...</i>
+
+619
+00:52:34,217 --> 00:52:35,551
+Isso foi o que aconteceu?
+
+620
+00:52:38,587 --> 00:52:39,955
+Encontraram a porta?
+
+621
+00:52:51,766 --> 00:52:52,934
+John.
+
+622
+00:52:57,671 --> 00:52:58,739
+Clay.
+
+623
+00:53:03,409 --> 00:53:05,444
+Morto!
+
+624
+00:53:07,013 --> 00:53:07,947
+Olha para eles.
+
+625
+00:53:08,714 --> 00:53:10,817
+Eles não estavam tentando impedir
+que alguma coisa entrasse...
+
+626
+00:53:12,118 --> 00:53:14,120
+Alguma coisa os impediu de saírem.
+
+627
+00:53:16,354 --> 00:53:18,489
+- Mac na escuta.
+- Destroyer reportar.
+
+628
+00:53:18,523 --> 00:53:19,991
+Precisamos da saída norte selada.
+
+629
+00:53:20,225 --> 00:53:23,460
+E de assegurar de que
+nada possa entrar ou sair
+
+630
+00:53:23,527 --> 00:53:24,495
+nas próximas 26 horas.
+
+631
+00:53:28,064 --> 00:53:29,165
+Mac?
+
+632
+00:53:30,800 --> 00:53:32,002
+Mac?
+
+633
+00:53:32,502 --> 00:53:34,337
+Mac?
+
+634
+00:53:34,504 --> 00:53:35,905
+Mac, consegue me ouvir?
+
+635
+00:53:37,207 --> 00:53:39,475
+Fale comigo... fale comigo, Mac.
+
+636
+00:53:41,911 --> 00:53:43,046
+Droga!
+
+637
+00:53:45,179 --> 00:53:46,847
+Jesus Cristo!
+
+638
+00:53:52,119 --> 00:53:53,153
+Contato!
+
+639
+00:53:53,320 --> 00:53:55,355
+Estamos perseguindo algo, se move
+muito rápido, me diz o que vê.
+
+640
+00:53:57,390 --> 00:54:00,661
+- Pinky o que você vê?
+- É grande... muito grande.
+
+641
+00:54:00,827 --> 00:54:03,363
+Se move muito rápido, está indo
+para o setor do laboratório.
+
+642
+00:54:06,366 --> 00:54:07,100
+Limpo.
+
+643
+00:54:09,168 --> 00:54:10,569
+Ele está no laboratório.
+
+644
+00:54:14,940 --> 00:54:15,772
+Limpo.
+
+645
+00:54:16,941 --> 00:54:17,975
+Limpo.
+
+646
+00:54:18,643 --> 00:54:19,710
+Maldição é muito rápido.
+
+647
+00:54:20,979 --> 00:54:21,979
+Todos na defensiva, homens.
+
+648
+00:54:22,413 --> 00:54:23,313
+Conseguiram?
+
+649
+00:54:25,149 --> 00:54:26,116
+- Pinky
+- Sim, Sarge...
+
+650
+00:54:26,216 --> 00:54:28,385
+Qualquer coisa que entrar por
+aquela porta use a Granada ST.
+
+651
+00:54:28,419 --> 00:54:30,020
+Não poderá voltar à Terra!
+
+652
+00:54:32,022 --> 00:54:33,890
+Se ele usar uma ST ali,
+vai explodir a "Arca"!
+
+653
+00:54:33,990 --> 00:54:36,025
+Reaper, Kid, formem um par.
+Em formação de reconhecimento,
+
+654
+00:54:36,058 --> 00:54:37,693
+vasculhem os corredores. Vão!
+
+655
+00:54:38,127 --> 00:54:40,127
+Destroyer e Portman fiquem aqui,
+
+655
+00:54:40,128 --> 00:54:42,331
+fechem a entrada de ar
+e mantenham o perímetro.
+
+656
+00:54:42,365 --> 00:54:45,101
+Se ele rebentar a "Arca", como
+é que voltamos para casa, porra?
+
+657
+00:54:45,133 --> 00:54:47,269
+Portman, feche
+a droga da porta.
+
+658
+00:54:47,369 --> 00:54:48,669
+Aonde você vai?
+
+659
+00:54:49,170 --> 00:54:50,674
+Vou à sala das armas,
+
+659
+00:54:50,675 --> 00:54:53,174
+vamos precisar de alguma coisa
+que dê um "coice" um pouco maior.
+
+660
+00:55:24,167 --> 00:55:26,203
+Já tinha visto alguma
+coisa parecida, antes?
+
+661
+00:55:40,417 --> 00:55:42,052
+O coração.
+
+662
+00:55:49,056 --> 00:55:49,990
+O fígado.
+
+663
+00:56:00,968 --> 00:56:03,370
+- Rins.
+- Os cães têm rins, certo?
+
+664
+00:56:03,837 --> 00:56:04,972
+Ele tem rins.
+
+665
+00:56:13,712 --> 00:56:15,779
+Ele teve o apêndice removido.
+
+666
+00:56:16,347 --> 00:56:17,715
+É humano!
+
+667
+00:56:18,449 --> 00:56:19,783
+Mas que droga...
+
+668
+00:56:53,915 --> 00:56:54,881
+Droga!
+
+669
+00:57:00,120 --> 00:57:01,755
+O Goat sabia que
+estava se transformando!
+
+670
+00:57:09,129 --> 00:57:10,897
+Essa coisa não produziu tudo isso.
+
+671
+00:57:14,401 --> 00:57:17,468
+- Ele é o Goat.
+- O quê?
+
+672
+00:57:23,708 --> 00:57:25,443
+Isso é besteira, cara.
+
+673
+00:57:25,809 --> 00:57:27,779
+Eu me alistei para
+servir ao meu país,
+
+674
+00:57:27,811 --> 00:57:31,149
+não uma corporação de malditos
+estudos científicos loucos.
+
+675
+00:57:33,851 --> 00:57:34,952
+Tenho que ir me aliviar.
+
+676
+00:57:35,686 --> 00:57:37,321
+O que, agora?
+
+677
+00:57:37,788 --> 00:57:40,490
+A menos que queira que eu
+faça nas calças, já aqui.
+
+678
+00:57:44,326 --> 00:57:46,061
+ARMAS AVANÇADAS
+
+679
+00:57:46,293 --> 00:57:48,396
+Por favor, proceda
+a verificação de DNA.
+
+680
+00:57:51,500 --> 00:57:54,368
+Bem-vinda, Patrícia
+Tallman. Acesso Autorizado.
+
+681
+00:58:07,146 --> 00:58:09,482
+Que bela arma!
+
+682
+00:58:35,071 --> 00:58:36,640
+Oh! Droga!
+
+683
+00:59:33,189 --> 00:59:36,459
+Portman, tenho a parede e o
+chão, pela sua câmera da arma.
+
+684
+00:59:36,527 --> 00:59:39,329
+Estou no banheiro, me esquece.
+
+685
+00:59:40,796 --> 00:59:42,798
+Vai se ferrar, Portman.
+
+686
+01:00:10,719 --> 01:00:13,487
+Perdi o Portman, na câmara e tudo
+o que vejo do Destroyer é a parede.
+
+687
+01:00:13,754 --> 01:00:15,855
+Portman, responda.
+
+688
+01:00:16,689 --> 01:00:19,592
+Destroyer, responda.
+
+689
+01:00:41,512 --> 01:00:45,215
+Aqui é o Cabo Dean Portman, RRTS-6,
+oficial das operações especiais
+
+690
+01:00:45,415 --> 01:00:47,150
+são 03h10.
+
+691
+01:00:47,651 --> 01:00:49,818
+Encontramos atividade hostil.
+
+692
+01:02:15,195 --> 01:02:19,398
+Repito, solicito
+reforços RRTS, imediatamente!
+
+693
+01:02:46,396 --> 01:02:50,996
+Destroyer, Portman...
+Onde é que vocês estão?
+
+694
+01:02:59,947 --> 01:03:01,548
+Droga.
+
+695
+01:04:36,538 --> 01:04:38,538
+Droga.
+
+696
+01:04:56,653 --> 01:04:58,322
+- Pinky está vendo o Portman?
+- Não.
+
+697
+01:05:16,471 --> 01:05:17,739
+Caramba!
+
+698
+01:05:32,852 --> 01:05:33,953
+Ele morreu.
+
+699
+01:05:39,659 --> 01:05:40,627
+Destroyer?
+
+700
+01:05:40,893 --> 01:05:43,029
+- E o Portman.
+- Droga, cara!
+
+701
+01:05:43,396 --> 01:05:44,663
+Já o tenho, já o tenho.
+
+702
+01:05:48,567 --> 01:05:52,571
+Droga não me deixe, cara...
+Aguente, vamos cara...
+
+703
+01:06:00,377 --> 01:06:01,177
+Que diabo é isso?
+
+704
+01:06:01,611 --> 01:06:03,580
+E de quem é aquele
+sangue naquela janela?
+
+705
+01:06:04,080 --> 01:06:05,181
+É do Goat.
+
+706
+01:06:06,716 --> 01:06:07,717
+Ele se matou!
+
+707
+01:06:08,051 --> 01:06:10,253
+O que quer dizer com o "ele
+se matou"? Ele já estava morto!
+
+708
+01:06:11,688 --> 01:06:13,355
+É, verdade...
+é o Goat.
+
+709
+01:06:14,056 --> 01:06:16,892
+Ele estava se transformando em uma
+daquelas criaturas e então se matou.
+
+710
+01:06:17,592 --> 01:06:19,428
+Encontramos mais dois
+cientistas na escavação,
+
+711
+01:06:19,626 --> 01:06:21,595
+o Ferman e um careca com óculos.
+
+712
+01:06:21,763 --> 01:06:22,529
+Dr. Clay!
+
+713
+01:06:25,499 --> 01:06:26,800
+Viu os pescoços deles?
+
+714
+01:06:26,900 --> 01:06:28,635
+Viu se haviam feridas abertas
+nos seus pescoços?
+
+715
+01:06:28,835 --> 01:06:31,405
+Sou um atirador,
+não faço autópsias.
+
+716
+01:06:31,471 --> 01:06:32,606
+Viemos até aqui
+
+717
+01:06:32,940 --> 01:06:35,475
+para encontrar 6 cientistas,
+4 sabemos que estão mortos,
+
+718
+01:06:35,475 --> 01:06:38,612
+e o Dr. Willis está provavelmente
+desmaiado em algum lugar nos esgotos.
+
+719
+01:06:38,778 --> 01:06:40,681
+O único que está perdido
+é o Dr. Carmack.
+
+720
+01:06:40,914 --> 01:06:43,149
+O Dr. Carmack já apareceu?
+
+721
+01:06:43,849 --> 01:06:45,417
+Apareceu sim.
+
+722
+01:06:46,117 --> 01:06:47,484
+Olhe para a orelha esquerda.
+
+723
+01:06:55,993 --> 01:06:57,094
+Filho da mãe.
+
+724
+01:06:57,161 --> 01:06:59,129
+Acho que esse outro é Steve Willits.
+
+725
+01:06:59,129 --> 01:07:01,999
+Eu comparei o ADN dele
+e verifiquei as referências médicas.
+
+726
+01:07:02,032 --> 01:07:03,567
+Em que é que andam trabalhando aqui em cima?
+
+727
+01:07:03,666 --> 01:07:05,235
+Analisávamos ossos
+
+728
+01:07:05,402 --> 01:07:07,970
+e outros artefatos, mas não
+fazíamos nada parecido com isso.
+
+729
+01:07:08,037 --> 01:07:09,505
+Então, que droga é aquela?
+
+730
+01:07:09,572 --> 01:07:11,474
+Deve ser uma mutação genética.
+
+731
+01:07:11,474 --> 01:07:13,775
+Alguma coisa ambiental,
+ou viral.
+
+732
+01:07:13,842 --> 01:07:14,843
+Eu não sei!
+
+733
+01:07:16,043 --> 01:07:17,378
+Nem sei se pode ser reversível.
+
+734
+01:07:17,979 --> 01:07:20,214
+- É irreversível.
+- Não, necessariamente.
+
+735
+01:07:20,448 --> 01:07:24,452
+A condição do Dr. Carmack
+é irreversível!
+
+736
+01:07:29,523 --> 01:07:31,458
+Porque a condição do
+Dr. Carmack é essa,
+
+737
+01:07:32,826 --> 01:07:33,760
+ele está morto!
+
+738
+01:07:35,028 --> 01:07:38,765
+Kid, você e o Duke voltem às
+escavações e certifiquem-se de que
+
+739
+01:07:38,797 --> 01:07:41,533
+os outros cientistas mortos...
+estejam realmente mortos.
+
+740
+01:07:48,006 --> 01:07:51,276
+Eu perdi 4 soldados...
+
+741
+01:07:52,043 --> 01:07:54,811
+O que é que vocês
+estão testando
+
+742
+01:07:54,945 --> 01:07:56,346
+aqui em cima?
+
+743
+01:07:58,949 --> 01:08:00,984
+Não vou voltar a
+perguntar isso novamente.
+
+744
+01:08:01,817 --> 01:08:02,818
+Eu já te disse,
+
+745
+01:08:02,853 --> 01:08:05,789
+isso é um centro de
+pesquisa arqueológica.
+
+746
+01:08:06,656 --> 01:08:08,791
+Você acha que estou mentindo,
+é isso que está querendo dizer?
+
+747
+01:08:12,228 --> 01:08:14,262
+Acha que estou
+escondendo alguma coisa?
+
+748
+01:08:17,764 --> 01:08:19,198
+Estou dizendo a verdade!
+
+749
+01:08:24,804 --> 01:08:28,273
+O que é que está aqui guardando?
+O que é que te mandaram proteger?
+
+750
+01:08:30,075 --> 01:08:31,611
+Os dados da pesquisa!
+
+751
+01:08:32,945 --> 01:08:35,682
+Pesquisa sobre o quê?
+
+752
+01:08:40,419 --> 01:08:44,221
+Foi injetado no indivíduo
+o agente de estudo F-003.
+
+753
+01:08:45,755 --> 01:08:47,257
+Sinais vitais normais.
+
+754
+01:08:47,457 --> 01:08:50,994
+Temperatura elevada, o indivíduo
+apresenta fortes sinais de ansiedade.
+
+755
+01:08:51,695 --> 01:08:56,365
+C-24 pode ser eficiente em reconstruir
+as células principais para o F-009.
+
+756
+01:08:56,800 --> 01:08:59,869
+Reconstruíram uma mutação
+cromossômica em um humano.
+
+757
+01:09:00,637 --> 01:09:02,538
+Nunca faríamos estudos humanos.
+
+758
+01:09:03,472 --> 01:09:05,373
+Então estamos olhando para o quê?
+
+759
+01:09:07,809 --> 01:09:09,777
+Gênesis, capítulo 1.
+
+760
+01:09:11,412 --> 01:09:15,382
+O indivíduo foi removido para
+proteger a área de observação F-017.
+
+761
+01:09:21,521 --> 01:09:24,424
+O indivíduo não conseguiu conter
+a multiplicação dos efeitos.
+
+762
+01:09:25,826 --> 01:09:27,827
+As células base não funcionaram.
+
+763
+01:09:28,827 --> 01:09:31,529
+Situação, condenado à execução.
+
+764
+01:09:40,804 --> 01:09:42,474
+Cromossomo 24.
+
+765
+01:09:44,375 --> 01:09:45,676
+Oh! Meu Deus!
+
+766
+01:09:46,042 --> 01:09:48,512
+49 minutos depois de
+aplicada a injeção
+
+767
+01:09:48,512 --> 01:09:51,514
+a mutação genética
+começou a se manifestar
+
+768
+01:09:51,649 --> 01:09:53,749
+nas extremidades do indivíduo.
+
+769
+01:10:03,358 --> 01:10:05,127
+Isso, é o que está
+aqui para proteger!
+
+770
+01:10:05,594 --> 01:10:06,828
+Não faz sentido nenhum.
+
+771
+01:10:07,396 --> 01:10:09,431
+Confiou neles e eles
+mentiram para você.
+
+772
+01:10:10,732 --> 01:10:12,099
+Eles te usaram, Sam!
+
+773
+01:10:12,266 --> 01:10:14,502
+Eles estavam aperfeiçoando
+a pesquisa genética.
+
+774
+01:10:14,601 --> 01:10:16,303
+Por Deus, não entende?
+
+775
+01:10:16,802 --> 01:10:19,004
+É esse lugar, é o inferno
+e sempre o foi!
+
+776
+01:10:22,908 --> 01:10:24,109
+Eu deveria ter visto.
+
+777
+01:10:26,111 --> 01:10:28,948
+- O que está fazendo?
+- Precisamos destruir esses discos.
+
+778
+01:10:28,981 --> 01:10:30,883
+É propriedade da UAC
+
+779
+01:10:30,916 --> 01:10:33,586
+que se ferre a UAC, se
+levarmos isso de volta...
+
+780
+01:10:33,953 --> 01:10:36,121
+Nós levamos os dados de volta!
+
+781
+01:10:37,590 --> 01:10:40,558
+- Sarge, não vê o que está acontecendo?
+- Eu estou vendo coisas nojentas.
+
+782
+01:10:41,391 --> 01:10:43,026
+E sou pago para ver coisas nojentas!
+
+783
+01:10:43,228 --> 01:10:45,028
+Eu tenho as minhas
+ordens, assim como você.
+
+784
+01:10:47,630 --> 01:10:48,731
+Isso é tudo?
+
+785
+01:10:50,132 --> 01:10:52,768
+Eu disse, isso é tudo?
+
+786
+01:10:53,169 --> 01:10:56,239
+- Tenho mais 3 para carregar.
+- Então faça isso.
+
+787
+01:11:09,351 --> 01:11:14,420
+Sarge, temos um problema,
+um cientista morto está desaparecido.
+
+788
+01:11:15,188 --> 01:11:16,222
+Agora!
+
+789
+01:11:18,725 --> 01:11:19,959
+Vamos apenas deixá-la aqui?
+
+790
+01:11:20,827 --> 01:11:22,529
+Ela tem um trabalho a fazer.
+
+791
+01:11:24,898 --> 01:11:29,801
+Olha, se o Portman acordar,
+chame se precisar de ajuda, ok?
+
+792
+01:11:31,904 --> 01:11:33,472
+Vai ficar bem?
+
+793
+01:11:35,407 --> 01:11:36,675
+Estarei bem.
+
+794
+01:11:36,774 --> 01:11:39,143
+Ok! Nos vemos em breve.
+
+795
+01:11:43,381 --> 01:11:44,614
+Pinky, está aí?
+Pinky?
+
+796
+01:11:44,982 --> 01:11:48,251
+Sarge, alguma coisa está
+entrando pela porta de fora.
+
+797
+01:11:48,318 --> 01:11:49,419
+Está visível?
+
+798
+01:11:50,452 --> 01:11:51,921
+Não, tenho de visualizar.
+
+799
+01:11:52,354 --> 01:11:53,789
+Não os deixe entrar na "Arca".
+
+800
+01:11:55,524 --> 01:11:57,125
+Pinky usa a granada!
+
+801
+01:11:57,560 --> 01:11:59,895
+Usa a maldita granada!
+
+802
+01:12:17,276 --> 01:12:19,378
+O Pinky foi embora.
+Aquele filho da mãe.
+
+803
+01:12:19,745 --> 01:12:20,780
+Droga!
+
+804
+01:12:20,813 --> 01:12:21,914
+Eles entraram.
+
+805
+01:12:22,515 --> 01:12:23,415
+Que diabos foi isso?
+
+806
+01:12:23,783 --> 01:12:25,084
+<i>Sistema reiniciado,</i>
+
+807
+01:12:25,184 --> 01:12:27,620
+<i>tempo necessário para
+reiniciar as operações,</i>
+
+808
+01:12:27,819 --> 01:12:28,721
+<i>5 minutos.</i>
+
+809
+01:12:29,054 --> 01:12:32,190
+O aviso de quarentena foi desligado,
+essa missão deixou de ser de contenção.
+
+810
+01:12:32,391 --> 01:12:34,526
+Agarrem todas as armas e munições
+que puderem carregar. Vamos entrar.
+
+811
+01:12:34,894 --> 01:12:37,027
+- Mexam-se!
+- Sam, atende, câmbio!
+
+812
+01:12:37,428 --> 01:12:38,863
+Sam, está me ouvindo?
+Câmbio! Responda!
+
+813
+01:12:40,699 --> 01:12:41,899
+Ela não está respondendo.
+
+814
+01:12:42,867 --> 01:12:46,669
+Tempo para reiniciar operações...
+4 minutos e 45 segundos.
+
+815
+01:12:46,870 --> 01:12:48,238
+Tem 3 minutos.
+
+816
+01:12:54,611 --> 01:12:56,512
+Sam, responda, Sam.
+
+817
+01:13:08,289 --> 01:13:10,391
+Sam, por que não respondeu
+quando te chamei?
+
+818
+01:13:10,424 --> 01:13:12,860
+- Temos que ir agora.
+- Por que levaram o Goat e não o Destroyer?
+
+819
+01:13:12,894 --> 01:13:14,593
+Por que Carmack e
+não o Dr. Thornman?
+
+820
+01:13:14,928 --> 01:13:15,461
+O quê?
+
+821
+01:13:15,461 --> 01:13:18,231
+A Lucy tinha o seu cromossomo
+24, mas não era um monstro.
+
+822
+01:13:18,331 --> 01:13:21,134
+Ela morreu protegendo o filho,
+não o comendo!
+
+823
+01:13:21,267 --> 01:13:24,002
+Por que o mesmo cromossomo
+que a tornou uma super-humana
+
+824
+01:13:24,036 --> 01:13:25,904
+transformou o
+Stall em um monstro?
+
+825
+01:13:25,937 --> 01:13:27,539
+- Vamos!
+- Me dê apenas um minuto.
+
+826
+01:13:27,605 --> 01:13:29,807
+- Não temos um minuto.
+- Então me dê só 10 segundos.
+
+827
+01:13:32,777 --> 01:13:34,045
+Essa é a língua dele.
+
+828
+01:13:34,779 --> 01:13:37,047
+Isso é massa encefálica do Portman.
+
+829
+01:13:42,320 --> 01:13:43,520
+Essa é do Destroyer.
+
+830
+01:13:51,793 --> 01:13:53,261
+Ele está escolhendo, John!
+
+831
+01:13:53,528 --> 01:13:55,630
+Ele está escolhendo quem infectar.
+
+832
+01:13:56,264 --> 01:13:57,999
+Escolhendo, mas como
+é que ele escolhe?
+
+833
+01:13:58,033 --> 01:14:01,536
+Existem marcas genéticas para
+comportamentos psicóticos e violentos.
+
+834
+01:14:01,970 --> 01:14:05,473
+Pode ser um neurotransmissor
+específico que faz a escolha.
+
+835
+01:14:05,539 --> 01:14:10,111
+- Escolhidos entre inúmeros ADN's.
+- Escolhidos para o quê?
+
+836
+01:14:10,278 --> 01:14:11,744
+Para a maldade?
+
+837
+01:14:11,811 --> 01:14:14,347
+10% do Genoma humano,
+ainda não foi mapeado.
+
+838
+01:14:14,447 --> 01:14:16,982
+Alguns dizem que é o buraco
+genético para a alma.
+
+839
+01:14:17,349 --> 01:14:20,252
+Talvez o C-24 tenha sido o que
+destruiu toda a população.
+
+840
+01:14:21,420 --> 01:14:23,655
+O que explicaria o por que de
+alguém ter construído a "Arca",
+
+841
+01:14:23,655 --> 01:14:25,325
+para escapar para
+um novo começo.
+
+842
+01:14:26,158 --> 01:14:27,759
+Alguns se tornariam
+super-humanos,
+
+843
+01:14:28,760 --> 01:14:29,995
+outros monstros.
+
+844
+01:14:31,797 --> 01:14:33,432
+Oh! Meu Deus!
+
+845
+01:14:33,798 --> 01:14:35,333
+- Temos que sair daqui agora.
+- Agora?
+
+846
+01:14:35,432 --> 01:14:37,668
+Vamos, vamos andando.
+
+847
+01:14:37,868 --> 01:14:39,669
+As pessoas sob quarentena
+na "Arca" estão todas lá fora,
+
+848
+01:14:39,669 --> 01:14:40,670
+podem estar todas infectadas.
+
+849
+01:14:40,904 --> 01:14:42,139
+O que está acontecendo?
+
+850
+01:14:43,074 --> 01:14:46,075
+O Sarge vai matar todos! Vamos...
+
+851
+01:14:48,310 --> 01:14:49,278
+Estamos sob quarentena,
+
+852
+01:14:49,278 --> 01:14:51,514
+nada passa por esse
+elevador de volta à Terra.
+
+853
+01:14:51,514 --> 01:14:53,148
+Não podemos deixá-los
+chegar à superfície.
+
+854
+01:14:53,716 --> 01:14:55,918
+Se respirar, matem!
+
+855
+01:14:56,018 --> 01:15:00,822
+4, 3, 2, 1.
+
+856
+01:15:08,730 --> 01:15:10,632
+<i>Viagem pela
+"Arca", completa.</i>
+
+857
+01:15:11,532 --> 01:15:15,469
+<i>Aqui é o Cabo Dean Portman, RRTS-6,
+oficial das operações especiais,</i>
+
+857
+01:15:15,470 --> 01:15:16,469
+<i>são 3h10.</i>
+
+858
+01:15:17,503 --> 01:15:19,305
+<i>Encontramos atividade hostil.</i>
+
+859
+01:15:20,473 --> 01:15:23,275
+<i>Solicito reforços
+RRTS, imediatamente!</i>
+
+860
+01:15:23,808 --> 01:15:25,243
+Droga.
+
+861
+01:15:25,477 --> 01:15:26,877
+Temos menos de 10
+minutos para que tudo
+
+861
+01:15:26,878 --> 01:15:28,213
+seja trancado
+automaticamente, senhor.
+
+862
+01:15:28,947 --> 01:15:31,015
+Resete tudo para outras 6 horas.
+
+863
+01:15:31,015 --> 01:15:34,285
+Não posso, está protegido,
+com uma senha que vem de fora.
+
+864
+01:15:35,052 --> 01:15:36,620
+É especialista em computadores,
+agora?
+
+865
+01:15:37,021 --> 01:15:38,723
+Sim, e em sonares de foguetes, lembra?
+
+866
+01:16:46,118 --> 01:16:48,121
+<i>Viagem pela
+"Arca" completa.</i>
+
+867
+01:16:48,921 --> 01:16:50,390
+Oh! Meu Deus!
+
+868
+01:16:52,259 --> 01:16:53,594
+Sarge, qual é a sua posição?
+
+869
+01:17:05,593 --> 01:17:09,692
+Sarge, está ouvindo?
+
+870
+01:17:11,694 --> 01:17:13,692
+Perfeitamente!
+
+871
+01:17:14,158 --> 01:17:15,292
+Não mate todos!
+
+872
+01:17:15,425 --> 01:17:18,295
+Repito, não mate todos!
+Nem todos estão infectados!
+
+873
+01:17:19,230 --> 01:17:20,797
+Me ajude, me ajude, por favor.
+
+874
+01:17:20,996 --> 01:17:22,164
+Entendido.
+
+875
+01:17:22,432 --> 01:17:23,466
+Me ajude.
+
+876
+01:17:29,805 --> 01:17:32,307
+Limpem o resto do setor e
+me encontrem na sala da "Arca".
+
+877
+01:17:54,293 --> 01:17:56,295
+- Por Deus, mas o que estão fazendo?
+- Quem é que está aí?
+
+878
+01:17:58,130 --> 01:18:00,367
+O que está ainda fazendo aí,
+seu burro, filho da puta?
+
+878
+01:18:00,368 --> 01:18:01,367
+Me ajude a levantar!
+
+879
+01:18:06,871 --> 01:18:07,806
+Está tudo bem.
+
+880
+01:18:17,947 --> 01:18:21,184
+Por favor, nos ajude.
+
+881
+01:18:24,687 --> 01:18:26,322
+Você não tem
+que matar todos.
+
+882
+01:18:27,089 --> 01:18:29,089
+Não acho que todos
+estejam infectados,
+
+882
+01:18:29,091 --> 01:18:31,593
+ou que sejam sequer
+capazes de serem infectados.
+
+883
+01:18:32,928 --> 01:18:36,263
+Temos ordens de conter essa ameaça
+com qualquer medida necessária.
+
+884
+01:18:36,263 --> 01:18:38,466
+Então vamos evacuar
+os não infectados,
+
+885
+01:18:38,500 --> 01:18:40,469
+e mandar esse lugar para o inferno!
+
+886
+01:18:40,535 --> 01:18:42,470
+Temos ordens para proteger
+essas instalações.
+
+887
+01:18:42,504 --> 01:18:44,604
+Mas não temos ordens para matar inocentes!
+
+888
+01:18:47,774 --> 01:18:50,643
+Temos que impedir que qualquer
+coisa de chegue à superfície.
+
+889
+01:18:51,010 --> 01:18:55,080
+Por qualquer meio necessário.
+
+890
+01:18:56,381 --> 01:18:59,017
+Sarge, esse covarde estava escondido
+por baixo de uma pilha de cadáveres.
+
+891
+01:18:59,116 --> 01:19:00,552
+Fico feliz por vê-los.
+
+892
+01:19:00,953 --> 01:19:02,653
+Essa coisa atravessou a porta.
+
+893
+01:19:02,821 --> 01:19:05,156
+Tentei usar a granada,
+mas não consigo me mexer tão rápido.
+
+894
+01:19:06,424 --> 01:19:09,027
+Me seguiu pela "Arca" e
+começou a matar todo mundo.
+
+895
+01:19:10,027 --> 01:19:11,063
+Foi horrível.
+
+896
+01:19:11,229 --> 01:19:12,729
+Não tem nenhum
+ferimento no pescoço.
+
+897
+01:19:13,697 --> 01:19:14,598
+Ele está limpo.
+
+898
+01:19:17,100 --> 01:19:19,902
+Eu é que digo, quem é que está limpo,
+
+899
+01:19:21,871 --> 01:19:23,072
+e quem não está.
+
+900
+01:19:23,305 --> 01:19:24,640
+A culpa não foi minha!
+
+901
+01:19:26,808 --> 01:19:28,444
+Ei, eu não sou um soldado.
+
+902
+01:19:28,476 --> 01:19:29,378
+Não deviam ter me deixado ali.
+
+903
+01:19:29,378 --> 01:19:30,178
+Ei, Sarge...
+
+904
+01:19:32,882 --> 01:19:34,315
+Há um depósito nos fundos,
+
+905
+01:19:34,716 --> 01:19:36,886
+tem umas 20 pessoas
+trancadas dentro dele.
+
+906
+01:19:37,218 --> 01:19:38,386
+Precisamos de fazer alguma coisa.
+
+907
+01:19:39,821 --> 01:19:41,455
+As suas ordens eram
+para limpar aquele setor.
+
+908
+01:19:43,422 --> 01:19:44,489
+Ele foi limpo?
+
+909
+01:19:45,324 --> 01:19:46,758
+Não, eu disse para
+ficarem onde estavam...
+
+910
+01:19:48,027 --> 01:19:49,862
+Eles estão bem, estão
+só com um medo terrivel..
+
+911
+01:19:50,295 --> 01:19:51,497
+Nós matamos todos,
+
+912
+01:19:55,501 --> 01:19:57,236
+e que Deus os separe.
+
+913
+01:19:58,638 --> 01:20:00,305
+Isso está errado.
+Eu acho...
+
+914
+01:20:00,338 --> 01:20:02,374
+Filho, você não pensa!
+
+915
+01:20:04,910 --> 01:20:06,443
+É uma ordem!
+
+916
+01:20:07,912 --> 01:20:09,346
+Estamos no campo de batalha, soldado!
+
+917
+01:20:09,780 --> 01:20:15,484
+- Sarge, se não encontrarmos nada...
+- E você vai obedecer a uma ordem direta
+
+918
+01:20:16,985 --> 01:20:18,755
+do seu Oficial Comandante...
+
+919
+01:20:26,361 --> 01:20:27,197
+Não!
+
+920
+01:20:30,298 --> 01:20:31,165
+Agora!
+
+921
+01:20:33,301 --> 01:20:34,202
+Vá para o inferno.
+
+922
+01:20:35,403 --> 01:20:36,637
+Não!
+
+923
+01:20:37,138 --> 01:20:38,005
+Droga!
+
+924
+01:20:48,548 --> 01:20:50,015
+Motim ou insurreição
+
+925
+01:20:51,283 --> 01:20:52,551
+é punível
+
+926
+01:20:53,252 --> 01:20:54,987
+com a morte.
+
+927
+01:20:58,490 --> 01:21:00,024
+Era a primeira missão dele.
+
+928
+01:21:00,291 --> 01:21:01,659
+E não será a minha ultima.
+
+929
+01:21:01,960 --> 01:21:03,161
+Preciso de soldados.
+
+930
+01:21:04,095 --> 01:21:06,865
+Não preciso de mais ninguém,
+a não ser de soldados!
+
+931
+01:21:40,294 --> 01:21:41,228
+Larguem as suas armas.
+
+932
+01:21:42,163 --> 01:21:42,962
+Não estou brincando.
+
+933
+01:21:43,762 --> 01:21:46,064
+Não tenho a menor intenção de
+ser morto por um homem maluco.
+
+934
+01:21:46,064 --> 01:21:46,866
+Joguem as suas armas fora.
+
+935
+01:21:52,638 --> 01:21:53,839
+Tem alguma coisa
+atrás de mim, não tem?
+
+936
+01:22:07,351 --> 01:22:08,319
+Sigam-me!
+
+937
+01:22:12,290 --> 01:22:13,390
+Vai buscar a Sam.
+
+938
+01:22:30,170 --> 01:22:31,171
+Espere aqui.
+
+939
+01:22:44,151 --> 01:22:44,851
+Escutem.
+
+940
+01:22:53,291 --> 01:22:54,092
+Bater em retirar!
+
+941
+01:22:54,392 --> 01:22:55,694
+Bater em retirar! Temos que
+voltar e passar pela porta.
+
+942
+01:22:56,795 --> 01:22:58,095
+- Mexam-se.
+- Bater em retirada...
+
+943
+01:23:11,275 --> 01:23:12,275
+Mexam-se!
+
+944
+01:23:19,081 --> 01:23:24,085
+Fechem-na.
+
+945
+01:23:24,453 --> 01:23:25,820
+Droga, a porta não está fechando.
+
+946
+01:23:48,674 --> 01:23:49,674
+Droga!
+
+947
+01:23:50,910 --> 01:23:52,977
+Eu não queria morrer!
+
+948
+01:24:00,517 --> 01:24:01,885
+Vamos!
+
+949
+01:24:07,658 --> 01:24:08,892
+Quanto tempo falta
+para atravessarem?
+
+950
+01:24:11,061 --> 01:24:12,562
+Não muito.
+
+951
+01:24:13,929 --> 01:24:16,866
+Foi ferido?
+Oh! John.
+
+952
+01:24:31,846 --> 01:24:32,847
+Me escuta, Sam.
+
+953
+01:24:34,482 --> 01:24:35,449
+Está gelado.
+
+954
+01:24:36,584 --> 01:24:37,717
+Não fale.
+
+955
+01:24:39,553 --> 01:24:43,022
+Isso é importante!
+Isso é uma granada,
+
+956
+01:24:44,389 --> 01:24:45,992
+quando eles vierem,
+
+957
+01:24:47,759 --> 01:24:50,062
+só tem que apertar o botão.
+
+958
+01:24:53,265 --> 01:24:54,499
+John, fica comigo.
+
+959
+01:24:54,665 --> 01:24:55,767
+Fica acordado.
+
+960
+01:24:56,100 --> 01:24:58,603
+John, fica comigo,
+por favor.
+
+961
+01:25:04,175 --> 01:25:07,478
+- O que é isso?
+- C-24.
+
+962
+01:25:08,311 --> 01:25:09,614
+- Trouxe do laboratório.
+- Não.
+
+963
+01:25:09,880 --> 01:25:12,881
+- Pode te salvar.
+- Nem pensar. Esquece!
+
+964
+01:25:13,382 --> 01:25:14,749
+Vai sangrar até morrer.
+
+965
+01:25:15,917 --> 01:25:23,057
+Não, Sam... tenho feito
+algumas coisas más.
+
+966
+01:25:27,028 --> 01:25:28,163
+Eu te conheço!
+
+967
+01:25:28,663 --> 01:25:30,931
+Você não me conhece.
+
+968
+01:25:32,233 --> 01:25:34,134
+Você não sabe.
+
+969
+01:25:34,468 --> 01:25:35,502
+É meu irmão.
+
+970
+01:25:36,470 --> 01:25:37,304
+Eu te conheço!
+
+971
+01:25:41,607 --> 01:25:42,441
+Espere.
+
+972
+01:25:44,409 --> 01:25:45,945
+Espere.
+
+973
+01:25:46,879 --> 01:25:49,614
+Se eu me transformar
+em uma dessas coisas.
+
+974
+01:25:52,250 --> 01:25:56,287
+Uma no coração, outra na
+cabeça, e não hesite, ok?
+
+975
+01:25:56,520 --> 01:25:57,656
+Não vou precisar fazer isso.
+
+976
+01:26:15,704 --> 01:26:18,440
+Eu te conheço...
+é meu irmão.
+
+977
+01:26:28,015 --> 01:26:28,716
+Sam?
+
+978
+01:27:00,745 --> 01:27:01,879
+ACESSO RESTRITO
+
+979
+01:28:13,902 --> 01:28:15,903
+Sam?
+
+980
+01:28:25,244 --> 01:28:27,247
+<i>John...</i>
+
+981
+01:28:40,977 --> 01:28:42,978
+Sam?
+
+982
+01:29:41,939 --> 01:29:43,908
+Sam?
+
+983
+01:31:00,901 --> 01:31:01,902
+Sam!
+
+984
+01:31:15,004 --> 01:31:16,373
+TRANCADA
+
+985
+01:31:37,025 --> 01:31:40,095
+- Sam?
+- Está vivo!
+
+986
+01:31:41,262 --> 01:31:42,328
+Shh, não fale.
+
+987
+01:31:42,796 --> 01:31:45,099
+Isso foi um mal entendido,
+Reaper.
+
+988
+01:31:50,770 --> 01:31:52,371
+Acho que ela precisa
+de cuidados médicos.
+
+989
+01:31:57,976 --> 01:31:59,511
+Acha que consegue ir até o elevador?
+
+990
+01:32:00,045 --> 01:32:01,313
+Não tenho certeza.
+
+991
+01:32:03,215 --> 01:32:04,083
+Tente.
+
+992
+01:32:09,487 --> 01:32:11,521
+Onde estão os sobreviventes
+que o Kid encontrou?
+
+993
+01:32:12,890 --> 01:32:14,125
+Eu cuidei desse problema.
+
+994
+01:32:16,392 --> 01:32:17,626
+A quarentena
+está quase acabada.
+
+995
+01:32:18,894 --> 01:32:20,229
+A energia elétrica deve
+voltar a qualquer minuto.
+
+996
+01:32:24,533 --> 01:32:25,534
+Matou o Kid!
+
+997
+01:32:27,203 --> 01:32:29,372
+Somos todos assassinos, Reaper!
+
+998
+01:32:31,507 --> 01:32:32,575
+É para isso que nos pagam!
+
+999
+01:32:33,175 --> 01:32:34,909
+Quarentena completa.
+
+1000
+01:32:35,044 --> 01:32:37,412
+Elevadores de volta
+ao funcionamento.
+
+1001
+01:32:48,221 --> 01:32:49,622
+Acabou!
+
+1002
+01:32:51,090 --> 01:32:52,992
+O que me diz de irmos lá
+fora apanhar um pouco de
+
+1003
+01:32:53,559 --> 01:32:55,261
+ar fresco?
+
+1004
+01:33:02,234 --> 01:33:03,634
+Vai atirar em mim?
+
+1005
+01:33:04,335 --> 01:33:06,338
+Sim, estava pensando nisso.
+
+1006
+01:33:06,638 --> 01:33:09,641
+- Quanto é que sobrou?
+- Metade de um pente, e você?
+
+1007
+01:33:20,183 --> 01:33:21,918
+Eu tenho... um tiro.
+
+1008
+01:35:53,051 --> 01:35:55,721
+"Sempre fiel", filho da puta.
+
+1009
+01:35:57,089 --> 01:36:00,058
+Fiel à corporação... John.
+
+1010
+01:38:34,094 --> 01:38:34,995
+EM ESPERA
+
+1011
+01:38:43,269 --> 01:38:44,503
+ARCA ATIVADA
+
+1012
+01:39:17,567 --> 01:39:19,268
+Como você mesmo disse...
+
+1013
+01:39:21,270 --> 01:39:22,337
+Vai para o inferno!
+
+1014
+01:39:55,200 --> 01:39:56,701
+Quase em casa.
+
+9999
+00:00:0,500 --> 00:00:2,00
+<font color="#ffff00" size=14>www.moviesubtitles.org</font>
