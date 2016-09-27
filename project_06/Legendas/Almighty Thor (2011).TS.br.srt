@@ -1,0 +1,4507 @@
+1
+00:00:04,909 --> 00:00:07,909
+GEEKS
+May the Force be with us
+
+2
+00:00:08,727 --> 00:00:12,727
+GEEKS
+Sarabp | Karol | JVM
+
+3
+00:00:13,782 --> 00:00:17,782
+GEEKS
+Zeh | Everton | @Lecko_alx
+
+4
+00:00:20,042 --> 00:00:24,142
+GEEKS
+Hatter | Guerra_ | Rezinha
+
+5
+00:00:25,226 --> 00:00:29,226
+GEEKS
+JesKa | Lunardelli
+
+6
+00:00:30,227 --> 00:00:34,227
+@Geeksub
+www.geeksub.com
+
+7
+00:00:45,829 --> 00:00:49,414
+PUENTE ANTIGUO,
+NOVO MÉXICO
+
+8
+00:01:18,834 --> 00:01:20,334
+Espere um pouco.
+
+9
+00:01:21,247 --> 00:01:22,924
+-Posso ligar o rádio?
+-Não.
+
+10
+00:01:27,042 --> 00:01:29,318
+Jane, não pode
+continuar fazendo isso.
+
+11
+00:01:30,577 --> 00:01:34,249
+As últimas 17 ocorrências
+foram completamente previstas.
+
+12
+00:01:34,250 --> 00:01:36,976
+Você é uma astrofísica
+e não caçadora de tempestades.
+
+13
+00:01:36,977 --> 00:01:41,186
+Acredite em mim, esses fenômenos
+estão ligados a minha pesquisa.
+
+14
+00:01:42,363 --> 00:01:46,349
+Não pediria que viesse até aqui
+se não tivesse certeza absoluta.
+
+15
+00:01:46,350 --> 00:01:49,083
+Jane, acho que gostaria
+de ver isso.
+
+16
+00:01:53,288 --> 00:01:54,788
+O que é aquilo?
+
+17
+00:02:01,366 --> 00:02:03,775
+Pensei que fosse
+uma simples aurora.
+
+18
+00:02:03,776 --> 00:02:05,276
+Vai!
+
+19
+00:02:11,337 --> 00:02:12,723
+Aproxime-se.
+
+20
+00:02:12,724 --> 00:02:14,544
+-Claro, boa ideia.
+-Vai!
+
+21
+00:02:32,083 --> 00:02:33,172
+O que está fazendo?
+
+22
+00:02:33,173 --> 00:02:35,914
+Não vou morrer
+por créditos escolares.
+
+23
+00:02:56,257 --> 00:02:58,183
+Legalmente foi culpa sua.
+
+24
+00:02:58,184 --> 00:02:59,895
+Pegue o kit
+de primeiros socorros.
+
+25
+00:02:59,896 --> 00:03:02,166
+Faça-me um favor
+e não esteja morto.
+
+26
+00:03:07,926 --> 00:03:09,426
+De onde ele veio?
+
+27
+00:03:23,835 --> 00:03:26,401
+TONSBERG, NORUEGA
+
+28
+00:03:26,402 --> 00:03:31,154
+<i>Uma vez, a humanidade aceitou
+uma simples verdade.
+
+29
+00:03:31,941 --> 00:03:34,898
+<i>A de que não estavam
+sozinhos no universo.
+
+30
+00:03:37,252 --> 00:03:41,250
+<i>Eles acreditavam que alguns
+mundos pertenciam à seus deuses.
+
+31
+00:03:41,251 --> 00:03:44,421
+<i>Outros, eles sabiam
+que deviam temer.
+
+32
+00:03:47,708 --> 00:03:51,808
+<i>De um reino frio e sombrio
+vieram os Gigantes de Gelo.
+
+33
+00:04:04,999 --> 00:04:07,252
+<i>Ameaçando trazer
+ao mundo dos mortais
+
+34
+00:04:07,253 --> 00:04:09,148
+<i>uma nova era glacial.
+
+35
+00:04:14,728 --> 00:04:18,874
+<i>Mas a humanidade não
+enfrentaria essa ameaça sozinha.
+
+36
+00:04:54,338 --> 00:04:58,306
+<i>Nosso exército os conduziu
+de volta ao seu próprio mundo.
+
+37
+00:05:02,118 --> 00:05:03,845
+<i>A batalha nos custou caro.
+
+38
+00:05:04,810 --> 00:05:07,424
+<i>E no fim, o rei deles caiu.
+
+39
+00:05:12,265 --> 00:05:15,301
+<i>E a fonte de seus poderes
+lhes foi tirada.
+
+40
+00:05:16,661 --> 00:05:21,081
+<i>Quando a última grande guerra
+acabou, saímos daquele mundo.
+
+41
+00:05:21,082 --> 00:05:23,071
+<i>E voltamos para casa.
+
+42
+00:05:23,072 --> 00:05:27,820
+<i>Voltamos para o eterno reino
+de Asgard.
+
+43
+00:05:58,516 --> 00:06:01,067
+<i>Aqui permanecemos
+como um símbolo de esperança.
+
+44
+00:06:02,110 --> 00:06:04,759
+<i>Brilhando pelas estrelas.
+
+45
+00:06:06,034 --> 00:06:09,795
+<i>E mesmo tendo virado
+mitos e lendas para os homens,
+
+46
+00:06:09,796 --> 00:06:14,096
+<i>foi Asgard e seus guerreiros
+
+47
+00:06:14,097 --> 00:06:17,681
+<i>que trouxeram paz
+ao universo.
+
+48
+00:06:21,141 --> 00:06:26,479
+Mas chegará o dia
+em que um de vocês...
+
+49
+00:06:27,539 --> 00:06:30,288
+terá que defender essa paz.
+
+50
+00:06:30,289 --> 00:06:32,362
+Os Gigantes de Gelo
+ainda vivem?
+
+51
+00:06:32,363 --> 00:06:36,996
+Quando for rei, perseguirei
+esses monstros e os matarei.
+
+52
+00:06:38,445 --> 00:06:40,386
+Assim como fez, pai.
+
+53
+00:06:40,387 --> 00:06:45,748
+Um rei sábio nunca
+procura a guerra, mas...
+
+54
+00:06:50,770 --> 00:06:52,788
+deve estar
+sempre pronto para ela.
+
+55
+00:07:04,623 --> 00:07:06,641
+-Eu estou pronto, pai.
+-Eu também.
+
+56
+00:07:08,071 --> 00:07:10,815
+Apenas um de vocês pode
+assumir o trono.
+
+57
+00:07:10,816 --> 00:07:14,302
+Mas os dois nasceram
+para ser rei.
+
+58
+00:07:34,262 --> 00:07:35,762
+Por favor.
+
+59
+00:08:30,053 --> 00:08:32,946
+Thor Odinson...
+
+60
+00:08:35,078 --> 00:08:36,578
+Meu herdeiro.
+
+61
+00:08:38,892 --> 00:08:40,394
+Meu primogênito.
+
+62
+00:08:41,759 --> 00:08:45,964
+Há tanto tempo confiado
+o poderoso martelo Mjölnir.
+
+63
+00:08:46,748 --> 00:08:50,629
+Forjado no coração
+de uma estrela a beira da morte.
+
+64
+00:08:50,630 --> 00:08:54,783
+Seu poder é incomparável.
+Como uma arma de destruição.
+
+65
+00:08:56,016 --> 00:08:57,786
+Ou uma ferramenta
+para construção.
+
+66
+00:08:58,747 --> 00:09:01,064
+É um companheiro
+adequado para um rei.
+
+67
+00:09:02,826 --> 00:09:06,959
+Eu defendi Asgard,
+e a vida de inocentes...
+
+68
+00:09:32,366 --> 00:09:36,869
+-Jura defender os Nove Reinos?
+-Eu juro.
+
+69
+00:09:36,870 --> 00:09:41,528
+-Jura preservar a paz?
+-Eu juro.
+
+70
+00:09:41,529 --> 00:09:47,079
+Jura deixar de lado
+ambições egoístas
+
+71
+00:09:47,080 --> 00:09:49,897
+e se comprometer apenas
+ao bem dos reinos?
+
+72
+00:09:49,898 --> 00:09:51,155
+Eu juro!
+
+73
+00:09:51,156 --> 00:09:52,656
+Então nesse dia...
+
+74
+00:09:53,322 --> 00:09:58,872
+Eu, Odin, Pai de Todos,
+o proclamo...
+
+75
+00:10:11,963 --> 00:10:13,463
+Gigantes de Gelo.
+
+76
+00:10:56,441 --> 00:10:58,605
+Os Jotuns precisam pagar
+pelo que fizeram.
+
+77
+00:10:58,606 --> 00:11:00,833
+Eles já pagaram
+com suas vidas.
+
+78
+00:11:02,080 --> 00:11:04,108
+O Destruidor fez seu trabalho,
+
+79
+00:11:04,109 --> 00:11:06,668
+a Caixa está a salvo
+e está tudo bem.
+
+80
+00:11:06,669 --> 00:11:08,464
+Está tudo bem?
+
+81
+00:11:08,465 --> 00:11:11,102
+Eles invadiram a sala de armas.
+
+82
+00:11:11,103 --> 00:11:13,591
+Se eles tivessem roubado
+uma dessas relíquias...
+
+83
+00:11:13,592 --> 00:11:16,060
+-Eles não roubaram.
+-Quero saber o porquê.
+
+84
+00:11:18,370 --> 00:11:20,838
+Tenho uma trégua com Laufey,
+rei de Jotunheim.
+
+85
+00:11:20,839 --> 00:11:22,647
+Ele acabou de violar
+essa trégua.
+
+86
+00:11:22,648 --> 00:11:24,785
+Eles sabem que está vulnerável.
+
+87
+00:11:25,667 --> 00:11:26,928
+O que você faria?
+
+88
+00:11:26,929 --> 00:11:29,314
+Marcharia até Jotunheim
+como você fez um dia.
+
+89
+00:11:29,315 --> 00:11:30,754
+Ensinaria a eles uma lição.
+
+90
+00:11:30,755 --> 00:11:33,787
+Faria com que eles nunca mais
+cruzassem nossas fronteiras.
+
+91
+00:11:33,788 --> 00:11:36,601
+-Está pensando como guerreiro.
+-Esse foi um ato de guerra.
+
+92
+00:11:36,602 --> 00:11:38,823
+Foi um ato de poucos,
+fadados ao fracasso.
+
+93
+00:11:38,824 --> 00:11:40,232
+Veja como foram longe.
+
+94
+00:11:40,233 --> 00:11:42,786
+Acharemos as brechas
+em nossa defesa e as selaremos.
+
+95
+00:11:42,787 --> 00:11:45,971
+-Como rei de Asgard...
+-Mas você não é rei!
+
+96
+00:11:49,543 --> 00:11:51,043
+Ainda não.
+
+97
+00:12:21,238 --> 00:12:23,879
+Não é sábio ficar
+em minha companhia agora, irmão.
+
+98
+00:12:25,021 --> 00:12:27,751
+Esse era para ser
+meu dia de triunfo.
+
+99
+00:12:30,112 --> 00:12:31,612
+Ele virá.
+
+100
+00:12:32,577 --> 00:12:35,084
+-No tempo certo.
+-O que é isto?
+
+101
+00:12:37,022 --> 00:12:40,238
+Se serve de consolo,
+acho que está certo.
+
+102
+00:12:40,239 --> 00:12:42,821
+Sobre os Gigantes,
+sobre Laufey, sobre tudo.
+
+103
+00:12:43,773 --> 00:12:46,806
+Se acharam um jeito de penetrar
+nossa defesa uma vez,
+
+104
+00:12:46,807 --> 00:12:50,033
+quem garantirá que não o farão
+de novo com um exército.
+
+105
+00:12:50,034 --> 00:12:52,198
+-Exatamente.
+-Não há nada que possa fazer
+
+106
+00:12:52,199 --> 00:12:53,991
+sem desacatar o pai.
+
+107
+00:12:55,342 --> 00:12:57,314
+Não, não, não.
+Conheço esse olhar.
+
+108
+00:12:57,315 --> 00:12:59,537
+É o único jeito de proteger
+as fronteiras.
+
+109
+00:12:59,538 --> 00:13:00,764
+É loucura.
+
+110
+00:13:00,765 --> 00:13:02,942
+Loucura?
+Que tipo de loucura?
+
+111
+00:13:03,630 --> 00:13:05,207
+Vamos para Jotunheim.
+
+112
+00:13:06,933 --> 00:13:08,404
+O quê?
+
+113
+00:13:08,405 --> 00:13:12,158
+Isso não é como ir à Terra
+onde você solta alguns raios
+
+114
+00:13:12,159 --> 00:13:14,996
+e os humanos o tratam
+como um deus.
+
+115
+00:13:14,997 --> 00:13:16,118
+É Jotunheim.
+
+116
+00:13:16,119 --> 00:13:18,611
+Meu pai invadiu Jotunheim
+
+117
+00:13:18,612 --> 00:13:21,441
+derrotou seus exércitos
+e pegou a Caixa.
+
+118
+00:13:21,442 --> 00:13:22,943
+Só iremos atrás de respostas.
+
+119
+00:13:22,944 --> 00:13:25,264
+É proibido!
+
+120
+00:13:26,559 --> 00:13:29,656
+Meus amigos, esqueceram tudo
+que já fizemos juntos?
+
+121
+00:13:29,657 --> 00:13:35,114
+Fandral, Hogun, quem os levou
+às mais gloriosas batalhas?
+
+122
+00:13:35,115 --> 00:13:36,424
+Você.
+
+123
+00:13:36,425 --> 00:13:41,051
+Volstagg, quem o fez provar
+iguarias como as do paraíso?
+
+124
+00:13:42,563 --> 00:13:44,061
+Você.
+
+125
+00:13:44,062 --> 00:13:46,770
+E quem provou estarem errados
+os que negavam
+
+126
+00:13:46,771 --> 00:13:50,265
+que uma dama não poderia ser
+um dos mais valentes guerreiros?
+
+127
+00:13:50,266 --> 00:13:51,336
+Eu.
+
+128
+00:13:51,337 --> 00:13:53,504
+Verdade, mas eu a apoiei, Sif.
+
+129
+00:13:53,505 --> 00:13:55,713
+Meus amigos...
+
+130
+00:13:55,714 --> 00:13:57,370
+vamos para Jotunheim.
+
+131
+00:14:46,635 --> 00:14:48,135
+Deixe isso comigo.
+
+132
+00:14:49,052 --> 00:14:51,560
+-Bom Heimdall...
+-Não se agasalharam o bastante.
+
+133
+00:14:51,561 --> 00:14:54,564
+-O que disse?
+-Acha que pode me enganar?
+
+134
+00:14:56,368 --> 00:14:58,240
+-Deve ter se enganado...
+-Basta!
+
+135
+00:15:01,477 --> 00:15:03,071
+Heimdall, podemos passar?
+
+136
+00:15:03,072 --> 00:15:08,347
+Nenhum inimigo
+passou por mim até hoje.
+
+137
+00:15:10,837 --> 00:15:12,596
+Quero saber como aconteceu.
+
+138
+00:15:12,597 --> 00:15:15,113
+Então não conte aonde fomos
+até retornarmos.
+
+139
+00:15:15,114 --> 00:15:16,614
+Entendeu?
+
+140
+00:15:21,168 --> 00:15:23,350
+O que aconteceu?
+Perdeu a língua?
+
+141
+00:16:06,540 --> 00:16:07,961
+Estão avisados...
+
+142
+00:16:07,962 --> 00:16:12,867
+Honrarei minha promessa
+como guardião desse reino.
+
+143
+00:16:12,868 --> 00:16:15,426
+Se seu retorno ameaçar
+a segurança de Asgard...
+
+144
+00:16:15,427 --> 00:16:21,358
+a Bifrost permanecerá fechada
+e morrerão no frio de Jotunheim.
+
+145
+00:16:21,359 --> 00:16:23,465
+Não poderia deixar
+a ponte aberta?
+
+146
+00:16:23,466 --> 00:16:26,346
+Deixá-la aberta liberaria
+toda a energia dela
+
+147
+00:16:26,347 --> 00:16:30,087
+e destruiria Jotunheim
+junto com vocês.
+
+148
+00:16:30,088 --> 00:16:32,157
+Não planejo morrer hoje.
+
+149
+00:16:32,158 --> 00:16:33,658
+Ninguém planeja.
+
+150
+00:17:17,693 --> 00:17:19,193
+Não deveríamos estar aqui.
+
+151
+00:17:21,431 --> 00:17:22,931
+Vamos em frente.
+
+152
+00:18:19,029 --> 00:18:20,547
+Onde eles estão?
+
+153
+00:18:20,548 --> 00:18:23,286
+Escondidos.
+Como os covardes sempre fazem.
+
+154
+00:18:33,465 --> 00:18:37,733
+Vieram de longe
+para morrer, asgardianos.
+
+155
+00:18:37,734 --> 00:18:40,126
+Sou Thor Odinson.
+
+156
+00:18:40,127 --> 00:18:42,286
+Sabemos quem você é.
+
+157
+00:18:42,287 --> 00:18:44,340
+Como entraram em Asgard?
+
+158
+00:18:53,467 --> 00:18:57,686
+A Casa de Odin
+está cheia de traidores.
+
+159
+00:18:57,687 --> 00:19:00,789
+Não desonre o nome do meu pai
+com suas mentiras.
+
+160
+00:19:00,790 --> 00:19:03,272
+Seu pai é um assassino
+e ladrão!
+
+161
+00:19:03,956 --> 00:19:07,248
+E por que veio aqui?
+Para fazer as pazes?
+
+162
+00:19:07,249 --> 00:19:11,099
+Está ávido por luta.
+Clama por ela.
+
+163
+00:19:11,100 --> 00:19:15,037
+Não passa de um garoto
+tentando provar que é homem.
+
+164
+00:19:16,676 --> 00:19:19,788
+Esse "garoto" está cheio
+da sua zombaria.
+
+165
+00:19:26,253 --> 00:19:30,485
+Thor, pare e pense.
+Olhe ao redor. Somos minoria.
+
+166
+00:19:30,486 --> 00:19:32,153
+Volte pro seu lugar, irmão.
+
+167
+00:19:32,154 --> 00:19:35,433
+Você não sabe o que suas ações
+podem desencadear.
+
+168
+00:19:38,199 --> 00:19:40,203
+Eu sei.
+
+169
+00:19:40,204 --> 00:19:43,857
+Vá agora,
+enquanto ainda permito.
+
+170
+00:19:54,127 --> 00:19:57,420
+Aceitamos sua grande
+e generosa oferta.
+
+171
+00:20:09,533 --> 00:20:11,033
+Venha, irmão.
+
+172
+00:20:16,152 --> 00:20:18,858
+Corra para casa, princesinha.
+
+173
+00:20:18,859 --> 00:20:20,359
+Droga.
+
+174
+00:20:25,069 --> 00:20:26,569
+Próximo?
+
+175
+00:20:44,625 --> 00:20:46,544
+Façam algo mais desafiador!
+
+176
+00:21:06,410 --> 00:21:08,023
+Agora melhorou.
+
+177
+00:21:42,393 --> 00:21:43,893
+Não deixe que os toquem!
+
+178
+00:22:23,568 --> 00:22:25,168
+Thor!
+
+179
+00:22:26,720 --> 00:22:29,594
+-Temos que ir.
+-Então vão!
+
+180
+00:22:51,496 --> 00:22:53,196
+Corram!
+
+181
+00:22:54,929 --> 00:22:56,429
+Thor!
+
+182
+00:23:59,306 --> 00:24:02,079
+Heimdall, abra a ponte!
+
+183
+00:25:05,042 --> 00:25:07,782
+Pai!
+Acabaremos com eles juntos!
+
+184
+00:25:07,783 --> 00:25:09,383
+Silêncio.
+
+185
+00:25:14,690 --> 00:25:17,494
+Pai de Todos.
+
+186
+00:25:17,495 --> 00:25:20,192
+Você parece cansado.
+
+187
+00:25:21,270 --> 00:25:24,569
+Laufey, acabe com isso agora.
+
+188
+00:25:24,570 --> 00:25:27,336
+O seu garoto procurou isso.
+
+189
+00:25:27,337 --> 00:25:28,937
+Tem razão.
+
+190
+00:25:29,858 --> 00:25:33,827
+E são atitudes de um garoto.
+Trate-as como tal.
+
+191
+00:25:33,828 --> 00:25:36,556
+Podemos terminar com isso
+aqui e agora.
+
+192
+00:25:36,557 --> 00:25:38,158
+Antes que haja uma carnificina.
+
+193
+00:25:38,159 --> 00:25:41,439
+Passamos da fase de diplomacia,
+Pai de Todos.
+
+194
+00:25:42,776 --> 00:25:44,574
+Ele terá o que veio buscar.
+
+195
+00:25:45,341 --> 00:25:47,016
+Guerra...
+
+196
+00:25:47,017 --> 00:25:48,617
+E morte.
+
+197
+00:25:49,507 --> 00:25:51,085
+Que assim seja.
+
+198
+00:26:13,495 --> 00:26:16,210
+<i>-Por que nos trouxe de volta?
+-Percebeu o que fez?
+
+199
+00:26:16,211 --> 00:26:17,715
+<i>Estava protegendo meu povo.
+
+200
+00:26:17,716 --> 00:26:20,907
+Não protege seus amigos,
+como espera proteger um reino?
+
+201
+00:26:20,908 --> 00:26:22,665
+Levem-no à sala de cura,
+agora.
+
+202
+00:26:22,666 --> 00:26:25,803
+Não haverá reino para proteger
+se tiver medo de agir.
+
+203
+00:26:26,986 --> 00:26:30,937
+Os Jotuns têm que me temer
+assim como temeram o senhor.
+
+204
+00:26:30,938 --> 00:26:33,558
+Isso é o orgulho falando,
+não liderança.
+
+205
+00:26:33,559 --> 00:26:36,367
+Esqueceu tudo o que ensinei,
+sobre ser paciente...
+
+206
+00:26:36,368 --> 00:26:39,992
+Enquanto espera e é paciente,
+os Nove Reinos riem de nós.
+
+207
+00:26:39,993 --> 00:26:41,346
+Seus métodos são antigos,
+
+208
+00:26:41,347 --> 00:26:44,224
+o senhor faz discursos
+enquanto Asgard cai.
+
+209
+00:26:44,225 --> 00:26:47,600
+Você é um garoto vaidoso,
+mesquinho e cruel!
+
+210
+00:26:47,601 --> 00:26:50,087
+E você é velho e tolo!
+
+211
+00:26:56,622 --> 00:27:00,133
+Sim, fui um tolo...
+
+212
+00:27:01,558 --> 00:27:03,174
+em achar que estava pronto.
+
+213
+00:27:03,175 --> 00:27:04,893
+Pai...
+
+214
+00:27:07,666 --> 00:27:10,451
+Thor Odinson...
+
+215
+00:27:12,205 --> 00:27:15,518
+Desobedeceu uma ordem
+direta do seu rei.
+
+216
+00:27:15,519 --> 00:27:19,762
+Com sua arrogância e estupidez,
+trouxe esse pacífico reino
+
+217
+00:27:19,763 --> 00:27:24,256
+e vidas inocentes
+ao horror e desolação da guerra!
+
+218
+00:27:30,112 --> 00:27:34,317
+Você não é digno destes reinos!
+
+219
+00:27:34,318 --> 00:27:36,989
+Não é digno do seu título!
+
+220
+00:27:36,990 --> 00:27:38,690
+Não é digno...
+
+221
+00:27:40,656 --> 00:27:44,983
+dos entes queridos
+que você traiu.
+
+222
+00:27:54,879 --> 00:27:58,430
+Agora tomo de você o seu poder.
+
+223
+00:27:58,431 --> 00:28:00,153
+No nome do meu pai.
+
+224
+00:28:01,256 --> 00:28:03,522
+E em nome do pai dele.
+
+225
+00:28:03,523 --> 00:28:06,718
+Eu, Odin, Pai de Todos,
+bano você.
+
+226
+00:28:12,497 --> 00:28:14,659
+Quem segurar esse martelo...
+
+227
+00:28:14,660 --> 00:28:17,851
+se for digno,
+possuirá o poder de Thor.
+
+228
+00:28:41,481 --> 00:28:43,328
+Legalmente foi culpa sua.
+
+229
+00:28:43,329 --> 00:28:45,083
+Pegue o kit
+de primeiros socorros.
+
+230
+00:28:45,084 --> 00:28:46,961
+Faça-me um favor
+e não esteja morto.
+
+231
+00:28:51,589 --> 00:28:54,623
+Ele precisa de respiração
+boca a boca? Sei fazer.
+
+232
+00:29:06,172 --> 00:29:08,142
+De onde ele veio?
+
+233
+00:29:11,549 --> 00:29:12,815
+Você está bem?
+
+234
+00:29:12,816 --> 00:29:15,013
+Martelo... Martelo!
+
+235
+00:29:15,014 --> 00:29:17,805
+Podemos ver que levou
+uma martelada. É bem óbvio.
+
+236
+00:29:17,806 --> 00:29:20,029
+Meu Deus, Erik, olhe isso.
+
+237
+00:29:20,030 --> 00:29:22,511
+Temos que registrá-los
+antes que mudem.
+
+238
+00:29:23,578 --> 00:29:25,684
+Jane, temos que levá-lo
+ao hospital.
+
+239
+00:29:25,685 --> 00:29:27,894
+-Pai!
+-Ele está bem, olhe para ele.
+
+240
+00:29:27,895 --> 00:29:31,746
+Heimdall! Sei que pode me ouvir!
+Abra a Bifrost!
+
+241
+00:29:31,747 --> 00:29:33,612
+Hospital.
+Você vai, eu fico.
+
+242
+00:29:33,613 --> 00:29:37,619
+Você. Que reino é esse?
+Alfheim, Nornheim?
+
+243
+00:29:37,620 --> 00:29:38,993
+Novo México?
+
+244
+00:29:38,994 --> 00:29:42,817
+Ousa ameaçar a mim, Thor,
+com essa arma insignificante...
+
+245
+00:29:46,271 --> 00:29:48,127
+O quê?
+Ele estava me assustando.
+
+246
+00:29:48,128 --> 00:29:50,447
+Da próxima vez
+que for eletrocutar alguém,
+
+247
+00:29:50,448 --> 00:29:52,799
+tenha certeza que ele
+já esteja no carro.
+
+248
+00:29:53,837 --> 00:29:56,010
+Jane, vamos.
+
+249
+00:30:12,921 --> 00:30:14,135
+Nome?
+
+250
+00:30:14,136 --> 00:30:16,622
+Ele disse que era... Thor.
+
+251
+00:30:16,623 --> 00:30:20,340
+T-H-O-R.
+
+252
+00:30:20,341 --> 00:30:23,013
+-O que você é dele?
+-Nunca o vi antes.
+
+253
+00:30:23,014 --> 00:30:25,998
+-Até ela o atropelar.
+-Foi de leve.
+
+254
+00:30:25,999 --> 00:30:28,372
+-Mas ela o eletrocutou.
+-É verdade.
+
+255
+00:30:30,374 --> 00:30:31,874
+Oi.
+
+256
+00:30:32,589 --> 00:30:34,154
+Vou tirar um pouco de sangue.
+
+257
+00:30:34,155 --> 00:30:36,406
+Como ousa atacar
+o Filho de Odin?
+
+258
+00:30:36,407 --> 00:30:37,950
+Preciso de ajuda.
+
+259
+00:30:38,891 --> 00:30:40,876
+Chame os seguranças.
+
+260
+00:30:40,877 --> 00:30:42,377
+Segurança, ele...
+
+261
+00:30:55,764 --> 00:30:57,797
+Vocês não são páreos
+para o poderoso...
+
+262
+00:31:43,448 --> 00:31:45,175
+PUENTO ANTIGUO
+LIMITES DA CIDADE
+
+263
+00:31:51,320 --> 00:31:54,561
+Não acha que foi apenas
+uma tempestade magnética, acha?
+
+264
+00:31:54,562 --> 00:31:59,364
+As margens são características
+da ponte de Einstein-Rosen...
+
+265
+00:31:59,365 --> 00:32:01,985
+-O quê?
+-Pensei que fosse cientista.
+
+266
+00:32:01,986 --> 00:32:04,653
+-Cientista política.
+-Foi a única inscrita.
+
+267
+00:32:04,654 --> 00:32:08,551
+A ponte de Einstein-Rosen é
+a conexão teórica entre espaços.
+
+268
+00:32:08,552 --> 00:32:11,953
+É um buraco de minhoca.
+Erik, olhe, o que você vê?
+
+269
+00:32:11,954 --> 00:32:14,717
+-Estrelas.
+-É, mas não as nossas estrelas.
+
+270
+00:32:14,718 --> 00:32:18,146
+Essas são as constelações
+do nosso quadrante nessa época,
+
+271
+00:32:18,147 --> 00:32:21,230
+e ou a Ursa Menor
+resolveu tirar uma folga,
+
+272
+00:32:21,231 --> 00:32:23,508
+ou essas constelações
+são de outro lugar.
+
+273
+00:32:23,509 --> 00:32:25,142
+Olhem isso aqui.
+
+274
+00:32:31,749 --> 00:32:33,349
+Não pode ser.
+
+275
+00:32:35,277 --> 00:32:37,110
+Acho que deixei algo
+no hospital.
+
+276
+00:32:52,118 --> 00:32:54,125
+Não é possível.
+
+277
+00:33:18,361 --> 00:33:19,908
+Meu Deus.
+
+278
+00:33:23,030 --> 00:33:25,242
+Perdi minha evidência
+mais importante.
+
+279
+00:33:25,243 --> 00:33:27,404
+-Típico.
+-E agora?
+
+280
+00:33:27,405 --> 00:33:29,947
+-Vamos encontrá-lo.
+-Viu o que ele fez lá?
+
+281
+00:33:29,948 --> 00:33:31,716
+Pode não ser uma boa ideia.
+
+282
+00:33:31,717 --> 00:33:35,880
+Ele pode nos dizer como foi
+estar dentro daquele fenômeno.
+
+283
+00:33:36,630 --> 00:33:37,958
+Tudo bem.
+
+284
+00:33:37,959 --> 00:33:40,201
+Vamos procurar
+por todo Novo México?
+
+285
+00:33:40,202 --> 00:33:41,702
+Exatamente.
+
+286
+00:33:45,507 --> 00:33:47,679
+O quê?
+
+287
+00:33:47,680 --> 00:33:50,647
+Sinto muito.
+Juro que não faço de propósito.
+
+288
+00:34:07,144 --> 00:34:08,644
+Deixe comigo.
+
+289
+00:34:17,923 --> 00:34:19,728
+Vamos, agora manda ver!
+
+290
+00:34:28,225 --> 00:34:29,725
+Funcionou?
+
+291
+00:34:49,976 --> 00:34:52,054
+Senhor, encontramos.
+
+292
+00:34:57,939 --> 00:35:02,169
+Para um sem-teto maluco,
+ele é bem sarado.
+
+293
+00:35:05,223 --> 00:35:07,023
+Desculpe por eletrocutá-lo.
+
+294
+00:35:09,460 --> 00:35:11,353
+Com licença.
+
+295
+00:35:18,383 --> 00:35:19,883
+O que é isso?
+
+296
+00:35:21,219 --> 00:35:22,832
+OI, MEU NOME É
+DR. DONALD BLAKE
+
+297
+00:35:22,833 --> 00:35:24,485
+Meu ex.
+
+298
+00:35:24,486 --> 00:35:27,745
+Bom com pacientes
+e ruim com relacionamentos.
+
+299
+00:35:29,175 --> 00:35:31,756
+-São as únicas que tinha.
+-Servirão.
+
+300
+00:35:32,729 --> 00:35:33,850
+De nada.
+
+301
+00:35:33,851 --> 00:35:37,496
+Essa forma mortal está fraca.
+Preciso de substância.
+
+302
+00:35:55,825 --> 00:35:57,581
+Não devíamos tê-lo deixado ir.
+
+303
+00:35:57,582 --> 00:35:59,188
+Não tinha como impedi-lo.
+
+304
+00:35:59,189 --> 00:36:01,283
+Ele só está banido,
+não morto.
+
+305
+00:36:01,284 --> 00:36:04,362
+Estaríamos mortos se o guarda
+não contasse a Odin aonde fomos.
+
+306
+00:36:11,092 --> 00:36:13,110
+Como o guarda soube?
+
+307
+00:36:13,111 --> 00:36:14,611
+Contei para ele.
+
+308
+00:36:15,680 --> 00:36:18,778
+Falei para ir até Odin
+após partimos.
+
+309
+00:36:18,779 --> 00:36:21,842
+Ele devia ser punido
+por ter demorado.
+
+310
+00:36:21,843 --> 00:36:24,272
+-Contou para o guarda?
+-Salvei nossas vidas.
+
+311
+00:36:25,222 --> 00:36:26,980
+E a do Thor.
+
+312
+00:36:26,981 --> 00:36:29,767
+Não tinha ideia de que o pai
+o baniria pelo que fez.
+
+313
+00:36:30,444 --> 00:36:34,998
+Loki, fale com o Pai de Todos
+e convença-o a mudar de ideia.
+
+314
+00:36:34,999 --> 00:36:36,634
+Se o convencer
+o que acontecerá?
+
+315
+00:36:37,430 --> 00:36:40,588
+Amo o Thor mais do que vocês,
+mas sabem como ele é.
+
+316
+00:36:40,589 --> 00:36:43,334
+Ele é arrogante,
+imprudente e perigoso.
+
+317
+00:36:43,335 --> 00:36:45,392
+Viram como ele estava hoje.
+
+318
+00:36:45,393 --> 00:36:47,522
+É o que Asgard
+precisa de seu rei?
+
+319
+00:36:51,376 --> 00:36:53,803
+Ele pode falar
+pelo bem de Asgard,
+
+320
+00:36:53,804 --> 00:36:55,995
+mas sempre teve
+ciúmes do Thor.
+
+321
+00:36:56,818 --> 00:36:59,109
+Devíamos ser gratos.
+Ele nos salvou.
+
+322
+00:36:59,110 --> 00:37:01,347
+Laufey disse...
+
+323
+00:37:01,348 --> 00:37:03,462
+que havia traidores
+na Casa de Odin.
+
+324
+00:37:04,201 --> 00:37:06,791
+Um mestre da magia
+poderia trazer
+
+325
+00:37:06,792 --> 00:37:08,292
+os Jotuns à Asgard.
+
+326
+00:37:10,193 --> 00:37:13,867
+Loki sempre foi de travessuras,
+mas isso passa dos limites.
+
+327
+00:37:33,871 --> 00:37:35,471
+Pare!
+
+328
+00:37:38,489 --> 00:37:41,276
+-Sou amaldiçoado?
+-Não.
+
+329
+00:37:45,784 --> 00:37:48,910
+-O que eu sou?
+-Você é meu filho.
+
+330
+00:37:58,824 --> 00:38:00,785
+E o que mais além disso?
+
+331
+00:38:05,030 --> 00:38:08,578
+Não levou apenas a Caixa
+de Jotunheim naquele dia, não é?
+
+332
+00:38:15,272 --> 00:38:16,772
+Não.
+
+333
+00:38:18,358 --> 00:38:22,340
+Após a batalha, entrei no templo
+e achei um bebê.
+
+334
+00:38:26,803 --> 00:38:30,058
+<i>Pequeno,
+para um descendente de gigante.
+
+335
+00:38:30,059 --> 00:38:33,194
+<i>Abandonado, sofrendo,
+deixado para morrer.
+
+336
+00:38:33,885 --> 00:38:35,385
+<i>Filho de Laufey.
+
+337
+00:38:37,076 --> 00:38:38,776
+Filho de Laufey?
+
+338
+00:38:42,039 --> 00:38:43,539
+Sim.
+
+339
+00:38:46,648 --> 00:38:47,955
+Por quê?
+
+340
+00:38:47,956 --> 00:38:51,486
+Estava banhado em sangue Jotun,
+por que me levar?
+
+341
+00:38:51,487 --> 00:38:53,041
+Você era uma criança inocente.
+
+342
+00:38:53,042 --> 00:38:57,374
+Não, pegou-me com um objetivo.
+Qual foi?
+
+343
+00:39:00,215 --> 00:39:01,842
+Diga-me!
+
+344
+00:39:03,847 --> 00:39:06,971
+Pensei que podíamos unir
+nossos reinos um dia.
+
+345
+00:39:06,972 --> 00:39:09,960
+Fazer uma aliança,
+a paz permanente,
+
+346
+00:39:09,961 --> 00:39:11,467
+através de você.
+
+347
+00:39:11,468 --> 00:39:12,968
+O quê?
+
+348
+00:39:13,381 --> 00:39:15,417
+Mas esses planos
+não interessam mais.
+
+349
+00:39:17,395 --> 00:39:20,754
+Não sou nada além
+de outra relíquia roubada...
+
+350
+00:39:20,755 --> 00:39:22,735
+preso aqui,
+até que decida me usar?
+
+351
+00:39:22,736 --> 00:39:24,647
+Está distorcendo
+minhas palavras.
+
+352
+00:39:24,648 --> 00:39:27,414
+Por que não me contou
+o que eu era desde o início?
+
+353
+00:39:27,415 --> 00:39:29,180
+Você é meu filho.
+
+354
+00:39:29,181 --> 00:39:32,028
+Só queria protegê-lo
+da verdade.
+
+355
+00:39:32,029 --> 00:39:34,250
+Por que sou o monstro
+
+356
+00:39:34,251 --> 00:39:36,772
+de quem os pais
+falam para os filhos à noite?
+
+357
+00:39:36,773 --> 00:39:38,735
+-Não, não.
+-Tudo faz sentido agora.
+
+358
+00:39:38,736 --> 00:39:41,315
+Porque favorecia o Thor
+todos esses anos.
+
+359
+00:39:41,316 --> 00:39:44,700
+Porque não importava o quanto
+você dizia me amar...
+
+360
+00:39:44,701 --> 00:39:47,893
+nunca teria um Gigante de Gelo
+no trono de Asgard.
+
+361
+00:40:06,685 --> 00:40:08,499
+Guardas!
+
+362
+00:40:08,500 --> 00:40:10,646
+Guardas, por favor, ajudem!
+
+363
+00:40:16,680 --> 00:40:18,606
+Como foi parar
+dentro daquela nuvem?
+
+364
+00:40:18,607 --> 00:40:22,641
+E como pode comer uma caixa
+de biscoito e estar com fome?
+
+365
+00:40:27,925 --> 00:40:29,504
+Essa bebida. Eu gostei.
+
+366
+00:40:29,505 --> 00:40:31,327
+-É ótima, não é?
+-Mais uma!
+
+367
+00:40:32,727 --> 00:40:35,015
+Desculpe, foi um acidente.
+
+368
+00:40:37,911 --> 00:40:40,044
+-O que foi isso?
+-Quero outra.
+
+369
+00:40:40,045 --> 00:40:42,060
+-Era só dizer.
+-Acabei de dizer.
+
+370
+00:40:42,061 --> 00:40:45,271
+-Podia pedir gentilmente.
+-Não quis desrespeitar.
+
+371
+00:40:45,272 --> 00:40:48,289
+Chega de quebrar.
+Combinado?
+
+372
+00:40:50,398 --> 00:40:51,898
+Tem a minha palavra.
+
+373
+00:40:52,519 --> 00:40:54,019
+Ótimo.
+
+374
+00:40:54,932 --> 00:40:56,671
+O de sempre,
+por favor, Izzy.
+
+375
+00:40:56,672 --> 00:40:59,683
+Perdeu toda a movimentação
+lá na cratera.
+
+376
+00:40:59,684 --> 00:41:02,589
+Dizem que um satélite
+aterrissou no deserto.
+
+377
+00:41:02,590 --> 00:41:06,663
+Estávamos nos divertindo
+até os federais aparecerem.
+
+378
+00:41:06,664 --> 00:41:08,915
+Disse que um satélite caiu?
+
+379
+00:41:08,916 --> 00:41:10,217
+Sim.
+
+380
+00:41:10,218 --> 00:41:12,755
+Meu Deus, essa vai
+para o Facebook. Sorria.
+
+381
+00:41:14,842 --> 00:41:17,240
+Como o satélite parecia?
+
+382
+00:41:17,241 --> 00:41:20,503
+Não sei muito sobre satélites,
+mas era pesado.
+
+383
+00:41:22,003 --> 00:41:24,408
+Ninguém conseguiu levantá-lo.
+
+384
+00:41:24,409 --> 00:41:27,557
+Disseram que era radioativo.
+Estava com as minhas mãos nele.
+
+385
+00:41:27,558 --> 00:41:29,058
+Onde?
+
+386
+00:41:30,473 --> 00:41:32,117
+Fica a 80km a oeste daqui.
+
+387
+00:41:33,120 --> 00:41:34,347
+Não perca seu tempo.
+
+388
+00:41:34,348 --> 00:41:35,997
+O exército estava chegando.
+
+389
+00:41:40,681 --> 00:41:42,381
+Imbecil!
+
+390
+00:41:43,344 --> 00:41:44,712
+Aonde está indo?
+
+391
+00:41:44,713 --> 00:41:46,901
+-80km a oeste daqui.
+-Por quê?
+
+392
+00:41:46,902 --> 00:41:49,976
+-Para pegar o que me pertence.
+-Agora você possui um satélite?
+
+393
+00:41:49,977 --> 00:41:51,357
+Não é o que dizem.
+
+394
+00:41:51,358 --> 00:41:53,566
+Seja o que for,
+o governo acha que é dele,
+
+395
+00:41:53,567 --> 00:41:55,794
+pretende ir lá e pegar?
+
+396
+00:41:55,795 --> 00:41:57,348
+Sim.
+
+397
+00:41:57,965 --> 00:42:00,998
+Se me levar, contarei tudo
+o que deseja saber.
+
+398
+00:42:00,999 --> 00:42:02,464
+-Tudo?
+-Sim.
+
+399
+00:42:02,465 --> 00:42:05,411
+Terá suas respostas
+quando eu recuperar Mjölnir.
+
+400
+00:42:05,412 --> 00:42:07,235
+Miomie, o que é Miomie?
+
+401
+00:42:07,236 --> 00:42:08,736
+Podemos conversar, Jane?
+
+402
+00:42:12,790 --> 00:42:14,982
+Por favor, não faça isso.
+
+403
+00:42:14,983 --> 00:42:16,747
+Viu o que eu vi,
+noite passada.
+
+404
+00:42:16,748 --> 00:42:19,032
+Preciso descobrir
+o que há na cratera.
+
+405
+00:42:19,033 --> 00:42:20,928
+Estou falando dele.
+
+406
+00:42:20,929 --> 00:42:22,477
+Ele prometeu respostas.
+
+407
+00:42:22,478 --> 00:42:24,806
+Ele está delirando,
+ouça o que ele diz.
+
+408
+00:42:24,807 --> 00:42:27,875
+Ele está falando de Mjölnir,
+Thor e Bifrost.
+
+409
+00:42:28,692 --> 00:42:30,979
+Ouvia essas histórias
+quando era criança.
+
+410
+00:42:30,980 --> 00:42:34,036
+Só vou levá-lo.
+Só isso.
+
+411
+00:42:34,037 --> 00:42:35,737
+Ele é perigoso, Jane.
+
+412
+00:42:41,583 --> 00:42:44,405
+Desculpe,
+mas não posso levá-lo.
+
+413
+00:42:44,406 --> 00:42:46,263
+Então nos despedimos aqui.
+
+414
+00:42:55,869 --> 00:42:57,369
+Obrigada?
+
+415
+00:42:58,125 --> 00:42:59,996
+Jane Foster...
+
+416
+00:42:59,997 --> 00:43:03,106
+Erik Selvig, Darcy...
+
+417
+00:43:03,107 --> 00:43:04,607
+Adeus.
+
+418
+00:43:07,920 --> 00:43:09,955
+Tudo bem.
+
+419
+00:43:09,956 --> 00:43:11,456
+De volta ao trabalho.
+
+420
+00:43:30,853 --> 00:43:32,390
+Essas coisas são minhas!
+
+421
+00:43:36,924 --> 00:43:38,525
+O que está acontecendo?
+
+422
+00:43:38,526 --> 00:43:40,414
+Sou o Agente Coulson
+da SHIELD.
+
+423
+00:43:40,415 --> 00:43:43,375
+Isso deve significar algo?
+Não pode fazer isso.
+
+424
+00:43:43,376 --> 00:43:46,499
+Jane, isso é mais sério
+do que imagina, deixa pra lá.
+
+425
+00:43:46,500 --> 00:43:48,768
+Deixar pra lá?
+Isso é minha vida!
+
+426
+00:43:48,769 --> 00:43:50,625
+Há uma ameaça de segurança.
+
+427
+00:43:50,626 --> 00:43:53,042
+Vamos nos apropriar
+dos seus dados.
+
+428
+00:43:53,043 --> 00:43:55,915
+Apropriar quer dizer roubar?
+
+429
+00:43:55,916 --> 00:43:58,358
+Aqui. Isto deve compensar
+esse infortúnio.
+
+430
+00:43:58,359 --> 00:44:01,210
+Isso não tem reposição
+na Radio Shack.
+
+431
+00:44:01,211 --> 00:44:03,015
+Fiz quase todo
+esse equipamento.
+
+432
+00:44:03,016 --> 00:44:04,281
+Então pode fazer de novo.
+
+433
+00:44:04,282 --> 00:44:07,353
+Posso processá-lo por violar
+meu direitos constitucionais.
+
+434
+00:44:07,354 --> 00:44:08,770
+Desculpe, senhorita Foster.
+
+435
+00:44:08,771 --> 00:44:10,799
+-Mas somos os mocinhos.
+-Nós também!
+
+436
+00:44:11,761 --> 00:44:15,350
+Estou prestes a compreender
+algo extraordinário.
+
+437
+00:44:15,351 --> 00:44:18,976
+Tudo sobre esse fenômeno está
+no laboratório e nesse caderno.
+
+438
+00:44:18,977 --> 00:44:20,496
+Não pode simplesmente...
+
+439
+00:44:22,567 --> 00:44:24,267
+Calma!
+
+440
+00:44:27,223 --> 00:44:28,840
+Obrigado pela cooperação.
+
+441
+00:44:42,808 --> 00:44:46,021
+Anos de pesquisa... perdidos.
+
+442
+00:44:46,022 --> 00:44:47,922
+Levaram até o meu iPod.
+
+443
+00:44:48,564 --> 00:44:51,472
+-E os backups?
+-Eles levaram os backups.
+
+444
+00:44:51,473 --> 00:44:53,718
+Levaram os backups
+dos backups.
+
+445
+00:44:53,719 --> 00:44:55,202
+Foram meticulosos.
+
+446
+00:44:55,203 --> 00:44:57,234
+Tinha acabado de baixar
+30 músicas.
+
+447
+00:44:57,235 --> 00:44:59,313
+Poderia parar de falar
+no seu iPod?
+
+448
+00:45:00,422 --> 00:45:02,280
+Quem são essas pessoas?
+
+449
+00:45:03,928 --> 00:45:08,661
+Eu conhecia um cientista.
+Um pioneiro em radiação gama.
+
+450
+00:45:08,662 --> 00:45:10,590
+A SHIELD apareceu e...
+
+451
+00:45:11,993 --> 00:45:14,443
+não se ouviu falar
+mais dele.
+
+452
+00:45:14,444 --> 00:45:17,887
+Não vão fazer isso com a gente.
+Recuperarei tudo.
+
+453
+00:45:17,888 --> 00:45:23,081
+Vou contatar um colega
+que já trabalhou com eles.
+
+454
+00:45:23,082 --> 00:45:26,220
+Mandarei um e-mail.
+Talvez ele possa ajudar.
+
+455
+00:45:26,221 --> 00:45:27,921
+Eles levaram seu laptop.
+
+456
+00:45:36,237 --> 00:45:39,523
+Pai de Todos, temos que falar
+com o senhor, urgentemente.
+
+457
+00:45:51,326 --> 00:45:54,010
+Meus amigos.
+
+458
+00:45:54,011 --> 00:45:55,315
+Onde está Odin?
+
+459
+00:45:55,316 --> 00:45:58,434
+O pai caiu no sono de Odin.
+
+460
+00:45:59,841 --> 00:46:02,866
+A mãe teme que ele
+nunca mais acorde.
+
+461
+00:46:02,867 --> 00:46:04,240
+Queremos falar com ela.
+
+462
+00:46:04,241 --> 00:46:07,083
+Ela se recusa a deixar
+a cabeceira de meu pai.
+
+463
+00:46:09,201 --> 00:46:11,915
+Podem trazer as questões
+de urgências a mim.
+
+464
+00:46:19,071 --> 00:46:20,671
+Seu rei.
+
+465
+00:46:31,133 --> 00:46:34,115
+Meu rei, gostaríamos
+que acabasse
+
+466
+00:46:34,116 --> 00:46:35,764
+com o banimento de Thor.
+
+467
+00:46:39,948 --> 00:46:41,241
+Meu primeiro comando
+
+468
+00:46:41,242 --> 00:46:43,687
+não pode desfazer
+o último do Pai de Todos.
+
+469
+00:46:45,667 --> 00:46:48,105
+Estamos à beira de uma guerra
+com Jotunheim.
+
+470
+00:46:49,443 --> 00:46:52,054
+Nosso povo precisa
+perceber a continuidade.
+
+471
+00:46:52,055 --> 00:46:54,719
+Para sentirem-se seguros
+nesses tempos difíceis.
+
+472
+00:46:56,018 --> 00:46:58,595
+Temos que nos manter unidos...
+
+473
+00:46:58,596 --> 00:47:00,302
+pelo bem de Asgard.
+
+474
+00:47:02,291 --> 00:47:04,270
+Sim, claro.
+
+475
+00:47:04,271 --> 00:47:06,497
+Então obedeçam minha ordem.
+
+476
+00:47:06,498 --> 00:47:08,194
+Se permite-me...
+
+477
+00:47:08,195 --> 00:47:11,824
+implorar a bondade
+de sua majestade,
+
+478
+00:47:11,825 --> 00:47:13,406
+para talvez reconsiderar...
+
+479
+00:47:13,407 --> 00:47:14,907
+Terminamos por aqui.
+
+480
+00:48:15,611 --> 00:48:17,211
+Preciso de um cavalo.
+
+481
+00:48:18,848 --> 00:48:22,154
+Não temos cavalos.
+Só cachorros, gatos, pássaros...
+
+482
+00:48:22,155 --> 00:48:24,226
+Dê-me um grande suficiente
+para montar.
+
+483
+00:48:25,258 --> 00:48:26,960
+Ainda precisa de carona?
+
+484
+00:48:31,155 --> 00:48:33,257
+Nunca fiz nada assim antes.
+
+485
+00:48:35,131 --> 00:48:37,769
+Já fez algo assim antes?
+
+486
+00:48:38,381 --> 00:48:40,533
+Muitas vezes.
+
+487
+00:48:40,534 --> 00:48:42,195
+Mas é corajosa em fazer.
+
+488
+00:48:42,196 --> 00:48:44,644
+Roubaram o trabalho
+da minha vida toda.
+
+489
+00:48:44,645 --> 00:48:46,345
+E não tenho muito a perder.
+
+490
+00:48:47,873 --> 00:48:50,051
+-Mas você é inteligente.
+-Obrigada.
+
+491
+00:48:50,052 --> 00:48:52,144
+Mais do que qualquer um
+nesse reino.
+
+492
+00:48:52,791 --> 00:48:55,578
+Reino?
+
+493
+00:48:55,579 --> 00:48:58,138
+-Acha que sou estranho?
+-Sim, eu acho.
+
+494
+00:48:58,856 --> 00:49:01,309
+Estranho bom ou ruim?
+
+495
+00:49:01,310 --> 00:49:02,810
+Não tenho certeza ainda.
+
+496
+00:49:07,801 --> 00:49:09,905
+Desculpe.
+
+497
+00:49:14,394 --> 00:49:15,994
+Mas quem é você?
+
+498
+00:49:17,633 --> 00:49:19,133
+De verdade.
+
+499
+00:49:21,314 --> 00:49:25,120
+-Em breve você verá.
+-Você me prometeu respostas.
+
+500
+00:49:28,291 --> 00:49:32,438
+-O que você procura é uma ponte.
+-Como a ponte de Einstein-Rosen?
+
+501
+00:49:32,439 --> 00:49:34,458
+Como uma Ponte do Arco-íris.
+
+502
+00:49:36,902 --> 00:49:38,602
+Espero que não seja louco.
+
+503
+00:49:48,497 --> 00:49:50,761
+Não me acostumo a vê-lo assim.
+
+504
+00:49:51,531 --> 00:49:55,328
+Temo que ele está assim
+por muito tempo.
+
+505
+00:49:57,676 --> 00:49:59,276
+Quanto tempo durará?
+
+506
+00:49:59,923 --> 00:50:02,771
+Não sei.
+Desta vez é diferente.
+
+507
+00:50:02,772 --> 00:50:04,472
+Estávamos despreparados.
+
+508
+00:50:06,162 --> 00:50:07,662
+Por que ele mentiu?
+
+509
+00:50:08,562 --> 00:50:10,903
+Ele escondeu a verdade
+para que você
+
+510
+00:50:10,904 --> 00:50:12,696
+nunca se sentisse diferente.
+
+511
+00:50:12,697 --> 00:50:17,016
+Você é nosso filho, Loki.
+E somos a sua família.
+
+512
+00:50:19,133 --> 00:50:23,262
+Não devemos perder as esperanças
+de que seu pai retornará.
+
+513
+00:50:24,094 --> 00:50:25,594
+E seu irmão.
+
+514
+00:50:26,991 --> 00:50:29,082
+Há esperança para Thor?
+
+515
+00:50:29,083 --> 00:50:32,693
+Há sempre um propósito
+para tudo o que seu pai faz.
+
+516
+00:51:03,701 --> 00:51:05,782
+Não caiu um satélite.
+
+517
+00:51:05,783 --> 00:51:08,627
+Teriam levado os pedaços,
+não montado um circo.
+
+518
+00:51:09,527 --> 00:51:13,433
+-Precisará disso.
+-O quê? Espera, por quê?
+
+519
+00:51:16,091 --> 00:51:17,747
+Fique aqui.
+
+520
+00:51:17,748 --> 00:51:21,547
+Após reaver Mjölnir,
+pegarei o que roubaram de você.
+
+521
+00:51:21,548 --> 00:51:22,607
+Combinado?
+
+522
+00:51:22,608 --> 00:51:26,481
+Não. Olhe como está lá.
+Acha que vai entrar,
+
+523
+00:51:26,482 --> 00:51:28,328
+pegar nossas coisas
+e sair andando?
+
+524
+00:51:28,329 --> 00:51:30,004
+Não. Sairei voando.
+
+525
+00:51:37,486 --> 00:51:40,418
+O sinal do satélite
+mal atravessa as nuvens.
+
+526
+00:51:40,419 --> 00:51:43,841
+Essa coisa está causando
+interferência nos equipamentos.
+
+527
+00:51:44,443 --> 00:51:46,859
+E tem uma aeronave comercial
+sobre nós.
+
+528
+00:51:46,860 --> 00:51:49,716
+Southeast Airlines, voo 5434.
+
+529
+00:51:49,717 --> 00:51:51,378
+Mude a rota, como das outras.
+
+530
+00:51:52,094 --> 00:51:54,706
+Espere um pouco.
+Tem algo na cerca.
+
+531
+00:51:54,707 --> 00:51:55,991
+Lado oeste.
+
+532
+00:51:55,992 --> 00:51:58,915
+<i>Delancey, Jackson,
+verifiquem o perímetro oeste.
+
+533
+00:52:11,287 --> 00:52:12,887
+Delancey, Jackson, reportem.
+
+534
+00:52:20,774 --> 00:52:23,315
+Agente atingido.
+Temos uma brecha no perímetro.
+
+535
+00:52:35,450 --> 00:52:39,950
+<i>Telefone do Dr. Erik Selvig.
+Por favor, deixe seu recado.
+
+536
+00:52:39,951 --> 00:52:42,581
+Oi, Erik. Sou eu.
+Não se preocupe, estou bem.
+
+537
+00:52:43,351 --> 00:52:47,847
+Se eu não der notícias em 1h,
+me procure na cratera.
+
+538
+00:52:47,848 --> 00:52:51,222
+Fiz o que mandou eu não fazer.
+Desculpe.
+
+539
+00:52:51,223 --> 00:52:52,723
+Sinto muito.
+Tchau.
+
+540
+00:52:56,495 --> 00:52:58,195
+Quadrante Bravo, andem!
+
+541
+00:53:10,788 --> 00:53:12,597
+<i>Ele está entrando
+no túnel sul!
+
+542
+00:53:13,916 --> 00:53:15,961
+<i>Negativo. Sem comunicação.
+
+543
+00:53:29,122 --> 00:53:31,040
+<i>Alvo avistado, túnel leste!
+
+544
+00:53:31,041 --> 00:53:33,134
+Preciso de um vigia armado.
+
+545
+00:53:57,070 --> 00:53:58,570
+Movendo-se para o norte.
+
+546
+00:54:05,867 --> 00:54:07,169
+O que temos?
+
+547
+00:54:07,170 --> 00:54:09,513
+Uma onda eletromagnética
+colossal emana disto.
+
+548
+00:54:09,514 --> 00:54:11,416
+Sistemas inoperantes.
+
+549
+00:54:11,417 --> 00:54:13,104
+Barton, fale comigo.
+
+550
+00:54:14,285 --> 00:54:16,385
+Quer que eu o detenha, senhor?
+
+551
+00:54:17,215 --> 00:54:19,802
+Ou enviará mais homens
+para ele derrubar?
+
+552
+00:54:19,803 --> 00:54:21,303
+Eu o avisarei.
+
+553
+00:54:35,145 --> 00:54:36,745
+Você é grande.
+
+554
+00:54:37,497 --> 00:54:39,263
+Mas já lutei com maiores.
+
+555
+00:55:21,457 --> 00:55:23,281
+É melhor se decidir.
+
+556
+00:55:23,282 --> 00:55:25,265
+Estou começando
+a torcer por ele.
+
+557
+00:55:45,277 --> 00:55:48,081
+-Última chance, senhor.
+-Espere, quero ver isso.
+
+558
+00:56:53,947 --> 00:56:56,654
+Certo, o show acabou.
+Unidades, avançar.
+
+559
+00:57:47,882 --> 00:57:49,838
+<i>Ele cometeu um crime.
+Está preso.
+
+560
+00:57:49,839 --> 00:57:52,092
+<i>-Não posso deixá-lo lá.
+-Por quê?
+
+561
+00:57:52,093 --> 00:57:54,099
+Você não viu o que eu vi.
+
+562
+00:57:54,100 --> 00:57:56,367
+Olha, é a Mjölnir.
+
+563
+00:58:00,410 --> 00:58:02,930
+-Onde achou isso?
+-Na seção infantil.
+
+564
+00:58:02,931 --> 00:58:05,104
+Era para mostrar
+como a história dele é tola.
+
+565
+00:58:05,105 --> 00:58:09,380
+Você que sempre me incentivou
+a investigar tudo que eu puder.
+
+566
+00:58:09,381 --> 00:58:11,371
+Estou falando de ciência,
+não de magia.
+
+567
+00:58:11,372 --> 00:58:15,009
+"Magia é a ciência que ainda não
+entendemos", Arthur C. Clarke.
+
+568
+00:58:15,010 --> 00:58:16,635
+Escritor de ficção científica.
+
+569
+00:58:16,636 --> 00:58:19,236
+-Precursora do fato científico.
+-Em alguns casos.
+
+570
+00:58:19,237 --> 00:58:20,921
+Se existe ponte
+de Einstein-Rosen,
+
+571
+00:58:20,922 --> 00:58:24,001
+há algo do outro lado e seres
+avançados podem ter atravessado.
+
+572
+00:58:24,002 --> 00:58:25,318
+Jane.
+
+573
+00:58:25,319 --> 00:58:28,360
+Uma cultura como a dos Vikings
+pode tê-los adorado como deuses.
+
+574
+00:58:28,361 --> 00:58:30,445
+Isso, exatamente, obrigada.
+
+575
+00:58:37,183 --> 00:58:40,914
+Você deixou meus homens,
+os mais bem treinados do mundo,
+
+576
+00:58:40,915 --> 00:58:43,778
+com cara de paspalhos.
+
+577
+00:58:45,270 --> 00:58:46,770
+Isso magoa.
+
+578
+00:58:47,394 --> 00:58:50,901
+Em minha experiência,
+é preciso treinamento igual
+
+579
+00:58:50,902 --> 00:58:52,764
+para fazer o que
+você fez com eles.
+
+580
+00:58:53,642 --> 00:58:56,080
+Por que não me diz
+onde foi treinado?
+
+581
+00:58:56,081 --> 00:58:58,441
+No Paquistão?
+Chechênia?
+
+582
+00:58:58,442 --> 00:59:00,046
+Afeganistão?
+
+583
+00:59:01,067 --> 00:59:03,872
+Não, você parece mais
+um mercenário.
+
+584
+00:59:04,841 --> 00:59:07,792
+Onde foi?
+África do Sul?
+
+585
+00:59:08,882 --> 00:59:12,866
+Certos grupos pagam muito bem
+para mercenários como você.
+
+586
+00:59:14,897 --> 00:59:16,614
+Quem é você?
+
+587
+00:59:20,771 --> 00:59:23,630
+Cedo ou tarde,
+acharemos as respostas.
+
+588
+00:59:23,631 --> 00:59:25,131
+Somos bons nisso.
+
+589
+00:59:30,416 --> 00:59:32,109
+Não saia daqui.
+
+590
+00:59:37,777 --> 00:59:40,596
+Loki?
+O que faz aqui?
+
+591
+00:59:40,597 --> 00:59:42,420
+Tinha que vê-lo.
+
+592
+00:59:43,433 --> 00:59:45,252
+O que está acontecendo?
+
+593
+00:59:45,253 --> 00:59:47,397
+Ele está em Jotunheim?
+
+594
+00:59:47,398 --> 00:59:50,462
+-Deixe-me explicar ao nosso pai.
+-O pai está morto.
+
+595
+00:59:56,170 --> 00:59:57,748
+O quê?
+
+596
+00:59:59,245 --> 01:00:00,745
+O seu banimento.
+
+597
+01:00:02,016 --> 01:00:04,281
+A ameaça de uma nova guerra.
+
+598
+01:00:05,204 --> 01:00:06,921
+Foi demais para ele suportar.
+
+599
+01:00:09,523 --> 01:00:11,226
+Mas não deve se culpar.
+
+600
+01:00:12,119 --> 01:00:14,463
+Sei que o amava.
+
+601
+01:00:14,464 --> 01:00:16,721
+Tentei contar a ele,
+mas ele não quis escutar.
+
+602
+01:00:19,617 --> 01:00:21,556
+É cruel colocar o martelo
+ao seu alcance
+
+603
+01:00:21,557 --> 01:00:23,542
+sabendo que não
+conseguiria levantá-lo.
+
+604
+01:00:26,849 --> 01:00:29,361
+E o seu trono agora é meu.
+
+605
+01:00:35,398 --> 01:00:38,005
+Posso voltar para casa?
+
+606
+01:00:38,006 --> 01:00:41,535
+A trégua com Jotunheim
+depende do seu exílio.
+
+607
+01:00:41,536 --> 01:00:43,458
+Sim, mas podemos
+achar um jeito...
+
+608
+01:00:43,459 --> 01:00:47,332
+A nossa mãe
+proibiu o seu retorno.
+
+609
+01:00:49,825 --> 01:00:51,517
+Isso é um adeus, irmão.
+
+610
+01:00:53,703 --> 01:00:55,203
+Eu sinto muito.
+
+611
+01:01:00,841 --> 01:01:02,341
+Não.
+
+612
+01:01:03,644 --> 01:01:05,706
+Eu que sinto.
+
+613
+01:01:10,357 --> 01:01:12,539
+Obrigado por ter vindo.
+
+614
+01:01:16,563 --> 01:01:18,151
+Adeus.
+
+615
+01:01:30,120 --> 01:01:32,303
+Adeus.
+
+616
+01:01:32,304 --> 01:01:35,603
+Adeus?
+Acabei de voltar.
+
+617
+01:02:09,995 --> 01:02:12,013
+Senhor?
+
+618
+01:02:12,014 --> 01:02:13,621
+Ele tem visita.
+
+619
+01:02:18,442 --> 01:02:20,545
+O nome dele é Donald Blake?
+
+620
+01:02:20,546 --> 01:02:22,115
+Doutor Donald Blake.
+
+621
+01:02:22,116 --> 01:02:24,244
+Você tem colegas perigosos,
+Doutor Selvig.
+
+622
+01:02:24,245 --> 01:02:27,962
+Ele ficou perturbado quando
+soube que levaram a pesquisa.
+
+623
+01:02:28,570 --> 01:02:31,130
+Foram anos de sua vida,
+perdidos.
+
+624
+01:02:32,710 --> 01:02:35,211
+Dá para entender
+porque reagiria desse jeito.
+
+625
+01:02:35,212 --> 01:02:37,258
+Uma grande organização
+anônima como a sua
+
+626
+01:02:37,259 --> 01:02:39,408
+chega com seus brutamontes e...
+
+627
+01:02:41,137 --> 01:02:42,745
+Ele descreveu assim.
+
+628
+01:02:42,746 --> 01:02:45,961
+Ainda não explica como ele
+driblou nossa segurança.
+
+629
+01:02:45,962 --> 01:02:47,625
+Anabolizantes.
+
+630
+01:02:47,626 --> 01:02:49,545
+Ele é viciado em academia.
+
+631
+01:02:50,586 --> 01:02:51,789
+Senhor?
+
+632
+01:02:51,790 --> 01:02:55,168
+ALERTA DE SEGURANÇA:
+DADOS FALSIFICADOS
+
+633
+01:02:56,309 --> 01:02:59,146
+-Aqui diz que ele é médico.
+-Mas ele é.
+
+634
+01:02:59,147 --> 01:03:02,886
+Ou era, mudou de carreira
+para virar físico.
+
+635
+01:03:02,887 --> 01:03:05,646
+Um físico brilhante.
+É um homem maravilhoso.
+
+636
+01:03:05,647 --> 01:03:07,147
+É que ele está sofrendo.
+
+637
+01:03:09,114 --> 01:03:11,909
+Donnie, Donnie.
+
+638
+01:03:11,910 --> 01:03:13,654
+Aí está você.
+
+639
+01:03:13,655 --> 01:03:15,947
+Vai ficar tudo bem.
+Vou levá-lo para casa.
+
+640
+01:03:30,074 --> 01:03:31,663
+Doutor Selvig?
+
+641
+01:03:32,606 --> 01:03:35,255
+Mantenha ele longe dos bares.
+
+642
+01:03:35,256 --> 01:03:37,197
+Pode deixar.
+
+643
+01:03:38,389 --> 01:03:41,358
+-Aonde vamos?
+-Beber.
+
+644
+01:03:41,359 --> 01:03:42,975
+Sigam eles.
+
+645
+01:03:49,055 --> 01:03:50,999
+Eu entendi tudo ao contrário.
+
+646
+01:03:52,866 --> 01:03:54,642
+Entendi tudo errado.
+
+647
+01:03:57,600 --> 01:04:01,311
+Não é ruim descobrir que
+não temos todas as respostas.
+
+648
+01:04:01,312 --> 01:04:04,293
+Tem que fazer
+as perguntas certas.
+
+649
+01:04:07,108 --> 01:04:11,064
+Pela primeira vez
+na minha vida...
+
+650
+01:04:11,065 --> 01:04:15,621
+não faço ideia
+do que devo fazer.
+
+651
+01:04:16,430 --> 01:04:19,233
+Qualquer um que queira achar
+seu caminho neste mundo
+
+652
+01:04:19,234 --> 01:04:22,369
+deve admitir que não faz
+ideia de onde está.
+
+653
+01:04:24,221 --> 01:04:27,396
+-Obrigado pelo que fez.
+-Não me agradeça.
+
+654
+01:04:27,397 --> 01:04:29,633
+Só fiz isso pela Jane.
+
+655
+01:04:29,634 --> 01:04:32,437
+O pai dela e eu demos aula
+na mesma universidade.
+
+656
+01:04:32,438 --> 01:04:34,480
+Era um bom homem.
+
+657
+01:04:34,481 --> 01:04:36,882
+Não ouvia ninguém.
+
+658
+01:04:36,883 --> 01:04:39,661
+Então era como eu.
+
+659
+01:04:39,662 --> 01:04:43,461
+Meu pai tentou me ensinar algo
+mas fui burro demais para ver.
+
+660
+01:04:44,654 --> 01:04:48,613
+Eu não sei se você está
+delirando ou dando um golpe...
+
+661
+01:04:48,614 --> 01:04:50,184
+E nem me importo.
+
+662
+01:04:50,185 --> 01:04:52,957
+Só me importo com ela.
+
+663
+01:04:52,958 --> 01:04:55,023
+Vi como ela olha você.
+
+664
+01:04:58,264 --> 01:05:01,124
+Eu juro,
+não farei mal algum a ela.
+
+665
+01:05:01,125 --> 01:05:04,325
+Que bom, sendo assim
+pago outra rodada.
+
+666
+01:05:05,136 --> 01:05:07,219
+E depois,
+sairá da cidade.
+
+667
+01:05:11,702 --> 01:05:13,202
+Dois chopps com uísque.
+
+668
+01:06:05,830 --> 01:06:08,184
+Depois de tudo o que fiz
+por você.
+
+669
+01:06:10,306 --> 01:06:15,031
+Então você que nos mostrou
+como entrar em Asgard.
+
+670
+01:06:15,032 --> 01:06:16,691
+Isso foi só por diversão.
+
+671
+01:06:18,160 --> 01:06:21,225
+Para arruinar o grande dia
+do meu irmão.
+
+672
+01:06:21,955 --> 01:06:24,493
+E proteger o reino
+das suas atitudes idiotas
+
+673
+01:06:24,494 --> 01:06:26,197
+por um certo tempo.
+
+674
+01:06:26,904 --> 01:06:29,076
+Eu o ouvirei.
+
+675
+01:06:32,304 --> 01:06:34,030
+E eu lhe ocultarei.
+
+676
+01:06:34,031 --> 01:06:39,323
+E com a ajuda de seus soldados,
+o levarei aos aposentos de Odin
+
+677
+01:06:39,324 --> 01:06:42,207
+onde poderá matá-lo
+em seu próprio leito.
+
+678
+01:06:42,208 --> 01:06:44,352
+Por que você não o mata?
+
+679
+01:06:45,963 --> 01:06:49,272
+Suspeito que o povo de Asgard
+não seria gentil com o rei
+
+680
+01:06:49,273 --> 01:06:51,974
+que assassinou seu antecessor.
+
+681
+01:06:51,975 --> 01:06:54,922
+Assim que estiver morto,
+lhe devolverei a caixa.
+
+682
+01:06:56,822 --> 01:06:59,864
+E você poderia devolver
+a Jotunheim toda sua...
+
+683
+01:07:02,333 --> 01:07:03,833
+Glória.
+
+684
+01:07:04,946 --> 01:07:09,650
+Eu aceito.
+
+685
+01:07:15,288 --> 01:07:16,959
+Algum problema,
+guardião da ponte?
+
+686
+01:07:16,960 --> 01:07:21,417
+Tentei ver o que fazia
+em Jotunheim mas não pude.
+
+687
+01:07:22,161 --> 01:07:25,821
+Ocultou-se de mim,
+como os Gigantes quando vieram.
+
+688
+01:07:25,822 --> 01:07:29,235
+Talvez seus sentidos não estejam
+tão apurados depois desses anos.
+
+689
+01:07:29,236 --> 01:07:32,111
+Ou, talvez, alguém tenha
+achado um jeito de esconder
+
+690
+01:07:32,112 --> 01:07:33,999
+aquilo que não deseja
+que eu veja.
+
+691
+01:07:34,875 --> 01:07:37,452
+Você tem grandes poderes,
+Heimdall.
+
+692
+01:07:39,573 --> 01:07:41,525
+Odin já o temeu?
+
+693
+01:07:43,141 --> 01:07:44,672
+-Não.
+-E por que isso?
+
+694
+01:07:44,673 --> 01:07:48,363
+Porque ele é meu rei.
+E jurei obedecê-lo.
+
+695
+01:07:48,364 --> 01:07:52,328
+Ele era seu rei. E deve jurar
+me obedecer agora.
+
+696
+01:07:53,067 --> 01:07:54,567
+Não é?
+
+697
+01:07:58,995 --> 01:08:00,495
+Sim.
+
+698
+01:08:01,073 --> 01:08:03,628
+Então não deixará
+ninguém cruzar a Bifrost,
+
+699
+01:08:03,629 --> 01:08:06,871
+até eu reparar
+os danos que meu irmão fez.
+
+700
+01:08:20,227 --> 01:08:21,549
+Meu Deus.
+
+701
+01:08:21,550 --> 01:08:24,912
+-Ele está bem?
+-Está. Não está ferido.
+
+702
+01:08:25,981 --> 01:08:28,037
+-Desculpe, amigo.
+-O que houve?
+
+703
+01:08:28,038 --> 01:08:31,041
+Bebemos, brigamos,
+ele deu orgulho aos ancestrais.
+
+704
+01:08:31,042 --> 01:08:32,542
+Coloque-o na cama.
+
+705
+01:08:43,179 --> 01:08:46,835
+Ainda não acho que você é
+o Deus do Trovão.
+
+706
+01:08:47,695 --> 01:08:49,877
+Mas você deve ser.
+
+707
+01:09:00,618 --> 01:09:02,657
+Esses são seus aposentos?
+
+708
+01:09:02,658 --> 01:09:05,729
+Está mais para uma
+situação temporária.
+
+709
+01:09:06,446 --> 01:09:10,205
+Desculpe. Não costumo
+receber convidados.
+
+710
+01:09:10,206 --> 01:09:13,805
+Na verdade, nunca recebo.
+
+711
+01:09:15,691 --> 01:09:17,771
+Está guardado errado.
+
+712
+01:09:19,163 --> 01:09:21,231
+Desculpe.
+
+713
+01:09:23,393 --> 01:09:26,870
+-Podemos ficar lá fora?
+-Sim, claro.
+
+714
+01:09:31,670 --> 01:09:34,626
+Venho aqui
+quando não consigo dormir,
+
+715
+01:09:34,627 --> 01:09:36,688
+quando tento
+reconciliar partículas,
+
+716
+01:09:36,689 --> 01:09:38,422
+ou quando a Darcy me inferniza.
+
+717
+01:09:38,423 --> 01:09:42,461
+Venho bastante aqui,
+agora que parei para pensar.
+
+718
+01:09:46,181 --> 01:09:48,137
+Estou feliz que esteja a salvo.
+
+719
+01:09:49,015 --> 01:09:52,046
+Você tem sido
+muito gentil comigo,
+
+720
+01:09:52,047 --> 01:09:54,468
+e eu não fui tão grato
+quanto merece.
+
+721
+01:09:54,469 --> 01:09:57,893
+Atropelei você algumas vezes
+acho que estamos quites.
+
+722
+01:10:00,405 --> 01:10:02,149
+Talvez eu merecesse.
+
+723
+01:10:07,770 --> 01:10:09,270
+Meu Deus.
+
+724
+01:10:10,232 --> 01:10:13,158
+-Não acredito!
+-Foi tudo o que recuperei.
+
+725
+01:10:13,159 --> 01:10:15,110
+Desculpe se não é
+o que prometi.
+
+726
+01:10:15,111 --> 01:10:17,661
+Não! Isso é ótimo,
+isso...
+
+727
+01:10:17,662 --> 01:10:20,989
+Não tenho que começar
+do zero agora, obrigada.
+
+728
+01:10:25,620 --> 01:10:27,133
+O que foi?
+
+729
+01:10:28,659 --> 01:10:30,394
+SHIELD,
+quem quer que sejam.
+
+730
+01:10:32,005 --> 01:10:36,368
+Farão de tudo para que essa
+pesquisa não seja publicada.
+
+731
+01:10:36,369 --> 01:10:38,117
+Não, Jane.
+
+732
+01:10:38,118 --> 01:10:40,620
+Escute, não pode desistir.
+
+733
+01:10:40,621 --> 01:10:42,526
+-Deve terminar o que começou.
+-Por quê?
+
+734
+01:10:42,527 --> 01:10:45,814
+Porque está certa.
+Olha só.
+
+735
+01:10:48,458 --> 01:10:51,696
+Seus ancestrais chamavam
+de magia, vocês de ciência.
+
+736
+01:10:51,697 --> 01:10:55,147
+De onde eu venho,
+são a mesma coisa.
+
+737
+01:11:09,036 --> 01:11:10,536
+O que é isso?
+
+738
+01:11:11,516 --> 01:11:14,890
+Meu pai me explicou
+desse jeito,
+
+739
+01:11:14,891 --> 01:11:19,332
+que seu mundo é
+um dos Nove Reinos do cosmo.
+
+740
+01:11:19,333 --> 01:11:24,278
+Ligados pelos galhos
+de Yggdrasil. A árvore do mundo.
+
+741
+01:11:24,279 --> 01:11:27,330
+Você a vê todos os dias
+sem perceber.
+
+742
+01:11:27,331 --> 01:11:30,050
+As imagens vistas pelo...
+Como chamam?
+
+743
+01:11:31,220 --> 01:11:33,596
+-Telescópio Ubble.
+-Hubble.
+
+744
+01:11:33,597 --> 01:11:35,097
+Telescópio Hubble.
+
+745
+01:11:38,364 --> 01:11:39,864
+Conta mais.
+
+746
+01:11:40,542 --> 01:11:45,067
+Os Nove Reinos:
+Midgard, que é a Terra.
+
+747
+01:11:45,068 --> 01:11:47,823
+Alfheim, Vanaheim.
+
+748
+01:11:48,743 --> 01:11:51,132
+Jotunheim e Asgard.
+
+749
+01:11:51,963 --> 01:11:53,757
+É daí que eu venho.
+
+750
+01:12:10,411 --> 01:12:11,911
+Obrigado, Jane.
+
+751
+01:12:15,466 --> 01:12:18,234
+Nosso caro amigo banido,
+Loki no trono,
+
+752
+01:12:18,235 --> 01:12:21,194
+Asgard quase em guerra,
+e você conseguiu consumir
+
+753
+01:12:21,195 --> 01:12:24,659
+4 javalis, 6 faisões,
+um castor,
+
+754
+01:12:24,660 --> 01:12:27,801
+e dois barris de cerveja.
+Que vergonha. Você não liga?
+
+755
+01:12:28,516 --> 01:12:30,788
+Não confunda meu apetite
+com apatia.
+
+756
+01:12:30,789 --> 01:12:33,765
+Parem! Vocês dois!
+Parem!
+
+757
+01:12:35,033 --> 01:12:37,461
+-Sabem o que temos que fazer.
+-Temos que ir.
+
+758
+01:12:39,900 --> 01:12:41,910
+Temos que achar Thor.
+
+759
+01:12:43,206 --> 01:12:46,297
+-É traição.
+-Foda-se a traição. É suicídio.
+
+760
+01:12:46,298 --> 01:12:48,350
+Thor faria o mesmo por nós.
+
+761
+01:12:49,512 --> 01:12:54,237
+Quietos! Heimdall
+pode estar observando.
+
+762
+01:12:59,187 --> 01:13:01,243
+Heimdall requer
+a vossa presença.
+
+763
+01:13:05,988 --> 01:13:07,554
+Estamos perdidos.
+
+764
+01:13:07,555 --> 01:13:11,223
+Vocês desafiariam
+os comandos de nosso rei Loki,
+
+765
+01:13:11,224 --> 01:13:13,973
+quebrariam seus juramentos
+feitos como guerreiros
+
+766
+01:13:13,974 --> 01:13:16,293
+e cometeriam traição
+para trazer Thor de volta?
+
+767
+01:13:16,294 --> 01:13:18,158
+-Sim.
+-Bom.
+
+768
+01:13:18,159 --> 01:13:19,614
+Você nos ajudará?
+
+769
+01:13:19,615 --> 01:13:24,052
+Jurei lealdade ao nosso rei,
+não posso abrir a ponte.
+
+770
+01:13:24,873 --> 01:13:27,983
+-Sujeito complicado, não?
+-O que faremos?
+
+771
+01:13:49,090 --> 01:13:50,708
+-O que foi isso?
+-Não sei, senhor.
+
+772
+01:13:50,709 --> 01:13:53,100
+Temos medições de energia
+que apareceram do nada.
+
+773
+01:13:53,101 --> 01:13:55,582
+-25km a noroeste.
+-Vamos dar uma olhada.
+
+774
+01:14:19,364 --> 01:14:21,581
+-Obrigada.
+-Obrigado.
+
+775
+01:14:21,582 --> 01:14:23,082
+Disponham.
+
+776
+01:14:29,927 --> 01:14:32,798
+<i>Detectamos atividades
+fora da cidade.
+
+777
+01:14:32,799 --> 01:14:34,299
+<i>Foquem nos seus alvos.
+
+778
+01:14:42,738 --> 01:14:45,189
+Certifique-se de que meu irmão
+não retornará.
+
+779
+01:14:48,580 --> 01:14:50,306
+Destrua tudo.
+
+780
+01:15:00,856 --> 01:15:02,356
+Mãe.
+
+781
+01:15:09,739 --> 01:15:12,801
+-Está tendo um desfile aqui?
+-Avise a base.
+
+782
+01:15:16,120 --> 01:15:19,638
+Base, temos aqui uma Xena,
+um Jackie Chan e um Robin Hood.
+
+783
+01:15:20,473 --> 01:15:22,051
+É uma bela teoria, Jane.
+
+784
+01:15:22,757 --> 01:15:26,306
+Mas não poderá convencer
+a comunidade científica assim.
+
+785
+01:15:26,307 --> 01:15:27,813
+Não sem evidências.
+
+786
+01:15:28,795 --> 01:15:30,295
+Achamos você!
+
+787
+01:15:35,813 --> 01:15:37,313
+Meus amigos!
+
+788
+01:15:38,509 --> 01:15:41,178
+Isso é bom.
+Isso é ótimo.
+
+789
+01:15:41,179 --> 01:15:43,516
+-Não acredito.
+-Desculpe.
+
+790
+01:15:43,517 --> 01:15:45,624
+Lady Siff
+e os três guerreiros.
+
+791
+01:15:47,530 --> 01:15:48,880
+Meus amigos.
+
+792
+01:15:48,881 --> 01:15:51,936
+Nunca fiquei tão feliz
+em ver alguém.
+
+793
+01:15:51,937 --> 01:15:53,502
+Mas não deviam
+ter vindo.
+
+794
+01:15:55,198 --> 01:15:57,032
+Estamos aqui para levá-lo
+para casa.
+
+795
+01:15:58,578 --> 01:16:00,281
+Sabem que não posso voltar.
+
+796
+01:16:01,428 --> 01:16:06,205
+Meu pai está morto
+por minha causa.
+
+797
+01:16:06,206 --> 01:16:08,641
+Devo ficar em exílio.
+
+798
+01:16:08,642 --> 01:16:12,200
+Thor, seu pai
+ainda vive.
+
+799
+01:16:26,381 --> 01:16:29,528
+Diga-me, Loki, como fez
+os Jotuns entrarem em Asgard.
+
+800
+01:16:29,529 --> 01:16:32,692
+Bifrost não é o único jeito
+de entrar em Asgard.
+
+801
+01:16:32,693 --> 01:16:35,254
+Há caminhos entre os mundos
+que nem mesmo você
+
+802
+01:16:35,255 --> 01:16:37,108
+ou seus dons
+conseguem ver.
+
+803
+01:16:37,109 --> 01:16:40,140
+Mas não preciso mais disso,
+agora que sou rei,
+
+804
+01:16:40,141 --> 01:16:44,748
+e pela traição, está dispensado
+da função de guardião.
+
+805
+01:16:44,749 --> 01:16:46,762
+E não é mais
+um cidadão de Asgard.
+
+806
+01:16:46,763 --> 01:16:49,332
+E não preciso mais
+obedecê-lo.
+
+807
+01:17:09,043 --> 01:17:11,200
+Traga alguém
+de linguística aqui.
+
+808
+01:17:32,452 --> 01:17:33,962
+Tem mais alguém vindo?
+
+809
+01:17:38,050 --> 01:17:40,739
+-É um dos robôs do Stark?
+-Não sei.
+
+810
+01:17:40,740 --> 01:17:42,740
+Ninguém nunca me conta nada.
+
+811
+01:17:46,578 --> 01:17:47,773
+Olá.
+
+812
+01:17:47,774 --> 01:17:50,575
+Está utilizando tecnologia
+não autorizada.
+
+813
+01:17:50,576 --> 01:17:52,076
+Identifique-se.
+
+814
+01:17:55,368 --> 01:17:56,868
+Aqui vamos nós.
+
+815
+01:17:59,642 --> 01:18:01,142
+Protejam-se!
+
+816
+01:18:08,089 --> 01:18:10,588
+-Jane, você tem que ir.
+-O que vai fazer?
+
+817
+01:18:10,589 --> 01:18:13,594
+-Ficarei aqui.
+-Thor lutará conosco.
+
+818
+01:18:13,595 --> 01:18:15,449
+Meus amigos.
+
+819
+01:18:15,450 --> 01:18:16,879
+Sou apenas um homem.
+
+820
+01:18:16,880 --> 01:18:19,244
+Não quero atrapalhar
+ou fazer com que morram.
+
+821
+01:18:19,245 --> 01:18:21,616
+Mas posso colocar
+essas pessoas em segurança.
+
+822
+01:18:21,617 --> 01:18:23,857
+Se vai ficar,
+também vou.
+
+823
+01:18:23,858 --> 01:18:26,042
+-Precisamos de tempo.
+-Vocês terão.
+
+824
+01:18:26,043 --> 01:18:28,618
+Certo. Mexam-se, pessoal.
+
+825
+01:18:28,619 --> 01:18:31,155
+Todos para fora.
+Usem a porta dos fundos.
+
+826
+01:18:31,156 --> 01:18:32,656
+Vão! Podem comer depois.
+
+827
+01:18:44,552 --> 01:18:46,531
+Mantenham ele distraído.
+
+828
+01:19:00,908 --> 01:19:02,711
+Por Asgard!
+
+829
+01:19:37,381 --> 01:19:38,881
+Volstagg!
+
+830
+01:19:53,717 --> 01:19:55,303
+Vão agora. Corram.
+
+831
+01:20:22,593 --> 01:20:24,986
+-Você fez tudo que podia...
+-Não.
+
+832
+01:20:24,987 --> 01:20:27,026
+Morrerei como um guerreiro.
+
+833
+01:20:27,027 --> 01:20:29,086
+Histórias serão contadas
+sobre este dia.
+
+834
+01:20:29,087 --> 01:20:31,725
+Viva e conte você mesma
+essas histórias.
+
+835
+01:20:34,359 --> 01:20:35,859
+Agora vá!
+
+836
+01:20:42,786 --> 01:20:46,141
+Vocês devem retornar a Asgard.
+Têm que deter o Loki.
+
+837
+01:20:46,142 --> 01:20:47,297
+E você?
+
+838
+01:20:47,298 --> 01:20:49,752
+Não se preocupem, meus amigos.
+Tenho um plano.
+
+839
+01:20:55,453 --> 01:20:57,625
+-Precisam se afastar.
+-Vamos.
+
+840
+01:21:06,273 --> 01:21:07,773
+Esperem.
+
+841
+01:21:14,732 --> 01:21:16,232
+O que ele está fazendo?
+
+842
+01:21:41,835 --> 01:21:45,238
+Irmão, o que quer que eu tenha
+feito de mal para você.
+
+843
+01:21:45,857 --> 01:21:48,840
+Seja lá o que fiz
+que o levou a fazer isso.
+
+844
+01:21:48,841 --> 01:21:51,222
+Realmente sinto muito.
+
+845
+01:21:51,223 --> 01:21:53,338
+Mas essas pessoas
+são inocentes.
+
+846
+01:21:54,617 --> 01:21:57,723
+Tirar a vida deles.
+Não fará diferença para você.
+
+847
+01:22:04,926 --> 01:22:06,437
+Então tire a minha.
+
+848
+01:22:07,157 --> 01:22:08,657
+E acabe com isso.
+
+849
+01:22:22,128 --> 01:22:23,628
+Não!
+
+850
+01:22:38,320 --> 01:22:39,788
+Acabou.
+
+851
+01:22:39,789 --> 01:22:42,636
+Não. Não acabou.
+
+852
+01:22:42,637 --> 01:22:46,209
+-Quero dizer, está segura.
+-Estou.
+
+853
+01:22:47,270 --> 01:22:48,931
+Terminou.
+
+854
+01:22:54,102 --> 01:22:55,602
+Não.
+
+855
+01:23:12,845 --> 01:23:14,345
+Não.
+
+856
+01:23:40,895 --> 01:23:42,495
+Quem segurar este martelo...
+
+857
+01:23:44,916 --> 01:23:46,616
+se for digno.
+
+858
+01:23:49,053 --> 01:23:51,065
+Possuirá o poder de Thor.
+
+859
+01:24:06,147 --> 01:24:07,647
+Jane!
+
+860
+01:24:09,624 --> 01:24:10,863
+Não. Não!
+
+861
+01:24:10,864 --> 01:24:13,048
+-Venha!
+-Não!
+
+862
+01:24:32,748 --> 01:24:35,302
+Meu Deus!
+
+863
+01:25:42,637 --> 01:25:44,494
+É assim que você
+é normalmente?
+
+864
+01:25:44,495 --> 01:25:48,607
+-Mais ou menos.
+-É um visual legal.
+
+865
+01:25:48,608 --> 01:25:52,014
+Temos que ir para a Bifrost.
+Conversarei com meu irmão.
+
+866
+01:25:52,015 --> 01:25:53,515
+Com licença.
+
+867
+01:25:56,482 --> 01:25:57,982
+Donald...
+
+868
+01:25:58,665 --> 01:26:01,936
+-Acho que não foi sincero.
+-Não precisa de hostilidade.
+
+869
+01:26:01,937 --> 01:26:04,493
+Lutamos pela mesma causa.
+Proteger esse mundo.
+
+870
+01:26:04,494 --> 01:26:07,016
+Desse dia em diante
+pode me contar como aliado.
+
+871
+01:26:07,017 --> 01:26:09,960
+Se devolver os itens
+que pegou da Jane.
+
+872
+01:26:09,961 --> 01:26:11,956
+-Roubou!
+-Peguei emprestado.
+
+873
+01:26:11,957 --> 01:26:14,104
+Claro que pode ter seu
+equipamento de volta.
+
+874
+01:26:14,105 --> 01:26:16,223
+Vai precisar para continuar
+sua pesquisa.
+
+875
+01:26:16,826 --> 01:26:18,803
+Gostaria de ver a ponte,
+da qual falei?
+
+876
+01:26:20,146 --> 01:26:21,646
+Claro.
+
+877
+01:26:23,218 --> 01:26:25,116
+Espere.
+Preciso falar com você.
+
+878
+01:26:31,886 --> 01:26:33,386
+Bem-vindo à Asgard.
+
+879
+01:26:57,707 --> 01:26:59,307
+Heimdall, abra a Bifrost.
+
+880
+01:27:07,133 --> 01:27:08,633
+Heimdall?
+
+881
+01:27:12,303 --> 01:27:13,803
+<i>Heimdall!
+
+882
+01:27:15,495 --> 01:27:19,045
+-Ele não está respondendo.
+-Então estamos presos.
+
+883
+01:27:19,046 --> 01:27:20,414
+Heimdall!
+
+884
+01:27:20,415 --> 01:27:22,427
+Se puder me ouvir,
+precisamos de você.
+
+885
+01:27:23,028 --> 01:27:25,254
+<i>Heimdall,
+precisamos de você agora!
+
+886
+01:27:31,460 --> 01:27:32,960
+Heimdall!
+
+887
+01:27:46,930 --> 01:27:49,623
+Devo voltar a Asgard,
+mas dou minha palavra.
+
+888
+01:27:50,953 --> 01:27:53,281
+Voltarei por você.
+
+889
+01:28:00,538 --> 01:28:02,038
+Combinado?
+
+890
+01:28:15,040 --> 01:28:16,540
+Combinado.
+
+891
+01:28:31,992 --> 01:28:33,492
+Levem-no à sala de cura.
+
+892
+01:28:35,391 --> 01:28:36,891
+Deixem meu irmão comigo.
+
+893
+01:29:00,675 --> 01:29:06,106
+Dizem que ainda consegue ouvir
+e ver o que transparece
+
+894
+01:29:06,107 --> 01:29:07,607
+ao seu redor.
+
+895
+01:29:08,133 --> 01:29:10,588
+Espero que seja verdade.
+
+896
+01:29:11,972 --> 01:29:13,730
+Assim, saberá...
+
+897
+01:29:14,780 --> 01:29:18,654
+que sua morte
+veio pelas mãos...
+
+898
+01:29:19,806 --> 01:29:21,306
+de Laufey.
+
+899
+01:29:29,486 --> 01:29:31,971
+E a sua morte veio
+pelo Filho de Odin.
+
+900
+01:29:37,629 --> 01:29:40,341
+Loki. Salvou seu pai.
+
+901
+01:29:44,785 --> 01:29:49,693
+Eu juro, mãe, que eles pagarão
+pelo que fizeram hoje.
+
+902
+01:29:49,694 --> 01:29:52,228
+-Loki.
+-Thor!
+
+903
+01:29:53,294 --> 01:29:54,985
+Sabia que voltaria.
+
+904
+01:30:00,831 --> 01:30:03,584
+Por que não conta para ela
+como mandou o Destruidor
+
+905
+01:30:03,585 --> 01:30:05,550
+matar nossos amigos
+e me matar?
+
+906
+01:30:05,551 --> 01:30:06,851
+O quê?
+
+907
+01:30:06,852 --> 01:30:09,300
+Só estava aplicando
+o último comando do pai.
+
+908
+01:30:09,301 --> 01:30:12,568
+Mente muito bem, irmão.
+Sempre mentiu.
+
+909
+01:30:12,569 --> 01:30:15,502
+É bom tê-lo de volta.
+Agora, se me dá licença,
+
+910
+01:30:15,503 --> 01:30:17,091
+tenho que destruir Jotunheim.
+
+911
+01:30:57,452 --> 01:31:02,027
+Não pode impedir. A Bifrost vai
+aumentar até destruir Jotunheim.
+
+912
+01:31:23,035 --> 01:31:24,535
+Jane?
+
+913
+01:31:26,125 --> 01:31:27,808
+Por que fez isso?
+
+914
+01:31:27,809 --> 01:31:30,680
+Para provar ao pai
+que sou um filho digno.
+
+915
+01:31:31,404 --> 01:31:34,323
+Quando ele acordar,
+eu terei salvado sua vida,
+
+916
+01:31:34,324 --> 01:31:36,964
+destruído aquela raça
+de monstros,
+
+917
+01:31:36,965 --> 01:31:39,203
+e serei o verdadeiro herdeiro
+do trono.
+
+918
+01:31:39,204 --> 01:31:42,073
+-Não pode matar toda uma raça.
+-Por que não?
+
+919
+01:31:45,408 --> 01:31:48,514
+E de onde surgiu esse amor
+pelos Gigantes de Gelo?
+
+920
+01:31:49,230 --> 01:31:52,680
+Você, que os teria matado
+com as próprias mãos.
+
+921
+01:31:52,681 --> 01:31:54,585
+-Eu mudei.
+-Eu também.
+
+922
+01:31:56,459 --> 01:31:57,959
+Agora, lute comigo.
+
+923
+01:32:00,677 --> 01:32:02,342
+Eu nunca quis o trono!
+
+924
+01:32:03,733 --> 01:32:06,306
+Só quis ser seu semelhante.
+
+925
+01:32:06,307 --> 01:32:11,666
+-Não lutarei com você, irmão!
+-Não sou seu irmão. Nunca fui.
+
+926
+01:32:11,667 --> 01:32:14,552
+-Loki, isso é loucura!
+-É loucura?
+
+927
+01:32:15,987 --> 01:32:17,487
+É?
+
+928
+01:32:18,578 --> 01:32:20,078
+É?
+
+929
+01:32:20,754 --> 01:32:24,111
+O que aconteceu na Terra
+que o deixou tão mole?
+
+930
+01:32:25,015 --> 01:32:26,866
+Não me diga
+que foi aquela mulher.
+
+931
+01:32:28,062 --> 01:32:33,512
+Foi ela. Então, talvez,
+quando acabarmos aqui,
+
+932
+01:32:33,513 --> 01:32:35,515
+eu mesmo a faça uma visita!
+
+933
+01:33:15,417 --> 01:33:16,917
+Thor!
+
+934
+01:33:23,806 --> 01:33:25,306
+Irmão, por favor.
+
+935
+01:33:36,150 --> 01:33:37,650
+Basta!
+
+936
+01:34:19,648 --> 01:34:21,148
+Olhe para você.
+
+937
+01:34:23,114 --> 01:34:24,614
+O poderoso Thor.
+
+938
+01:34:27,227 --> 01:34:29,122
+Com toda sua força.
+
+939
+01:34:30,316 --> 01:34:32,626
+E de que isso adianta agora?
+
+940
+01:34:33,988 --> 01:34:37,242
+Está me ouvindo, irmão?
+Não há nada que possa fazer!
+
+941
+01:34:54,772 --> 01:34:56,272
+O que está fazendo?
+
+942
+01:34:57,571 --> 01:35:00,698
+Se destruir a ponte,
+nunca a verá novamente!
+
+943
+01:35:10,107 --> 01:35:11,607
+Perdoe-me, Jane.
+
+944
+01:35:48,581 --> 01:35:50,126
+Eu podia ter feito, pai.
+
+945
+01:35:51,537 --> 01:35:54,642
+Eu podia ter feito!
+Por você!
+
+946
+01:35:55,705 --> 01:35:57,205
+Por todos nós.
+
+947
+01:35:59,051 --> 01:36:00,551
+Não, Loki.
+
+948
+01:36:08,794 --> 01:36:10,294
+Loki, não.
+
+949
+01:36:10,816 --> 01:36:13,383
+Não!
+
+950
+01:36:17,111 --> 01:36:18,611
+Não.
+
+951
+01:36:33,679 --> 01:36:35,179
+Sumiu.
+
+952
+01:37:44,683 --> 01:37:50,175
+Então, com um forte grito,
+eu voei contra a criatura...
+
+953
+01:38:14,799 --> 01:38:17,087
+Minha rainha,
+sinto muito por sua perda.
+
+954
+01:38:22,937 --> 01:38:24,437
+<i>Como ele está?
+
+955
+01:38:26,503 --> 01:38:28,152
+<i>Em luto pelo irmão.
+
+956
+01:38:29,827 --> 01:38:31,327
+<i>E...
+
+957
+01:38:32,105 --> 01:38:33,605
+<i>com saudades dela.
+
+958
+01:38:34,435 --> 01:38:35,935
+<i>Da mortal.
+
+959
+01:38:51,496 --> 01:38:53,222
+Você será um rei sábio.
+
+960
+01:38:57,191 --> 01:38:59,642
+Nunca haverá um rei
+mais sábio que o senhor.
+
+961
+01:39:01,038 --> 01:39:02,670
+Nem um pai melhor.
+
+962
+01:39:13,267 --> 01:39:16,396
+Tenho muito a aprender.
+
+963
+01:39:18,090 --> 01:39:19,590
+Sei disso agora.
+
+964
+01:39:24,444 --> 01:39:28,902
+Algum dia, talvez,
+eu o deixe orgulhoso.
+
+965
+01:39:36,693 --> 01:39:38,364
+Você já me deixou orgulhoso.
+
+966
+01:39:52,421 --> 01:39:54,372
+Então, perdemos contato
+com a Terra.
+
+967
+01:39:55,811 --> 01:39:59,193
+Não. Sempre há esperança.
+
+968
+01:40:03,511 --> 01:40:05,011
+Consegue vê-la?
+
+969
+01:40:07,770 --> 01:40:09,270
+Sim.
+
+970
+01:40:12,700 --> 01:40:14,550
+Tenho o detector de partículas.
+
+971
+01:40:14,551 --> 01:40:16,699
+Darcy, está com os códigos
+da SHIELD?
+
+972
+01:40:16,700 --> 01:40:18,770
+Sim. Viu meu taser por aí?
+
+973
+01:40:18,771 --> 01:40:20,071
+<i>Como ela está?
+
+974
+01:40:20,072 --> 01:40:24,146
+-Está no carro. Vamos, Jane!
+<i>-Está procurando por você.
+
+975
+01:42:38,609 --> 01:42:40,141
+Dr. Selvig.
+
+976
+01:42:43,287 --> 01:42:45,688
+Então é você quem está
+por trás disto tudo?
+
+977
+01:42:47,706 --> 01:42:49,306
+É um belo laboratório.
+
+978
+01:42:50,436 --> 01:42:53,763
+Achei que tivesse me trazido
+até aqui para me matar.
+
+979
+01:43:00,686 --> 01:43:03,477
+Ouvi sobre a situação
+em Novo México.
+
+980
+01:43:04,565 --> 01:43:06,826
+Seu trabalho impressionou
+muitas pessoas
+
+981
+01:43:06,827 --> 01:43:08,575
+mais inteligentes do que eu.
+
+982
+01:43:08,576 --> 01:43:10,883
+Ainda tenho muito trabalho.
+
+983
+01:43:10,884 --> 01:43:14,584
+Várias teorias, um portão
+para outra dimensão...
+
+984
+01:43:14,585 --> 01:43:16,183
+Ainda não faz sentido.
+
+985
+01:43:18,130 --> 01:43:19,630
+Não é?
+
+986
+01:43:22,266 --> 01:43:25,994
+A lenda nos conta uma coisa.
+História, outra.
+
+987
+01:43:25,995 --> 01:43:29,820
+Mas de vez em quando encontramos
+algo que pertence a ambos.
+
+988
+01:43:37,476 --> 01:43:40,037
+-O que é isso?
+-Poder, doutor.
+
+989
+01:43:40,038 --> 01:43:44,214
+Se conseguimos abri-lo,
+talvez seja poder ilimitado.
+
+990
+01:43:49,772 --> 01:43:51,988
+Acho que vale a pena
+dar uma olhada.
+
+991
+01:43:53,487 --> 01:43:55,538
+Acho que vale a pena
+dar uma olhada.
+
+992
+01:43:56,535 --> 01:44:00,367
+@GeekSub
+www.geeksub.com
+
+
+
+9999
+00:00:0,500 --> 00:00:2,00
+<font color="#ffff00" size=14>www.moviesubtitles.org</font>
